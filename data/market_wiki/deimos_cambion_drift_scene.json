@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5f4ed3f2d5c36d0086f55aff",
+  "slug": "deimos_cambion_drift_scene",
+  "market_slug": "deimos_cambion_drift_scene",
+  "name_en": "Deimos Cambion Drift Scene",
+  "name_en_slug": "deimos_cambion_drift_scene",
+  "name_kr": "데이모스 캠비온 퇴적지 배경",
+  "aliases": [
+    "Deimos Cambion Drift Scene",
+    "deimos cambion drift scene",
+    "deimos_cambion_drift_scene",
+    "데이모스 캠비온 퇴적지 배경"
+  ],
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/MiscItems/PhotoboothTileDeimosLandscape",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/deimos_cambion_drift_scene.52f01e72621a0ad5034e4261a513e2dd.png",
+  "thumb": "items/images/en/thumbs/deimos_cambion_drift_scene.52f01e72621a0ad5034e4261a513e2dd.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

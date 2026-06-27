@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "64c2aa1466456704eba6ba2d",
+  "slug": "wisp_prime_chassis_blueprint",
+  "market_slug": "wisp_prime_chassis_blueprint",
+  "name_en": "Wisp Prime Chassis Blueprint",
+  "name_en_slug": "wisp_prime_chassis_blueprint",
+  "name_kr": "위습 프라임 섀시 설계도",
+  "aliases": [
+    "Wisp Prime Chassis",
+    "Wisp Prime Chassis Blueprint",
+    "wisp prime chassis blueprint",
+    "wisp_prime_chassis_blueprint",
+    "위습 프라임 섀시",
+    "위습 프라임 섀시 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/WispPrimeChassisBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/wisp_prime_chassis_blueprint.609bc4e8676a77247cc126ca150cb132.png",
+  "thumb": "items/images/en/thumbs/wisp_prime_chassis_blueprint.609bc4e8676a77247cc126ca150cb132.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

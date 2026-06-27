@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5f498a269426ed00443bd0d7",
+  "slug": "purged_dagonic",
+  "market_slug": "purged_dagonic",
+  "name_en": "Purged Dagonic",
+  "name_en_slug": "purged_dagonic",
+  "name_kr": "퍼지드 다고닉",
+  "aliases": [
+    "Purged Dagonic",
+    "purged dagonic",
+    "purged_dagonic",
+    "퍼지드 다고닉"
+  ],
+  "tags": [
+    "gem"
+  ],
+  "game_ref": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonGemBCutItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/purged_dagonic.1c0e451cdc247aad586725125e8161e0.png",
+  "thumb": "items/images/en/thumbs/purged_dagonic.1c0e451cdc247aad586725125e8161e0.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

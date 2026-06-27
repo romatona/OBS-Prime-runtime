@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5f4ed3f7d5c36d0086f55b06",
+  "slug": "corpus_depository_scene",
+  "market_slug": "corpus_depository_scene",
+  "name_en": "Corpus Depository Scene",
+  "name_en_slug": "corpus_depository_scene",
+  "name_kr": "코퍼스 보관소 배경",
+  "aliases": [
+    "Corpus Depository Scene",
+    "corpus depository scene",
+    "corpus_depository_scene",
+    "코퍼스 보관소 배경"
+  ],
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/MiscItems/PhotoboothTileCorpusShipLargeCargo",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/corpus_depository_scene.5f7f39f403fd6bd2145173613c837ffe.png",
+  "thumb": "items/images/en/thumbs/corpus_depository_scene.5f7f39f403fd6bd2145173613c837ffe.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

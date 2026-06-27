@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "626a197cf40db600660a1d8c",
+  "slug": "range_advantage",
+  "market_slug": "range_advantage",
+  "name_en": "Range Advantage",
+  "name_en_slug": "range_advantage",
+  "name_kr": "레인지 어드밴티지",
+  "aliases": [
+    "Range Advantage",
+    "range advantage",
+    "range_advantage",
+    "레인지 어드밴티지"
+  ],
+  "tags": [
+    "akjagara",
+    "mod",
+    "rare",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/Event/Nightwave/NightwaveAkjagaraAugmentMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/range_advantage.e36eff9c43daa410b7874fdda2870e53.png",
+  "thumb": "items/images/en/thumbs/range_advantage.e36eff9c43daa410b7874fdda2870e53.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5d8f65b37ea27b0968b6e57a",
+  "slug": "pathocyst_subcortex",
+  "market_slug": "pathocyst_subcortex",
+  "name_en": "Pathocyst Subcortex",
+  "name_en_slug": "pathocyst_subcortex",
+  "name_kr": "패소시스트 서브코텍스",
+  "aliases": [
+    "Pathocyst Subcortex",
+    "pathocyst subcortex",
+    "pathocyst_subcortex",
+    "패소시스트 서브코텍스"
+  ],
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/InfBoomerangDisc",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/pathocyst_subcortex.f423b7a6a78d2e4780c1007f0f0fb464.png",
+  "thumb": "items/images/en/thumbs/pathocyst_subcortex.f423b7a6a78d2e4780c1007f0f0fb464.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

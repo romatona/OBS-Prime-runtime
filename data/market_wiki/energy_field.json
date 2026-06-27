@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "57839086d9b6753790c89e7e",
+  "slug": "energy_field",
+  "market_slug": "energy_field",
+  "name_en": "Energy Field",
+  "name_en_slug": "energy_field",
+  "name_kr": "에너지 필드",
+  "aliases": [
+    "Energy Field",
+    "energy field",
+    "energy_field",
+    "에너지 필드"
+  ],
+  "tags": [
+    "archwing",
+    "augment",
+    "mod",
+    "odonata",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Powersuits/Archwing/StandardJetPack/FireShieldAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/energy_field.62ae23c80ca40b5acbb9a7087a8cb5ba.png",
+  "thumb": "items/images/en/thumbs/energy_field.62ae23c80ca40b5acbb9a7087a8cb5ba.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

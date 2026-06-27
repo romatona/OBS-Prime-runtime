@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56a7b2941133f656cb085d90",
+  "slug": "spring_loaded_chamber",
+  "market_slug": "spring_loaded_chamber",
+  "name_en": "Spring-Loaded Chamber",
+  "name_en_slug": "spring_loaded_chamber",
+  "name_kr": "스프링-로디드 체임버",
+  "aliases": [
+    "Spring-Loaded Chamber",
+    "spring loaded chamber",
+    "spring_loaded_chamber",
+    "스프링-로디드 체임버"
+  ],
+  "tags": [
+    "assault_rifle",
+    "mod",
+    "primary",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/Event/FireRateWhileAimingRifleMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/spring_loaded_chamber.74d90753e47acd3407facd4b708849d4.png",
+  "thumb": "items/images/en/thumbs/spring_loaded_chamber.74d90753e47acd3407facd4b708849d4.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

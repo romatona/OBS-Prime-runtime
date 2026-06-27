@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e5155bb",
+  "slug": "toxic_blight",
+  "market_slug": "toxic_blight",
+  "name_en": "Toxic Blight",
+  "name_en_slug": "toxic_blight",
+  "name_kr": "톡식 블라이트",
+  "aliases": [
+    "Toxic Blight",
+    "toxic blight",
+    "toxic_blight",
+    "톡식 블라이트"
+  ],
+  "tags": [
+    "melee",
+    "mire",
+    "mod",
+    "rare",
+    "syndicate"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Syndicate/MireMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/toxic_blight.2d55757c9dcf2a97b13302a7d7ae42b4.png",
+  "thumb": "items/images/en/thumbs/toxic_blight.2d55757c9dcf2a97b13302a7d7ae42b4.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

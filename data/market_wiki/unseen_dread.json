@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "66f6d46b3a826eccf651c370",
+  "slug": "unseen_dread",
+  "market_slug": "unseen_dread",
+  "name_en": "Unseen Dread",
+  "name_en_slug": "unseen_dread",
+  "name_kr": "언신 드레드",
+  "aliases": [
+    "Unseen Dread",
+    "unseen dread",
+    "unseen_dread",
+    "언신 드레드"
+  ],
+  "tags": [
+    "dread",
+    "mod",
+    "primary",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Bows/Event/Nightwave/NightwaveStalkerBowAugmentMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/unseen_dread.dffb4a978f2528bb4d247b9b8899d7a0.webp",
+  "thumb": "items/images/en/thumbs/unseen_dread.dffb4a978f2528bb4d247b9b8899d7a0.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

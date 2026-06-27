@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515658",
+  "slug": "shock_trooper",
+  "market_slug": "shock_trooper",
+  "name_en": "Shock Trooper",
+  "name_en_slug": "shock_trooper",
+  "name_kr": "쇼크 트루퍼",
+  "aliases": [
+    "Shock Trooper",
+    "shock trooper",
+    "shock_trooper",
+    "쇼크 트루퍼"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "rare",
+    "volt",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Volt/ShockAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/shock_trooper.c7ff5b51ab859ff72643c66b6349af52.png",
+  "thumb": "items/images/en/thumbs/shock_trooper.c7ff5b51ab859ff72643c66b6349af52.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

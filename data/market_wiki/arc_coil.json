@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5615432bb66f8371035bfa25",
+  "slug": "arc_coil",
+  "market_slug": "arc_coil",
+  "name_en": "Arc Coil",
+  "name_en_slug": "arc_coil",
+  "name_kr": "아크 코일",
+  "aliases": [
+    "Arc Coil",
+    "arc coil",
+    "arc_coil",
+    "아크 코일"
+  ],
+  "tags": [
+    "common",
+    "diriga",
+    "mod",
+    "sentinel"
+  ],
+  "game_ref": "/Lotus/Types/Sentinels/SentinelPrecepts/ArcTrap",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/arc_coil.0df8ece91fb4defa7ce30c1990cbe862.png",
+  "thumb": "items/images/en/thumbs/arc_coil.0df8ece91fb4defa7ce30c1990cbe862.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

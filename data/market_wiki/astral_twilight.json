@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54c688a2e77989145e6d0aa0",
+  "slug": "astral_twilight",
+  "market_slug": "astral_twilight",
+  "name_en": "Astral Twilight",
+  "name_en_slug": "astral_twilight",
+  "name_kr": "아스트랄 트와일라잇",
+  "aliases": [
+    "Astral Twilight",
+    "astral twilight",
+    "astral_twilight",
+    "아스트랄 트와일라잇"
+  ],
+  "tags": [
+    "glaives",
+    "mod",
+    "rare",
+    "stance"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/GlaiveCmbTwoMeleeTree",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/astral_twilight.0e11466aa6264c5f2886a5de6a921772.png",
+  "thumb": "items/images/en/thumbs/astral_twilight.0e11466aa6264c5f2886a5de6a921772.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

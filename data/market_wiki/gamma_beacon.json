@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "598b06b4ab6b61be6fec0fb3",
+  "slug": "gamma_beacon",
+  "market_slug": "gamma_beacon",
+  "name_en": "Gamma Beacon",
+  "name_en_slug": "gamma_beacon",
+  "name_kr": "감마 비컨",
+  "aliases": [
+    "Gamma Beacon",
+    "gamma beacon",
+    "gamma_beacon",
+    "감마 비컨"
+  ],
+  "tags": [
+    "misc"
+  ],
+  "game_ref": "/Lotus/Types/Items/MiscItems/VayHekCoordinateFragmentB",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/gamma_beacon.a5eb62c1015b306fdb907b61ff8aab52.png",
+  "thumb": "items/images/en/thumbs/gamma_beacon.a5eb62c1015b306fdb907b61ff8aab52.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

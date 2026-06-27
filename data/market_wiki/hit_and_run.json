@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5dbe9b137ea27b0ffe3ca286",
+  "slug": "hit_and_run",
+  "market_slug": "hit_and_run",
+  "name_en": "Hit And Run",
+  "name_en_slug": "hit_and_run",
+  "name_kr": "힛 앤 런",
+  "aliases": [
+    "Hit And Run",
+    "hit and run",
+    "hit_and_run",
+    "힛 앤 런"
+  ],
+  "tags": [
+    "mod",
+    "parazon",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/DataSpike/Assassin/OnExecutionParkourSpeedMod",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/hit_and_run.e2be3690811e9176663c0bf99c875abd.png",
+  "thumb": "items/images/en/thumbs/hit_and_run.e2be3690811e9176663c0bf99c875abd.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

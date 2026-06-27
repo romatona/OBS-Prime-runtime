@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5f498a229426ed00443bd0ae",
+  "slug": "crescent_devolution",
+  "market_slug": "crescent_devolution",
+  "name_en": "Crescent Devolution",
+  "name_en_slug": "crescent_devolution",
+  "name_kr": "크레센트 디볼루션",
+  "aliases": [
+    "Crescent Devolution",
+    "crescent devolution",
+    "crescent_devolution",
+    "크레센트 디볼루션"
+  ],
+  "tags": [
+    "crescent_vulpaphyla",
+    "kavat",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/HornedInfestedCatbrowRespawn",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/crescent_devolution.7815e5bb44be625ef6e9fd787408045b.png",
+  "thumb": "items/images/en/thumbs/crescent_devolution.7815e5bb44be625ef6e9fd787408045b.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

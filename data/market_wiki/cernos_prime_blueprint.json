@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "583580d52c2ada003badef85",
+  "slug": "cernos_prime_blueprint",
+  "market_slug": "cernos_prime_blueprint",
+  "name_en": "Cernos Prime Blueprint",
+  "name_en_slug": "cernos_prime_blueprint",
+  "name_kr": "세르노스 프라임 설계도",
+  "aliases": [
+    "Cernos Prime",
+    "Cernos Prime Blueprint",
+    "cernos prime blueprint",
+    "cernos_prime_blueprint",
+    "세르노스 프라임",
+    "세르노스 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "primary",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/PrimeCernosBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/cernos_prime_blueprint.b3ac02e80ee17cc0756348f1d04b69cc.png",
+  "thumb": "items/images/en/thumbs/cernos_prime_blueprint.b3ac02e80ee17cc0756348f1d04b69cc.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

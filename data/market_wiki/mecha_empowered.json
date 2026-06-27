@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5be4b0a53ffcc703294e76b3",
+  "slug": "mecha_empowered",
+  "market_slug": "mecha_empowered",
+  "name_en": "Mecha Empowered",
+  "name_en_slug": "mecha_empowered",
+  "name_kr": "메카 임파워드",
+  "aliases": [
+    "Mecha Empowered",
+    "mecha empowered",
+    "mecha_empowered",
+    "메카 임파워드"
+  ],
+  "tags": [
+    "aura",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sets/Mecha/WarframeAuraMechaEmpowerMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/mecha_empowered.0056d02d3591f962eb93a4e0e3c26959.png",
+  "thumb": "items/images/en/thumbs/mecha_empowered.0056d02d3591f962eb93a4e0e3c26959.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

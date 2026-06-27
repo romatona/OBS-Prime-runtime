@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6242037766a58f0108c3d48f",
+  "slug": "nagantaka_prime_barrel",
+  "market_slug": "nagantaka_prime_barrel",
+  "name_en": "Nagantaka Prime Barrel",
+  "name_en_slug": "nagantaka_prime_barrel",
+  "name_kr": "나간타카 프라임 배럴",
+  "aliases": [
+    "Nagantaka Prime Barrel",
+    "nagantaka prime barrel",
+    "nagantaka_prime_barrel",
+    "나간타카 프라임 배럴"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/NagantakaPrimeBarrel",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/nagantaka_prime_barrel.f1af5a1cf53058c86df2c4969f37ea27.png",
+  "thumb": "items/images/en/thumbs/nagantaka_prime_barrel.f1af5a1cf53058c86df2c4969f37ea27.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

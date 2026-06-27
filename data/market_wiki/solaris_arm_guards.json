@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60e70f7e479445008f272592",
+  "slug": "solaris_arm_guards",
+  "market_slug": "solaris_arm_guards",
+  "name_en": "Solaris Arm Guards",
+  "name_en_slug": "solaris_arm_guards",
+  "name_kr": "솔라리스 암 가드",
+  "aliases": [
+    "Solaris Arm Guards",
+    "solaris arm guards",
+    "solaris_arm_guards",
+    "솔라리스 암 가드"
+  ],
+  "tags": [
+    "skin"
+  ],
+  "game_ref": "/Lotus/Upgrades/Skins/Armor/SolarisUnitedArmor/SolarisUnitedAArmor",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/solaris_arm_guards.3bfe209e892067b37b8870c742867b14.png",
+  "thumb": "items/images/en/thumbs/solaris_arm_guards.3bfe209e892067b37b8870c742867b14.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

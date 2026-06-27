@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "573b80590ec44a47787a6918",
+  "slug": "akstiletto_prime_link",
+  "market_slug": "akstiletto_prime_link",
+  "name_en": "Akstiletto Prime Link",
+  "name_en_slug": "akstiletto_prime_link",
+  "name_kr": "아크스틸레토 프라임 링크",
+  "aliases": [
+    "Akstiletto Prime Link",
+    "akstiletto prime link",
+    "akstiletto_prime_link",
+    "아크스틸레토 프라임 링크"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/AkstilettoPrimeLink",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/akstiletto_prime_link.a88c0a1e43ba462af7cc44efd01a7044.png",
+  "thumb": "items/images/en/thumbs/akstiletto_prime_link.a88c0a1e43ba462af7cc44efd01a7044.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

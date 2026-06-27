@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a509",
+  "slug": "feathered_arrows",
+  "market_slug": "feathered_arrows",
+  "name_en": "Feathered Arrows",
+  "name_en_slug": "feathered_arrows",
+  "name_kr": "페더드 에로우",
+  "aliases": [
+    "Feathered Arrows",
+    "feathered arrows",
+    "feathered_arrows",
+    "페더드 에로우"
+  ],
+  "tags": [
+    "bow",
+    "mod",
+    "primary",
+    "pvp",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Rifle/HigherVelocityLessDamageBowMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/feathered_arrows.c024ea4e02bfe81e74a987d71e60c886.png",
+  "thumb": "items/images/en/thumbs/feathered_arrows.c024ea4e02bfe81e74a987d71e60c886.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

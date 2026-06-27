@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5be5f5a23ffcc7038857f11d",
+  "slug": "shock_collar",
+  "market_slug": "shock_collar",
+  "name_en": "Shock Collar",
+  "name_en_slug": "shock_collar",
+  "name_kr": "쇼크 칼라",
+  "aliases": [
+    "Shock Collar",
+    "shock collar",
+    "shock_collar",
+    "쇼크 칼라"
+  ],
+  "tags": [
+    "claws",
+    "melee",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/DualStat/KubrowElectEventMeleeMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/shock_collar.a434f653cdec1d961e045ac057b5ac16.png",
+  "thumb": "items/images/en/thumbs/shock_collar.a434f653cdec1d961e045ac057b5ac16.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

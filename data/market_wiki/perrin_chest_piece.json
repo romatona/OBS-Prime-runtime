@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60e70f7c479445008f272588",
+  "slug": "perrin_chest_piece",
+  "market_slug": "perrin_chest_piece",
+  "name_en": "Perrin Chest Piece",
+  "name_en_slug": "perrin_chest_piece",
+  "name_kr": "페린 체스트 피스",
+  "aliases": [
+    "Perrin Chest Piece",
+    "perrin chest piece",
+    "perrin_chest_piece",
+    "페린 체스트 피스"
+  ],
+  "tags": [
+    "skin"
+  ],
+  "game_ref": "/Lotus/Upgrades/Skins/Armor/PerrinSequenceArmor/PerrinSequenceArmorC",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/perrin_chest_piece.5b1c0b4eb019648f9c930714f94ca496.png",
+  "thumb": "items/images/en/thumbs/perrin_chest_piece.5b1c0b4eb019648f9c930714f94ca496.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

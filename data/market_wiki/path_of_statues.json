@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "57c20990022d3f62c0d81aa9",
+  "slug": "path_of_statues",
+  "market_slug": "path_of_statues",
+  "name_en": "Path Of Statues",
+  "name_en_slug": "path_of_statues",
+  "name_kr": "패스 오브 스태츄",
+  "aliases": [
+    "Path Of Statues",
+    "path of statues",
+    "path_of_statues",
+    "패스 오브 스태츄"
+  ],
+  "tags": [
+    "atlas",
+    "augment",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Brawler/BrawlerPunchAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/path_of_statues.56d82cf8e4dad50d1fe7dc748f03df1d.png",
+  "thumb": "items/images/en/thumbs/path_of_statues.56d82cf8e4dad50d1fe7dc748f03df1d.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5615432bb66f8371035bfa2b",
+  "slug": "defiled_reckoning",
+  "market_slug": "defiled_reckoning",
+  "name_en": "Defiled Reckoning",
+  "name_en_slug": "defiled_reckoning",
+  "name_kr": "디파일드 레코닝",
+  "aliases": [
+    "Defiled Reckoning",
+    "defiled reckoning",
+    "defiled_reckoning",
+    "디파일드 레코닝"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "oberon",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Paladin/ReckoningPvPAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/defiled_reckoning.a2814ddc291d021dc6e3ea9d9c88e92b.png",
+  "thumb": "items/images/en/thumbs/defiled_reckoning.a2814ddc291d021dc6e3ea9d9c88e92b.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

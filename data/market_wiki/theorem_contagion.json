@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5fb84769c34da3004797d554",
+  "slug": "theorem_contagion",
+  "market_slug": "theorem_contagion",
+  "name_en": "Theorem Contagion",
+  "name_en_slug": "theorem_contagion",
+  "name_kr": "시오럼 컨테이젼",
+  "aliases": [
+    "Theorem Contagion",
+    "theorem contagion",
+    "theorem_contagion",
+    "시오럼 컨테이젼"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/OrbsOnResidualContact",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/theorem_contagion.6c5d76f8b64896bd889ae8154e04d50f.png",
+  "thumb": "items/images/en/thumbs/theorem_contagion.6c5d76f8b64896bd889ae8154e04d50f.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

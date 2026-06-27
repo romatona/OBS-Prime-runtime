@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a4fc",
+  "slug": "sword_alone",
+  "market_slug": "sword_alone",
+  "name_en": "Sword Alone",
+  "name_en_slug": "sword_alone",
+  "name_kr": "소드 얼론",
+  "aliases": [
+    "Sword Alone",
+    "sword alone",
+    "sword_alone",
+    "소드 얼론"
+  ],
+  "tags": [
+    "melee",
+    "mod",
+    "pvp",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Melee/IncreasedMobilityEquipped",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/sword_alone.1c6ec66a54c742480eb3bee11e56ea72.png",
+  "thumb": "items/images/en/thumbs/sword_alone.1c6ec66a54c742480eb3bee11e56ea72.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

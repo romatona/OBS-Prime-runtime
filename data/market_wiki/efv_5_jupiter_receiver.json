@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "67e8c92acedcd0be6d135951",
+  "slug": "efv_5_jupiter_receiver",
+  "market_slug": "efv_5_jupiter_receiver",
+  "name_en": "EFV-5 Jupiter Receiver",
+  "name_en_slug": "efv_5_jupiter_receiver",
+  "name_kr": "EFV-5 주피터 리시버",
+  "aliases": [
+    "EFV-5 Jupiter Receiver",
+    "EFV-5 주피터 리시버",
+    "efv 5 jupiter receiver",
+    "efv_5_jupiter_receiver"
+  ],
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasGooAKPlayerWeaponReceiver",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/efv_5_jupiter_receiver.c69153cce49d7d087e5b2268b3d37ac3.webp",
+  "thumb": "items/images/en/thumbs/efv_5_jupiter_receiver.c69153cce49d7d087e5b2268b3d37ac3.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

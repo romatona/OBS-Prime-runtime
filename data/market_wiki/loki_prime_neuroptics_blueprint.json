@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a73e65e779893a797fff70",
+  "slug": "loki_prime_neuroptics_blueprint",
+  "market_slug": "loki_prime_neuroptics_blueprint",
+  "name_en": "Loki Prime Neuroptics Blueprint",
+  "name_en_slug": "loki_prime_neuroptics_blueprint",
+  "name_kr": "로키 프라임 뉴로옵틱스 설계도",
+  "aliases": [
+    "Loki Prime Neuroptics",
+    "Loki Prime Neuroptics Blueprint",
+    "loki prime neuroptics blueprint",
+    "loki_prime_neuroptics_blueprint",
+    "로키 프라임 뉴로옵틱스",
+    "로키 프라임 뉴로옵틱스 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/LokiPrimeHelmetBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/loki_prime_neuroptics.abc05c280f92196bcb688643873fbf95.png",
+  "thumb": "items/images/en/thumbs/loki_prime_neuroptics.abc05c280f92196bcb688643873fbf95.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

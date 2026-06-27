@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "61bb64fc3132ff00482b5fbe",
+  "slug": "amars_anguish",
+  "market_slug": "amars_anguish",
+  "name_en": "Amar's Anguish",
+  "name_en_slug": "amars_anguish",
+  "name_kr": "아마르 앵귀시",
+  "aliases": [
+    "Amar's Anguish",
+    "amars anguish",
+    "amars_anguish",
+    "아마르 앵귀시"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sets/Amar/AmarExilusMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/amars_anguish.7ce47cf13b6ff894df2eaf142af0caf2.png",
+  "thumb": "items/images/en/thumbs/amars_anguish.7ce47cf13b6ff894df2eaf142af0caf2.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

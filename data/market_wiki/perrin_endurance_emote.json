@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60e70f7d479445008f272589",
+  "slug": "perrin_endurance_emote",
+  "market_slug": "perrin_endurance_emote",
+  "name_en": "Perrin Endurance Emote",
+  "name_en_slug": "perrin_endurance_emote",
+  "name_kr": "페린 내구 감정 표현",
+  "aliases": [
+    "Perrin Endurance Emote",
+    "perrin endurance emote",
+    "perrin_endurance_emote",
+    "페린 내구 감정 표현"
+  ],
+  "tags": [
+    "emote",
+    "syndicate"
+  ],
+  "game_ref": "/Lotus/Types/Items/Emotes/Syndicate/PSSurvivabilityEmote",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/perrin_endurance_emote.3fc9dfb6f03017ca6070fef94518ecb4.png",
+  "thumb": "items/images/en/thumbs/perrin_endurance_emote.3fc9dfb6f03017ca6070fef94518ecb4.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

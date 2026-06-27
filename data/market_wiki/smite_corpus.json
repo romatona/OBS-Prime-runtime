@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e51565a",
+  "slug": "smite_corpus",
+  "market_slug": "smite_corpus",
+  "name_en": "Smite Corpus",
+  "name_en_slug": "smite_corpus",
+  "name_kr": "스마이트 코퍼스",
+  "aliases": [
+    "Smite Corpus",
+    "smite corpus",
+    "smite_corpus",
+    "스마이트 코퍼스"
+  ],
+  "tags": [
+    "melee",
+    "mod",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeFactionDamageCorpus",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/smite_corpus.ebf6929dc715d0b33f81121b6feca418.png",
+  "thumb": "items/images/en/thumbs/smite_corpus.ebf6929dc715d0b33f81121b6feca418.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

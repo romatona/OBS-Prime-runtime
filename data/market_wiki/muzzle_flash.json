@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54e0c9eee7798903744178a5",
+  "slug": "muzzle_flash",
+  "market_slug": "muzzle_flash",
+  "name_en": "Muzzle Flash",
+  "name_en_slug": "muzzle_flash",
+  "name_kr": "머즐 플래쉬",
+  "aliases": [
+    "Muzzle Flash",
+    "muzzle flash",
+    "muzzle_flash",
+    "머즐 플래쉬"
+  ],
+  "tags": [
+    "augment",
+    "mesa",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Cowgirl/RussianRouletteAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/muzzle_flash.fdeb0ba6eceae3d4ff8422bf26a6c7d0.png",
+  "thumb": "items/images/en/thumbs/muzzle_flash.fdeb0ba6eceae3d4ff8422bf26a6c7d0.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

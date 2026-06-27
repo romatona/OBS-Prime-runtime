@@ -1,0 +1,31 @@
+﻿{
+    "schema":  "obs_prime.item_wiki_entry.v1",
+    "slug":  "dethcube_prime_cerebrum",
+    "market_slug":  "dethcube_prime_cerebrum",
+    "name_en":  "Dethcube Prime Cerebrum",
+    "name_en_slug":  "dethcube_prime_cerebrum",
+    "name_kr":  "데스큐브 프라임 세레브럼",
+    "aliases":  [
+                    "Dethcube Prime Cerebrum",
+                    "dethcube_prime_cerebrum",
+                    "데스큐브 프라임 세레브럼"
+                ],
+    "ducats":  65,
+    "ducats_display":  "65 d",
+    "ducats_source":  "warframe_market_v2_items",
+    "rarities":  [
+                     "Rare",
+                     "Uncommon"
+                 ],
+    "plat":  null,
+    "plat_display":  "-",
+    "plat_date":  "",
+    "source":  {
+                   "wfcd_relics":  "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Relics.json",
+                   "warframe_market_items":  "https://api.warframe.market/v2/items",
+                   "price_cache":  "data/market_cache/warframe_market_prices.json"
+               },
+    "updated_at":  "2026-06-26T02:05:14Z",
+    "version":  "26-06-26",
+    "relic_reward_count":  20
+}

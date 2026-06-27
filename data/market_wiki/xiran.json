@@ -1,0 +1,27 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "645ba2a57ec1900802a58a45",
+  "slug": "xiran",
+  "market_slug": "xiran",
+  "name_en": "Xiran",
+  "name_en_slug": "xiran",
+  "name_kr": "시란",
+  "aliases": [
+    "Xiran",
+    "xiran",
+    "시란"
+  ],
+  "tags": [
+    "fish"
+  ],
+  "game_ref": "/Lotus/Types/Gameplay/Duviri/Resource/Fish/DuviriFishBItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/xiran.29027ac9267e9979b3e6cd14120c3c2c.png",
+  "thumb": "items/images/en/thumbs/xiran.29027ac9267e9979b3e6cd14120c3c2c.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5f498a1f9426ed00443bd099",
+  "slug": "necramech_slipstream",
+  "market_slug": "necramech_slipstream",
+  "name_en": "Necramech Slipstream",
+  "name_en_slug": "necramech_slipstream",
+  "name_kr": "네크라메크 슬립스트림",
+  "aliases": [
+    "Necramech Slipstream",
+    "necramech slipstream",
+    "necramech_slipstream",
+    "네크라메크 슬립스트림"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "necramech"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Necromech/NecromechSlideSpeedMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/necramech_slipstream.b5c850017828708c1576b860b787eeb6.png",
+  "thumb": "items/images/en/thumbs/necramech_slipstream.b5c850017828708c1576b860b787eeb6.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

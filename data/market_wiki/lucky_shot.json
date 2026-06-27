@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a51b",
+  "slug": "lucky_shot",
+  "market_slug": "lucky_shot",
+  "name_en": "Lucky Shot",
+  "name_en_slug": "lucky_shot",
+  "name_kr": "럭키 샷",
+  "aliases": [
+    "Lucky Shot",
+    "lucky shot",
+    "lucky_shot",
+    "럭키 샷"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "pvp",
+    "rifle",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Rifle/HigherVelocityLessAccurateRifleMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/lucky_shot.7e508641f4f2b24459547f38d9361de8.png",
+  "thumb": "items/images/en/thumbs/lucky_shot.7e508641f4f2b24459547f38d9361de8.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

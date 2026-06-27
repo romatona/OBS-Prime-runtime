@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56dac5855cc639de0a45c520",
+  "slug": "deceptive_bond",
+  "market_slug": "deceptive_bond",
+  "name_en": "Deceptive Bond",
+  "name_en_slug": "deceptive_bond",
+  "name_kr": "디셉티브 본드",
+  "aliases": [
+    "Deceptive Bond",
+    "deceptive bond",
+    "deceptive_bond",
+    "디셉티브 본드"
+  ],
+  "tags": [
+    "augment",
+    "loki",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Loki/DecoyPvPAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/deceptive_bond.40d935abe0d890fa3a139cdc64aec602.png",
+  "thumb": "items/images/en/thumbs/deceptive_bond.40d935abe0d890fa3a139cdc64aec602.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

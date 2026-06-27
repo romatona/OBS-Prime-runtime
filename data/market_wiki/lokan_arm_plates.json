@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60e70f7b479445008f27257e",
+  "slug": "lokan_arm_plates",
+  "market_slug": "lokan_arm_plates",
+  "name_en": "Lokan Arm Plates",
+  "name_en_slug": "lokan_arm_plates",
+  "name_kr": "로칸 암 플레이트",
+  "aliases": [
+    "Lokan Arm Plates",
+    "lokan arm plates",
+    "lokan_arm_plates",
+    "로칸 암 플레이트"
+  ],
+  "tags": [
+    "skin"
+  ],
+  "game_ref": "/Lotus/Upgrades/Skins/Armor/NLokaArmor/NLokaAArmor",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/lokan_arm_plates.2f95530445f9c3c5d696ac5b5a39fd73.png",
+  "thumb": "items/images/en/thumbs/lokan_arm_plates.2f95530445f9c3c5d696ac5b5a39fd73.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

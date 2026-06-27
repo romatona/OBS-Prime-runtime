@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6054de335221e3005750103c",
+  "slug": "lith_p4_relic",
+  "market_slug": "lith_p4_relic",
+  "name_en": "Lith P4 Relic",
+  "name_en_slug": "lith_p4_relic",
+  "name_kr": "리스 P4 성유물",
+  "aliases": [
+    "Lith P4 Relic",
+    "lith p4 relic",
+    "lith_p4_relic",
+    "리스 P4 성유물"
+  ],
+  "tags": [
+    "lith",
+    "relic"
+  ],
+  "game_ref": "/Lotus/Types/Game/Projections/T1VoidProjectionNezhaPrimeA",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/lith_p4_relic.4c2cd55afd4007566866d226c86e0fdd.png",
+  "thumb": "items/images/en/thumbs/lith_p4_relic.4c2cd55afd4007566866d226c86e0fdd.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

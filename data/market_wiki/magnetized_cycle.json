@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "675c627f7b18977f6e645426",
+  "slug": "magnetized_cycle",
+  "market_slug": "magnetized_cycle",
+  "name_en": "Magnetized Cycle",
+  "name_en_slug": "magnetized_cycle",
+  "name_kr": "마그네타이즈드 사이클",
+  "aliases": [
+    "Magnetized Cycle",
+    "magnetized cycle",
+    "magnetized_cycle",
+    "마그네타이즈드 사이클"
+  ],
+  "tags": [
+    "archgun",
+    "archwing",
+    "mod",
+    "primary",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingEventMagneticFireRateRifleMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/magnetized_cycle.36910a18f47f67ddf444a45b0159c2da.webp",
+  "thumb": "items/images/en/thumbs/magnetized_cycle.36910a18f47f67ddf444a45b0159c2da.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

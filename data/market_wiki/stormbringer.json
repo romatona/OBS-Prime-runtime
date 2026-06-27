@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156e2",
+  "slug": "stormbringer",
+  "market_slug": "stormbringer",
+  "name_en": "Stormbringer",
+  "name_en_slug": "stormbringer",
+  "name_kr": "스톰브링어",
+  "aliases": [
+    "Stormbringer",
+    "stormbringer",
+    "스톰브링어"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rifle",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/WeaponElectricityDamageMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/stormbringer.b285307831913950e6d3fc05500352c7.png",
+  "thumb": "items/images/en/thumbs/stormbringer.b285307831913950e6d3fc05500352c7.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

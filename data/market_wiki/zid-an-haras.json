@@ -1,0 +1,27 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "69765a067b65a4e83d4ab4b1",
+  "slug": "zid-an-haras",
+  "market_slug": "zid-an-haras",
+  "name_en": "Zid-an Haras",
+  "name_en_slug": "zid-an-haras",
+  "name_kr": "지드-안 하라스",
+  "aliases": [
+    "Zid-an Haras",
+    "zid-an-haras",
+    "지드-안 하라스"
+  ],
+  "tags": [
+    "arcane_enhancement"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Antiques/AmmoEfficencyDuringUltimate",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/zid-an-haras.56d691fea4cbd08f4dc35ac85d8fd1fb.webp",
+  "thumb": "items/images/en/thumbs/zid-an-haras.56d691fea4cbd08f4dc35ac85d8fd1fb.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

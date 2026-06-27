@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a4e7",
+  "slug": "quick_charge",
+  "market_slug": "quick_charge",
+  "name_en": "Quick Charge",
+  "name_en_slug": "quick_charge",
+  "name_kr": "퀵 차지",
+  "aliases": [
+    "Quick Charge",
+    "quick charge",
+    "quick_charge",
+    "퀵 차지"
+  ],
+  "tags": [
+    "mod",
+    "pvp",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Warframe/ReduceShieldRechargeDelayWarframe",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/quick_charge.428d4d450889ea8e92b0fe22e0aea38a.png",
+  "thumb": "items/images/en/thumbs/quick_charge.428d4d450889ea8e92b0fe22e0aea38a.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

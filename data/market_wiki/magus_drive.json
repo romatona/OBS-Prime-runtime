@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5c1bda2014a8e4006b1dad98",
+  "slug": "magus_drive",
+  "market_slug": "magus_drive",
+  "name_en": "Magus Drive",
+  "name_en_slug": "magus_drive",
+  "name_kr": "마구스 드라이브",
+  "aliases": [
+    "Magus Drive",
+    "magus drive",
+    "magus_drive",
+    "마구스 드라이브"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "common"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HoverboardSpeedOnTransferenceIn",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/magus_drive.618edddcaa1b6d427526a4fe89063deb.png",
+  "thumb": "items/images/en/thumbs/magus_drive.618edddcaa1b6d427526a4fe89063deb.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

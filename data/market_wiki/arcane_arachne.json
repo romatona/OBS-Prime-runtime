@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "566750e45dcbc186f0536bcf",
+  "slug": "arcane_arachne",
+  "market_slug": "arcane_arachne",
+  "name_en": "Arcane Arachne",
+  "name_en_slug": "arcane_arachne",
+  "name_kr": "아케인 아라크네",
+  "aliases": [
+    "Arcane Arachne",
+    "arcane arachne",
+    "arcane_arachne",
+    "아케인 아라크네"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Utility/GolemArcaneBonusDamageOnWallLatch",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/arcane_arachne.6e3fe6374d5b710e6e55ccc70b395bc8.png",
+  "thumb": "items/images/en/thumbs/arcane_arachne.6e3fe6374d5b710e6e55ccc70b395bc8.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

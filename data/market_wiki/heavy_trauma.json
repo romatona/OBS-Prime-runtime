@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e5155d2",
+  "slug": "heavy_trauma",
+  "market_slug": "heavy_trauma",
+  "name_en": "Heavy Trauma",
+  "name_en_slug": "heavy_trauma",
+  "name_kr": "헤비 트라우마",
+  "aliases": [
+    "Heavy Trauma",
+    "heavy trauma",
+    "heavy_trauma",
+    "헤비 트라우마"
+  ],
+  "tags": [
+    "melee",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Melee/WeaponImpactDamageMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/heavy_trauma.c322d8e6bf1d16616a11834bf8b97b0e.png",
+  "thumb": "items/images/en/thumbs/heavy_trauma.c322d8e6bf1d16616a11834bf8b97b0e.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

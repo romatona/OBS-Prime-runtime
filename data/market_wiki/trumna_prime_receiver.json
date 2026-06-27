@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "673516c8db3ac2cfade14a79",
+  "slug": "trumna_prime_receiver",
+  "market_slug": "trumna_prime_receiver",
+  "name_en": "Trumna Prime Receiver",
+  "name_en_slug": "trumna_prime_receiver",
+  "name_kr": "트럼나 프라임 리시버",
+  "aliases": [
+    "Trumna Prime Receiver",
+    "trumna prime receiver",
+    "trumna_prime_receiver",
+    "트럼나 프라임 리시버"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/TrumnaPrimeReceiver",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/trumna_prime_receiver.ccbe6544b4b41bb246fee4f68fe4d371.webp",
+  "thumb": "items/images/en/thumbs/trumna_prime_receiver.ccbe6544b4b41bb246fee4f68fe4d371.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

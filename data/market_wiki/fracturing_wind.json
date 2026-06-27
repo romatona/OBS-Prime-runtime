@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e51560b",
+  "slug": "fracturing_wind",
+  "market_slug": "fracturing_wind",
+  "name_en": "Fracturing Wind",
+  "name_en_slug": "fracturing_wind",
+  "name_kr": "프랙쳐링 윈드",
+  "aliases": [
+    "Fracturing Wind",
+    "fracturing wind",
+    "fracturing_wind",
+    "프랙쳐링 윈드"
+  ],
+  "tags": [
+    "fists",
+    "mod",
+    "stance",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/FistCmbOneMeleeTree",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/fracturing_wind.e7bf953398db71b7b83cb75652cf53a3.png",
+  "thumb": "items/images/en/thumbs/fracturing_wind.e7bf953398db71b7b83cb75652cf53a3.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

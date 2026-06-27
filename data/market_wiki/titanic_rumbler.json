@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56b656d9ef0390c7e4006382",
+  "slug": "titanic_rumbler",
+  "market_slug": "titanic_rumbler",
+  "name_en": "Titanic Rumbler",
+  "name_en_slug": "titanic_rumbler",
+  "name_kr": "타이타닉 럼블러",
+  "aliases": [
+    "Titanic Rumbler",
+    "titanic rumbler",
+    "titanic_rumbler",
+    "타이타닉 럼블러"
+  ],
+  "tags": [
+    "atlas",
+    "augment",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Brawler/BrawlerSummonAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/titanic_rumbler.6a8bbd8149ae32220e27a4d5f95d1958.png",
+  "thumb": "items/images/en/thumbs/titanic_rumbler.6a8bbd8149ae32220e27a4d5f95d1958.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

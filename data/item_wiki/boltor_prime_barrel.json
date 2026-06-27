@@ -1,0 +1,30 @@
+﻿{
+    "schema":  "obs_prime.item_wiki_entry.v1",
+    "slug":  "boltor_prime_barrel",
+    "market_slug":  "boltor_prime_barrel",
+    "name_en":  "Boltor Prime Barrel",
+    "name_en_slug":  "boltor_prime_barrel",
+    "name_kr":  "볼터 프라임 배럴",
+    "aliases":  [
+                    "Boltor Prime Barrel",
+                    "boltor_prime_barrel",
+                    "볼터 프라임 배럴"
+                ],
+    "ducats":  15,
+    "ducats_display":  "15 d",
+    "ducats_source":  "warframe_market_v2_items",
+    "rarities":  [
+                     "Uncommon"
+                 ],
+    "plat":  null,
+    "plat_display":  "-",
+    "plat_date":  "",
+    "source":  {
+                   "wfcd_relics":  "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Relics.json",
+                   "warframe_market_items":  "https://api.warframe.market/v2/items",
+                   "price_cache":  "data/market_cache/warframe_market_prices.json"
+               },
+    "updated_at":  "2026-06-26T02:05:14Z",
+    "version":  "26-06-26",
+    "relic_reward_count":  12
+}

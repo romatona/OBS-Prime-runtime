@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5d9385b27ea27b0a28fd75bc",
+  "slug": "atlas_prime_blueprint",
+  "market_slug": "atlas_prime_blueprint",
+  "name_en": "Atlas Prime Blueprint",
+  "name_en_slug": "atlas_prime_blueprint",
+  "name_kr": "아틀라스 프라임 설계도",
+  "aliases": [
+    "Atlas Prime",
+    "Atlas Prime Blueprint",
+    "atlas prime blueprint",
+    "atlas_prime_blueprint",
+    "아틀라스 프라임",
+    "아틀라스 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/AtlasPrimeBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/atlas_prime_blueprint.91fb26397de19c27bfece550a8315a14.png",
+  "thumb": "items/images/en/thumbs/atlas_prime_blueprint.91fb26397de19c27bfece550a8315a14.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

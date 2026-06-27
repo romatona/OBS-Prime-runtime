@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60e70f79479445008f272574",
+  "slug": "meridian_chest_plate",
+  "market_slug": "meridian_chest_plate",
+  "name_en": "Meridian Chest Plate",
+  "name_en_slug": "meridian_chest_plate",
+  "name_kr": "메리디안 체스트 플레이드",
+  "aliases": [
+    "Meridian Chest Plate",
+    "meridian chest plate",
+    "meridian_chest_plate",
+    "메리디안 체스트 플레이드"
+  ],
+  "tags": [
+    "skin"
+  ],
+  "game_ref": "/Lotus/Upgrades/Skins/Armor/GrnSteelMeridianArmor/GrnSteelMeridianCArmor",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/meridian_chest_plate.cfd18c36942cccc4c759369e348090d3.png",
+  "thumb": "items/images/en/thumbs/meridian_chest_plate.cfd18c36942cccc4c759369e348090d3.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

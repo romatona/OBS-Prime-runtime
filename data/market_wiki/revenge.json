@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515637",
+  "slug": "revenge",
+  "market_slug": "revenge",
+  "name_en": "Revenge",
+  "name_en_slug": "revenge",
+  "name_kr": "리벤지",
+  "aliases": [
+    "Revenge",
+    "revenge",
+    "리벤지"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "sentinel",
+    "shade"
+  ],
+  "game_ref": "/Lotus/Types/Sentinels/SentinelPrecepts/Revenge",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/revenge.977345a06289639bd2e192201008134b.png",
+  "thumb": "items/images/en/thumbs/revenge.977345a06289639bd2e192201008134b.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

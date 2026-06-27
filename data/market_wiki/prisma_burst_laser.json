@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "62af145d5d2dab005422903f",
+  "slug": "prisma_burst_laser",
+  "market_slug": "prisma_burst_laser",
+  "name_en": "Prisma Burst Laser",
+  "name_en_slug": "prisma_burst_laser",
+  "name_kr": "프리즈마 버스트 레이저",
+  "aliases": [
+    "Prisma Burst Laser",
+    "prisma burst laser",
+    "prisma_burst_laser",
+    "프리즈마 버스트 레이저"
+  ],
+  "tags": [
+    "primary",
+    "sentinel"
+  ],
+  "game_ref": "/Lotus/Types/Sentinels/SentinelWeapons/PrismaBurstLaserPistol",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/prisma_burst_laser.f4a86f6ebcd9df7e028c911d259ac431.png",
+  "thumb": "items/images/en/thumbs/prisma_burst_laser.f4a86f6ebcd9df7e028c911d259ac431.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "626a197af40db600660a1d87",
+  "slug": "molt_efficiency",
+  "market_slug": "molt_efficiency",
+  "name_en": "Molt Efficiency",
+  "name_en_slug": "molt_efficiency",
+  "name_kr": "몰트 이피션시",
+  "aliases": [
+    "Molt Efficiency",
+    "molt efficiency",
+    "molt_efficiency",
+    "몰트 이피션시"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Zariman/WarframeOnShieldUptimePowerDuration",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/molt_efficiency.c76d07229a6c7e12bff54ac2f56f47b5.png",
+  "thumb": "items/images/en/thumbs/molt_efficiency.c76d07229a6c7e12bff54ac2f56f47b5.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

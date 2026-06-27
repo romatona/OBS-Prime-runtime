@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "633e2e6af570d10793afb81a",
+  "slug": "revenant_prime_set",
+  "market_slug": "revenant_prime_set",
+  "name_en": "Revenant Prime Set",
+  "name_en_slug": "revenant_prime_set",
+  "name_kr": "레버넌트 프라임 세트",
+  "aliases": [
+    "Revenant Prime Set",
+    "revenant prime set",
+    "revenant_prime_set",
+    "레버넌트 프라임 세트"
+  ],
+  "tags": [
+    "prime",
+    "set",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Revenant/RevenantPrime",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/revenant_prime_set.469f99b4183a5dda7769b78b2cde6658.png",
+  "thumb": "items/images/en/thumbs/revenant_prime_set.469f99b4183a5dda7769b78b2cde6658.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5b2987aaeb069f0536234276",
+  "slug": "limbo_prime_blueprint",
+  "market_slug": "limbo_prime_blueprint",
+  "name_en": "Limbo Prime Blueprint",
+  "name_en_slug": "limbo_prime_blueprint",
+  "name_kr": "림보 프라임 설계도",
+  "aliases": [
+    "Limbo Prime",
+    "Limbo Prime Blueprint",
+    "limbo prime blueprint",
+    "limbo_prime_blueprint",
+    "림보 프라임",
+    "림보 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/LimboPrimeBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/limbo_prime_blueprint.7bfbc70bd8438594d45a47fba260b174.png",
+  "thumb": "items/images/en/thumbs/limbo_prime_blueprint.7bfbc70bd8438594d45a47fba260b174.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56b656e0ef0390c7e4006383",
+  "slug": "duality",
+  "market_slug": "duality",
+  "name_en": "Duality",
+  "name_en_slug": "duality",
+  "name_kr": "듀얼리티",
+  "aliases": [
+    "Duality",
+    "duality",
+    "듀얼리티"
+  ],
+  "tags": [
+    "augment",
+    "equinox",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/YinYang/YinYangSwitchAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/duality.c5a99dd847f4468edbeb94731ec38d99.png",
+  "thumb": "items/images/en/thumbs/duality.c5a99dd847f4468edbeb94731ec38d99.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

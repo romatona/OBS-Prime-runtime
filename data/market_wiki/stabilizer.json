@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156de",
+  "slug": "stabilizer",
+  "market_slug": "stabilizer",
+  "name_en": "Stabilizer",
+  "name_en_slug": "stabilizer",
+  "name_kr": "스테빌라이저",
+  "aliases": [
+    "Stabilizer",
+    "stabilizer",
+    "스테빌라이저"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "rifle"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/WeaponRecoilReductionMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/stabilizer.a31ad68e7d65e2e209c966fac3d5a6d1.png",
+  "thumb": "items/images/en/thumbs/stabilizer.a31ad68e7d65e2e209c966fac3d5a6d1.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "693e63d603903ae8993ffae6",
+  "slug": "trauma_manifestation_arena",
+  "market_slug": "trauma_manifestation_arena",
+  "name_en": "Perita Manifestation Scene",
+  "name_en_slug": "trauma_manifestation_arena",
+  "name_kr": "페리타 발현 배경",
+  "aliases": [
+    "Perita Manifestation Scene",
+    "trauma manifestation arena",
+    "trauma_manifestation_arena",
+    "페리타 발현 배경"
+  ],
+  "tags": [
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/PhotoBooth/TauOldPeace/PhotoboothTileTauOldPeaceObjLiminalBossArena",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/trauma_manifestation_arena.b2f1814e9f5231d8d222f62bc99e7ac5.webp",
+  "thumb": "items/images/en/thumbs/trauma_manifestation_arena.b2f1814e9f5231d8d222f62bc99e7ac5.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

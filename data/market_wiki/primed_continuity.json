@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54c6855ee779891362942572",
+  "slug": "primed_continuity",
+  "market_slug": "primed_continuity",
+  "name_en": "Primed Continuity",
+  "name_en_slug": "primed_continuity",
+  "name_kr": "프라임드 컨티뉴어티",
+  "aliases": [
+    "Primed Continuity",
+    "primed continuity",
+    "primed_continuity",
+    "프라임드 컨티뉴어티"
+  ],
+  "tags": [
+    "legendary",
+    "mod",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Warframe/Expert/AvatarAbilityDurationModExpert",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/primed_continuity.240ece0417bbfeff4410681ea2294f13.png",
+  "thumb": "items/images/en/thumbs/primed_continuity.240ece0417bbfeff4410681ea2294f13.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

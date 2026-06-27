@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156e4",
+  "slug": "warm_coat",
+  "market_slug": "warm_coat",
+  "name_en": "Warm Coat",
+  "name_en_slug": "warm_coat",
+  "name_kr": "웜 코트",
+  "aliases": [
+    "Warm Coat",
+    "warm coat",
+    "warm_coat",
+    "웜 코트"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Warframe/AvatarMissionSpecificResistanceIce",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/warm_coat.c4e8b614799b3e9ffa04048260884082.png",
+  "thumb": "items/images/en/thumbs/warm_coat.c4e8b614799b3e9ffa04048260884082.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

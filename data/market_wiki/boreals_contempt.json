@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "61bb64fb3132ff00482b5fb3",
+  "slug": "boreals_contempt",
+  "market_slug": "boreals_contempt",
+  "name_en": "Boreal's Contempt",
+  "name_en_slug": "boreals_contempt",
+  "name_kr": "보리얼 컨템트",
+  "aliases": [
+    "Boreal's Contempt",
+    "boreals contempt",
+    "boreals_contempt",
+    "보리얼 컨템트"
+  ],
+  "tags": [
+    "melee",
+    "mod",
+    "polearms",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sets/Boreal/BorealMeleeMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/boreals_contempt.3722d4914db38a3d0c12be96eedc04bd.png",
+  "thumb": "items/images/en/thumbs/boreals_contempt.3722d4914db38a3d0c12be96eedc04bd.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

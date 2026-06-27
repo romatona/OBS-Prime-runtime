@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5dbe9b0c7ea27b0ffe3ca271",
+  "slug": "blood_for_energy",
+  "market_slug": "blood_for_energy",
+  "name_en": "Blood For Energy",
+  "name_en_slug": "blood_for_energy",
+  "name_kr": "블러드 포 에너지",
+  "aliases": [
+    "Blood For Energy",
+    "blood for energy",
+    "blood_for_energy",
+    "블러드 포 에너지"
+  ],
+  "tags": [
+    "mod",
+    "parazon",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/DataSpike/Assassin/OnExecutionEnergyDropMod",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/blood_for_energy.39c5c4fe581c7a1c4a01a0f6ec3fd564.png",
+  "thumb": "items/images/en/thumbs/blood_for_energy.39c5c4fe581c7a1c4a01a0f6ec3fd564.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

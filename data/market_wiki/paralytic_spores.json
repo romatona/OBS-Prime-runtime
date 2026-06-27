@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5f498a229426ed00443bd0ac",
+  "slug": "paralytic_spores",
+  "market_slug": "paralytic_spores",
+  "name_en": "Paralytic Spores",
+  "name_en_slug": "paralytic_spores",
+  "name_kr": "패럴리틱 스포어즈",
+  "aliases": [
+    "Paralytic Spores",
+    "paralytic spores",
+    "paralytic_spores",
+    "패럴리틱 스포어즈"
+  ],
+  "tags": [
+    "kubrow",
+    "medjay_predasite",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/InfestedPredatorFinisherSporesPrecept",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/paralytic_spores.88c33c45bb8fbd3affcec4318215722b.png",
+  "thumb": "items/images/en/thumbs/paralytic_spores.88c33c45bb8fbd3affcec4318215722b.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

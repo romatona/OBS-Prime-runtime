@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56c3bbe05d2f0202da32e93d",
+  "slug": "saryn_prime_systems_blueprint",
+  "market_slug": "saryn_prime_systems_blueprint",
+  "name_en": "Saryn Prime Systems Blueprint",
+  "name_en_slug": "saryn_prime_systems_blueprint",
+  "name_kr": "새린 프라임 시스템 설계도",
+  "aliases": [
+    "Saryn Prime Systems",
+    "Saryn Prime Systems Blueprint",
+    "saryn prime systems blueprint",
+    "saryn_prime_systems_blueprint",
+    "새린 프라임 시스템",
+    "새린 프라임 시스템 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/SarynPrimeSystemsBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/saryn_prime_systems.394094bef0383f954bd38d622bb075e5.png",
+  "thumb": "items/images/en/thumbs/saryn_prime_systems.394094bef0383f954bd38d622bb075e5.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

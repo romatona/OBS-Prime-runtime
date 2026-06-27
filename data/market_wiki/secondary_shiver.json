@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "644b00227ec1900044b97724",
+  "slug": "secondary_shiver",
+  "market_slug": "secondary_shiver",
+  "name_en": "Secondary Shiver",
+  "name_en_slug": "secondary_shiver",
+  "name_kr": "세컨더리 쉬버",
+  "aliases": [
+    "Secondary Shiver",
+    "secondary shiver",
+    "secondary_shiver",
+    "세컨더리 쉬버"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "legendary"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SecondaryExtraDamagePerFreezeStack",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/secondary_shiver.e169db6259133538ca86090ac481840a.png",
+  "thumb": "items/images/en/thumbs/secondary_shiver.e169db6259133538ca86090ac481840a.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

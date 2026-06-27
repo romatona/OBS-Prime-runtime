@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156cf",
+  "slug": "system_reroute",
+  "market_slug": "system_reroute",
+  "name_en": "System Reroute",
+  "name_en_slug": "system_reroute",
+  "name_kr": "시스템 리루트",
+  "aliases": [
+    "System Reroute",
+    "system reroute",
+    "system_reroute",
+    "시스템 리루트"
+  ],
+  "tags": [
+    "archwing",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Archwing/Suit/ArchwingSuitAbilityEfficiencyMod",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/system_reroute.6a07c1195da733426a0512cbf7d17264.png",
+  "thumb": "items/images/en/thumbs/system_reroute.6a07c1195da733426a0512cbf7d17264.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

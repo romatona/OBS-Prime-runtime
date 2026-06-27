@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5dff6e0f14569703166749cc",
+  "slug": "forward_artillery",
+  "market_slug": "forward_artillery",
+  "name_en": "Forward Artillery",
+  "name_en_slug": "forward_artillery",
+  "name_kr": "포워드 아틸러리",
+  "aliases": [
+    "Forward Artillery",
+    "forward artillery",
+    "forward_artillery",
+    "포워드 아틸러리"
+  ],
+  "tags": [
+    "mod",
+    "railjack",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Railjack/Gunnery/ZektiSuperWeaponDamage",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/forward_artillery.860b4dd8bfc5659c16ace0a152a1e54c.png",
+  "thumb": "items/images/en/thumbs/forward_artillery.860b4dd8bfc5659c16ace0a152a1e54c.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

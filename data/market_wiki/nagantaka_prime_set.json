@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6242037666a58f0108c3d47c",
+  "slug": "nagantaka_prime_set",
+  "market_slug": "nagantaka_prime_set",
+  "name_en": "Nagantaka Prime Set",
+  "name_en_slug": "nagantaka_prime_set",
+  "name_kr": "나간타카 프라임 세트",
+  "aliases": [
+    "Nagantaka Prime Set",
+    "nagantaka prime set",
+    "nagantaka_prime_set",
+    "나간타카 프라임 세트"
+  ],
+  "tags": [
+    "primary",
+    "prime",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/LongGuns/PrimeNagantaka/PrimeNagantakaWeapon",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/nagantaka_prime_set.f1af5a1cf53058c86df2c4969f37ea27.png",
+  "thumb": "items/images/en/thumbs/nagantaka_prime_set.f1af5a1cf53058c86df2c4969f37ea27.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

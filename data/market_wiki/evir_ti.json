@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "693e693a03903ae8993ffafa",
+  "slug": "evir_ti",
+  "market_slug": "evir_ti",
+  "name_en": "Evir-Ti",
+  "name_en_slug": "evir_ti",
+  "name_kr": "에비르-티",
+  "aliases": [
+    "Evir-Ti",
+    "evir ti",
+    "evir_ti",
+    "에비르-티"
+  ],
+  "tags": [
+    "any",
+    "common",
+    "mod"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Antiques/JumpHeight",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/ko/evir_ti.dfcdffa887c10ace888247ad05f6be03.webp",
+  "thumb": "items/images/ko/thumbs/evir_ti.dfcdffa887c10ace888247ad05f6be03.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5adf872b931bcf00574adc17",
+  "slug": "braton_vandal_blueprint",
+  "market_slug": "braton_vandal_blueprint",
+  "name_en": "Braton Vandal Blueprint",
+  "name_en_slug": "braton_vandal_blueprint",
+  "name_kr": "브래튼 반달 설계도",
+  "aliases": [
+    "Braton Vandal",
+    "Braton Vandal Blueprint",
+    "braton vandal blueprint",
+    "braton_vandal_blueprint",
+    "브래튼 반달",
+    "브래튼 반달 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "primary",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/BratonVandalBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/braton_vandal_blueprint.91c532bcac702702bf7d259bd5d4d553.png",
+  "thumb": "items/images/en/thumbs/braton_vandal_blueprint.91c532bcac702702bf7d259bd5d4d553.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

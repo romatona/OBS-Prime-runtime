@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a4cc",
+  "slug": "broad_eye",
+  "market_slug": "broad_eye",
+  "name_en": "Broad Eye",
+  "name_en_slug": "broad_eye",
+  "name_kr": "브로드 아이",
+  "aliases": [
+    "Broad Eye",
+    "broad eye",
+    "broad_eye",
+    "브로드 아이"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "pvp",
+    "shotgun",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/HigherAirAimFoVShotgunMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/broad_eye.fa3689964ba1794a59a3c0acbcf53747.png",
+  "thumb": "items/images/en/thumbs/broad_eye.fa3689964ba1794a59a3c0acbcf53747.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5d21ce48f4604c012d1e0c16",
+  "slug": "ninkondi_prime_chain",
+  "market_slug": "ninkondi_prime_chain",
+  "name_en": "Ninkondi Prime Chain",
+  "name_en_slug": "ninkondi_prime_chain",
+  "name_kr": "닌콘디 프라임 체인",
+  "aliases": [
+    "Ninkondi Prime Chain",
+    "ninkondi prime chain",
+    "ninkondi_prime_chain",
+    "닌콘디 프라임 체인"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/NinkondiPrimeChain",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/ninkondi_prime_chain.d8516fa5fc9fe9518b6b9ec8fa59cb28.png",
+  "thumb": "items/images/en/thumbs/ninkondi_prime_chain.d8516fa5fc9fe9518b6b9ec8fa59cb28.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

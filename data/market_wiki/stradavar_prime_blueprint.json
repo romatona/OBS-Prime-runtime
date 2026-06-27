@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5ca28670fc2db2035eae05a7",
+  "slug": "stradavar_prime_blueprint",
+  "market_slug": "stradavar_prime_blueprint",
+  "name_en": "Stradavar Prime Blueprint",
+  "name_en_slug": "stradavar_prime_blueprint",
+  "name_kr": "스트라다바 프라임 설계도",
+  "aliases": [
+    "Stradavar Prime",
+    "Stradavar Prime Blueprint",
+    "stradavar prime blueprint",
+    "stradavar_prime_blueprint",
+    "스트라다바 프라임",
+    "스트라다바 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "primary",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/StradavarPrimeBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/stradavar_prime_blueprint.57c042a30996514288dfd70f2ce267ca.png",
+  "thumb": "items/images/en/thumbs/stradavar_prime_blueprint.57c042a30996514288dfd70f2ce267ca.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

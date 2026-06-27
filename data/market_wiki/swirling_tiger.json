@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515656",
+  "slug": "swirling_tiger",
+  "market_slug": "swirling_tiger",
+  "name_en": "Swirling Tiger",
+  "name_en_slug": "swirling_tiger",
+  "name_kr": "스월링 타이거",
+  "aliases": [
+    "Swirling Tiger",
+    "swirling tiger",
+    "swirling_tiger",
+    "스월링 타이거"
+  ],
+  "tags": [
+    "dual_swords",
+    "mod",
+    "stance",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DualSwordCmbOneMeleeTree",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/swirling_tiger.5431981727f51665abe320cce8fc84b4.png",
+  "thumb": "items/images/en/thumbs/swirling_tiger.5431981727f51665abe320cce8fc84b4.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

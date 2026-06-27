@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5eadc6c004d55c027d23a6e0",
+  "slug": "ordnance_cheap_shot",
+  "market_slug": "ordnance_cheap_shot",
+  "name_en": "Ordnance Cheap Shot",
+  "name_en_slug": "ordnance_cheap_shot",
+  "name_kr": "오드넌스 칩 샷",
+  "aliases": [
+    "Ordnance Cheap Shot",
+    "ordnance cheap shot",
+    "ordnance_cheap_shot",
+    "오드넌스 칩 샷"
+  ],
+  "tags": [
+    "mod",
+    "railjack",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Railjack/Gunnery/LavanFreeOrdnanceAmmo",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/ordnance_cheap_shot.6c5251bcc013440c63e47dcb1f2887b6.png",
+  "thumb": "items/images/en/thumbs/ordnance_cheap_shot.6c5251bcc013440c63e47dcb1f2887b6.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a73e65e779893a797fff56",
+  "slug": "paris_prime_string",
+  "market_slug": "paris_prime_string",
+  "name_en": "Paris Prime String",
+  "name_en_slug": "paris_prime_string",
+  "name_kr": "패리스 프라임 스트링",
+  "aliases": [
+    "Paris Prime String",
+    "paris prime string",
+    "paris_prime_string",
+    "패리스 프라임 스트링"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBowString",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/paris_prime_string.971f957f8304ce10617836343d47b238.png",
+  "thumb": "items/images/en/thumbs/paris_prime_string.971f957f8304ce10617836343d47b238.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

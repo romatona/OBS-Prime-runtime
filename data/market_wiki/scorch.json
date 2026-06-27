@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515663",
+  "slug": "scorch",
+  "market_slug": "scorch",
+  "name_en": "Scorch",
+  "name_en_slug": "scorch",
+  "name_kr": "스코치",
+  "aliases": [
+    "Scorch",
+    "scorch",
+    "스코치"
+  ],
+  "tags": [
+    "mod",
+    "pistol",
+    "rare",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Pistol/DualStat/FireEventPistolMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/scorch.69fe662898c87f2e01d9ff70ab3d6d22.png",
+  "thumb": "items/images/en/thumbs/scorch.69fe662898c87f2e01d9ff70ab3d6d22.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

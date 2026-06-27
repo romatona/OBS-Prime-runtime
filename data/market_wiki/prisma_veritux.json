@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54dd278ae7798934ecce4f0a",
+  "slug": "prisma_veritux",
+  "market_slug": "prisma_veritux",
+  "name_en": "Prisma Veritux",
+  "name_en_slug": "prisma_veritux",
+  "name_kr": "프리즈마 베리턱스",
+  "aliases": [
+    "Prisma Veritux",
+    "prisma veritux",
+    "prisma_veritux",
+    "프리즈마 베리턱스"
+  ],
+  "tags": [
+    "archwing",
+    "melee",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Archwing/Melee/VoidTraderArchsword/VTArchSwordWeapon",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/prisma_veritux.5130e65a3ebdac2da6ba0dccaef25861.png",
+  "thumb": "items/images/en/thumbs/prisma_veritux.5130e65a3ebdac2da6ba0dccaef25861.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

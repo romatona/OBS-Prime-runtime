@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a51c",
+  "slug": "maximum_capacity",
+  "market_slug": "maximum_capacity",
+  "name_en": "Maximum Capacity",
+  "name_en_slug": "maximum_capacity",
+  "name_kr": "맥시멈 커패시티",
+  "aliases": [
+    "Maximum Capacity",
+    "maximum capacity",
+    "maximum_capacity",
+    "맥시멈 커패시티"
+  ],
+  "tags": [
+    "assault_rifle",
+    "common",
+    "mod",
+    "primary",
+    "pvp"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Rifle/LargerMagLongerReloadRifleMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/maximum_capacity.622ba4b0a9f284006d04dc5784e8f8af.png",
+  "thumb": "items/images/en/thumbs/maximum_capacity.622ba4b0a9f284006d04dc5784e8f8af.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

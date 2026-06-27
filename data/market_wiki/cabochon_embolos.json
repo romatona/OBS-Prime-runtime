@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5f498a249426ed00443bd0c1",
+  "slug": "cabochon_embolos",
+  "market_slug": "cabochon_embolos",
+  "name_en": "Cabochon Embolos",
+  "name_en_slug": "cabochon_embolos",
+  "name_kr": "카보숑 엠볼로스",
+  "aliases": [
+    "Cabochon Embolos",
+    "cabochon embolos",
+    "cabochon_embolos",
+    "카보숑 엠볼로스"
+  ],
+  "tags": [
+    "gem"
+  ],
+  "game_ref": "/Lotus/Types/Items/Gems/Deimos/DeimosEidolonGemBCutItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/cabochon_embolos.99c4f8c7fcecf7492ac6fecb684b9ea9.png",
+  "thumb": "items/images/en/thumbs/cabochon_embolos.99c4f8c7fcecf7492ac6fecb684b9ea9.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e51559a",
+  "slug": "narrow_minded",
+  "market_slug": "narrow_minded",
+  "name_en": "Narrow Minded",
+  "name_en_slug": "narrow_minded",
+  "name_kr": "내로우 마인디드",
+  "aliases": [
+    "Narrow Minded",
+    "narrow minded",
+    "narrow_minded",
+    "내로우 마인디드"
+  ],
+  "tags": [
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Warframe/DualStat/CorruptedDurationRangeWarframe",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/narrow_minded.7f5295adebe0b2e9fa1b71353924f6cb.png",
+  "thumb": "items/images/en/thumbs/narrow_minded.7f5295adebe0b2e9fa1b71353924f6cb.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

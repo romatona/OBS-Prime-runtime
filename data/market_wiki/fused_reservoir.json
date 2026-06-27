@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60cca19152f60b004dfea050",
+  "slug": "fused_reservoir",
+  "market_slug": "fused_reservoir",
+  "name_en": "Fused Reservoir",
+  "name_en_slug": "fused_reservoir",
+  "name_kr": "퓨즈드 레저부아",
+  "aliases": [
+    "Fused Reservoir",
+    "fused reservoir",
+    "fused_reservoir",
+    "퓨즈드 레저부아"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "rare",
+    "warframe",
+    "wisp"
+  ],
+  "game_ref": "/Lotus/Powersuits/Wisp/WispReservoirAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/fused_reservoir.13910c19e5be465680397c59d2486047.png",
+  "thumb": "items/images/en/thumbs/fused_reservoir.13910c19e5be465680397c59d2486047.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

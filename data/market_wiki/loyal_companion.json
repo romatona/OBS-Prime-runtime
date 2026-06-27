@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156b8",
+  "slug": "loyal_companion",
+  "market_slug": "loyal_companion",
+  "name_en": "Loyal Companion",
+  "name_en_slug": "loyal_companion",
+  "name_kr": "로얄 컴패니언",
+  "aliases": [
+    "Loyal Companion",
+    "loyal companion",
+    "loyal_companion",
+    "로얄 컴패니언"
+  ],
+  "tags": [
+    "common",
+    "companion",
+    "mod",
+    "sentinel"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/KubrowMasterBleedoutMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/loyal_companion.c60238ddcfef90e39084b135197d2833.png",
+  "thumb": "items/images/en/thumbs/loyal_companion.c60238ddcfef90e39084b135197d2833.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

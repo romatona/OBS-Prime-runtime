@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e5155c0",
+  "slug": "rending_crane",
+  "market_slug": "rending_crane",
+  "name_en": "Rending Crane",
+  "name_en_slug": "rending_crane",
+  "name_kr": "렌딩 크레인",
+  "aliases": [
+    "Rending Crane",
+    "rending crane",
+    "rending_crane",
+    "렌딩 크레인"
+  ],
+  "tags": [
+    "heavy_blade",
+    "mod",
+    "stance",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/AxeCmbOneMeleeTree",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/rending_crane.47206f0333e0e5bc9f144b3d7353d7b1.png",
+  "thumb": "items/images/en/thumbs/rending_crane.47206f0333e0e5bc9f144b3d7353d7b1.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

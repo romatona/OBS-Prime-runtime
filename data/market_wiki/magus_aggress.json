@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "644b00237ec1900044b9772e",
+  "slug": "magus_aggress",
+  "market_slug": "magus_aggress",
+  "name_en": "Magus Aggress",
+  "name_en_slug": "magus_aggress",
+  "name_kr": "마구스 어그레스",
+  "aliases": [
+    "Magus Aggress",
+    "magus aggress",
+    "magus_aggress",
+    "마구스 어그레스"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/OperatorHeavyMeleeDamageOnTransference",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/magus_aggress.03f6a273fe2e6e2b3720957cf32c2adf.png",
+  "thumb": "items/images/en/thumbs/magus_aggress.03f6a273fe2e6e2b3720957cf32c2adf.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

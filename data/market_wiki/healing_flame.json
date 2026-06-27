@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54e0c9eee7798903744178ae",
+  "slug": "healing_flame",
+  "market_slug": "healing_flame",
+  "name_en": "Healing Flame",
+  "name_en_slug": "healing_flame",
+  "name_kr": "힐링 플레임",
+  "aliases": [
+    "Healing Flame",
+    "healing flame",
+    "healing_flame",
+    "힐링 플레임"
+  ],
+  "tags": [
+    "augment",
+    "ember",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Ember/FireBlastAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/healing_flame.0672e5552e12d348dbc0521e3841c9a1.png",
+  "thumb": "items/images/en/thumbs/healing_flame.0672e5552e12d348dbc0521e3841c9a1.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,27 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6054de965221e3005750108b",
+  "slug": "echowinder",
+  "market_slug": "echowinder",
+  "name_en": "Echowinder",
+  "name_en_slug": "echowinder",
+  "name_kr": "에코와인더",
+  "aliases": [
+    "Echowinder",
+    "echowinder",
+    "에코와인더"
+  ],
+  "tags": [
+    "fish"
+  ],
+  "game_ref": "/Lotus/Types/Items/Fish/Solaris/CorpusWarmCommonFishAItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/echowinder.9fc57880582fbf57f7d35a0a4bc46e4c.png",
+  "thumb": "items/images/en/thumbs/echowinder.9fc57880582fbf57f7d35a0a4bc46e4c.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

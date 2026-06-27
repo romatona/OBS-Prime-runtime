@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "68f7a4c3f1d462c2c07416db",
+  "slug": "ayatan_chattraka_sculpture",
+  "market_slug": "ayatan_chattraka_sculpture",
+  "name_en": "Ayatan Chattraka Sculpture",
+  "name_en_slug": "ayatan_chattraka_sculpture",
+  "name_kr": "아야탄 챠트라카 조각상",
+  "aliases": [
+    "Ayatan Chattraka Sculpture",
+    "ayatan chattraka sculpture",
+    "ayatan_chattraka_sculpture",
+    "아야탄 챠트라카 조각상"
+  ],
+  "tags": [
+    "ayatan_sculpture"
+  ],
+  "game_ref": "/Lotus/Types/Items/FusionTreasures/OroFusexI",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/ayatan_chattraka_sculpture.52414da0d1cadd96cde791852b63c0b5.webp",
+  "thumb": "items/images/en/thumbs/ayatan_chattraka_sculpture.52414da0d1cadd96cde791852b63c0b5.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

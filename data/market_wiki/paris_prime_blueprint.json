@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a73e65e779893a797fff55",
+  "slug": "paris_prime_blueprint",
+  "market_slug": "paris_prime_blueprint",
+  "name_en": "Paris Prime Blueprint",
+  "name_en_slug": "paris_prime_blueprint",
+  "name_kr": "패리스 프라임 설계도",
+  "aliases": [
+    "Paris Prime",
+    "Paris Prime Blueprint",
+    "paris prime blueprint",
+    "paris_prime_blueprint",
+    "패리스 프라임",
+    "패리스 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "primary",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/BowPrimeBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/paris_prime_blueprint.971f957f8304ce10617836343d47b238.png",
+  "thumb": "items/images/en/thumbs/paris_prime_blueprint.971f957f8304ce10617836343d47b238.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

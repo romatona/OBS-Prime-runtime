@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5dff6e111456970316674a1d",
+  "slug": "form_up",
+  "market_slug": "form_up",
+  "name_en": "Form Up",
+  "name_en_slug": "form_up",
+  "name_kr": "폼 업",
+  "aliases": [
+    "Form Up",
+    "form up",
+    "form_up",
+    "폼 업"
+  ],
+  "tags": [
+    "mod",
+    "railjack",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Railjack/Tactical/CrewShipMassRecallAbilityCard",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/form_up.5f635da9cb84419da82582f69d0cfc8f.png",
+  "thumb": "items/images/en/thumbs/form_up.5f635da9cb84419da82582f69d0cfc8f.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

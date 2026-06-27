@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6054de6c5221e3005750107b",
+  "slug": "charc_eel",
+  "market_slug": "charc_eel",
+  "name_en": "Charc Eel",
+  "name_en_slug": "charc_eel",
+  "name_kr": "챠크 장어",
+  "aliases": [
+    "Charc Eel",
+    "charc eel",
+    "charc_eel",
+    "챠크 장어"
+  ],
+  "tags": [
+    "fish"
+  ],
+  "game_ref": "/Lotus/Types/Items/Fish/Eidolon/BothCommonFishAItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/charc_eel.41e212b6fe01e186d698fdbf459356ff.png",
+  "thumb": "items/images/en/thumbs/charc_eel.41e212b6fe01e186d698fdbf459356ff.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

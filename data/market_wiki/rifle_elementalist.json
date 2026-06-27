@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "667237ec8ba7c81b70d02cb0",
+  "slug": "rifle_elementalist",
+  "market_slug": "rifle_elementalist",
+  "name_en": "Rifle Elementalist",
+  "name_en_slug": "rifle_elementalist",
+  "name_kr": "라이플 엘리멘탈리스트",
+  "aliases": [
+    "Rifle Elementalist",
+    "rifle elementalist",
+    "rifle_elementalist",
+    "라이플 엘리멘탈리스트"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rifle",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/RifleStatusDamageDuoMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/rifle_elementalist.e9a360312645147b66e68937e05c584d.webp",
+  "thumb": "items/images/en/thumbs/rifle_elementalist.e9a360312645147b66e68937e05c584d.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

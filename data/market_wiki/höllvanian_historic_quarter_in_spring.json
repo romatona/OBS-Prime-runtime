@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "675c61737b18977f6e645406",
+  "slug": "höllvanian_historic_quarter_in_spring",
+  "market_slug": "höllvanian_historic_quarter_in_spring",
+  "name_en": "Höllvanian Historic Quarter In Spring Scene",
+  "name_en_slug": "höllvanian_historic_quarter_in_spring",
+  "name_kr": "홀바니아 봄 역사 지구 배경",
+  "aliases": [
+    "Höllvanian Historic Quarter In Spring Scene",
+    "höllvanian historic quarter in spring",
+    "höllvanian_historic_quarter_in_spring",
+    "홀바니아 봄 역사 지구 배경"
+  ],
+  "tags": [
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConStreetOgres",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/höllvanian_historic_quarter_in_spring.7c3d1b41bbf2b0ec06f0cd48f2f83206.webp",
+  "thumb": "items/images/en/thumbs/höllvanian_historic_quarter_in_spring.7c3d1b41bbf2b0ec06f0cd48f2f83206.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

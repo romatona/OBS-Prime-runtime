@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54aaf29ce7798971c40870b8",
+  "slug": "arcane_hemlock_helmet",
+  "market_slug": "arcane_hemlock_helmet",
+  "name_en": "Arcane Hemlock Helmet",
+  "name_en_slug": "arcane_hemlock_helmet",
+  "name_kr": "아케인 헴락 헬멧",
+  "aliases": [
+    "Arcane Hemlock Helmet",
+    "arcane hemlock helmet",
+    "arcane_hemlock_helmet",
+    "아케인 헴락 헬멧"
+  ],
+  "tags": [
+    "arcane_helmet",
+    "skin"
+  ],
+  "game_ref": "/Lotus/Upgrades/Skins/Asp/AspAltHelmet",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/arcane_hemlock_saryn_helmet.e640dccfb81244ae52998f9a44ed1a0c.png",
+  "thumb": "items/images/en/thumbs/arcane_hemlock_saryn_helmet.e640dccfb81244ae52998f9a44ed1a0c.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

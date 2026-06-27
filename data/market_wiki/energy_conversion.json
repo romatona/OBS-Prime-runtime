@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56dac8cc5cc639de0a45c52c",
+  "slug": "energy_conversion",
+  "market_slug": "energy_conversion",
+  "name_en": "Energy Conversion",
+  "name_en_slug": "energy_conversion",
+  "name_kr": "에너지 컨버전",
+  "aliases": [
+    "Energy Conversion",
+    "energy conversion",
+    "energy_conversion",
+    "에너지 컨버전"
+  ],
+  "tags": [
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Warframe/EnergyPickupGivesStrengthMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/energy_conversion.429f4ab72e9e8fe4b774e9b8dbcc202c.png",
+  "thumb": "items/images/en/thumbs/energy_conversion.429f4ab72e9e8fe4b774e9b8dbcc202c.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

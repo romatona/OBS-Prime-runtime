@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "68add07d731e63abe79a5d16",
+  "slug": "vadarya_prime_blueprint",
+  "market_slug": "vadarya_prime_blueprint",
+  "name_en": "Vadarya Prime Blueprint",
+  "name_en_slug": "vadarya_prime_blueprint",
+  "name_kr": "바다르야 프라임 설계도",
+  "aliases": [
+    "Vadarya Prime",
+    "Vadarya Prime Blueprint",
+    "vadarya prime blueprint",
+    "vadarya_prime_blueprint",
+    "바다르야 프라임",
+    "바다르야 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "primary",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/PrimeLightningGunBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/unknown.png",
+  "thumb": "",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

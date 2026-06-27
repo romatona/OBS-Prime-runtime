@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e5155d3",
+  "slug": "magnum_force",
+  "market_slug": "magnum_force",
+  "name_en": "Magnum Force",
+  "name_en_slug": "magnum_force",
+  "name_kr": "매그넘 포스",
+  "aliases": [
+    "Magnum Force",
+    "magnum force",
+    "magnum_force",
+    "매그넘 포스"
+  ],
+  "tags": [
+    "mod",
+    "pistol",
+    "rare",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Pistol/DualStat/CorruptedDamageRecoilPistol",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/magnum_force.4bcd9499631f6c61d99b930dd35493aa.png",
+  "thumb": "items/images/en/thumbs/magnum_force.4bcd9499631f6c61d99b930dd35493aa.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

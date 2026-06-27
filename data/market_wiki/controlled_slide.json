@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5e7caa01267539063de48c3b",
+  "slug": "controlled_slide",
+  "market_slug": "controlled_slide",
+  "name_en": "Controlled Slide",
+  "name_en_slug": "controlled_slide",
+  "name_kr": "컨트롤드 슬라이드",
+  "aliases": [
+    "Controlled Slide",
+    "controlled slide",
+    "controlled_slide",
+    "컨트롤드 슬라이드"
+  ],
+  "tags": [
+    "mod",
+    "nezha",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Nezha/NezhaDisablePassiveMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/controlled_slide.224fa96f8528ee7645579a88280c4680.png",
+  "thumb": "items/images/en/thumbs/controlled_slide.224fa96f8528ee7645579a88280c4680.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

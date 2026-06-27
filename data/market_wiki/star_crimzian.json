@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "59eba86952f90ed715e14158",
+  "slug": "star_crimzian",
+  "market_slug": "star_crimzian",
+  "name_en": "Star Crimzian",
+  "name_en_slug": "star_crimzian",
+  "name_kr": "스타 크림지안",
+  "aliases": [
+    "Star Crimzian",
+    "star crimzian",
+    "star_crimzian",
+    "스타 크림지안"
+  ],
+  "tags": [
+    "gem"
+  ],
+  "game_ref": "/Lotus/Types/Items/Gems/Eidolon/RareGemACutAItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/star_crimzian.db39ca051236313058cc68e0f57e355c.png",
+  "thumb": "items/images/en/thumbs/star_crimzian.db39ca051236313058cc68e0f57e355c.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

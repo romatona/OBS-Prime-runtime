@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5fb84768c34da3004797d551",
+  "slug": "volatile_rebound",
+  "market_slug": "volatile_rebound",
+  "name_en": "Volatile Rebound",
+  "name_en_slug": "volatile_rebound",
+  "name_kr": "볼래틸 리바운드",
+  "aliases": [
+    "Volatile Rebound",
+    "volatile rebound",
+    "volatile_rebound",
+    "볼래틸 리바운드"
+  ],
+  "tags": [
+    "melee",
+    "mod",
+    "rare",
+    "thrown_melee"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveExplodingReflectionIncreaseMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/volatile_rebound.fd671126fd4051e8e3addc13ae56d1f0.png",
+  "thumb": "items/images/en/thumbs/volatile_rebound.fd671126fd4051e8e3addc13ae56d1f0.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

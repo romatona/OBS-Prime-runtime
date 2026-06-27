@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "554d3f0ce779894445a848fd",
+  "slug": "shelter",
+  "market_slug": "shelter",
+  "name_en": "Shelter",
+  "name_en_slug": "shelter",
+  "name_kr": "쉘터",
+  "aliases": [
+    "Shelter",
+    "shelter",
+    "쉘터"
+  ],
+  "tags": [
+    "beast",
+    "mod",
+    "sentinel",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Types/Friendly/Pets/KubrowPetPrecepts/KubrowSanctuary",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/shelter.d38b95bffc41ff5d6964c3433569ae00.png",
+  "thumb": "items/images/en/thumbs/shelter.d38b95bffc41ff5d6964c3433569ae00.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

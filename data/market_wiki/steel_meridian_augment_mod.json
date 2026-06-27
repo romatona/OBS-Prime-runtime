@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5800c6c9c021d9dc0a9f8914",
+  "slug": "steel_meridian_augment_mod",
+  "market_slug": "steel_meridian_augment_mod",
+  "name_en": "Steel Meridian Augment Mod",
+  "name_en_slug": "steel_meridian_augment_mod",
+  "name_kr": "스틸 메리디안 개조 모드",
+  "aliases": [
+    "Steel Meridian Augment Mod",
+    "steel meridian augment mod",
+    "steel_meridian_augment_mod",
+    "스틸 메리디안 개조 모드"
+  ],
+  "tags": [
+    "mod",
+    "rare",
+    "syndicate"
+  ],
+  "game_ref": "",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/steel_meridian_augment_mod.24859218a0080d6b4454c825412f0711.webp",
+  "thumb": "items/images/en/thumbs/steel_meridian_augment_mod.24859218a0080d6b4454c825412f0711.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "69c529b5bb986142bb6e02bf",
+  "slug": "sentient_incision",
+  "market_slug": "sentient_incision",
+  "name_en": "Sentient Incision",
+  "name_en_slug": "sentient_incision",
+  "name_kr": "센티언트 인시젼",
+  "aliases": [
+    "Sentient Incision",
+    "sentient incision",
+    "sentient_incision",
+    "센티언트 인시젼"
+  ],
+  "tags": [
+    "melee",
+    "mod",
+    "rare",
+    "venato"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Melee/Event/Nightwave/NightwaveVenatoAugmentMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/sentient_incision.e801e7c7e05711a4e1452e8458361656.webp",
+  "thumb": "items/images/en/thumbs/sentient_incision.e801e7c7e05711a4e1452e8458361656.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

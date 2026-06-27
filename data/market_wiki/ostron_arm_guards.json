@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60e70f80479445008f2725a1",
+  "slug": "ostron_arm_guards",
+  "market_slug": "ostron_arm_guards",
+  "name_en": "Ostron Arm Guards",
+  "name_en_slug": "ostron_arm_guards",
+  "name_kr": "오스트론 암 가드",
+  "aliases": [
+    "Ostron Arm Guards",
+    "ostron arm guards",
+    "ostron_arm_guards",
+    "오스트론 암 가드"
+  ],
+  "tags": [
+    "skin"
+  ],
+  "game_ref": "/Lotus/Upgrades/Skins/Armor/OstronCrewArmor/OstronCrewArmorA",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/ostron_arm_guards.df666e6b25e56f6dd6f7f0ad80318977.png",
+  "thumb": "items/images/en/thumbs/ostron_arm_guards.df666e6b25e56f6dd6f7f0ad80318977.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

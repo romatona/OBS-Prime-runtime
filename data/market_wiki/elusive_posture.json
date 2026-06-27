@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "66fd696d3a826eccf651cd67",
+  "slug": "elusive_posture",
+  "market_slug": "elusive_posture",
+  "name_en": "Elusive Posture",
+  "name_en_slug": "elusive_posture",
+  "name_kr": "일루시브 포스처",
+  "aliases": [
+    "Elusive Posture",
+    "elusive posture",
+    "elusive_posture",
+    "일루시브 포스처"
+  ],
+  "tags": [
+    "claws",
+    "common",
+    "mod",
+    "stance"
+  ],
+  "game_ref": "/Lotus/Types/Friendly/Pets/BeastWeapons/Stances/BeastPacifistStance",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/elusive_posture.a81cadf3c1f6e67c92c188534ced77b2.webp",
+  "thumb": "items/images/en/thumbs/elusive_posture.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

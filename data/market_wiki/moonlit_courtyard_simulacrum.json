@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "667237878ba7c81b70d02caa",
+  "slug": "moonlit_courtyard_simulacrum",
+  "market_slug": "moonlit_courtyard_simulacrum",
+  "name_en": "Moonlit Courtyard Simulacrum",
+  "name_en_slug": "moonlit_courtyard_simulacrum",
+  "name_kr": "달빛이 비치는 안뜰 시뮬라크럼",
+  "aliases": [
+    "Moonlit Courtyard Simulacrum",
+    "moonlit courtyard simulacrum",
+    "moonlit_courtyard_simulacrum",
+    "달빛이 비치는 안뜰 시뮬라크럼"
+  ],
+  "tags": [
+    "simulacrum"
+  ],
+  "game_ref": "/Lotus/Types/Items/DangerRoom/DangerRoomTileUmbraShrine",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/moonlit_courtyard_simulacrum.413fde4939923f3a2102ed8bb31c94d4.webp",
+  "thumb": "items/images/en/thumbs/moonlit_courtyard_simulacrum.413fde4939923f3a2102ed8bb31c94d4.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

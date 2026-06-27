@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "66325caae85cac3856c86cbe",
+  "slug": "protea_prime_blueprint",
+  "market_slug": "protea_prime_blueprint",
+  "name_en": "Protea Prime Blueprint",
+  "name_en_slug": "protea_prime_blueprint",
+  "name_kr": "프로티아 프라임 설계도",
+  "aliases": [
+    "Protea Prime",
+    "Protea Prime Blueprint",
+    "protea prime blueprint",
+    "protea_prime_blueprint",
+    "프로티아 프라임",
+    "프로티아 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/ProteaPrimeBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/ko/protea_prime_blueprint.c4d0269d10f68228b05510982f06e58b.png",
+  "thumb": "items/images/ko/thumbs/protea_prime_blueprint.c4d0269d10f68228b05510982f06e58b.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

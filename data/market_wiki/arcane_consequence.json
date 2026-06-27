@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5667510e5dcbc186f0536bd0",
+  "slug": "arcane_consequence",
+  "market_slug": "arcane_consequence",
+  "name_en": "Arcane Consequence",
+  "name_en_slug": "arcane_consequence",
+  "name_kr": "아케인 콘시퀀스",
+  "aliases": [
+    "Arcane Consequence",
+    "arcane consequence",
+    "arcane_consequence",
+    "아케인 콘시퀀스"
+  ],
+  "tags": [
+    "arcane_enhancement"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Utility/GolemArcaneAimGlideOnHeadshot",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/arcane_consequence.f4e12b34a7b31c72f5fa1b042f6ae6e9.png",
+  "thumb": "items/images/en/thumbs/arcane_consequence.f4e12b34a7b31c72f5fa1b042f6ae6e9.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

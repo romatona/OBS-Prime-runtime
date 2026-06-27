@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54e0c9eee7798903744178af",
+  "slug": "ballistic_bullseye",
+  "market_slug": "ballistic_bullseye",
+  "name_en": "Ballistic Bullseye",
+  "name_en_slug": "ballistic_bullseye",
+  "name_kr": "발리스틱 불스아이",
+  "aliases": [
+    "Ballistic Bullseye",
+    "ballistic bullseye",
+    "ballistic_bullseye",
+    "발리스틱 불스아이"
+  ],
+  "tags": [
+    "augment",
+    "mesa",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Cowgirl/BallisticBatteryAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/ballistic_bullseye.7c80b74fd8358f402b96f1502e0ae453.png",
+  "thumb": "items/images/en/thumbs/ballistic_bullseye.7c80b74fd8358f402b96f1502e0ae453.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

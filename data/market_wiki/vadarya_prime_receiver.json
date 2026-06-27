@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "68add07d731e63abe79a5d18",
+  "slug": "vadarya_prime_receiver",
+  "market_slug": "vadarya_prime_receiver",
+  "name_en": "Vadarya Prime Receiver",
+  "name_en_slug": "vadarya_prime_receiver",
+  "name_kr": "바다르야 프라임 리시버",
+  "aliases": [
+    "Vadarya Prime Receiver",
+    "vadarya prime receiver",
+    "vadarya_prime_receiver",
+    "바다르야 프라임 리시버"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeLightningGunReceiver",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/unknown.png",
+  "thumb": "",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

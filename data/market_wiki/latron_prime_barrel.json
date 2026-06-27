@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a73e65e779893a797fff49",
+  "slug": "latron_prime_barrel",
+  "market_slug": "latron_prime_barrel",
+  "name_en": "Latron Prime Barrel",
+  "name_en_slug": "latron_prime_barrel",
+  "name_kr": "래트론 프라임 배럴",
+  "aliases": [
+    "Latron Prime Barrel",
+    "latron prime barrel",
+    "latron_prime_barrel",
+    "래트론 프라임 배럴"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/LatronPrimeBarrel",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/latron_prime_barrel.5c8b8009acbdb97fd49177ba155ecfbe.png",
+  "thumb": "items/images/en/thumbs/latron_prime_barrel.5c8b8009acbdb97fd49177ba155ecfbe.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

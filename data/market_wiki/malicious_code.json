@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60e5b8fc4794450053e9993e",
+  "slug": "malicious_code",
+  "market_slug": "malicious_code",
+  "name_en": "Malicious Code",
+  "name_en_slug": "malicious_code",
+  "name_kr": "말리셔스 코드",
+  "aliases": [
+    "Malicious Code",
+    "malicious code",
+    "malicious_code",
+    "말리셔스 코드"
+  ],
+  "tags": [
+    "mod",
+    "parazon",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/DataSpike/Assassin/OnExecutionTerrifyMod",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/malicious_code.4dd2ce62a4ad80921eec32295055d406.png",
+  "thumb": "items/images/en/thumbs/malicious_code.4dd2ce62a4ad80921eec32295055d406.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

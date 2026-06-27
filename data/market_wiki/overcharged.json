@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a4e3",
+  "slug": "overcharged",
+  "market_slug": "overcharged",
+  "name_en": "Overcharged",
+  "name_en_slug": "overcharged",
+  "name_kr": "오버차지드",
+  "aliases": [
+    "Overcharged",
+    "overcharged",
+    "오버차지드"
+  ],
+  "tags": [
+    "mod",
+    "pvp",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Warframe/EnergyToOvershieldsOnSpawnMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/overcharged.9457277e259da0727f6d4ceae945f2f4.png",
+  "thumb": "items/images/en/thumbs/overcharged.9457277e259da0727f6d4ceae945f2f4.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

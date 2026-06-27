@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "58358a0c2c2ada0047b386f9",
+  "slug": "valkyr_prime_systems_blueprint",
+  "market_slug": "valkyr_prime_systems_blueprint",
+  "name_en": "Valkyr Prime Systems Blueprint",
+  "name_en_slug": "valkyr_prime_systems_blueprint",
+  "name_kr": "발키르 프라임 시스템 설계도",
+  "aliases": [
+    "Valkyr Prime Systems",
+    "Valkyr Prime Systems Blueprint",
+    "valkyr prime systems blueprint",
+    "valkyr_prime_systems_blueprint",
+    "발키르 프라임 시스템",
+    "발키르 프라임 시스템 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/ValkyrPrimeSystemsBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/valkyr_prime_systems.a5c906d66a11ff70158f0ffad0c628e8.png",
+  "thumb": "items/images/en/thumbs/valkyr_prime_systems.a5c906d66a11ff70158f0ffad0c628e8.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

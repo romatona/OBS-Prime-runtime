@@ -1,0 +1,27 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6054de775221e3005750107e",
+  "slug": "sharrac",
+  "market_slug": "sharrac",
+  "name_en": "Sharrac",
+  "name_en_slug": "sharrac",
+  "name_kr": "샤라크",
+  "aliases": [
+    "Sharrac",
+    "sharrac",
+    "샤라크"
+  ],
+  "tags": [
+    "fish"
+  ],
+  "game_ref": "/Lotus/Types/Items/Fish/Eidolon/BothUncommonFishAItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/sharrac.ee2d8aa7ef4d514d607058ee1ad29295.png",
+  "thumb": "items/images/en/thumbs/sharrac.ee2d8aa7ef4d514d607058ee1ad29295.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

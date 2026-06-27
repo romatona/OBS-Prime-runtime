@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5814b1f2ca550948410af0ae",
+  "slug": "chilling_reload",
+  "market_slug": "chilling_reload",
+  "name_en": "Chilling Reload",
+  "name_en_slug": "chilling_reload",
+  "name_kr": "칠링 리로드",
+  "aliases": [
+    "Chilling Reload",
+    "chilling reload",
+    "chilling_reload",
+    "칠링 리로드"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "shotgun"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Shotgun/DualStat/ColdDmgReloadSpeedMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/chilling_reload.92fc3f47e6bbe5bd696d4cdb7abf9f40.png",
+  "thumb": "items/images/en/thumbs/chilling_reload.92fc3f47e6bbe5bd696d4cdb7abf9f40.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

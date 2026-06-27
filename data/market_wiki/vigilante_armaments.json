@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "59dfeb63115f1d887cfd7aba",
+  "slug": "vigilante_armaments",
+  "market_slug": "vigilante_armaments",
+  "name_en": "Vigilante Armaments",
+  "name_en_slug": "vigilante_armaments",
+  "name_kr": "비질란티 아마먼츠",
+  "aliases": [
+    "Vigilante Armaments",
+    "vigilante armaments",
+    "vigilante_armaments",
+    "비질란티 아마먼츠"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "primary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sets/Vigilante/PrimaryVigilanteArmamentsMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/vigilante_armaments.4aa8eaec104ba573159a2cbf207b6314.png",
+  "thumb": "items/images/en/thumbs/vigilante_armaments.4aa8eaec104ba573159a2cbf207b6314.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

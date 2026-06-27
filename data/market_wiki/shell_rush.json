@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56d6b7f483240e1f3aab2907",
+  "slug": "shell_rush",
+  "market_slug": "shell_rush",
+  "name_en": "Shell Rush",
+  "name_en_slug": "shell_rush",
+  "name_kr": "쉘 러쉬",
+  "aliases": [
+    "Shell Rush",
+    "shell rush",
+    "shell_rush",
+    "쉘 러쉬"
+  ],
+  "tags": [
+    "archgun",
+    "archwing",
+    "mod",
+    "primary",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleChargeSpeedMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/shell_rush.184b1b2a564ccb241e3f3956ede39cb6.png",
+  "thumb": "items/images/en/thumbs/shell_rush.184b1b2a564ccb241e3f3956ede39cb6.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

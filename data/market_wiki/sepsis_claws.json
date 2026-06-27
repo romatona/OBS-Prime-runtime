@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "66fd69223a826eccf651cd57",
+  "slug": "sepsis_claws",
+  "market_slug": "sepsis_claws",
+  "name_en": "Sepsis Claws",
+  "name_en_slug": "sepsis_claws",
+  "name_kr": "셉시스 클로",
+  "aliases": [
+    "Sepsis Claws",
+    "sepsis claws",
+    "sepsis_claws",
+    "셉시스 클로"
+  ],
+  "tags": [
+    "claws",
+    "melee",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/BeastWeapon/KubrowToxicConversionMod",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/sepsis_claws.a81cadf3c1f6e67c92c188534ced77b2.webp",
+  "thumb": "items/images/en/thumbs/sepsis_claws.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

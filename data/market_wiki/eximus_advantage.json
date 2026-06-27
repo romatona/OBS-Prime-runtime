@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "64c2ab1c66456704fef15835",
+  "slug": "eximus_advantage",
+  "market_slug": "eximus_advantage",
+  "name_en": "Eximus Advantage",
+  "name_en_slug": "eximus_advantage",
+  "name_kr": "엑시무스 어드밴티지",
+  "aliases": [
+    "Eximus Advantage",
+    "eximus advantage",
+    "eximus_advantage",
+    "엑시무스 어드밴티지"
+  ],
+  "tags": [
+    "mod",
+    "rare",
+    "secondary",
+    "zylok"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/Event/Nightwave/NightwaveZylokAugmentMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/eximus_advantage.fcd7be359bf4beb90e4bc196949cc101.png",
+  "thumb": "items/images/en/thumbs/eximus_advantage.fcd7be359bf4beb90e4bc196949cc101.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

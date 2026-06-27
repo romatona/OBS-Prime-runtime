@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a73e65e779893a797fff3d",
+  "slug": "dakra_prime_blade",
+  "market_slug": "dakra_prime_blade",
+  "name_en": "Dakra Prime Blade",
+  "name_en_slug": "dakra_prime_blade",
+  "name_kr": "다크라 프라임 블레이드",
+  "aliases": [
+    "Dakra Prime Blade",
+    "dakra prime blade",
+    "dakra_prime_blade",
+    "다크라 프라임 블레이드"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeCronusLongSwordBlade",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/dakra_prime_blade.785a613039ec892abc579c176f0b33da.png",
+  "thumb": "items/images/en/thumbs/dakra_prime_blade.785a613039ec892abc579c176f0b33da.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

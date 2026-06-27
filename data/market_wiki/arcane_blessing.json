@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "63886517e7c988007b5bd512",
+  "slug": "arcane_blessing",
+  "market_slug": "arcane_blessing",
+  "name_en": "Arcane Blessing",
+  "name_en_slug": "arcane_blessing",
+  "name_kr": "아케인 블레싱",
+  "aliases": [
+    "Arcane Blessing",
+    "arcane blessing",
+    "arcane_blessing",
+    "아케인 블레싱"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/IncreaseMaxHealthOnHealthPickup",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/arcane_blessing.aec88d7b4b3482f59c6c1a3b87185042.png",
+  "thumb": "items/images/en/thumbs/arcane_blessing.aec88d7b4b3482f59c6c1a3b87185042.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

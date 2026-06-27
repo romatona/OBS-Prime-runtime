@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "551085e4e7798972c7353fb0",
+  "slug": "arcane_strike",
+  "market_slug": "arcane_strike",
+  "name_en": "Arcane Strike",
+  "name_en_slug": "arcane_strike",
+  "name_kr": "아케인 스트라이크",
+  "aliases": [
+    "Arcane Strike",
+    "arcane strike",
+    "arcane_strike",
+    "아케인 스트라이크"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/MeleeSpeedOnHit",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/arcane_strike.27c40994b55f506fe736175c9cebbf0e.png",
+  "thumb": "items/images/en/thumbs/arcane_strike.27c40994b55f506fe736175c9cebbf0e.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

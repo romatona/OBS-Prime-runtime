@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5ab1570db2b6a8044d5137c4",
+  "slug": "zephyr_prime_systems_blueprint",
+  "market_slug": "zephyr_prime_systems_blueprint",
+  "name_en": "Zephyr Prime Systems Blueprint",
+  "name_en_slug": "zephyr_prime_systems_blueprint",
+  "name_kr": "제피르 프라임 시스템 설계도",
+  "aliases": [
+    "Zephyr Prime Systems",
+    "Zephyr Prime Systems Blueprint",
+    "zephyr prime systems blueprint",
+    "zephyr_prime_systems_blueprint",
+    "제피르 프라임 시스템",
+    "제피르 프라임 시스템 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/ZephyrPrimeSystemsBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/zephyr_prime_systems.4ffc19dd100b3c182beef5f1ef3d337e.png",
+  "thumb": "items/images/en/thumbs/zephyr_prime_systems.4ffc19dd100b3c182beef5f1ef3d337e.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

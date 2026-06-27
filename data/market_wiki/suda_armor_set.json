@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60e70f7c479445008f272587",
+  "slug": "suda_armor_set",
+  "market_slug": "suda_armor_set",
+  "name_en": "Suda Armor Set",
+  "name_en_slug": "suda_armor_set",
+  "name_kr": "수다 아머 세트",
+  "aliases": [
+    "Suda Armor Set",
+    "suda armor set",
+    "suda_armor_set",
+    "수다 아머 세트"
+  ],
+  "tags": [
+    "skin"
+  ],
+  "game_ref": "",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/suda_armor_set.9bf5ef65cf73d16a9ba34f5495e51d3b.webp",
+  "thumb": "items/images/en/thumbs/suda_armor_set.9bf5ef65cf73d16a9ba34f5495e51d3b.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

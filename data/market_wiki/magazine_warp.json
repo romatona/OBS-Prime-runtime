@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e51561d",
+  "slug": "magazine_warp",
+  "market_slug": "magazine_warp",
+  "name_en": "Magazine Warp",
+  "name_en_slug": "magazine_warp",
+  "name_kr": "매거진 워프",
+  "aliases": [
+    "Magazine Warp",
+    "magazine warp",
+    "magazine_warp",
+    "매거진 워프"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "primary",
+    "rifle"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/WeaponClipMaxMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/magazine_warp.e2700e1b5c6c0028cab3b6a249068f69.png",
+  "thumb": "items/images/en/thumbs/magazine_warp.e2700e1b5c6c0028cab3b6a249068f69.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

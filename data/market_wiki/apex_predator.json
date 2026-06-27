@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a4ca",
+  "slug": "apex_predator",
+  "market_slug": "apex_predator",
+  "name_en": "Apex Predator",
+  "name_en_slug": "apex_predator",
+  "name_kr": "에이펙스 프레데터",
+  "aliases": [
+    "Apex Predator",
+    "apex predator",
+    "apex_predator",
+    "에이펙스 프레데터"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "pvp",
+    "rifle",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Rifle/MarkTargetRifleMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/apex_predator.2d037a2722b651e3cb5e86c1cc234a6e.png",
+  "thumb": "items/images/en/thumbs/apex_predator.2d037a2722b651e3cb5e86c1cc234a6e.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

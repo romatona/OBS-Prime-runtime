@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a4fa",
+  "slug": "strafing_slide",
+  "market_slug": "strafing_slide",
+  "name_en": "Strafing Slide",
+  "name_en_slug": "strafing_slide",
+  "name_kr": "스트레이핑 슬라이드",
+  "aliases": [
+    "Strafing Slide",
+    "strafing slide",
+    "strafing_slide",
+    "스트레이핑 슬라이드"
+  ],
+  "tags": [
+    "mod",
+    "pistol",
+    "pvp",
+    "rare",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Pistol/MoreAccuracyLessRecoilSlidingPistolMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/strafing_slide.7c339df1175de65544fdabd98bad1310.png",
+  "thumb": "items/images/en/thumbs/strafing_slide.7c339df1175de65544fdabd98bad1310.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

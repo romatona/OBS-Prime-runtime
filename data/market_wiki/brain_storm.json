@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56dac5ac5cc639de0a45c526",
+  "slug": "brain_storm",
+  "market_slug": "brain_storm",
+  "name_en": "Brain Storm",
+  "name_en_slug": "brain_storm",
+  "name_kr": "브레인 스톰",
+  "aliases": [
+    "Brain Storm",
+    "brain storm",
+    "brain_storm",
+    "브레인 스톰"
+  ],
+  "tags": [
+    "grakata",
+    "mod",
+    "primary",
+    "pvp",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Rifle/GrakataUnlimitedAmmo",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/brain_storm.85cc50bf4d62733e3b35cd2f0e3c7b7b.png",
+  "thumb": "items/images/en/thumbs/brain_storm.85cc50bf4d62733e3b35cd2f0e3c7b7b.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

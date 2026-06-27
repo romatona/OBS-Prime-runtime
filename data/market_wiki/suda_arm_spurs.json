@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60e70f7c479445008f272586",
+  "slug": "suda_arm_spurs",
+  "market_slug": "suda_arm_spurs",
+  "name_en": "Suda Arm Spurs",
+  "name_en_slug": "suda_arm_spurs",
+  "name_kr": "수다 암 스퍼",
+  "aliases": [
+    "Suda Arm Spurs",
+    "suda arm spurs",
+    "suda_arm_spurs",
+    "수다 암 스퍼"
+  ],
+  "tags": [
+    "skin"
+  ],
+  "game_ref": "/Lotus/Upgrades/Skins/Armor/CephArmor/CephArmorA",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/suda_arm_spurs.11721de60cad9380b494606c8e55a195.png",
+  "thumb": "items/images/en/thumbs/suda_arm_spurs.11721de60cad9380b494606c8e55a195.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

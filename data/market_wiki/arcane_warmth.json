@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "551085f4e7798972d0eaf1ad",
+  "slug": "arcane_warmth",
+  "market_slug": "arcane_warmth",
+  "name_en": "Arcane Warmth",
+  "name_en_slug": "arcane_warmth",
+  "name_kr": "아케인 웜스",
+  "aliases": [
+    "Arcane Warmth",
+    "arcane warmth",
+    "arcane_warmth",
+    "아케인 웜스"
+  ],
+  "tags": [
+    "arcane_enhancement"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/FreezeProcResist",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/arcane_warmth.2cc54a97fdce903163669b1e57e998ad.png",
+  "thumb": "items/images/en/thumbs/arcane_warmth.2cc54a97fdce903163669b1e57e998ad.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

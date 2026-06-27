@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e5155f1",
+  "slug": "rebound",
+  "market_slug": "rebound",
+  "name_en": "Rebound",
+  "name_en_slug": "rebound",
+  "name_kr": "리바운드",
+  "aliases": [
+    "Rebound",
+    "rebound",
+    "리바운드"
+  ],
+  "tags": [
+    "common",
+    "melee",
+    "mod",
+    "thrown_melee"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveReflectionIncreaseMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/rebound.81cc7cf721d2395f2669fafac3eed574.png",
+  "thumb": "items/images/en/thumbs/rebound.81cc7cf721d2395f2669fafac3eed574.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5e839495267539077b0dd6d1",
+  "slug": "sentient_scalpel",
+  "market_slug": "sentient_scalpel",
+  "name_en": "Sentient Scalpel",
+  "name_en_slug": "sentient_scalpel",
+  "name_kr": "센티언트 스칼펠",
+  "aliases": [
+    "Sentient Scalpel",
+    "sentient scalpel",
+    "sentient_scalpel",
+    "센티언트 스칼펠"
+  ],
+  "tags": [
+    "mod",
+    "railjack",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Railjack/Gunnery/VidarSentientKiller",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/sentient_scalpel.2a05327a670da6dbe3452a9d371ac016.png",
+  "thumb": "items/images/en/thumbs/sentient_scalpel.2a05327a670da6dbe3452a9d371ac016.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

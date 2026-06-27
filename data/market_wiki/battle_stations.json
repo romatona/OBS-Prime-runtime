@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5e02154d14569703bf43e54a",
+  "slug": "battle_stations",
+  "market_slug": "battle_stations",
+  "name_en": "Battle Stations",
+  "name_en_slug": "battle_stations",
+  "name_kr": "배틀 스테이션즈",
+  "aliases": [
+    "Battle Stations",
+    "battle stations",
+    "battle_stations",
+    "배틀 스테이션즈"
+  ],
+  "tags": [
+    "mod",
+    "railjack",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Railjack/Tactical/CrewShipQuadDamageAbilityCard",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/battle_stations.7140bba7146e58d1479718becd0271cf.png",
+  "thumb": "items/images/en/thumbs/battle_stations.7140bba7146e58d1479718becd0271cf.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

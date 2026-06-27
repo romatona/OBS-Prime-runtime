@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54aae2ace7798918750e63f2",
+  "slug": "sancti_castanas",
+  "market_slug": "sancti_castanas",
+  "name_en": "Sancti Castanas",
+  "name_en_slug": "sancti_castanas",
+  "name_kr": "생티 캐스타나스",
+  "aliases": [
+    "Sancti Castanas",
+    "sancti castanas",
+    "sancti_castanas",
+    "생티 캐스타나스"
+  ],
+  "tags": [
+    "secondary",
+    "syndicate",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Syndicates/NewLoka/Pistols/NLCastanas",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/sancti_castanas.1f0b15a73acc61516e6f3fbda5060cf6.png",
+  "thumb": "items/images/en/thumbs/sancti_castanas.1f0b15a73acc61516e6f3fbda5060cf6.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

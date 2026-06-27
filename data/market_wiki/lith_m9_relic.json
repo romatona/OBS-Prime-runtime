@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "67351816db3ac2cfade14a8d",
+  "slug": "lith_m9_relic",
+  "market_slug": "lith_m9_relic",
+  "name_en": "Lith M9 Relic",
+  "name_en_slug": "lith_m9_relic",
+  "name_kr": "리스 M9 성유물",
+  "aliases": [
+    "Lith M9 Relic",
+    "lith m9 relic",
+    "lith_m9_relic",
+    "리스 M9 성유물"
+  ],
+  "tags": [
+    "lith",
+    "relic"
+  ],
+  "game_ref": "/Lotus/Types/Game/Projections/T1VoidProjectionXakuPrimeD",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/lith_m9_relic.78903ffe750d335f05034144948ad67d.webp",
+  "thumb": "items/images/en/thumbs/lith_m9_relic.78903ffe750d335f05034144948ad67d.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

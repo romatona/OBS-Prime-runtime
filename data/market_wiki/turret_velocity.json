@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5eadc6bf04d55c027d23a6df",
+  "slug": "turret_velocity",
+  "market_slug": "turret_velocity",
+  "name_en": "Turret Velocity",
+  "name_en_slug": "turret_velocity",
+  "name_kr": "터렛 벨로시티",
+  "aliases": [
+    "Turret Velocity",
+    "turret velocity",
+    "turret_velocity",
+    "터렛 벨로시티"
+  ],
+  "tags": [
+    "mod",
+    "railjack",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Railjack/Gunnery/VidarTurretRangeAndSpeed",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/turret_velocity.1cbc2123b1c3726a810cefc200b56bef.png",
+  "thumb": "items/images/en/thumbs/turret_velocity.1cbc2123b1c3726a810cefc200b56bef.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

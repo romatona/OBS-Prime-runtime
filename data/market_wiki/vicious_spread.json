@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e51560c",
+  "slug": "vicious_spread",
+  "market_slug": "vicious_spread",
+  "name_en": "Vicious Spread",
+  "name_en_slug": "vicious_spread",
+  "name_kr": "비셔스 스프레드",
+  "aliases": [
+    "Vicious Spread",
+    "vicious spread",
+    "vicious_spread",
+    "비셔스 스프레드"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "shotgun"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Shotgun/DualStat/CorruptedDamageAccuracyShotgun",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/vicious_spread.19c08f4fbc9b85fa04676afc1331f63b.png",
+  "thumb": "items/images/en/thumbs/vicious_spread.19c08f4fbc9b85fa04676afc1331f63b.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

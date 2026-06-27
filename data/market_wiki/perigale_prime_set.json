@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "69d67708b3984cc97e241752",
+  "slug": "perigale_prime_set",
+  "market_slug": "perigale_prime_set",
+  "name_en": "Perigale Prime Set",
+  "name_en_slug": "perigale_prime_set",
+  "name_kr": "페리게일 프라임 세트",
+  "aliases": [
+    "Perigale Prime Set",
+    "perigale prime set",
+    "perigale_prime_set",
+    "페리게일 프라임 세트"
+  ],
+  "tags": [
+    "primary",
+    "prime",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/LongGuns/PrimePerigale/PrimePerigaleSniper",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/perigale_prime_set.9168f4020497799e8dd44b130c899c5d.webp",
+  "thumb": "items/images/en/thumbs/perigale_prime_set.9168f4020497799e8dd44b130c899c5d.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

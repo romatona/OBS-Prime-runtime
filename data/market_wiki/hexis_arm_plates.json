@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60e70f7d479445008f27258a",
+  "slug": "hexis_arm_plates",
+  "market_slug": "hexis_arm_plates",
+  "name_en": "Hexis Arm Plates",
+  "name_en_slug": "hexis_arm_plates",
+  "name_kr": "헥시스 암 플레이트",
+  "aliases": [
+    "Hexis Arm Plates",
+    "hexis arm plates",
+    "hexis_arm_plates",
+    "헥시스 암 플레이트"
+  ],
+  "tags": [
+    "skin"
+  ],
+  "game_ref": "/Lotus/Upgrades/Skins/Armor/ArbiterOfHexisArmor/ArbiterOfHexisArmorA",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/hexis_arm_plates.aaf6be0c9918abf318d0c9f819333366.png",
+  "thumb": "items/images/en/thumbs/hexis_arm_plates.aaf6be0c9918abf318d0c9f819333366.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

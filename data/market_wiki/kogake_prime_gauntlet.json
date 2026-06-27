@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5a311f85c2c9e90dfff475f6",
+  "slug": "kogake_prime_gauntlet",
+  "market_slug": "kogake_prime_gauntlet",
+  "name_en": "Kogake Prime Gauntlet",
+  "name_en_slug": "kogake_prime_gauntlet",
+  "name_kr": "코가케 프라임 건틀렛",
+  "aliases": [
+    "Kogake Prime Gauntlet",
+    "kogake prime gauntlet",
+    "kogake_prime_gauntlet",
+    "코가케 프라임 건틀렛"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/KogakePrimeGauntlet",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/kogake_prime_gauntlet.456b865463108d6f6ff51da978f839cd.png",
+  "thumb": "items/images/en/thumbs/kogake_prime_gauntlet.456b865463108d6f6ff51da978f839cd.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

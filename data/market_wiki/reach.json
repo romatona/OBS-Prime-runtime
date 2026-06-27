@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e5155f2",
+  "slug": "reach",
+  "market_slug": "reach",
+  "name_en": "Reach",
+  "name_en_slug": "reach",
+  "name_kr": "리치",
+  "aliases": [
+    "Reach",
+    "reach",
+    "리치"
+  ],
+  "tags": [
+    "common",
+    "melee",
+    "mod"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeRangeIncMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/reach.bd9e1be51f4d18870dc8fa79d0b1b7e9.png",
+  "thumb": "items/images/en/thumbs/reach.bd9e1be51f4d18870dc8fa79d0b1b7e9.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

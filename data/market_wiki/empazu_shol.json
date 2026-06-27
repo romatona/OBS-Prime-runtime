@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "693e660b03903ae8993ffaf0",
+  "slug": "empazu_shol",
+  "market_slug": "empazu_shol",
+  "name_en": "Empazu-Shol",
+  "name_en_slug": "empazu_shol",
+  "name_kr": "엠파주-숄",
+  "aliases": [
+    "Empazu-Shol",
+    "empazu shol",
+    "empazu_shol",
+    "엠파주-숄"
+  ],
+  "tags": [
+    "any",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Antiques/UltimateInitialChargeSchools",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/ko/empazu_shol.f9f8c07b9c738f4ce08012cd05d1fdf0.webp",
+  "thumb": "items/images/ko/thumbs/empazu_shol.f9f8c07b9c738f4ce08012cd05d1fdf0.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

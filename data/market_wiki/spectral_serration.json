@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "675c61ff7b18977f6e645418",
+  "slug": "spectral_serration",
+  "market_slug": "spectral_serration",
+  "name_en": "Spectral Serration",
+  "name_en_slug": "spectral_serration",
+  "name_kr": "스펙트럴 서레이션",
+  "aliases": [
+    "Spectral Serration",
+    "spectral serration",
+    "spectral_serration",
+    "스펙트럴 서레이션"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "rifle"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/WeaponDamageAmountInvisibleMod",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/spectral_serration.20f00c76110efeadf7256f853a3d0864.webp",
+  "thumb": "items/images/en/thumbs/spectral_serration.20f00c76110efeadf7256f853a3d0864.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

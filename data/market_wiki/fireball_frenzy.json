@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515617",
+  "slug": "fireball_frenzy",
+  "market_slug": "fireball_frenzy",
+  "name_en": "Fireball Frenzy",
+  "name_en_slug": "fireball_frenzy",
+  "name_kr": "파이어볼 프렌지",
+  "aliases": [
+    "Fireball Frenzy",
+    "fireball frenzy",
+    "fireball_frenzy",
+    "파이어볼 프렌지"
+  ],
+  "tags": [
+    "augment",
+    "ember",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Ember/FireBallAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/fireball_frenzy.8d225c9bcd337378c90f8d57849c1c60.png",
+  "thumb": "items/images/en/thumbs/fireball_frenzy.8d225c9bcd337378c90f8d57849c1c60.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

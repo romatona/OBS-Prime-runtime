@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5758af4842ba8659dde2f572",
+  "slug": "calculated_redirection",
+  "market_slug": "calculated_redirection",
+  "name_en": "Calculated Redirection",
+  "name_en_slug": "calculated_redirection",
+  "name_kr": "칼큘레이티드 리다이렉션",
+  "aliases": [
+    "Calculated Redirection",
+    "calculated redirection",
+    "calculated_redirection",
+    "칼큘레이티드 리다이렉션"
+  ],
+  "tags": [
+    "common",
+    "companion",
+    "mod",
+    "sentinel"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sentinel/SentinelShieldMaxMod",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/calculated_redirection.153e48ee77eeb3d2a70a9c3956be0b6f.png",
+  "thumb": "items/images/en/thumbs/calculated_redirection.153e48ee77eeb3d2a70a9c3956be0b6f.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

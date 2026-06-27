@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "58e6407ada6e257f670cf06b",
+  "slug": "color_key_scene",
+  "market_slug": "color_key_scene",
+  "name_en": "Color Key Scene",
+  "name_en_slug": "color_key_scene",
+  "name_kr": "컬러 키 배경",
+  "aliases": [
+    "Color Key Scene",
+    "color key scene",
+    "color_key_scene",
+    "컬러 키 배경"
+  ],
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/MiscItems/PhotoboothTileWhiteBox",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/color_key_scene.df44186af9a8fd041e62fe3c62e3332a.png",
+  "thumb": "items/images/en/thumbs/color_key_scene.df44186af9a8fd041e62fe3c62e3332a.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

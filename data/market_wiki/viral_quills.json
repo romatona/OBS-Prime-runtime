@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5f498a259426ed00443bd0c9",
+  "slug": "viral_quills",
+  "market_slug": "viral_quills",
+  "name_en": "Viral Quills",
+  "name_en_slug": "viral_quills",
+  "name_kr": "바이럴 퀼스",
+  "aliases": [
+    "Viral Quills",
+    "viral quills",
+    "viral_quills",
+    "바이럴 퀼스"
+  ],
+  "tags": [
+    "kavat",
+    "mod",
+    "panzer_vulpaphyla",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/InfestedKavatViralQuillsPrecept",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/viral_quills.7c3d803df0d4955872187242adbfda57.png",
+  "thumb": "items/images/en/thumbs/viral_quills.7c3d803df0d4955872187242adbfda57.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

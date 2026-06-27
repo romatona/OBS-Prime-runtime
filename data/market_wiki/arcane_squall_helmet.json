@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54aaf196e77989526dcfba2d",
+  "slug": "arcane_squall_helmet",
+  "market_slug": "arcane_squall_helmet",
+  "name_en": "Arcane Squall Helmet",
+  "name_en_slug": "arcane_squall_helmet",
+  "name_kr": "아케인 스퀄 헬멧",
+  "aliases": [
+    "Arcane Squall Helmet",
+    "arcane squall helmet",
+    "arcane_squall_helmet",
+    "아케인 스퀄 헬멧"
+  ],
+  "tags": [
+    "arcane_helmet",
+    "skin"
+  ],
+  "game_ref": "/Lotus/Upgrades/Skins/Frost/FrostHelmetAltB",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/arcane_squall_frost_helmet.c74f74a1c9f245336a25cf9786dbf44e.png",
+  "thumb": "items/images/en/thumbs/arcane_squall_frost_helmet.c74f74a1c9f245336a25cf9786dbf44e.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

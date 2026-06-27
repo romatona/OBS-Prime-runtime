@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515598",
+  "slug": "fleeting_expertise",
+  "market_slug": "fleeting_expertise",
+  "name_en": "Fleeting Expertise",
+  "name_en_slug": "fleeting_expertise",
+  "name_kr": "플리팅 엑스퍼티즈",
+  "aliases": [
+    "Fleeting Expertise",
+    "fleeting expertise",
+    "fleeting_expertise",
+    "플리팅 엑스퍼티즈"
+  ],
+  "tags": [
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Warframe/DualStat/CorruptedEfficiencyDurationWarframe",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/fleeting_expertise.30c89f6ff728063e5579edd42dd7f811.png",
+  "thumb": "items/images/en/thumbs/fleeting_expertise.30c89f6ff728063e5579edd42dd7f811.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

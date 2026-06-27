@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5783bf6dd9b6753790c89e9c",
+  "slug": "cyngas_receiver",
+  "market_slug": "cyngas_receiver",
+  "name_en": "Cyngas Receiver",
+  "name_en_slug": "cyngas_receiver",
+  "name_kr": "싱가스 리시버",
+  "aliases": [
+    "Cyngas Receiver",
+    "cyngas receiver",
+    "cyngas_receiver",
+    "싱가스 리시버"
+  ],
+  "tags": [
+    "archwing",
+    "component",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchBurstGunReceiver",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/cyngas_receiver.5b9891a467264b6048cd58b409911767.png",
+  "thumb": "items/images/en/thumbs/cyngas_receiver.5b9891a467264b6048cd58b409911767.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

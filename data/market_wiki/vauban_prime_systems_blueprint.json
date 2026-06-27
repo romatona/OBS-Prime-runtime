@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "573d0efa336297b2dfca2909",
+  "slug": "vauban_prime_systems_blueprint",
+  "market_slug": "vauban_prime_systems_blueprint",
+  "name_en": "Vauban Prime Systems Blueprint",
+  "name_en_slug": "vauban_prime_systems_blueprint",
+  "name_kr": "바우반 프라임 시스템 설계도",
+  "aliases": [
+    "Vauban Prime Systems",
+    "Vauban Prime Systems Blueprint",
+    "vauban prime systems blueprint",
+    "vauban_prime_systems_blueprint",
+    "바우반 프라임 시스템",
+    "바우반 프라임 시스템 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/VaubanPrimeSystemsBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/vauban_prime_systems.9c15bb47d3ed4ed8e960c2502fac82f2.png",
+  "thumb": "items/images/en/thumbs/vauban_prime_systems.9c15bb47d3ed4ed8e960c2502fac82f2.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

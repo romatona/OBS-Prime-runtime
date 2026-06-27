@@ -1,0 +1,27 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6054de645221e3005750106e",
+  "slug": "aquapulmo",
+  "market_slug": "aquapulmo",
+  "name_en": "Aquapulmo",
+  "name_en_slug": "aquapulmo",
+  "name_kr": "아쿠아펄모",
+  "aliases": [
+    "Aquapulmo",
+    "aquapulmo",
+    "아쿠아펄모"
+  ],
+  "tags": [
+    "fish"
+  ],
+  "game_ref": "/Lotus/Types/Items/Fish/Deimos/HybridRareAFishItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/aquapulmo.614ee00bc189bf6e8188792cddcf15e3.png",
+  "thumb": "items/images/en/thumbs/aquapulmo.614ee00bc189bf6e8188792cddcf15e3.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

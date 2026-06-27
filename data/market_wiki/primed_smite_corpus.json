@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5dfea1431456970294aff388",
+  "slug": "primed_smite_corpus",
+  "market_slug": "primed_smite_corpus",
+  "name_en": "Primed Smite Corpus",
+  "name_en_slug": "primed_smite_corpus",
+  "name_kr": "프라임드 스마이트 코퍼스",
+  "aliases": [
+    "Primed Smite Corpus",
+    "primed smite corpus",
+    "primed_smite_corpus",
+    "프라임드 스마이트 코퍼스"
+  ],
+  "tags": [
+    "legendary",
+    "melee",
+    "mod"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponMeleeFactionDamageCorpusExpert",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/primed_smite_corpus.c6335de9a70ac156604d8251a665d1df.png",
+  "thumb": "items/images/en/thumbs/primed_smite_corpus.c6335de9a70ac156604d8251a665d1df.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

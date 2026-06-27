@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a4fb",
+  "slug": "surplus_diverters",
+  "market_slug": "surplus_diverters",
+  "name_en": "Surplus Diverters",
+  "name_en_slug": "surplus_diverters",
+  "name_kr": "서플러스 다이버터",
+  "aliases": [
+    "Surplus Diverters",
+    "surplus diverters",
+    "surplus_diverters",
+    "서플러스 다이버터"
+  ],
+  "tags": [
+    "mod",
+    "pvp",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Warframe/EnergyOnFullShieldRegenMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/surplus_diverters.09029ac49b2910d44f759dd05afc889e.png",
+  "thumb": "items/images/en/thumbs/surplus_diverters.09029ac49b2910d44f759dd05afc889e.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

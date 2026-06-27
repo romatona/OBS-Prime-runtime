@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6089662dea93740269271789",
+  "slug": "deimos_verge_scene",
+  "market_slug": "deimos_verge_scene",
+  "name_en": "Deimos Verge Scene",
+  "name_en_slug": "deimos_verge_scene",
+  "name_kr": "데이모스 도로 배경",
+  "aliases": [
+    "Deimos Verge Scene",
+    "deimos verge scene",
+    "deimos_verge_scene",
+    "데이모스 도로 배경"
+  ],
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/MiscItems/PhotoboothTileDeimosSpawn",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/deimos_verge_scene.0eecba76839c9c2254cb98b4c6626a81.png",
+  "thumb": "items/images/en/thumbs/deimos_verge_scene.0eecba76839c9c2254cb98b4c6626a81.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,27 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6054de7e5221e30057501085",
+  "slug": "glappid",
+  "market_slug": "glappid",
+  "name_en": "Glappid",
+  "name_en_slug": "glappid",
+  "name_kr": "글랍피드",
+  "aliases": [
+    "Glappid",
+    "glappid",
+    "글랍피드"
+  ],
+  "tags": [
+    "fish"
+  ],
+  "game_ref": "/Lotus/Types/Items/Fish/Eidolon/NightLegendaryFishAItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/glappid.c08d5af5e630b52b36f8ebce6dd1df3f.png",
+  "thumb": "items/images/en/thumbs/glappid.c08d5af5e630b52b36f8ebce6dd1df3f.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

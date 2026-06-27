@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "693e6afd03903ae8993ffb08",
+  "slug": "hok_kaal",
+  "market_slug": "hok_kaal",
+  "name_en": "Hok-Kaal",
+  "name_en_slug": "hok_kaal",
+  "name_kr": "호크-칼",
+  "aliases": [
+    "Hok-Kaal",
+    "hok kaal",
+    "hok_kaal",
+    "호크-칼"
+  ],
+  "tags": [
+    "any",
+    "common",
+    "mod"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Antiques/DamageWhileInvisible",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/ko/hok_kaal.a8f0ea0938b19aeafae5e38794176320.webp",
+  "thumb": "items/images/ko/thumbs/hok_kaal.a8f0ea0938b19aeafae5e38794176320.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "64c2aa1666456704eba6ba45",
+  "slug": "shadow_haze",
+  "market_slug": "shadow_haze",
+  "name_en": "Shadow Haze",
+  "name_en_slug": "shadow_haze",
+  "name_kr": "섀도우 헤이즈",
+  "aliases": [
+    "Shadow Haze",
+    "shadow haze",
+    "shadow_haze",
+    "섀도우 헤이즈"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "rare",
+    "sevagoth",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Wraith/WraithReapAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/shadow_haze.66eff73bdcc0450428a261bc5492af59.png",
+  "thumb": "items/images/en/thumbs/shadow_haze.66eff73bdcc0450428a261bc5492af59.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

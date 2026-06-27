@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5953f8e78e34b5ed3cb3d9b8",
+  "slug": "inaros_tomb_scene",
+  "market_slug": "inaros_tomb_scene",
+  "name_en": "Inaros Tomb Scene",
+  "name_en_slug": "inaros_tomb_scene",
+  "name_kr": "이나로스 무덤 배경",
+  "aliases": [
+    "Inaros Tomb Scene",
+    "inaros tomb scene",
+    "inaros_tomb_scene",
+    "이나로스 무덤 배경"
+  ],
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/MiscItems/PhotoboothTileInarosTomb",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/inaros_tomb_scene.2913e156942befe7b2966a961bb0bbaa.png",
+  "thumb": "items/images/en/thumbs/inaros_tomb_scene.2913e156942befe7b2966a961bb0bbaa.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

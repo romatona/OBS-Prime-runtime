@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a4e1",
+  "slug": "momentary_pause",
+  "market_slug": "momentary_pause",
+  "name_en": "Momentary Pause",
+  "name_en_slug": "momentary_pause",
+  "name_kr": "모멘터리 퍼즈",
+  "aliases": [
+    "Momentary Pause",
+    "momentary pause",
+    "momentary_pause",
+    "모멘터리 퍼즈"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "pvp",
+    "rare",
+    "shotgun"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/RestoreHealthOnKillMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/momentary_pause.cfa0810112f6ea7122d776e57552bbaf.png",
+  "thumb": "items/images/en/thumbs/momentary_pause.cfa0810112f6ea7122d776e57552bbaf.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

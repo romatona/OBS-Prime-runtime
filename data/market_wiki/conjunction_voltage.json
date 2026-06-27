@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "63886516e7c988007b5bd509",
+  "slug": "conjunction_voltage",
+  "market_slug": "conjunction_voltage",
+  "name_en": "Conjunction Voltage",
+  "name_en_slug": "conjunction_voltage",
+  "name_kr": "컨정션 볼티지",
+  "aliases": [
+    "Conjunction Voltage",
+    "conjunction voltage",
+    "conjunction_voltage",
+    "컨정션 볼티지"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SecondaryReloadSpeedAndMultishotOnElectricProc",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/conjunction_voltage.d7ac26c466e1d189eaa0f1eab81b6b4b.png",
+  "thumb": "items/images/en/thumbs/conjunction_voltage.d7ac26c466e1d189eaa0f1eab81b6b4b.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

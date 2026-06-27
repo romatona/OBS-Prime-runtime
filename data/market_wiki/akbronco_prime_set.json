@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56783f24cbfa8f0432dd898d",
+  "slug": "akbronco_prime_set",
+  "market_slug": "akbronco_prime_set",
+  "name_en": "Akbronco Prime Set",
+  "name_en_slug": "akbronco_prime_set",
+  "name_kr": "아크브롱코 프라임 세트",
+  "aliases": [
+    "Akbronco Prime Set",
+    "akbronco prime set",
+    "akbronco_prime_set",
+    "아크브롱코 프라임 세트"
+  ],
+  "tags": [
+    "prime",
+    "secondary",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Akimbo/PrimeAkimboShotGun",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/akbronco_prime_set.34b5a7f99e5f8c15cc2039a76c725069.png",
+  "thumb": "items/images/en/thumbs/akbronco_prime_set.34b5a7f99e5f8c15cc2039a76c725069.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "66fd67b33a826eccf651cd4b",
+  "slug": "prey_of_dynar",
+  "market_slug": "prey_of_dynar",
+  "name_en": "Prey Of Dynar",
+  "name_en_slug": "prey_of_dynar",
+  "name_kr": "프레이 오브 다이나르",
+  "aliases": [
+    "Prey Of Dynar",
+    "prey of dynar",
+    "prey_of_dynar",
+    "프레이 오브 다이나르"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "rare",
+    "voruna",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Werewolf/WerewolfShroudAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/prey_of_dynar.a81cadf3c1f6e67c92c188534ced77b2.webp",
+  "thumb": "items/images/en/thumbs/prey_of_dynar.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

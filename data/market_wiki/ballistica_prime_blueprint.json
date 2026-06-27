@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "59a5c2565cd9938cfede703d",
+  "slug": "ballistica_prime_blueprint",
+  "market_slug": "ballistica_prime_blueprint",
+  "name_en": "Ballistica Prime Blueprint",
+  "name_en_slug": "ballistica_prime_blueprint",
+  "name_kr": "발리스티카 프라임 설계도",
+  "aliases": [
+    "Ballistica Prime",
+    "Ballistica Prime Blueprint",
+    "ballistica prime blueprint",
+    "ballistica_prime_blueprint",
+    "발리스티카 프라임",
+    "발리스티카 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "prime",
+    "secondary",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/PrimeBallisticaBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/ballistica_prime_blueprint.4ed33348008ace40406d0383f692ecac.png",
+  "thumb": "items/images/en/thumbs/ballistica_prime_blueprint.4ed33348008ace40406d0383f692ecac.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

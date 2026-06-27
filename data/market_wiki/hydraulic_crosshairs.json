@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56a7b2661133f656cb085d89",
+  "slug": "hydraulic_crosshairs",
+  "market_slug": "hydraulic_crosshairs",
+  "name_en": "Hydraulic Crosshairs",
+  "name_en_slug": "hydraulic_crosshairs",
+  "name_kr": "하이드롤릭 크로스헤어즈",
+  "aliases": [
+    "Hydraulic Crosshairs",
+    "hydraulic crosshairs",
+    "hydraulic_crosshairs",
+    "하이드롤릭 크로스헤어즈"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "pistol",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Pistol/Event/CritChanceWhileAimingPistolMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/hydraulic_crosshairs.818cf18013b567c4bbe4379f9608df56.png",
+  "thumb": "items/images/en/thumbs/hydraulic_crosshairs.818cf18013b567c4bbe4379f9608df56.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

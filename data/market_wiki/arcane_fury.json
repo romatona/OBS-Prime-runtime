@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56463c24b66f8358acce4451",
+  "slug": "arcane_fury",
+  "market_slug": "arcane_fury",
+  "name_en": "Arcane Fury",
+  "name_en_slug": "arcane_fury",
+  "name_kr": "아케인 퓨리",
+  "aliases": [
+    "Arcane Fury",
+    "arcane fury",
+    "arcane_fury",
+    "아케인 퓨리"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcaneMeleeDamageOnCrit",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/arcane_fury.221e1166ea44c6d2473f59b7cfa4396a.png",
+  "thumb": "items/images/en/thumbs/arcane_fury.221e1166ea44c6d2473f59b7cfa4396a.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

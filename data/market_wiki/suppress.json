@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156c2",
+  "slug": "suppress",
+  "market_slug": "suppress",
+  "name_en": "Suppress",
+  "name_en_slug": "suppress",
+  "name_kr": "서프레스",
+  "aliases": [
+    "Suppress",
+    "suppress",
+    "서프레스"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "pistol",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Pistol/WeaponNoiseReductionMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/suppress.4fe191bbd38ac388a7e39b805b0bec95.png",
+  "thumb": "items/images/en/thumbs/suppress.4fe191bbd38ac388a7e39b805b0bec95.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

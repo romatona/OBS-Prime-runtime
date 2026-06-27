@@ -1,0 +1,27 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6054de7c5221e30057501083",
+  "slug": "tralok",
+  "market_slug": "tralok",
+  "name_en": "Tralok",
+  "name_en_slug": "tralok",
+  "name_kr": "트랄록",
+  "aliases": [
+    "Tralok",
+    "tralok",
+    "트랄록"
+  ],
+  "tags": [
+    "fish"
+  ],
+  "game_ref": "/Lotus/Types/Items/Fish/Eidolon/DayUncommonFishAItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/tralok.22c468b53ea71bc7a6687c60b851f85e.png",
+  "thumb": "items/images/en/thumbs/tralok.22c468b53ea71bc7a6687c60b851f85e.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

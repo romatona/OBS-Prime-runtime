@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "554d3c0ce7798942793d7e89",
+  "slug": "crash_course",
+  "market_slug": "crash_course",
+  "name_en": "Crash Course",
+  "name_en_slug": "crash_course",
+  "name_kr": "크래쉬 코스",
+  "aliases": [
+    "Crash Course",
+    "crash course",
+    "crash_course",
+    "크래쉬 코스"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "rifle"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/WeaponEventRifleImpactDamageMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/crash_course.6b28b12cf6104d819bb76cc562c8d7c5.png",
+  "thumb": "items/images/en/thumbs/crash_course.6b28b12cf6104d819bb76cc562c8d7c5.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

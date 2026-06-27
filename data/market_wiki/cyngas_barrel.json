@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5783bf69d9b6753790c89e9b",
+  "slug": "cyngas_barrel",
+  "market_slug": "cyngas_barrel",
+  "name_en": "Cyngas Barrel",
+  "name_en_slug": "cyngas_barrel",
+  "name_kr": "싱가스 배럴",
+  "aliases": [
+    "Cyngas Barrel",
+    "cyngas barrel",
+    "cyngas_barrel",
+    "싱가스 배럴"
+  ],
+  "tags": [
+    "archwing",
+    "component",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchBurstGunBarrel",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/cyngas_barrel.5b9891a467264b6048cd58b409911767.png",
+  "thumb": "items/images/en/thumbs/cyngas_barrel.5b9891a467264b6048cd58b409911767.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

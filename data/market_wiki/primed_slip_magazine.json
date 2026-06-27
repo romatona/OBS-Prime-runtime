@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "554d3f0ce779894445a848fc",
+  "slug": "primed_slip_magazine",
+  "market_slug": "primed_slip_magazine",
+  "name_en": "Primed Slip Magazine",
+  "name_en_slug": "primed_slip_magazine",
+  "name_kr": "프라임드 슬립 매거진",
+  "aliases": [
+    "Primed Slip Magazine",
+    "primed slip magazine",
+    "primed_slip_magazine",
+    "프라임드 슬립 매거진"
+  ],
+  "tags": [
+    "legendary",
+    "mod",
+    "pistol",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponClipMaxModExpert",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/primed_slip_magazine.0fa1381be2a512bad43b7cc263e52edf.png",
+  "thumb": "items/images/en/thumbs/primed_slip_magazine.0fa1381be2a512bad43b7cc263e52edf.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

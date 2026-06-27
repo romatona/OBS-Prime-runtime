@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54aaf18be779894c7c9308d3",
+  "slug": "arcane_chorus_helmet",
+  "market_slug": "arcane_chorus_helmet",
+  "name_en": "Arcane Chorus Helmet",
+  "name_en_slug": "arcane_chorus_helmet",
+  "name_kr": "아케인 코러스 헬멧",
+  "aliases": [
+    "Arcane Chorus Helmet",
+    "arcane chorus helmet",
+    "arcane_chorus_helmet",
+    "아케인 코러스 헬멧"
+  ],
+  "tags": [
+    "arcane_helmet",
+    "skin"
+  ],
+  "game_ref": "/Lotus/Upgrades/Skins/Decree/DecreeAltHelmetB",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/arcane_chorus_banshee_helmet.77feb6495c839bdc977d61a22f02bbcc.png",
+  "thumb": "items/images/en/thumbs/arcane_chorus_banshee_helmet.77feb6495c839bdc977d61a22f02bbcc.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

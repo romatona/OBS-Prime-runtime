@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156ed",
+  "slug": "sinking_talon",
+  "market_slug": "sinking_talon",
+  "name_en": "Sinking Talon",
+  "name_en_slug": "sinking_talon",
+  "name_kr": "싱킹 탈론",
+  "aliases": [
+    "Sinking Talon",
+    "sinking talon",
+    "sinking_talon",
+    "싱킹 탈론"
+  ],
+  "tags": [
+    "dual_daggers",
+    "mod",
+    "stance",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DualDaggerCmbOneMeleeTree",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/sinking_talon.825973df87633e7b3f5cfbc94fbfeb5e.png",
+  "thumb": "items/images/en/thumbs/sinking_talon.825973df87633e7b3f5cfbc94fbfeb5e.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

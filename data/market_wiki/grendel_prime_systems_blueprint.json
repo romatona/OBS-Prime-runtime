@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "653060f332327ba8746da748",
+  "slug": "grendel_prime_systems_blueprint",
+  "market_slug": "grendel_prime_systems_blueprint",
+  "name_en": "Grendel Prime Systems Blueprint",
+  "name_en_slug": "grendel_prime_systems_blueprint",
+  "name_kr": "그렌델 프라임 시스템 설계도",
+  "aliases": [
+    "Grendel Prime Systems",
+    "Grendel Prime Systems Blueprint",
+    "grendel prime systems blueprint",
+    "grendel_prime_systems_blueprint",
+    "그렌델 프라임 시스템",
+    "그렌델 프라임 시스템 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/GrendelPrimeSystemsBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/grendel_prime_systems_blueprint.c684407cdaea9bef16f0c7aa97c74369.png",
+  "thumb": "items/images/en/thumbs/grendel_prime_systems_blueprint.c684407cdaea9bef16f0c7aa97c74369.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

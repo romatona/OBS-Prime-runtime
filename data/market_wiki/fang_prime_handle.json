@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a73e65e779893a797fff42",
+  "slug": "fang_prime_handle",
+  "market_slug": "fang_prime_handle",
+  "name_en": "Fang Prime Handle",
+  "name_en_slug": "fang_prime_handle",
+  "name_kr": "팽 프라임 핸들",
+  "aliases": [
+    "Fang Prime Handle",
+    "fang prime handle",
+    "fang_prime_handle",
+    "팽 프라임 핸들"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeFangHandle",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/fang_prime_handle.13b0c690a76382d0fbdebe84e4c509db.png",
+  "thumb": "items/images/en/thumbs/fang_prime_handle.13b0c690a76382d0fbdebe84e4c509db.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

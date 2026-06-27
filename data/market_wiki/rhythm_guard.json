@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6a33113c58b60af8cd1a0d26",
+  "slug": "rhythm_guard",
+  "market_slug": "rhythm_guard",
+  "name_en": "Rhythm Guard",
+  "name_en_slug": "rhythm_guard",
+  "name_kr": "리듬 가드",
+  "aliases": [
+    "Rhythm Guard",
+    "rhythm guard",
+    "rhythm_guard",
+    "리듬 가드"
+  ],
+  "tags": [
+    "mod",
+    "rare",
+    "temple",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Temple/TemplePassiveAugment1Card",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/rhythm_guard.7f4ae2e0a9787960359c4bd712a1efc1.webp",
+  "thumb": "items/images/en/thumbs/rhythm_guard.7f4ae2e0a9787960359c4bd712a1efc1.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "66fd69d03a826eccf651cd6d",
+  "slug": "loyal_retriever",
+  "market_slug": "loyal_retriever",
+  "name_en": "Loyal Retriever",
+  "name_en_slug": "loyal_retriever",
+  "name_kr": "로얄 리트리버",
+  "aliases": [
+    "Loyal Retriever",
+    "loyal retriever",
+    "loyal_retriever",
+    "로얄 리트리버"
+  ],
+  "tags": [
+    "beast",
+    "mod",
+    "sentinel",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Types/Sentinels/SentinelPrecepts/BeastLoyalRetriever",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/loyal_retriever.a81cadf3c1f6e67c92c188534ced77b2.webp",
+  "thumb": "items/images/en/thumbs/loyal_retriever.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "687915bb731e63abe79a5d09",
+  "slug": "kullervos_hold_scene",
+  "market_slug": "kullervos_hold_scene",
+  "name_en": "Kullervo's Hold Scene",
+  "name_en_slug": "kullervos_hold_scene",
+  "name_kr": "쿨레르보의 요새 배경",
+  "aliases": [
+    "Kullervo's Hold Scene",
+    "kullervos hold scene",
+    "kullervos_hold_scene",
+    "쿨레르보의 요새 배경"
+  ],
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/MiscItems/PhotoboothTileDuviriIsleSignatureDungeon",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/kullervos_hold_scene.764a7245c010702f58c8313a4ddd3a68.webp",
+  "thumb": "items/images/en/thumbs/kullervos_hold_scene.764a7245c010702f58c8313a4ddd3a68.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

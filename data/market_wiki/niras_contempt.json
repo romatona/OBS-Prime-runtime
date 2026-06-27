@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "61bb64fe3132ff00482b5fd0",
+  "slug": "niras_contempt",
+  "market_slug": "niras_contempt",
+  "name_en": "Nira's Contempt",
+  "name_en_slug": "niras_contempt",
+  "name_kr": "나이라 컨템트",
+  "aliases": [
+    "Nira's Contempt",
+    "niras contempt",
+    "niras_contempt",
+    "나이라 컨템트"
+  ],
+  "tags": [
+    "melee",
+    "mod",
+    "rare",
+    "whips"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sets/Nira/NiraMeleeMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/niras_contempt.c1a78ebf90902f2e90bdb759931a17a0.png",
+  "thumb": "items/images/en/thumbs/niras_contempt.c1a78ebf90902f2e90bdb759931a17a0.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

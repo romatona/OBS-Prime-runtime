@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5baa8bbf4567de01ac283492",
+  "slug": "gram_prime_handle",
+  "market_slug": "gram_prime_handle",
+  "name_en": "Gram Prime Handle",
+  "name_en_slug": "gram_prime_handle",
+  "name_kr": "그람 프라임 핸들",
+  "aliases": [
+    "Gram Prime Handle",
+    "gram prime handle",
+    "gram_prime_handle",
+    "그람 프라임 핸들"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/GramPrimeHandle",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/gram_prime_handle.678c245a88b54368ae895b73b6987231.png",
+  "thumb": "items/images/en/thumbs/gram_prime_handle.678c245a88b54368ae895b73b6987231.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

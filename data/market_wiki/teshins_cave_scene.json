@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "645ba2a67ec1900802a58a46",
+  "slug": "teshins_cave_scene",
+  "market_slug": "teshins_cave_scene",
+  "name_en": "Teshin's Cave Scene",
+  "name_en_slug": "teshins_cave_scene",
+  "name_kr": "테신의 동굴 배경",
+  "aliases": [
+    "Teshin's Cave Scene",
+    "teshins cave scene",
+    "teshins_cave_scene",
+    "테신의 동굴 배경"
+  ],
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/MiscItems/PhotoboothTileDuviriTeshinsCave",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/teshins_cave_scene.45ae9de5d7625f6164ceea64fa009f83.png",
+  "thumb": "items/images/en/thumbs/teshins_cave_scene.45ae9de5d7625f6164ceea64fa009f83.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

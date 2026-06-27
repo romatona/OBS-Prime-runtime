@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5911f11d97a0add8e9d5da50",
+  "slug": "entropy_detonation",
+  "market_slug": "entropy_detonation",
+  "name_en": "Entropy Detonation",
+  "name_en_slug": "entropy_detonation",
+  "name_kr": "엔트로피 데토네이션",
+  "aliases": [
+    "Entropy Detonation",
+    "entropy detonation",
+    "entropy_detonation",
+    "엔트로피 데토네이션"
+  ],
+  "tags": [
+    "melee",
+    "mod",
+    "obex",
+    "rare",
+    "syndicate"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Syndicate/ObexMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/entropy_detonation.2330a8de6cb887513a92da41f5ea4708.png",
+  "thumb": "items/images/en/thumbs/entropy_detonation.2330a8de6cb887513a92da41f5ea4708.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

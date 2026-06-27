@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5e4e4a3526753901984c2f24",
+  "slug": "zylok",
+  "market_slug": "zylok",
+  "name_en": "Zylok",
+  "name_en_slug": "zylok",
+  "name_kr": "자일락",
+  "aliases": [
+    "Zylok",
+    "zylok",
+    "자일락"
+  ],
+  "tags": [
+    "secondary",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Pistols/ConclaveLeverPistol/ConclaveLeverPistol",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/zylok.3cb47888884190e96ec8c08c281b508c.png",
+  "thumb": "items/images/en/thumbs/zylok.3cb47888884190e96ec8c08c281b508c.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

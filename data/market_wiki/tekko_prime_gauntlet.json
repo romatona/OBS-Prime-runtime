@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5d93ca117ea27b0a87566f65",
+  "slug": "tekko_prime_gauntlet",
+  "market_slug": "tekko_prime_gauntlet",
+  "name_en": "Tekko Prime Gauntlet",
+  "name_en_slug": "tekko_prime_gauntlet",
+  "name_kr": "텟코 프라임 건틀렛",
+  "aliases": [
+    "Tekko Prime Gauntlet",
+    "tekko prime gauntlet",
+    "tekko_prime_gauntlet",
+    "텟코 프라임 건틀렛"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/TekkoPrimeGauntlet",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/tekko_prime_gauntlet.ace5f3ef4976ceae04ed01d8fcc695c7.png",
+  "thumb": "items/images/en/thumbs/tekko_prime_gauntlet.ace5f3ef4976ceae04ed01d8fcc695c7.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

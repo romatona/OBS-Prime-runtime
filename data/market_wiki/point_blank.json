@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e5155c1",
+  "slug": "point_blank",
+  "market_slug": "point_blank",
+  "name_en": "Point Blank",
+  "name_en_slug": "point_blank",
+  "name_kr": "포인트 블랭크",
+  "aliases": [
+    "Point Blank",
+    "point blank",
+    "point_blank",
+    "포인트 블랭크"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "shotgun",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Shotgun/WeaponDamageAmountMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/point_blank.a8dd22b4703c52a9ec327ce18c973b8c.png",
+  "thumb": "items/images/en/thumbs/point_blank.a8dd22b4703c52a9ec327ce18c973b8c.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

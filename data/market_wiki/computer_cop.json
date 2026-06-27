@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "67db60149cec3e52e62523e6",
+  "slug": "computer_cop",
+  "market_slug": "computer_cop",
+  "name_en": "Computer Cop",
+  "name_en_slug": "computer_cop",
+  "name_kr": "컴퓨터 캅",
+  "aliases": [
+    "Computer Cop",
+    "computer cop",
+    "computer_cop",
+    "컴퓨터 캅"
+  ],
+  "tags": [
+    "mod",
+    "parazon",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Immortal/AntivirusEightMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/computer_cop.94ec9afd1c25db7f15e362bf689c4e31.webp",
+  "thumb": "items/images/en/thumbs/computer_cop.94ec9afd1c25db7f15e362bf689c4e31.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

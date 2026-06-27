@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5729bd06cb59ed5a9b484e8d",
+  "slug": "medi_ray",
+  "market_slug": "medi_ray",
+  "name_en": "Medi-Ray",
+  "name_en_slug": "medi_ray",
+  "name_kr": "메디-레이",
+  "aliases": [
+    "Medi-Ray",
+    "medi ray",
+    "medi_ray",
+    "메디-레이"
+  ],
+  "tags": [
+    "mod",
+    "robotic",
+    "sentinel",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Types/Sentinels/SentinelPrecepts/Events/ProjectNightwatch/SentinelHealthRegenPreceptNightwatchMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/medi_ray.0684b14a7998c2eeed558b6b544bd231.png",
+  "thumb": "items/images/en/thumbs/medi_ray.0684b14a7998c2eeed558b6b544bd231.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

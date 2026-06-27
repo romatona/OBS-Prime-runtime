@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5dbe9b077ea27b0ffe3ca268",
+  "slug": "runtime",
+  "market_slug": "runtime",
+  "name_en": "Runtime",
+  "name_en_slug": "runtime",
+  "name_kr": "런타임",
+  "aliases": [
+    "Runtime",
+    "runtime",
+    "런타임"
+  ],
+  "tags": [
+    "mod",
+    "parazon",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/DataSpike/Cipher/OnHackSprintSpeedMod",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/runtime.01958fa28f5f3acc1b83faa2339a9b75.png",
+  "thumb": "items/images/en/thumbs/runtime.01958fa28f5f3acc1b83faa2339a9b75.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

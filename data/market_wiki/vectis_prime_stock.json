@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "559daaf7e779897b5f3f5480",
+  "slug": "vectis_prime_stock",
+  "market_slug": "vectis_prime_stock",
+  "name_en": "Vectis Prime Stock",
+  "name_en_slug": "vectis_prime_stock",
+  "name_kr": "벡티스 프라임 스톡",
+  "aliases": [
+    "Vectis Prime Stock",
+    "vectis prime stock",
+    "vectis_prime_stock",
+    "벡티스 프라임 스톡"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/VectisPrimeStock",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/vectis_prime_stock.028e001af4469482df80bff29542e043.png",
+  "thumb": "items/images/en/thumbs/vectis_prime_stock.028e001af4469482df80bff29542e043.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

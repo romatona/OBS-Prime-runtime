@@ -1,0 +1,152 @@
+﻿{
+    "warframe_client_language":  "ko",
+    "ui":  {
+               "dark_mode":  true
+           },
+    "capture":  {
+                    "mode":  "screen",
+                    "monitor_index":  0,
+                    "window_title_hint":  "Warframe",
+                    "sample_image_path":  "",
+                    "save_debug_capture":  false
+                },
+    "auto":  {
+                 "enabled":  false,
+                 "detect_interval_ms":  3000,
+                 "confidence_threshold":  0.86,
+                 "cooldown_ms":  3000,
+                 "detector_preset":  "default-virtual-1080p",
+                 "min_ocr_slots_for_output":  2
+             },
+    "roi":  {
+                "preset":  "default-virtual-1080p",
+                "ui_scale":  1.0,
+                "slot_labels":  [
+                                    "1번 칸",
+                                    "2번 칸",
+                                    "3번 칸",
+                                    "4번 칸"
+                                ],
+                "slot_name_rects":  [
+                                        {
+                                            "x":  699,
+                                            "y":  432,
+                                            "w":  280,
+                                            "h":  200
+                                        },
+                                        {
+                                            "x":  986,
+                                            "y":  415,
+                                            "w":  298,
+                                            "h":  213
+                                        },
+                                        {
+                                            "x":  1289,
+                                            "y":  435,
+                                            "w":  280,
+                                            "h":  200
+                                        },
+                                        {
+                                            "x":  1582,
+                                            "y":  430,
+                                            "w":  280,
+                                            "h":  200
+                                        }
+                                    ]
+            },
+    "hotkey":  {
+                   "enabled":  true,
+                   "combo":  "ctrl+alt+shift+r",
+                   "debounce_ms":  1500,
+                   "action":  "capture_analyze_overlay",
+                   "register_global":  true,
+                   "last_registration_error":  ""
+               },
+    "ocr":  {
+                "provider":  "tesseract",
+                "language":  "kor+eng",
+                "timeout_ms":  2500,
+                "min_confidence":  0.7,
+                "preprocessing_preset":  "default-korean-ui",
+                "obs_name_band_enabled":  true,
+                "obs_name_band_top_ratio":  0.58,
+                "obs_name_band_height_ratio":  0.38
+            },
+    "overlay":  {
+                    "enabled":  true,
+                    "mode":  "window",
+                    "layout":  "vertical",
+                    "always_on_top":  true,
+                    "click_through":  true,
+                    "position_preset":  "custom",
+                    "x":  20,
+                    "y":  80,
+                    "w":  900,
+                    "h":  180,
+                    "opacity":  0.92,
+                    "clear_after_ms":  6000
+                },
+    "obs_websocket":  {
+                          "enabled":  false,
+                          "host":  "127.0.0.1",
+                          "port":  4455,
+                          "connect_timeout_ms":  5000,
+                          "password_dpapi":  "",
+                          "ocr_source_name":  "이미지",
+                          "browser_sources":  [
+                                                  "B1",
+                                                  "B2",
+                                                  "B3",
+                                                  "B4"
+                                              ],
+                          "text_sources":  [
+                                               "T1",
+                                               "T2",
+                                               "T3",
+                                               "T4"
+                                           ],
+                          "text_sources_enabled":  [
+                                                       true,
+                                                       true,
+                                                       true,
+                                                       true
+                                                   ],
+                          "browser_source_rects":  [
+
+                                                   ],
+                          "screenshot_format":  "jpg",
+                          "screenshot_jpeg_quality":  100,
+                          "text_clear_after_ms":  7000
+                      },
+    "data":  {
+                 "item_fixture":  "warframe_prime_fixture.json",
+                 "price_max_age_hours":  24,
+                 "platform":  "pc",
+                 "item_db_path":  "",
+                 "price_db_path":  "data/market_cache/warframe_market_prices.json",
+                 "item_wiki_dir":  "data/item_wiki",
+                 "market_wiki_dir":  "data/market_wiki",
+                 "market_live_enabled":  true,
+                 "market_live_timeout_ms":  1500,
+                 "market_cache_same_day_only":  true,
+                 "market_language":  "ko",
+                 "market_crossplay":  true,
+                 "market_order_statuses":  [
+                                               "ingame"
+                                           ],
+                 "wfcd_relics_url":  "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Relics.json",
+                 "warframe_market_items_url":  "https://api.warframe.market/v2/items"
+             },
+    "matching":  {
+                     "confident_threshold":  0.9,
+                     "usable_threshold":  0.8,
+                     "uncertain_threshold":  0.65,
+                     "enable_alias_learning":  false,
+                     "correction_store_path":  "data/corrections.json"
+                 },
+    "diagnostics":  {
+                        "enabled":  false,
+                        "artifact_dir":  "debug",
+                        "sample_set_dir":  "samples\\reward_screens"
+                    }
+}

@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "68add0fa731e63abe79a5d1c",
+  "slug": "venato_prime_blueprint",
+  "market_slug": "venato_prime_blueprint",
+  "name_en": "Venato Prime Blueprint",
+  "name_en_slug": "venato_prime_blueprint",
+  "name_kr": "베나토 프라임 설계도",
+  "aliases": [
+    "Venato Prime",
+    "Venato Prime Blueprint",
+    "venato prime blueprint",
+    "venato_prime_blueprint",
+    "베나토 프라임",
+    "베나토 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "melee",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/VentoPrimeBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/unknown.png",
+  "thumb": "",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

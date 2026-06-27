@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5dbe9b097ea27b0ffe3ca26c",
+  "slug": "khra",
+  "market_slug": "khra",
+  "name_en": "Khra",
+  "name_en_slug": "khra",
+  "name_kr": "크라",
+  "aliases": [
+    "Khra",
+    "khra",
+    "크라"
+  ],
+  "tags": [
+    "mod",
+    "parazon",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Immortal/ImmortalEightMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/khra.2f42b1bf4bfc2a124df7bc1275432795.png",
+  "thumb": "items/images/en/thumbs/khra.2f42b1bf4bfc2a124df7bc1275432795.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

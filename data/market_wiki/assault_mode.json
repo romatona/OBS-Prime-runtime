@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5be701153ffcc703e462c70b",
+  "slug": "assault_mode",
+  "market_slug": "assault_mode",
+  "name_en": "Assault Mode",
+  "name_en_slug": "assault_mode",
+  "name_kr": "어썰트 모드",
+  "aliases": [
+    "Assault Mode",
+    "assault mode",
+    "assault_mode",
+    "어썰트 모드"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "sentinel"
+  ],
+  "game_ref": "/Lotus/Types/Sentinels/SentinelPrecepts/SentinelAttack",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/assault_mode.3d12d35a3c4a0e0ba6f22fa09f553fdf.png",
+  "thumb": "items/images/en/thumbs/assault_mode.3d12d35a3c4a0e0ba6f22fa09f553fdf.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

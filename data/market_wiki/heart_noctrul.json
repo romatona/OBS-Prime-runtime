@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5be5f5a03ffcc7038857f109",
+  "slug": "heart_noctrul",
+  "market_slug": "heart_noctrul",
+  "name_en": "Heart Noctrul",
+  "name_en_slug": "heart_noctrul",
+  "name_kr": "하트 녹트룰",
+  "aliases": [
+    "Heart Noctrul",
+    "heart noctrul",
+    "heart_noctrul",
+    "하트 녹트룰"
+  ],
+  "tags": [
+    "gem"
+  ],
+  "game_ref": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemBCutItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/heart_noctrul.353a7ac00570827bfc745565a5670ca0.png",
+  "thumb": "items/images/en/thumbs/heart_noctrul.353a7ac00570827bfc745565a5670ca0.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

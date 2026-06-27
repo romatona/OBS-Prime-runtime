@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "58e6407ada6e257f670cf06d",
+  "slug": "ergos_boardroom_scene",
+  "market_slug": "ergos_boardroom_scene",
+  "name_en": "Ergo's Boardroom Scene",
+  "name_en_slug": "ergos_boardroom_scene",
+  "name_kr": "에르고의 이사회실 배경",
+  "aliases": [
+    "Ergo's Boardroom Scene",
+    "ergos boardroom scene",
+    "ergos_boardroom_scene",
+    "에르고의 이사회실 배경"
+  ],
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/MiscItems/PhotoboothTileSyndicatePerrin",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/ergos_boardroom_scene.1414f03ad87608a82dd1569804e2c2b3.png",
+  "thumb": "items/images/en/thumbs/ergos_boardroom_scene.1414f03ad87608a82dd1569804e2c2b3.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

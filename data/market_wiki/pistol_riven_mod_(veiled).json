@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "58701655937cde2c9d378ac3",
+  "slug": "pistol_riven_mod_(veiled)",
+  "market_slug": "pistol_riven_mod_(veiled)",
+  "name_en": "Pistol Riven Mod (Veiled)",
+  "name_en_slug": "pistol_riven_mod_(veiled)",
+  "name_kr": "보조 무기 리벤 모드 (미해금)",
+  "aliases": [
+    "Pistol Riven Mod (Veiled)",
+    "pistol riven mod (veiled)",
+    "pistol_riven_mod_(veiled)",
+    "보조 무기 리벤 모드 (미해금)"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "riven_mod",
+    "veiled_riven"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/pistol_riven_mod_(veiled).efa7515ed4b28b90fcde3b230701034b.png",
+  "thumb": "items/images/en/thumbs/pistol_riven_mod_(veiled).efa7515ed4b28b90fcde3b230701034b.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

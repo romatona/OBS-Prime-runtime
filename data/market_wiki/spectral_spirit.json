@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "667238d78ba7c81b70d02cbe",
+  "slug": "spectral_spirit",
+  "market_slug": "spectral_spirit",
+  "name_en": "Spectral Spirit",
+  "name_en_slug": "spectral_spirit",
+  "name_kr": "스펙트럴 스피릿",
+  "aliases": [
+    "Spectral Spirit",
+    "spectral spirit",
+    "spectral_spirit",
+    "스펙트럴 스피릿"
+  ],
+  "tags": [
+    "augment",
+    "dagath",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Dagath/DagathApparitionAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/spectral_spirit.46538d5c24f4201461930060ef10fd77.webp",
+  "thumb": "items/images/en/thumbs/spectral_spirit.46538d5c24f4201461930060ef10fd77.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

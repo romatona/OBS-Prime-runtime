@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5d21ce46f4604c012d1e0c12",
+  "slug": "wukong_prime_blueprint",
+  "market_slug": "wukong_prime_blueprint",
+  "name_en": "Wukong Prime Blueprint",
+  "name_en_slug": "wukong_prime_blueprint",
+  "name_kr": "오공 프라임 설계도",
+  "aliases": [
+    "Wukong Prime",
+    "Wukong Prime Blueprint",
+    "wukong prime blueprint",
+    "wukong_prime_blueprint",
+    "오공 프라임",
+    "오공 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/WukongPrimeBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/wukong_prime_blueprint.6fa7196ae48a7a3901c35834476f3891.png",
+  "thumb": "items/images/en/thumbs/wukong_prime_blueprint.6fa7196ae48a7a3901c35834476f3891.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

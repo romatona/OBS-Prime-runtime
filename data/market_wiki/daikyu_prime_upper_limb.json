@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "682dfb5635715d4f3e9c64ef",
+  "slug": "daikyu_prime_upper_limb",
+  "market_slug": "daikyu_prime_upper_limb",
+  "name_en": "Daikyu Prime Upper Limb",
+  "name_en_slug": "daikyu_prime_upper_limb",
+  "name_kr": "다이큐 프라임 어퍼 림",
+  "aliases": [
+    "Daikyu Prime Upper Limb",
+    "daikyu prime upper limb",
+    "daikyu_prime_upper_limb",
+    "다이큐 프라임 어퍼 림"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeDaikyuUpperLimb",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/daikyu_prime_upper_limb.56987b8ec6a151a7dc61a753674d018f.webp",
+  "thumb": "items/images/en/thumbs/daikyu_prime_upper_limb.56987b8ec6a151a7dc61a753674d018f.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

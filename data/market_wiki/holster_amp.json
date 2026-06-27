@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156d4",
+  "slug": "holster_amp",
+  "market_slug": "holster_amp",
+  "name_en": "Holster Amp",
+  "name_en_slug": "holster_amp",
+  "name_kr": "홀스터 앰프",
+  "aliases": [
+    "Holster Amp",
+    "holster amp",
+    "holster_amp",
+    "홀스터 앰프"
+  ],
+  "tags": [
+    "aura",
+    "mod",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Aura/PlayerHolsterSpeedAuraMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/speed_holster.54553d4b3c642c7702ab942455e005bb.png",
+  "thumb": "items/images/en/thumbs/speed_holster.54553d4b3c642c7702ab942455e005bb.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

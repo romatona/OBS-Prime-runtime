@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567872239906166591f69a9a",
+  "slug": "madurai_transmute_core",
+  "market_slug": "madurai_transmute_core",
+  "name_en": "Madurai Transmute Core",
+  "name_en_slug": "madurai_transmute_core",
+  "name_kr": "마두라이 트랜스뮤트 코어",
+  "aliases": [
+    "Madurai Transmute Core",
+    "madurai transmute core",
+    "madurai_transmute_core",
+    "마두라이 트랜스뮤트 코어"
+  ],
+  "tags": [
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/TransmuteCores/AttackTransmuteCore",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/madurai_transmute_core.4550b0b0a7749bc7d89773b220b0c60d.png",
+  "thumb": "items/images/en/thumbs/madurai_transmute_core.4550b0b0a7749bc7d89773b220b0c60d.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

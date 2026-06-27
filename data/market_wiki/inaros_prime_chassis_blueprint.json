@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5f0deab69f527b024d48f056",
+  "slug": "inaros_prime_chassis_blueprint",
+  "market_slug": "inaros_prime_chassis_blueprint",
+  "name_en": "Inaros Prime Chassis Blueprint",
+  "name_en_slug": "inaros_prime_chassis_blueprint",
+  "name_kr": "이나로스 프라임 섀시 설계도",
+  "aliases": [
+    "Inaros Prime Chassis",
+    "Inaros Prime Chassis Blueprint",
+    "inaros prime chassis blueprint",
+    "inaros_prime_chassis_blueprint",
+    "이나로스 프라임 섀시",
+    "이나로스 프라임 섀시 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/InarosPrimeChassisBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/inaros_prime_chassis.58fc170fbf04332e7d541a615c198b41.png",
+  "thumb": "items/images/en/thumbs/inaros_prime_chassis.58fc170fbf04332e7d541a615c198b41.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

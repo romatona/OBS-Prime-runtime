@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5be5f59d3ffcc7038857f0f3",
+  "slug": "star_divide",
+  "market_slug": "star_divide",
+  "name_en": "Star Divide",
+  "name_en_slug": "star_divide",
+  "name_kr": "스타 디바이드",
+  "aliases": [
+    "Star Divide",
+    "star divide",
+    "star_divide",
+    "스타 디바이드"
+  ],
+  "tags": [
+    "mod",
+    "pvp",
+    "stance",
+    "tonfas",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPTonfaStanceOne",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/star_divide.ddcd391fb37d9135f806013883cee00d.png",
+  "thumb": "items/images/en/thumbs/star_divide.ddcd391fb37d9135f806013883cee00d.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "626a1979f40db600660a1d7e",
+  "slug": "zariman_schoolyard_scene",
+  "market_slug": "zariman_schoolyard_scene",
+  "name_en": "Zariman Schoolyard Scene",
+  "name_en_slug": "zariman_schoolyard_scene",
+  "name_kr": "자리만 학교 운동장 배경",
+  "aliases": [
+    "Zariman Schoolyard Scene",
+    "zariman schoolyard scene",
+    "zariman_schoolyard_scene",
+    "자리만 학교 운동장 배경"
+  ],
+  "tags": [
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/PhotoBooth/Zariman/PhotoboothTileZarSchool",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/zariman_classroom_scene.4dc36a5bf318f5971c0a1f5fc21a0a1e.png",
+  "thumb": "items/images/en/thumbs/zariman_classroom_scene.4dc36a5bf318f5971c0a1f5fc21a0a1e.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

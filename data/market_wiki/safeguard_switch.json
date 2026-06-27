@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156c3",
+  "slug": "safeguard_switch",
+  "market_slug": "safeguard_switch",
+  "name_en": "Safeguard Switch",
+  "name_en_slug": "safeguard_switch",
+  "name_kr": "세이프가드 스위치",
+  "aliases": [
+    "Safeguard Switch",
+    "safeguard switch",
+    "safeguard_switch",
+    "세이프가드 스위치"
+  ],
+  "tags": [
+    "augment",
+    "loki",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Loki/SwitchAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/safeguard_switch.0d84e8aee50d18ced179eddf30cdc991.png",
+  "thumb": "items/images/en/thumbs/safeguard_switch.0d84e8aee50d18ced179eddf30cdc991.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

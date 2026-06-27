@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "657af5ab21646e595134f5be",
+  "slug": "expel_the_murmur",
+  "market_slug": "expel_the_murmur",
+  "name_en": "Expel The Murmur",
+  "name_en_slug": "expel_the_murmur",
+  "name_kr": "익스펠 더 머머",
+  "aliases": [
+    "Expel The Murmur",
+    "expel the murmur",
+    "expel_the_murmur",
+    "익스펠 더 머머"
+  ],
+  "tags": [
+    "mod",
+    "pistol",
+    "secondary",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Pistol/WeaponPistolFactionDamageMurmurs",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/expel_the_murmur.0ab78c59ac89c08741561930bdba3773.png",
+  "thumb": "items/images/en/thumbs/expel_the_murmur.0ab78c59ac89c08741561930bdba3773.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

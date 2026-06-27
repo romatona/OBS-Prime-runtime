@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "657af5aa21646e595134f5b3",
+  "slug": "sanctum_anatomica_scene",
+  "market_slug": "sanctum_anatomica_scene",
+  "name_en": "Sanctum Anatomica Scene",
+  "name_en_slug": "sanctum_anatomica_scene",
+  "name_kr": "해부의 성역 배경",
+  "aliases": [
+    "Sanctum Anatomica Scene",
+    "sanctum anatomica scene",
+    "sanctum_anatomica_scene",
+    "해부의 성역 배경"
+  ],
+  "tags": [
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/PhotoBooth/Entrati/PhotoboothTileHubLabMITW",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/sanctum_anatomica_scene.54e176b06668d1d864ec6ebe6572988e.png",
+  "thumb": "items/images/en/thumbs/sanctum_anatomica_scene.54e176b06668d1d864ec6ebe6572988e.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

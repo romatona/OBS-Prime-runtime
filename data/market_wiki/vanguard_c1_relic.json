@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6944ca272366b4663960aaa4",
+  "slug": "vanguard_c1_relic",
+  "market_slug": "vanguard_c1_relic",
+  "name_en": "Vanguard C1 Relic",
+  "name_en_slug": "vanguard_c1_relic",
+  "name_kr": "선발대 C1 성유물",
+  "aliases": [
+    "Vanguard C1 Relic",
+    "vanguard c1 relic",
+    "vanguard_c1_relic",
+    "선발대 C1 성유물"
+  ],
+  "tags": [
+    "axi",
+    "relic",
+    "vanguard"
+  ],
+  "game_ref": "/Lotus/Types/Game/Projections/T4VanguardVaultA",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/vanguard_c1_relic.b8c2d9953c66e2c69dde9d0e8f88ab09.webp",
+  "thumb": "items/images/en/thumbs/vanguard_c1_relic.b8c2d9953c66e2c69dde9d0e8f88ab09.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

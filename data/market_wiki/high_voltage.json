@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515616",
+  "slug": "high_voltage",
+  "market_slug": "high_voltage",
+  "name_en": "High Voltage",
+  "name_en_slug": "high_voltage",
+  "name_kr": "하이 볼티지",
+  "aliases": [
+    "High Voltage",
+    "high voltage",
+    "high_voltage",
+    "하이 볼티지"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "rifle"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/DualStat/ElectEventRifleMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/high_voltage.7cbb2f64f8466287ca44afd08e952311.png",
+  "thumb": "items/images/en/thumbs/high_voltage.7cbb2f64f8466287ca44afd08e952311.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

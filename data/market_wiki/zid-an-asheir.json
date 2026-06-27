@@ -1,0 +1,27 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "69765a057b65a4e83d4ab4af",
+  "slug": "zid-an-asheir",
+  "market_slug": "zid-an-asheir",
+  "name_en": "Zid-an Asheir",
+  "name_en_slug": "zid-an-asheir",
+  "name_kr": "지드-안 아시르",
+  "aliases": [
+    "Zid-an Asheir",
+    "zid-an-asheir",
+    "지드-안 아시르"
+  ],
+  "tags": [
+    "arcane_enhancement"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Antiques/StatusChanceOnUltimateHit",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/zid-an-asheir.7b04215b7593ec4aca12d32ef276ef3c.webp",
+  "thumb": "items/images/en/thumbs/zid-an-asheir.7b04215b7593ec4aca12d32ef276ef3c.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

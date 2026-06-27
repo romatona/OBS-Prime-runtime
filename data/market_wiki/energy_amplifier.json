@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e5155b6",
+  "slug": "energy_amplifier",
+  "market_slug": "energy_amplifier",
+  "name_en": "Energy Amplifier",
+  "name_en_slug": "energy_amplifier",
+  "name_kr": "에너지 앰플리파이어",
+  "aliases": [
+    "Energy Amplifier",
+    "energy amplifier",
+    "energy_amplifier",
+    "에너지 앰플리파이어"
+  ],
+  "tags": [
+    "archwing",
+    "mod",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Archwing/Suit/ArchwingSuitAbilityRangeMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/energy_amplifier.0c629d8c3ce1edff377a8760c90741f1.png",
+  "thumb": "items/images/en/thumbs/energy_amplifier.0c629d8c3ce1edff377a8760c90741f1.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

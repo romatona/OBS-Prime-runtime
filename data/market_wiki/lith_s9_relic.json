@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6054de2c5221e30057501032",
+  "slug": "lith_s9_relic",
+  "market_slug": "lith_s9_relic",
+  "name_en": "Lith S9 Relic",
+  "name_en_slug": "lith_s9_relic",
+  "name_kr": "리스 S9 성유물",
+  "aliases": [
+    "Lith S9 Relic",
+    "lith s9 relic",
+    "lith_s9_relic",
+    "리스 S9 성유물"
+  ],
+  "tags": [
+    "lith",
+    "relic"
+  ],
+  "game_ref": "/Lotus/Types/Game/Projections/T1VoidProjectionOberonNekrosVaultA",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/lith_s9_relic.4c2cd55afd4007566866d226c86e0fdd.png",
+  "thumb": "items/images/en/thumbs/lith_s9_relic.4c2cd55afd4007566866d226c86e0fdd.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

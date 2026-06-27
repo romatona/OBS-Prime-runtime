@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "57c05949d0d9ef638234e4ad",
+  "slug": "empowered_blades",
+  "market_slug": "empowered_blades",
+  "name_en": "Empowered Blades",
+  "name_en_slug": "empowered_blades",
+  "name_kr": "임파워드 블레이드",
+  "aliases": [
+    "Empowered Blades",
+    "empowered blades",
+    "empowered_blades",
+    "임파워드 블레이드"
+  ],
+  "tags": [
+    "aura",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Aura/FairyQuest/FairyQuestShieldsToCritAuraMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/empowered_blades.99e396cdb655abbd8cb07ca3901f1079.png",
+  "thumb": "items/images/en/thumbs/empowered_blades.99e396cdb655abbd8cb07ca3901f1079.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

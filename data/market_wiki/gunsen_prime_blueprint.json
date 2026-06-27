@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "64c2aa1466456704eba6ba2e",
+  "slug": "gunsen_prime_blueprint",
+  "market_slug": "gunsen_prime_blueprint",
+  "name_en": "Gunsen Prime Blueprint",
+  "name_en_slug": "gunsen_prime_blueprint",
+  "name_kr": "군센 프라임 설계도",
+  "aliases": [
+    "Gunsen Prime",
+    "Gunsen Prime Blueprint",
+    "gunsen prime blueprint",
+    "gunsen_prime_blueprint",
+    "군센 프라임",
+    "군센 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "melee",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/GunsenPrimeBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/gunsen_prime_blueprint.a344dbe97a8e1968c9f04f1f21145edf.png",
+  "thumb": "items/images/en/thumbs/gunsen_prime_blueprint.a344dbe97a8e1968c9f04f1f21145edf.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

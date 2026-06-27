@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a519",
+  "slug": "loose_hatch",
+  "market_slug": "loose_hatch",
+  "name_en": "Loose Hatch",
+  "name_en_slug": "loose_hatch",
+  "name_kr": "루즈 해치",
+  "aliases": [
+    "Loose Hatch",
+    "loose hatch",
+    "loose_hatch",
+    "루즈 해치"
+  ],
+  "tags": [
+    "assault_rifle",
+    "common",
+    "mod",
+    "primary",
+    "pvp"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Rifle/FasterReloadMoreRecoilRifleMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/loose_hatch.f05f812b3c159e455963f9857e4db68d.png",
+  "thumb": "items/images/en/thumbs/loose_hatch.f05f812b3c159e455963f9857e4db68d.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

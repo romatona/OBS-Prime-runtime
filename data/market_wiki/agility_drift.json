@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "566759c8db7c7a568a8d45c4",
+  "slug": "agility_drift",
+  "market_slug": "agility_drift",
+  "name_en": "Agility Drift",
+  "name_en_slug": "agility_drift",
+  "name_kr": "어질리티 드리프트",
+  "aliases": [
+    "Agility Drift",
+    "agility drift",
+    "agility_drift",
+    "어질리티 드리프트"
+  ],
+  "tags": [
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/OrokinChallenge/OrokinChallengeModAgility",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/agility_drift.b2bb6cdbb38b3b7531de8b626a7805c6.png",
+  "thumb": "items/images/en/thumbs/agility_drift.b2bb6cdbb38b3b7531de8b626a7805c6.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

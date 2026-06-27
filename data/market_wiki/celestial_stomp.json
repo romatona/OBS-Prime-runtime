@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "576459b43ae92d545fd1e7b8",
+  "slug": "celestial_stomp",
+  "market_slug": "celestial_stomp",
+  "name_en": "Celestial Stomp",
+  "name_en_slug": "celestial_stomp",
+  "name_kr": "셀레스티얼 스톰프",
+  "aliases": [
+    "Celestial Stomp",
+    "celestial stomp",
+    "celestial_stomp",
+    "셀레스티얼 스톰프"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "rare",
+    "warframe",
+    "wukong"
+  ],
+  "game_ref": "/Lotus/Powersuits/MonkeyKing/MonkeyPokeAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/celestial_stomp.b63ddae93673a888011f8996a80c8a41.png",
+  "thumb": "items/images/en/thumbs/celestial_stomp.b63ddae93673a888011f8996a80c8a41.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

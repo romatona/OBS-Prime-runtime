@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5c3892672cc6ce00f238139e",
+  "slug": "venari_bodyguard",
+  "market_slug": "venari_bodyguard",
+  "name_en": "Venari Bodyguard",
+  "name_en_slug": "venari_bodyguard",
+  "name_kr": "베나리 바디가드",
+  "aliases": [
+    "Venari Bodyguard",
+    "venari bodyguard",
+    "venari_bodyguard",
+    "베나리 바디가드"
+  ],
+  "tags": [
+    "augment",
+    "khora",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Khora/KhoraKavatAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/venari_bodyguard.0b9253da43ec63860754522efae171e9.png",
+  "thumb": "items/images/en/thumbs/venari_bodyguard.0b9253da43ec63860754522efae171e9.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

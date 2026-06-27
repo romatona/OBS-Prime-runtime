@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "66325ca7e85cac3856c86cbc",
+  "slug": "protea_prime_set",
+  "market_slug": "protea_prime_set",
+  "name_en": "Protea Prime Set",
+  "name_en_slug": "protea_prime_set",
+  "name_kr": "프로티아 프라임 세트",
+  "aliases": [
+    "Protea Prime Set",
+    "protea prime set",
+    "protea_prime_set",
+    "프로티아 프라임 세트"
+  ],
+  "tags": [
+    "prime",
+    "set",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Odalisk/ProteaPrime",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/ko/protea_prime_set.c4d0269d10f68228b05510982f06e58b.png",
+  "thumb": "items/images/ko/thumbs/protea_prime_set.c4d0269d10f68228b05510982f06e58b.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

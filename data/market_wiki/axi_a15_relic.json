@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6364d904f6d2030069a9f91e",
+  "slug": "axi_a15_relic",
+  "market_slug": "axi_a15_relic",
+  "name_en": "Axi A15 Relic",
+  "name_en_slug": "axi_a15_relic",
+  "name_kr": "액시 A15 성유물",
+  "aliases": [
+    "Axi A15 Relic",
+    "axi a15 relic",
+    "axi_a15_relic",
+    "액시 A15 성유물"
+  ],
+  "tags": [
+    "axi",
+    "relic"
+  ],
+  "game_ref": "/Lotus/Types/Game/Projections/T4VoidProjectionIvaraOberonVaultA",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/axi_a15_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.png",
+  "thumb": "items/images/en/thumbs/axi_a15_relic.f2fcd9189f664b0f2ae7d5bb3f618fa3.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

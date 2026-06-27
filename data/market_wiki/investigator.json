@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e515691",
+  "slug": "investigator",
+  "market_slug": "investigator",
+  "name_en": "Investigator",
+  "name_en_slug": "investigator",
+  "name_kr": "인베스티게이터",
+  "aliases": [
+    "Investigator",
+    "investigator",
+    "인베스티게이터"
+  ],
+  "tags": [
+    "common",
+    "helios",
+    "mod",
+    "sentinel"
+  ],
+  "game_ref": "/Lotus/Types/Sentinels/SentinelPrecepts/CodexScannerPrecept",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/investigator.e357cf9924c5d27bf15b557d60f50ae6.png",
+  "thumb": "items/images/en/thumbs/investigator.e357cf9924c5d27bf15b557d60f50ae6.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

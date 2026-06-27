@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54aaf2ade779897b41e2872c",
+  "slug": "arcane_pulse_helmet",
+  "market_slug": "arcane_pulse_helmet",
+  "name_en": "Arcane Pulse Helmet",
+  "name_en_slug": "arcane_pulse_helmet",
+  "name_kr": "아케인 펄스 헬멧",
+  "aliases": [
+    "Arcane Pulse Helmet",
+    "arcane pulse helmet",
+    "arcane_pulse_helmet",
+    "아케인 펄스 헬멧"
+  ],
+  "tags": [
+    "arcane_helmet",
+    "skin"
+  ],
+  "game_ref": "/Lotus/Upgrades/Skins/Volt/VoltHelmetAltB",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/arcane_pulse_volt_helmet.bd03065877b19dee59e84a9861b9a3df.png",
+  "thumb": "items/images/en/thumbs/arcane_pulse_volt_helmet.bd03065877b19dee59e84a9861b9a3df.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

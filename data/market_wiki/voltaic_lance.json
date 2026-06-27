@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a503",
+  "slug": "voltaic_lance",
+  "market_slug": "voltaic_lance",
+  "name_en": "Voltaic Lance",
+  "name_en_slug": "voltaic_lance",
+  "name_kr": "볼택 랜스",
+  "aliases": [
+    "Voltaic Lance",
+    "voltaic lance",
+    "voltaic_lance",
+    "볼택 랜스"
+  ],
+  "tags": [
+    "mod",
+    "pvp",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Warframe/ElectricityParkourPvPMod",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/voltaic_lance.342d37690004554bbcb355829151ee18.png",
+  "thumb": "items/images/en/thumbs/voltaic_lance.342d37690004554bbcb355829151ee18.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

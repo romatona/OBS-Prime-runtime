@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e51560d",
+  "slug": "lethal_torrent",
+  "market_slug": "lethal_torrent",
+  "name_en": "Lethal Torrent",
+  "name_en_slug": "lethal_torrent",
+  "name_kr": "리썰 토렌트",
+  "aliases": [
+    "Lethal Torrent",
+    "lethal torrent",
+    "lethal_torrent",
+    "리썰 토렌트"
+  ],
+  "tags": [
+    "mod",
+    "pistol",
+    "rare",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Pistol/DualStat/GrinderMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/lethal_torrent.5f97f70430d22026c0bbcf6030f046a8.png",
+  "thumb": "items/images/en/thumbs/lethal_torrent.5f97f70430d22026c0bbcf6030f046a8.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

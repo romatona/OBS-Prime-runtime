@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "58358e1c2c2ada00655a4ef6",
+  "slug": "venka_prime_blades",
+  "market_slug": "venka_prime_blades",
+  "name_en": "Venka Prime Blades",
+  "name_en_slug": "venka_prime_blades",
+  "name_kr": "벤카 프라임 블레이드",
+  "aliases": [
+    "Venka Prime Blades",
+    "venka prime blades",
+    "venka_prime_blades",
+    "벤카 프라임 블레이드"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeVenkaClawsBlade",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/venka_prime_blades.123cb62ab1e8a4edd78997a256cf1e7f.png",
+  "thumb": "items/images/en/thumbs/venka_prime_blades.123cb62ab1e8a4edd78997a256cf1e7f.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

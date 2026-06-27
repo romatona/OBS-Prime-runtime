@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5fde10c36db57b0185b39076",
+  "slug": "necramech_enemy_sense",
+  "market_slug": "necramech_enemy_sense",
+  "name_en": "Necramech Enemy Sense",
+  "name_en_slug": "necramech_enemy_sense",
+  "name_kr": "네크라메크 에너미 센스",
+  "aliases": [
+    "Necramech Enemy Sense",
+    "necramech enemy sense",
+    "necramech_enemy_sense",
+    "네크라메크 에너미 센스"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "necramech"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Necromech/NecromechAvatarEnemyRadarMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/necramech_enemy_sense.de301a61767696956074a51cbfc03dd7.png",
+  "thumb": "items/images/en/thumbs/necramech_enemy_sense.de301a61767696956074a51cbfc03dd7.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

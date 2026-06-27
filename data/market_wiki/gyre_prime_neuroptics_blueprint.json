@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6939aa435d9ebda239125d27",
+  "slug": "gyre_prime_neuroptics_blueprint",
+  "market_slug": "gyre_prime_neuroptics_blueprint",
+  "name_en": "Gyre Prime Neuroptics Blueprint",
+  "name_en_slug": "gyre_prime_neuroptics_blueprint",
+  "name_kr": "자이어 프라임 뉴로옵틱스 설계도",
+  "aliases": [
+    "Gyre Prime Neuroptics",
+    "Gyre Prime Neuroptics Blueprint",
+    "gyre prime neuroptics blueprint",
+    "gyre_prime_neuroptics_blueprint",
+    "자이어 프라임 뉴로옵틱스",
+    "자이어 프라임 뉴로옵틱스 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/GyrePrimeHelmetBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/gyre_prime_neuroptics_blueprint.fd52e994eb0d81e21e28b7b7a98ad960.webp",
+  "thumb": "items/images/en/thumbs/gyre_prime_neuroptics_blueprint.fd52e994eb0d81e21e28b7b7a98ad960.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

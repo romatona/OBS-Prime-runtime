@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56dac5985cc639de0a45c524",
+  "slug": "anti_flak_plating",
+  "market_slug": "anti_flak_plating",
+  "name_en": "Anti-Flak Plating",
+  "name_en_slug": "anti_flak_plating",
+  "name_kr": "안티-플랙 플레이팅",
+  "aliases": [
+    "Anti-Flak Plating",
+    "anti flak plating",
+    "anti_flak_plating",
+    "안티-플랙 플레이팅"
+  ],
+  "tags": [
+    "mod",
+    "pvp",
+    "uncommon",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Warframe/BlastResist",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/anti_flak_plating.cf4a771790c289975365c7dd23e51cde.png",
+  "thumb": "items/images/en/thumbs/anti_flak_plating.cf4a771790c289975365c7dd23e51cde.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

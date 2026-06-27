@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "57bc9c99e506eb45ea25145d",
+  "slug": "galatine_prime_blueprint",
+  "market_slug": "galatine_prime_blueprint",
+  "name_en": "Galatine Prime Blueprint",
+  "name_en_slug": "galatine_prime_blueprint",
+  "name_kr": "갈라틴 프라임 설계도",
+  "aliases": [
+    "Galatine Prime",
+    "Galatine Prime Blueprint",
+    "galatine prime blueprint",
+    "galatine_prime_blueprint",
+    "갈라틴 프라임",
+    "갈라틴 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "melee",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/PrimeGalatineBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/galatine_prime_blueprint.066b855eb73def09ca5f21f677010098.png",
+  "thumb": "items/images/en/thumbs/galatine_prime_blueprint.066b855eb73def09ca5f21f677010098.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

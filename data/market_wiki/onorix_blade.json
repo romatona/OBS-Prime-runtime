@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5783bf54d9b6753790c89e97",
+  "slug": "onorix_blade",
+  "market_slug": "onorix_blade",
+  "name_en": "Onorix Blade",
+  "name_en_slug": "onorix_blade",
+  "name_kr": "오노릭스 블레이드",
+  "aliases": [
+    "Onorix Blade",
+    "onorix blade",
+    "onorix_blade",
+    "오노릭스 블레이드"
+  ],
+  "tags": [
+    "archwing",
+    "component",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchAxeBlade",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/onorix_blade.04c7efcf7c6239c88c275d164d6a259a.png",
+  "thumb": "items/images/en/thumbs/onorix_blade.04c7efcf7c6239c88c275d164d6a259a.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

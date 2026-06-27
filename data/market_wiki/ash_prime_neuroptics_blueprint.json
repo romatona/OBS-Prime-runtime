@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "559daab7e779897b3d86cb8f",
+  "slug": "ash_prime_neuroptics_blueprint",
+  "market_slug": "ash_prime_neuroptics_blueprint",
+  "name_en": "Ash Prime Neuroptics Blueprint",
+  "name_en_slug": "ash_prime_neuroptics_blueprint",
+  "name_kr": "애쉬 프라임 뉴로옵틱스 설계도",
+  "aliases": [
+    "Ash Prime Neuroptics",
+    "Ash Prime Neuroptics Blueprint",
+    "ash prime neuroptics blueprint",
+    "ash_prime_neuroptics_blueprint",
+    "애쉬 프라임 뉴로옵틱스",
+    "애쉬 프라임 뉴로옵틱스 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/AshPrimeHelmetBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/ash_prime_neuroptics.9f3f82bee82a9741531857cf76eb6594.png",
+  "thumb": "items/images/en/thumbs/ash_prime_neuroptics.9f3f82bee82a9741531857cf76eb6594.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

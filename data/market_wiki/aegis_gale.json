@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "66fd67d13a826eccf651cd4d",
+  "slug": "aegis_gale",
+  "market_slug": "aegis_gale",
+  "name_en": "Aegis Gale",
+  "name_en_slug": "aegis_gale",
+  "name_kr": "이지스 게일",
+  "aliases": [
+    "Aegis Gale",
+    "aegis gale",
+    "aegis_gale",
+    "이지스 게일"
+  ],
+  "tags": [
+    "augment",
+    "hildryn",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/IronFrame/IronFrameEruptionAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/aegis_gale.a81cadf3c1f6e67c92c188534ced77b2.webp",
+  "thumb": "items/images/en/thumbs/aegis_gale.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

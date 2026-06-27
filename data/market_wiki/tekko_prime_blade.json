@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5d93ca117ea27b0a87566f79",
+  "slug": "tekko_prime_blade",
+  "market_slug": "tekko_prime_blade",
+  "name_en": "Tekko Prime Blade",
+  "name_en_slug": "tekko_prime_blade",
+  "name_kr": "텟코 프라임 블레이드",
+  "aliases": [
+    "Tekko Prime Blade",
+    "tekko prime blade",
+    "tekko_prime_blade",
+    "텟코 프라임 블레이드"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/TekkoPrimeBlade",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/tekko_prime_blade.ace5f3ef4976ceae04ed01d8fcc695c7.png",
+  "thumb": "items/images/en/thumbs/tekko_prime_blade.ace5f3ef4976ceae04ed01d8fcc695c7.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

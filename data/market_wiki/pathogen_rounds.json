@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515653",
+  "slug": "pathogen_rounds",
+  "market_slug": "pathogen_rounds",
+  "name_en": "Pathogen Rounds",
+  "name_en_slug": "pathogen_rounds",
+  "name_kr": "패서전 라운즈",
+  "aliases": [
+    "Pathogen Rounds",
+    "pathogen rounds",
+    "pathogen_rounds",
+    "패서전 라운즈"
+  ],
+  "tags": [
+    "mod",
+    "pistol",
+    "secondary",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Pistol/WeaponToxinDamageMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/pathogen_rounds.4eef46cd7b866eea2ac8009ec61901e9.png",
+  "thumb": "items/images/en/thumbs/pathogen_rounds.4eef46cd7b866eea2ac8009ec61901e9.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

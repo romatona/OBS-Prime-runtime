@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5dff6e1014569703166749fd",
+  "slug": "section_density",
+  "market_slug": "section_density",
+  "name_en": "Section Density",
+  "name_en_slug": "section_density",
+  "name_kr": "섹션 덴시티",
+  "aliases": [
+    "Section Density",
+    "section density",
+    "section_density",
+    "섹션 덴시티"
+  ],
+  "tags": [
+    "mod",
+    "railjack",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Railjack/Gunnery/VidarGunnerWeaponCritDamage",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/section_density.06364c3a4445dcfff9525d825617fd46.png",
+  "thumb": "items/images/en/thumbs/section_density.06364c3a4445dcfff9525d825617fd46.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

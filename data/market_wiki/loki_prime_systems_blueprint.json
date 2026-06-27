@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a73e65e779893a797fff74",
+  "slug": "loki_prime_systems_blueprint",
+  "market_slug": "loki_prime_systems_blueprint",
+  "name_en": "Loki Prime Systems Blueprint",
+  "name_en_slug": "loki_prime_systems_blueprint",
+  "name_kr": "로키 프라임 시스템 설계도",
+  "aliases": [
+    "Loki Prime Systems",
+    "Loki Prime Systems Blueprint",
+    "loki prime systems blueprint",
+    "loki_prime_systems_blueprint",
+    "로키 프라임 시스템",
+    "로키 프라임 시스템 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/LokiPrimeSystemsBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/loki_prime_systems.abc05c280f92196bcb688643873fbf95.png",
+  "thumb": "items/images/en/thumbs/loki_prime_systems.abc05c280f92196bcb688643873fbf95.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

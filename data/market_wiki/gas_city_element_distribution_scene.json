@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5f4ed3f8d5c36d0086f55b09",
+  "slug": "gas_city_element_distribution_scene",
+  "market_slug": "gas_city_element_distribution_scene",
+  "name_en": "Gas City Element Distribution Scene",
+  "name_en_slug": "gas_city_element_distribution_scene",
+  "name_kr": "가스 도시 원소 배급소 배경",
+  "aliases": [
+    "Gas City Element Distribution Scene",
+    "gas city element distribution scene",
+    "gas_city_element_distribution_scene",
+    "가스 도시 원소 배급소 배경"
+  ],
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/MiscItems/PhotoboothTileGasCityGasConPlusC",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/gas_city_element_distribution_scene.85346d7c459b098981e014cd1d665f25.png",
+  "thumb": "items/images/en/thumbs/gas_city_element_distribution_scene.85346d7c459b098981e014cd1d665f25.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

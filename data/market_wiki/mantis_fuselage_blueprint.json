@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5719559c4445c3e28b80fc7c",
+  "slug": "mantis_fuselage_blueprint",
+  "market_slug": "mantis_fuselage_blueprint",
+  "name_en": "Mantis Fuselage Blueprint",
+  "name_en_slug": "mantis_fuselage_blueprint",
+  "name_kr": "맨티스 동체 설계도",
+  "aliases": [
+    "Mantis Fuselage",
+    "Mantis Fuselage Blueprint",
+    "mantis fuselage blueprint",
+    "mantis_fuselage_blueprint",
+    "맨티스 동체",
+    "맨티스 동체 설계도"
+  ],
+  "tags": [
+    "blueprint"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/LandingCraftRecipes/Mantys/MantysExoskeletonBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/mantis_fuselage.d4716b0defc2695308eb9b5a4b18d935.png",
+  "thumb": "items/images/en/thumbs/mantis_fuselage.d4716b0defc2695308eb9b5a4b18d935.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

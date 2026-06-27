@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "592dd262011e88f094afec7f",
+  "slug": "oberon_prime_chassis_blueprint",
+  "market_slug": "oberon_prime_chassis_blueprint",
+  "name_en": "Oberon Prime Chassis Blueprint",
+  "name_en_slug": "oberon_prime_chassis_blueprint",
+  "name_kr": "오베론 프라임 섀시 설계도",
+  "aliases": [
+    "Oberon Prime Chassis",
+    "Oberon Prime Chassis Blueprint",
+    "oberon prime chassis blueprint",
+    "oberon_prime_chassis_blueprint",
+    "오베론 프라임 섀시",
+    "오베론 프라임 섀시 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/OberonPrimeChassisBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/oberon_prime_chassis.d7f1623552bce11f166b715679e27022.png",
+  "thumb": "items/images/en/thumbs/oberon_prime_chassis.d7f1623552bce11f166b715679e27022.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

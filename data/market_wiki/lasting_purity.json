@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e5155b8",
+  "slug": "lasting_purity",
+  "market_slug": "lasting_purity",
+  "name_en": "Lasting Purity",
+  "name_en_slug": "lasting_purity",
+  "name_kr": "라스팅 퓨리티",
+  "aliases": [
+    "Lasting Purity",
+    "lasting purity",
+    "lasting_purity",
+    "라스팅 퓨리티"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "syndicate",
+    "vulkar"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Syndicate/VulkarMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/lasting_purity.702ff6d12dcff064a4b9d24ba344260c.png",
+  "thumb": "items/images/en/thumbs/lasting_purity.702ff6d12dcff064a4b9d24ba344260c.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

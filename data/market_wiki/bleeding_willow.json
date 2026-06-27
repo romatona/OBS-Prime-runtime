@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e51566c",
+  "slug": "bleeding_willow",
+  "market_slug": "bleeding_willow",
+  "name_en": "Bleeding Willow",
+  "name_en_slug": "bleeding_willow",
+  "name_kr": "블리딩 윌로우",
+  "aliases": [
+    "Bleeding Willow",
+    "bleeding willow",
+    "bleeding_willow",
+    "블리딩 윌로우"
+  ],
+  "tags": [
+    "mod",
+    "polearms",
+    "rare",
+    "stance"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/PolearmCmbTwoMeleeTree",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/bleeding_willow.97ef22edecb5ca66d2bb3dcd5f8e8d50.png",
+  "thumb": "items/images/en/thumbs/bleeding_willow.97ef22edecb5ca66d2bb3dcd5f8e8d50.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

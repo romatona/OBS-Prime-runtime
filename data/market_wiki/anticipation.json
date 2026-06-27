@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a4c9",
+  "slug": "anticipation",
+  "market_slug": "anticipation",
+  "name_en": "Anticipation",
+  "name_en_slug": "anticipation",
+  "name_kr": "안티시페이션",
+  "aliases": [
+    "Anticipation",
+    "anticipation",
+    "안티시페이션"
+  ],
+  "tags": [
+    "mod",
+    "pvp",
+    "uncommon",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Warframe/StaggerImmunityMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/anticipation.881bb001c85c0b9000f0f9171738053b.png",
+  "thumb": "items/images/en/thumbs/anticipation.881bb001c85c0b9000f0f9171738053b.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

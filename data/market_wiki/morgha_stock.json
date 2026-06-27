@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5fde10c26db57b0185b39071",
+  "slug": "morgha_stock",
+  "market_slug": "morgha_stock",
+  "name_en": "Morgha Stock",
+  "name_en_slug": "morgha_stock",
+  "name_kr": "모르가 스톡",
+  "aliases": [
+    "Morgha Stock",
+    "morgha stock",
+    "morgha_stock",
+    "모르가 스톡"
+  ],
+  "tags": [
+    "component",
+    "necramech"
+  ],
+  "game_ref": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherStockItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/ko/morgha_stock.91f0b5fabbeeebd690890cd4e16ebf71.png",
+  "thumb": "items/images/ko/thumbs/morgha_stock.91f0b5fabbeeebd690890cd4e16ebf71.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

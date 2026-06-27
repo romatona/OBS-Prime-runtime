@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a4c8",
+  "slug": "air_recon",
+  "market_slug": "air_recon",
+  "name_en": "Air Recon",
+  "name_en_slug": "air_recon",
+  "name_kr": "에어 리콘",
+  "aliases": [
+    "Air Recon",
+    "air recon",
+    "air_recon",
+    "에어 리콘"
+  ],
+  "tags": [
+    "mod",
+    "pistol",
+    "pvp",
+    "secondary",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Pistol/HigherAirAimFoVPistolMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/air_recon.73a5b4319a32387372dc2c693b18ebcc.png",
+  "thumb": "items/images/en/thumbs/air_recon.73a5b4319a32387372dc2c693b18ebcc.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

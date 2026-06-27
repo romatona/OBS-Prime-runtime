@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a73e65e779893a797fff58",
+  "slug": "reaper_prime_blade",
+  "market_slug": "reaper_prime_blade",
+  "name_en": "Reaper Prime Blade",
+  "name_en_slug": "reaper_prime_blade",
+  "name_kr": "리퍼 프라임 블레이드",
+  "aliases": [
+    "Reaper Prime Blade",
+    "reaper prime blade",
+    "reaper_prime_blade",
+    "리퍼 프라임 블레이드"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeScytheBlade",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/reaper_prime_blade.4e1d36812203a97fd0191930485b1095.png",
+  "thumb": "items/images/en/thumbs/reaper_prime_blade.4e1d36812203a97fd0191930485b1095.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

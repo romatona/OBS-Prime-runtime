@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "62a2b943fbd62c0038ef9a2d",
+  "slug": "innodem_blueprint",
+  "market_slug": "innodem_blueprint",
+  "name_en": "Innodem Blueprint",
+  "name_en_slug": "innodem_blueprint",
+  "name_kr": "인노뎀 설계도",
+  "aliases": [
+    "Innodem",
+    "Innodem Blueprint",
+    "innodem blueprint",
+    "innodem_blueprint",
+    "인노뎀",
+    "인노뎀 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "melee",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/Evolving/ZarimanDaggerWeaponBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/innodem_blueprint.2a892f04f30e5f12bd5689a2fd467aeb.png",
+  "thumb": "items/images/en/thumbs/innodem_blueprint.2a892f04f30e5f12bd5689a2fd467aeb.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

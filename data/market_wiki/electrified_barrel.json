@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156db",
+  "slug": "electrified_barrel",
+  "market_slug": "electrified_barrel",
+  "name_en": "Electrified Barrel",
+  "name_en_slug": "electrified_barrel",
+  "name_kr": "일렉트리파이드 배럴",
+  "aliases": [
+    "Electrified Barrel",
+    "electrified barrel",
+    "electrified_barrel",
+    "일렉트리파이드 배럴"
+  ],
+  "tags": [
+    "archgun",
+    "archwing",
+    "mod",
+    "primary",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingWeaponElectricityDamageMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/electrified_barrel.4578f59f618c4033e9f3b00df2bbc921.png",
+  "thumb": "items/images/en/thumbs/electrified_barrel.4578f59f618c4033e9f3b00df2bbc921.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

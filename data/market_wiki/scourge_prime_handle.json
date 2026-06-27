@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "61bb64fe3132ff00482b5fd4",
+  "slug": "scourge_prime_handle",
+  "market_slug": "scourge_prime_handle",
+  "name_en": "Scourge Prime Handle",
+  "name_en_slug": "scourge_prime_handle",
+  "name_kr": "스커지 프라임 핸들",
+  "aliases": [
+    "Scourge Prime Handle",
+    "scourge prime handle",
+    "scourge_prime_handle",
+    "스커지 프라임 핸들"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/ScourgePrimeHandle",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/scourge_prime_handle.0a3ad76487e9722f613f6e57e3983cbd.png",
+  "thumb": "items/images/en/thumbs/scourge_prime_handle.0a3ad76487e9722f613f6e57e3983cbd.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

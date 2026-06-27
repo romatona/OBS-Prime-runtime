@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "554d3f0ce779894445a848f6",
+  "slug": "breach_loader",
+  "market_slug": "breach_loader",
+  "name_en": "Breach Loader",
+  "name_en_slug": "breach_loader",
+  "name_kr": "브리치 로더",
+  "aliases": [
+    "Breach Loader",
+    "breach loader",
+    "breach_loader",
+    "브리치 로더"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "shotgun"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Shotgun/WeaponEventPunctureDamageMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/breach_loader.ac1c6544ae28057ae47e86ef8ceceff5.png",
+  "thumb": "items/images/en/thumbs/breach_loader.ac1c6544ae28057ae47e86ef8ceceff5.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

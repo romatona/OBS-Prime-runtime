@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156f3",
+  "slug": "continuous_misery",
+  "market_slug": "continuous_misery",
+  "name_en": "Continuous Misery",
+  "name_en_slug": "continuous_misery",
+  "name_kr": "컨티뉴어스 미져리",
+  "aliases": [
+    "Continuous Misery",
+    "continuous misery",
+    "continuous_misery",
+    "컨티뉴어스 미져리"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "primary",
+    "rifle"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/WeaponProcTimeMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/continuous_misery.d7dcb952ea18898c89c0a04c83213b8c.png",
+  "thumb": "items/images/en/thumbs/continuous_misery.d7dcb952ea18898c89c0a04c83213b8c.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

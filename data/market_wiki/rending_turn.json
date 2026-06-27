@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "55c153dae779895d91dff3bb",
+  "slug": "rending_turn",
+  "market_slug": "rending_turn",
+  "name_en": "Rending Turn",
+  "name_en_slug": "rending_turn",
+  "name_kr": "렌딩 턴",
+  "aliases": [
+    "Rending Turn",
+    "rending turn",
+    "rending_turn",
+    "렌딩 턴"
+  ],
+  "tags": [
+    "mod",
+    "uncommon",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Warframe/SlashParkourTwoMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/rending_turn.1a63e9edd7387b62a3ebf1dac810dcc8.png",
+  "thumb": "items/images/en/thumbs/rending_turn.1a63e9edd7387b62a3ebf1dac810dcc8.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

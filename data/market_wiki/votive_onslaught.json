@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6055de865221e30083f6f10a",
+  "slug": "votive_onslaught",
+  "market_slug": "votive_onslaught",
+  "name_en": "Votive Onslaught",
+  "name_en_slug": "votive_onslaught",
+  "name_kr": "보티브 온슬로트",
+  "aliases": [
+    "Votive Onslaught",
+    "votive onslaught",
+    "votive_onslaught",
+    "보티브 온슬로트"
+  ],
+  "tags": [
+    "mod",
+    "rare",
+    "stance",
+    "warfans"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/WarfanCmbTwoMeleeTree",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/votive_onslaught.ffc5c641a7d5d23e510fc27faaf7dc44.png",
+  "thumb": "items/images/en/thumbs/votive_onslaught.ffc5c641a7d5d23e510fc27faaf7dc44.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

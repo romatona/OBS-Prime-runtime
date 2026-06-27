@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156eb",
+  "slug": "infested_impedance",
+  "market_slug": "infested_impedance",
+  "name_en": "Infested Impedance",
+  "name_en_slug": "infested_impedance",
+  "name_kr": "인페스티드 임피던스",
+  "aliases": [
+    "Infested Impedance",
+    "infested impedance",
+    "infested_impedance",
+    "인페스티드 임피던스"
+  ],
+  "tags": [
+    "aura",
+    "mod",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Aura/InfestationSpeedReductionAuraMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/infested_impedance.760d6dfe7d74cc9dbadfc17bc5654aaf.png",
+  "thumb": "items/images/en/thumbs/infested_impedance.760d6dfe7d74cc9dbadfc17bc5654aaf.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

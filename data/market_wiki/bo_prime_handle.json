@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a73e65e779893a797fff28",
+  "slug": "bo_prime_handle",
+  "market_slug": "bo_prime_handle",
+  "name_en": "Bo Prime Handle",
+  "name_en_slug": "bo_prime_handle",
+  "name_kr": "보 프라임 핸들",
+  "aliases": [
+    "Bo Prime Handle",
+    "bo prime handle",
+    "bo_prime_handle",
+    "보 프라임 핸들"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBoHandle",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/bo_prime_handle.fad65cfb95d62a4275be60be30375846.png",
+  "thumb": "items/images/en/thumbs/bo_prime_handle.fad65cfb95d62a4275be60be30375846.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

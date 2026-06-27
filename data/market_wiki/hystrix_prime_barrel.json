@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "62d3494175156700ce450dfd",
+  "slug": "hystrix_prime_barrel",
+  "market_slug": "hystrix_prime_barrel",
+  "name_en": "Hystrix Prime Barrel",
+  "name_en_slug": "hystrix_prime_barrel",
+  "name_kr": "히스트릭스 프라임 배럴",
+  "aliases": [
+    "Hystrix Prime Barrel",
+    "hystrix prime barrel",
+    "hystrix_prime_barrel",
+    "히스트릭스 프라임 배럴"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/HystrixPrimeBarrel",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/hystrix_prime_barrel.1ac7d440197ca107e3df6646cb58a43d.png",
+  "thumb": "items/images/en/thumbs/hystrix_prime_barrel.1ac7d440197ca107e3df6646cb58a43d.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

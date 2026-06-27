@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6139101a30dd5b004b7f90ac",
+  "slug": "nidus_prime_neuroptics_blueprint",
+  "market_slug": "nidus_prime_neuroptics_blueprint",
+  "name_en": "Nidus Prime Neuroptics Blueprint",
+  "name_en_slug": "nidus_prime_neuroptics_blueprint",
+  "name_kr": "나이더스 프라임 뉴로옵틱스 설계도",
+  "aliases": [
+    "Nidus Prime Neuroptics",
+    "Nidus Prime Neuroptics Blueprint",
+    "nidus prime neuroptics blueprint",
+    "nidus_prime_neuroptics_blueprint",
+    "나이더스 프라임 뉴로옵틱스",
+    "나이더스 프라임 뉴로옵틱스 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/NidusPrimeHelmetBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/nidus_prime_neuroptics.1cf479b37c98ce42340156c9c005e91e.png",
+  "thumb": "items/images/en/thumbs/nidus_prime_neuroptics.1cf479b37c98ce42340156c9c005e91e.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

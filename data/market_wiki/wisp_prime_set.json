@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "64c2aa1466456704eba6ba35",
+  "slug": "wisp_prime_set",
+  "market_slug": "wisp_prime_set",
+  "name_en": "Wisp Prime Set",
+  "name_en_slug": "wisp_prime_set",
+  "name_kr": "위습 프라임 세트",
+  "aliases": [
+    "Wisp Prime Set",
+    "wisp prime set",
+    "wisp_prime_set",
+    "위습 프라임 세트"
+  ],
+  "tags": [
+    "prime",
+    "set",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Wisp/WispPrime",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/wisp_prime_set.609bc4e8676a77247cc126ca150cb132.png",
+  "thumb": "items/images/en/thumbs/wisp_prime_set.609bc4e8676a77247cc126ca150cb132.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

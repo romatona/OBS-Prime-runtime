@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6055de865221e30083f6f10b",
+  "slug": "cordon",
+  "market_slug": "cordon",
+  "name_en": "Cordon",
+  "name_en_slug": "cordon",
+  "name_kr": "코르돈",
+  "aliases": [
+    "Cordon",
+    "cordon",
+    "코르돈"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "nautilus",
+    "sentinel"
+  ],
+  "game_ref": "/Lotus/Types/Sentinels/SentinelPrecepts/GatherEnemies",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/cordon.76aa1dcb061e2e0fea2e9265b2f5e95e.png",
+  "thumb": "items/images/en/thumbs/cordon.76aa1dcb061e2e0fea2e9265b2f5e95e.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

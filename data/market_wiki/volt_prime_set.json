@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56783f24cbfa8f0432dd89b2",
+  "slug": "volt_prime_set",
+  "market_slug": "volt_prime_set",
+  "name_en": "Volt Prime Set",
+  "name_en_slug": "volt_prime_set",
+  "name_kr": "볼트 프라임 세트",
+  "aliases": [
+    "Volt Prime Set",
+    "volt prime set",
+    "volt_prime_set",
+    "볼트 프라임 세트"
+  ],
+  "tags": [
+    "prime",
+    "set",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Volt/VoltPrime",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/volt_prime_set.9481daa3eb02aaec1108cdbeeaeea159.png",
+  "thumb": "items/images/en/thumbs/volt_prime_set.9481daa3eb02aaec1108cdbeeaeea159.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

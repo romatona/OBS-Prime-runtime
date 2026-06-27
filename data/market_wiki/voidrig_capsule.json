@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5fde10c46db57b0185b3907c",
+  "slug": "voidrig_capsule",
+  "market_slug": "voidrig_capsule",
+  "name_en": "Voidrig Capsule",
+  "name_en_slug": "voidrig_capsule",
+  "name_kr": "보이드리그 캡슐",
+  "aliases": [
+    "Voidrig Capsule",
+    "voidrig capsule",
+    "voidrig_capsule",
+    "보이드리그 캡슐"
+  ],
+  "tags": [
+    "component",
+    "necramech"
+  ],
+  "game_ref": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartSystemsItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/ko/voidrig_capsule.75bd55fc8ff8512e1667272e4bc4e567.png",
+  "thumb": "items/images/ko/thumbs/voidrig_capsule.75bd55fc8ff8512e1667272e4bc4e567.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

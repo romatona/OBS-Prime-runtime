@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e5155e6",
+  "slug": "smite_grineer",
+  "market_slug": "smite_grineer",
+  "name_en": "Smite Grineer",
+  "name_en_slug": "smite_grineer",
+  "name_kr": "스마이트 그리니어",
+  "aliases": [
+    "Smite Grineer",
+    "smite grineer",
+    "smite_grineer",
+    "스마이트 그리니어"
+  ],
+  "tags": [
+    "melee",
+    "mod",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeFactionDamageGrineer",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/smite_grineer.43bb7e987aa1a2e58acaf75c663ab3ab.png",
+  "thumb": "items/images/en/thumbs/smite_grineer.43bb7e987aa1a2e58acaf75c663ab3ab.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5be701133ffcc703e462c707",
+  "slug": "air_time",
+  "market_slug": "air_time",
+  "name_en": "Air Time",
+  "name_en_slug": "air_time",
+  "name_kr": "에어 타임",
+  "aliases": [
+    "Air Time",
+    "air time",
+    "air_time",
+    "에어 타임"
+  ],
+  "tags": [
+    "common",
+    "k_drive",
+    "mod"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Hoverboard/HBAirGravMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/air_time.96ed33912d85f25e3a47296e6a0dbc65.png",
+  "thumb": "items/images/en/thumbs/air_time.96ed33912d85f25e3a47296e6a0dbc65.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

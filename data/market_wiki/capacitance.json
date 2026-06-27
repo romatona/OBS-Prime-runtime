@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5526aec0e779896af941825e",
+  "slug": "capacitance",
+  "market_slug": "capacitance",
+  "name_en": "Capacitance",
+  "name_en_slug": "capacitance",
+  "name_kr": "커패시턴스",
+  "aliases": [
+    "Capacitance",
+    "capacitance",
+    "커패시턴스"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "rare",
+    "volt",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Volt/OverloadAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/capacitance.d58fa98b900e20e34c6e9efb597a8f0d.png",
+  "thumb": "items/images/en/thumbs/capacitance.d58fa98b900e20e34c6e9efb597a8f0d.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5be4b0a53ffcc703294e76b1",
+  "slug": "tek_assault",
+  "market_slug": "tek_assault",
+  "name_en": "Tek Assault",
+  "name_en_slug": "tek_assault",
+  "name_kr": "텍 어썰트",
+  "aliases": [
+    "Tek Assault",
+    "tek assault",
+    "tek_assault",
+    "텍 어썰트"
+  ],
+  "tags": [
+    "kavat",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sets/Tek/KavatTekAssaultMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/tek_assault.7ab0fb3bd35101cefe65e1365eb1d224.png",
+  "thumb": "items/images/en/thumbs/tek_assault.7ab0fb3bd35101cefe65e1365eb1d224.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

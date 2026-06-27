@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "57962daf19aaba0b00a9b1b3",
+  "slug": "latron_wraith_stock",
+  "market_slug": "latron_wraith_stock",
+  "name_en": "Latron Wraith Stock",
+  "name_en_slug": "latron_wraith_stock",
+  "name_kr": "래트론 레이스 스톡",
+  "aliases": [
+    "Latron Wraith Stock",
+    "latron wraith stock",
+    "latron_wraith_stock",
+    "래트론 레이스 스톡"
+  ],
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/LatronWraithStock",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/latron_wraith_stock.57295b3f36571ea8ea47471d7a70caea.png",
+  "thumb": "items/images/en/thumbs/latron_wraith_stock.57295b3f36571ea8ea47471d7a70caea.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

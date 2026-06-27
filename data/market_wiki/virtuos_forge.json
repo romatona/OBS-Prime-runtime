@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5c1bda1914a8e4006b1dad8c",
+  "slug": "virtuos_forge",
+  "market_slug": "virtuos_forge",
+  "name_en": "Virtuos Forge",
+  "name_en_slug": "virtuos_forge",
+  "name_kr": "버츄오스 포지",
+  "aliases": [
+    "Virtuos Forge",
+    "virtuos forge",
+    "virtuos_forge",
+    "버츄오스 포지"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "operator",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/VoidToHeatDamage",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/virtuos_forge.51355a12fdc05c779f027af6caa6f157.png",
+  "thumb": "items/images/en/thumbs/virtuos_forge.51355a12fdc05c779f027af6caa6f157.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6054de205221e30057501024",
+  "slug": "lith_m5_relic",
+  "market_slug": "lith_m5_relic",
+  "name_en": "Lith M5 Relic",
+  "name_en_slug": "lith_m5_relic",
+  "name_kr": "리스 M5 성유물",
+  "aliases": [
+    "Lith M5 Relic",
+    "lith m5 relic",
+    "lith_m5_relic",
+    "리스 M5 성유물"
+  ],
+  "tags": [
+    "lith",
+    "relic"
+  ],
+  "game_ref": "/Lotus/Types/Game/Projections/T1VoidProjectionTitaniaPrimeB",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/lith_m5_relic.4c2cd55afd4007566866d226c86e0fdd.png",
+  "thumb": "items/images/en/thumbs/lith_m5_relic.4c2cd55afd4007566866d226c86e0fdd.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "55158ce0e7798915f4c95b78",
+  "slug": "volt_prime_systems_blueprint",
+  "market_slug": "volt_prime_systems_blueprint",
+  "name_en": "Volt Prime Systems Blueprint",
+  "name_en_slug": "volt_prime_systems_blueprint",
+  "name_kr": "볼트 프라임 시스템 설계도",
+  "aliases": [
+    "Volt Prime Systems",
+    "Volt Prime Systems Blueprint",
+    "volt prime systems blueprint",
+    "volt_prime_systems_blueprint",
+    "볼트 프라임 시스템",
+    "볼트 프라임 시스템 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/VoltPrimeSystemsBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/volt_prime_systems.9481daa3eb02aaec1108cdbeeaeea159.png",
+  "thumb": "items/images/en/thumbs/volt_prime_systems.9481daa3eb02aaec1108cdbeeaeea159.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

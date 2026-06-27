@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "67db60569cec3e52e62523eb",
+  "slug": "threat_blocker",
+  "market_slug": "threat_blocker",
+  "name_en": "Threat Blocker",
+  "name_en_slug": "threat_blocker",
+  "name_kr": "쓰렛 블로커",
+  "aliases": [
+    "Threat Blocker",
+    "threat blocker",
+    "threat_blocker",
+    "쓰렛 블로커"
+  ],
+  "tags": [
+    "mod",
+    "parazon",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/DataSpike/Potency/GainAntivirusAndWeaponDamageOnUseMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/threat_blocker.6e745271e8b284c5604405fa0053fb32.webp",
+  "thumb": "items/images/en/thumbs/threat_blocker.6e745271e8b284c5604405fa0053fb32.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

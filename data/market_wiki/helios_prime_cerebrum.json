@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "58b57068eb26db5c31192115",
+  "slug": "helios_prime_cerebrum",
+  "market_slug": "helios_prime_cerebrum",
+  "name_en": "Helios Prime Cerebrum",
+  "name_en_slug": "helios_prime_cerebrum",
+  "name_kr": "헬리오스 프라임 세레브럼",
+  "aliases": [
+    "Helios Prime Cerebrum",
+    "helios prime cerebrum",
+    "helios_prime_cerebrum",
+    "헬리오스 프라임 세레브럼"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeHeliosCerebrum",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/helios_prime_cerebrum.625b7c74ea5dd61b1840f8094df7648a.png",
+  "thumb": "items/images/en/thumbs/helios_prime_cerebrum.625b7c74ea5dd61b1840f8094df7648a.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

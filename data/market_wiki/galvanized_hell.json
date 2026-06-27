@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60e5b8fb4794450053e9993d",
+  "slug": "galvanized_hell",
+  "market_slug": "galvanized_hell",
+  "name_en": "Galvanized Hell",
+  "name_en_slug": "galvanized_hell",
+  "name_kr": "갈바나이즈드 헬",
+  "aliases": [
+    "Galvanized Hell",
+    "galvanized hell",
+    "galvanized_hell",
+    "갈바나이즈드 헬"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "shotgun"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Shotgun/WeaponFireIterationsSPMod",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/galvanized_hell.b411e995f8116a7ac6adbce1128b7689.png",
+  "thumb": "items/images/en/thumbs/galvanized_hell.b411e995f8116a7ac6adbce1128b7689.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5a6b495b7f2bca025fde2b57",
+  "slug": "lasting_covenant",
+  "market_slug": "lasting_covenant",
+  "name_en": "Lasting Covenant",
+  "name_en_slug": "lasting_covenant",
+  "name_kr": "라스팅 코버넌트",
+  "aliases": [
+    "Lasting Covenant",
+    "lasting covenant",
+    "lasting_covenant",
+    "라스팅 코버넌트"
+  ],
+  "tags": [
+    "augment",
+    "harrow",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Priest/PriestPactAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/lasting_covenant.15073ed337d4a150e884ba7526f2cfab.png",
+  "thumb": "items/images/en/thumbs/lasting_covenant.15073ed337d4a150e884ba7526f2cfab.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

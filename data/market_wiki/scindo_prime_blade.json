@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a73e65e779893a797fff5b",
+  "slug": "scindo_prime_blade",
+  "market_slug": "scindo_prime_blade",
+  "name_en": "Scindo Prime Blade",
+  "name_en_slug": "scindo_prime_blade",
+  "name_kr": "신도 프라임 블레이드",
+  "aliases": [
+    "Scindo Prime Blade",
+    "scindo prime blade",
+    "scindo_prime_blade",
+    "신도 프라임 블레이드"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeScindoBlade",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/scindo_prime_blade.ae70ac90b811a44f64263394b6410c28.png",
+  "thumb": "items/images/en/thumbs/scindo_prime_blade.ae70ac90b811a44f64263394b6410c28.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

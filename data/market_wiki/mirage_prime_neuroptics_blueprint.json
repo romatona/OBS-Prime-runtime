@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5a2feeb2c2c9e90cbdaa23d6",
+  "slug": "mirage_prime_neuroptics_blueprint",
+  "market_slug": "mirage_prime_neuroptics_blueprint",
+  "name_en": "Mirage Prime Neuroptics Blueprint",
+  "name_en_slug": "mirage_prime_neuroptics_blueprint",
+  "name_kr": "미라지 프라임 뉴로옵틱스 설계도",
+  "aliases": [
+    "Mirage Prime Neuroptics",
+    "Mirage Prime Neuroptics Blueprint",
+    "mirage prime neuroptics blueprint",
+    "mirage_prime_neuroptics_blueprint",
+    "미라지 프라임 뉴로옵틱스",
+    "미라지 프라임 뉴로옵틱스 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/MiragePrimeHelmetBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/mirage_prime_neuroptics.e7f8f484dd6ae6c35f0767fff35a5109.png",
+  "thumb": "items/images/en/thumbs/mirage_prime_neuroptics.e7f8f484dd6ae6c35f0767fff35a5109.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

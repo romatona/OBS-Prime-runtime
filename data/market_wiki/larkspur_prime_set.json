@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "641263e07d179f02100c6d45",
+  "slug": "larkspur_prime_set",
+  "market_slug": "larkspur_prime_set",
+  "name_en": "Larkspur Prime Set",
+  "name_en_slug": "larkspur_prime_set",
+  "name_kr": "라크스퍼 프라임 세트",
+  "aliases": [
+    "Larkspur Prime Set",
+    "larkspur prime set",
+    "larkspur_prime_set",
+    "라크스퍼 프라임 세트"
+  ],
+  "tags": [
+    "archwing",
+    "primary",
+    "prime",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Archwing/Primary/PrimeLarkspur/PrimeLarkspurWeapon",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/larkspur_prime_set.592e684b836593e202891aea8b3a3f6c.png",
+  "thumb": "items/images/en/thumbs/larkspur_prime_set.592e684b836593e202891aea8b3a3f6c.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

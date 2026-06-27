@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "58d8f22a11efe42a5e5231fe",
+  "slug": "ayatan_valana_sculpture",
+  "market_slug": "ayatan_valana_sculpture",
+  "name_en": "Ayatan Valana Sculpture",
+  "name_en_slug": "ayatan_valana_sculpture",
+  "name_kr": "아야탄 발라나 조각상",
+  "aliases": [
+    "Ayatan Valana Sculpture",
+    "ayatan valana sculpture",
+    "ayatan_valana_sculpture",
+    "아야탄 발라나 조각상"
+  ],
+  "tags": [
+    "ayatan_sculpture"
+  ],
+  "game_ref": "/Lotus/Types/Items/FusionTreasures/OroFusexG",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/ko/ayatan_valana_sculpture.331f1ba4280627977651aa7209361033.png",
+  "thumb": "items/images/ko/thumbs/ayatan_valana_sculpture.331f1ba4280627977651aa7209361033.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

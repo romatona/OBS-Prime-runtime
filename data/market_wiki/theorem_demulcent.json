@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5fb84767c34da3004797d53b",
+  "slug": "theorem_demulcent",
+  "market_slug": "theorem_demulcent",
+  "name_en": "Theorem Demulcent",
+  "name_en_slug": "theorem_demulcent",
+  "name_kr": "시오럼 디멀센트",
+  "aliases": [
+    "Theorem Demulcent",
+    "theorem demulcent",
+    "theorem_demulcent",
+    "시오럼 디멀센트"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/WeaponDamageOnResidualContact",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/theorem_demulcent.463239df295fca00049643a7b4b0ff8b.png",
+  "thumb": "items/images/en/thumbs/theorem_demulcent.463239df295fca00049643a7b4b0ff8b.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

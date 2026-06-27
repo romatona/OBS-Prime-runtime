@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156d1",
+  "slug": "north_wind",
+  "market_slug": "north_wind",
+  "name_en": "North Wind",
+  "name_en_slug": "north_wind",
+  "name_kr": "노스 윈드",
+  "aliases": [
+    "North Wind",
+    "north wind",
+    "north_wind",
+    "노스 윈드"
+  ],
+  "tags": [
+    "melee",
+    "mod",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Melee/WeaponFreezeDamageMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/north_wind.ddcfeab6866eb1c752ab79e55f001abb.png",
+  "thumb": "items/images/en/thumbs/north_wind.ddcfeab6866eb1c752ab79e55f001abb.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

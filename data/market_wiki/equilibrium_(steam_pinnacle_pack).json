@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60537c312201ea0053ec2e57",
+  "slug": "equilibrium_(steam_pinnacle_pack)",
+  "market_slug": "equilibrium_(steam_pinnacle_pack)",
+  "name_en": "Equilibrium (Steam Pinnacle Pack)",
+  "name_en_slug": "equilibrium_(steam_pinnacle_pack)",
+  "name_kr": "이퀄리브리엄 (Steam 피너클 팩)",
+  "aliases": [
+    "Equilibrium (Steam Pinnacle Pack)",
+    "equilibrium (steam pinnacle pack)",
+    "equilibrium_(steam_pinnacle_pack)",
+    "이퀄리브리엄 (Steam 피너클 팩)"
+  ],
+  "tags": [
+    "mod",
+    "uncommon",
+    "warframe"
+  ],
+  "game_ref": "",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/equilibrium_(steam_pinnacle_pack).1df38be97d928d3edafb1b4cf214cf8a.webp",
+  "thumb": "items/images/en/thumbs/equilibrium_(steam_pinnacle_pack).1df38be97d928d3edafb1b4cf214cf8a.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

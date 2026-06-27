@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5f498a229426ed00443bd0b0",
+  "slug": "anabolic_pollination",
+  "market_slug": "anabolic_pollination",
+  "name_en": "Anabolic Pollination",
+  "name_en_slug": "anabolic_pollination",
+  "name_kr": "애나볼릭 폴리네이션",
+  "aliases": [
+    "Anabolic Pollination",
+    "anabolic pollination",
+    "anabolic_pollination",
+    "애나볼릭 폴리네이션"
+  ],
+  "tags": [
+    "kubrow",
+    "mod",
+    "pharaoh_predasite",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/InfestedPredatorBuffSporesPrecept",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/anabolic_pollination.3aec2d415b1f9ec2e342cc6b3898f639.png",
+  "thumb": "items/images/en/thumbs/anabolic_pollination.3aec2d415b1f9ec2e342cc6b3898f639.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

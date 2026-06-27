@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5615432bb66f8371035bfa23",
+  "slug": "calculated_shot",
+  "market_slug": "calculated_shot",
+  "name_en": "Calculated Shot",
+  "name_en_slug": "calculated_shot",
+  "name_kr": "칼큘레이티드 샷",
+  "aliases": [
+    "Calculated Shot",
+    "calculated shot",
+    "calculated_shot",
+    "칼큘레이티드 샷"
+  ],
+  "tags": [
+    "common",
+    "diriga",
+    "mod",
+    "sentinel"
+  ],
+  "game_ref": "/Lotus/Types/Sentinels/SentinelPrecepts/HeadShot",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/calculated_shot.083e6571a4d27ca0ba592ce5bc617f69.png",
+  "thumb": "items/images/en/thumbs/calculated_shot.083e6571a4d27ca0ba592ce5bc617f69.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

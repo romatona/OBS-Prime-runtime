@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6939d5dcd6a357b81964f862",
+  "slug": "primary_bulwark",
+  "market_slug": "primary_bulwark",
+  "name_en": "Primary Bulwark",
+  "name_en_slug": "primary_bulwark",
+  "name_kr": "프라이머리 불워크",
+  "aliases": [
+    "Primary Bulwark",
+    "primary bulwark",
+    "primary_bulwark",
+    "프라이머리 불워크"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/DamageForBonusArmour",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/primary_bulwark.d2e2aba41f3bd3ae701e3cf3530fe510.webp",
+  "thumb": "items/images/en/thumbs/primary_bulwark.d2e2aba41f3bd3ae701e3cf3530fe510.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

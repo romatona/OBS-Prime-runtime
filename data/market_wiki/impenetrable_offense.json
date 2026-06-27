@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a4db",
+  "slug": "impenetrable_offense",
+  "market_slug": "impenetrable_offense",
+  "name_en": "Impenetrable Offense",
+  "name_en_slug": "impenetrable_offense",
+  "name_kr": "임페네트러블 오펜스",
+  "aliases": [
+    "Impenetrable Offense",
+    "impenetrable offense",
+    "impenetrable_offense",
+    "임페네트러블 오펜스"
+  ],
+  "tags": [
+    "melee",
+    "mod",
+    "pvp",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Melee/BlockMoreAttackSlowerMeleeMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/impenetrable_offense.a43c0e997fb41dc6a6699a6e106ad66f.png",
+  "thumb": "items/images/en/thumbs/impenetrable_offense.a43c0e997fb41dc6a6699a6e106ad66f.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

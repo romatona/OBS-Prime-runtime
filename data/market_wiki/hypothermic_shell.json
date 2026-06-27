@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5c1bda0514a8e4006b1dad5f",
+  "slug": "hypothermic_shell",
+  "market_slug": "hypothermic_shell",
+  "name_en": "Hypothermic Shell",
+  "name_en_slug": "hypothermic_shell",
+  "name_kr": "하이포써믹 쉘",
+  "aliases": [
+    "Hypothermic Shell",
+    "hypothermic shell",
+    "hypothermic_shell",
+    "하이포써믹 쉘"
+  ],
+  "tags": [
+    "archgun",
+    "archwing",
+    "mod",
+    "primary",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingEventColdStatusRifleMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/hypothermic_shell.fbc9f5edb8b058c6b643e7eef855f2c4.png",
+  "thumb": "items/images/en/thumbs/hypothermic_shell.fbc9f5edb8b058c6b643e7eef855f2c4.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

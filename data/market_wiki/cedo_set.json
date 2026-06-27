@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5fe0ea836db57b0225115018",
+  "slug": "cedo_set",
+  "market_slug": "cedo_set",
+  "name_en": "Cedo Set",
+  "name_en_slug": "cedo_set",
+  "name_kr": "세도 세트",
+  "aliases": [
+    "Cedo Set",
+    "cedo set",
+    "cedo_set",
+    "세도 세트"
+  ],
+  "tags": [
+    "primary",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/LongGuns/TnAlchemistShotgun/TnAlchemistShotgun",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/cedo_set.beb0319f93c38fe11119204a3ed47614.png",
+  "thumb": "items/images/en/thumbs/cedo_set.beb0319f93c38fe11119204a3ed47614.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

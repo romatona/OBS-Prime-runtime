@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54aaf2dfe779891cc44486b8",
+  "slug": "arcane_coil_helmet",
+  "market_slug": "arcane_coil_helmet",
+  "name_en": "Arcane Coil Helmet",
+  "name_en_slug": "arcane_coil_helmet",
+  "name_kr": "아케인 코일 헬멧",
+  "aliases": [
+    "Arcane Coil Helmet",
+    "arcane coil helmet",
+    "arcane_coil_helmet",
+    "아케인 코일 헬멧"
+  ],
+  "tags": [
+    "arcane_helmet",
+    "skin"
+  ],
+  "game_ref": "/Lotus/Upgrades/Skins/Mag/MagHelmetAlt",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/arcane_coil_mag_helmet.3851f27fceaf9d1e083d67d05b8f846c.png",
+  "thumb": "items/images/en/thumbs/arcane_coil_mag_helmet.3851f27fceaf9d1e083d67d05b8f846c.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6054dd095221e30057500f16",
+  "slug": "requiem_iii_relic",
+  "market_slug": "requiem_iii_relic",
+  "name_en": "Requiem III Relic",
+  "name_en_slug": "requiem_iii_relic",
+  "name_kr": "레퀴엠 III 성유물",
+  "aliases": [
+    "Requiem III Relic",
+    "requiem iii relic",
+    "requiem_iii_relic",
+    "레퀴엠 III 성유물"
+  ],
+  "tags": [
+    "relic",
+    "requiem"
+  ],
+  "game_ref": "/Lotus/Types/Game/Projections/T5VoidProjectionImmortalC",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/requiem_iii_relic.70479db2ff21c243673e2a3caf93d7b9.png",
+  "thumb": "items/images/en/thumbs/requiem_iii_relic.70479db2ff21c243673e2a3caf93d7b9.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515626",
+  "slug": "crimson_dervish",
+  "market_slug": "crimson_dervish",
+  "name_en": "Crimson Dervish",
+  "name_en_slug": "crimson_dervish",
+  "name_kr": "크림슨 더비쉬",
+  "aliases": [
+    "Crimson Dervish",
+    "crimson dervish",
+    "crimson_dervish",
+    "크림슨 더비쉬"
+  ],
+  "tags": [
+    "mod",
+    "rare",
+    "stance",
+    "swords"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/CrimsonDervishMeleeTree",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/crimson_dervish.cbdbd8ebb0221bf67f7aacd3fa52ed7f.png",
+  "thumb": "items/images/en/thumbs/crimson_dervish.cbdbd8ebb0221bf67f7aacd3fa52ed7f.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5c1bda0d14a8e4006b1dad6c",
+  "slug": "cold_arrival",
+  "market_slug": "cold_arrival",
+  "name_en": "Cold Arrival",
+  "name_en_slug": "cold_arrival",
+  "name_kr": "콜드 어라이벌",
+  "aliases": [
+    "Cold Arrival",
+    "cold arrival",
+    "cold_arrival",
+    "콜드 어라이벌"
+  ],
+  "tags": [
+    "k_drive",
+    "mod",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Hoverboard/HBColdLeakMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/cold_arrival.98123eebb595312973765817368b10f8.png",
+  "thumb": "items/images/en/thumbs/cold_arrival.98123eebb595312973765817368b10f8.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

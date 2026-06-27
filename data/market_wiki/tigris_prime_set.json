@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "57bc9c84e506eb45ea251455",
+  "slug": "tigris_prime_set",
+  "market_slug": "tigris_prime_set",
+  "name_en": "Tigris Prime Set",
+  "name_en_slug": "tigris_prime_set",
+  "name_kr": "티그리스 프라임 세트",
+  "aliases": [
+    "Tigris Prime Set",
+    "tigris prime set",
+    "tigris_prime_set",
+    "티그리스 프라임 세트"
+  ],
+  "tags": [
+    "primary",
+    "prime",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/LongGuns/PrimeTigris/PrimeTigris",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/tigris_prime_set.5f82721ea78697c95208b9bceb72c4a4.png",
+  "thumb": "items/images/en/thumbs/tigris_prime_set.5f82721ea78697c95208b9bceb72c4a4.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

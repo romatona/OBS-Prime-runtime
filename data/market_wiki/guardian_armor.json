@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6604a6d5dbdd5c1673781dc3",
+  "slug": "guardian_armor",
+  "market_slug": "guardian_armor",
+  "name_en": "Guardian Armor",
+  "name_en_slug": "guardian_armor",
+  "name_kr": "가디언 아머",
+  "aliases": [
+    "Guardian Armor",
+    "guardian armor",
+    "guardian_armor",
+    "가디언 아머"
+  ],
+  "tags": [
+    "chroma",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Dragon/DragonScalesAugmentTwoCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/guardian_armor.4f04a10bb9c7639a8ea7c4e249fce9be.png",
+  "thumb": "items/images/en/thumbs/guardian_armor.4f04a10bb9c7639a8ea7c4e249fce9be.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

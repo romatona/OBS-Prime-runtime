@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "682dfa9835715d4f3e9c64ea",
+  "slug": "yareli_prime_systems_blueprint",
+  "market_slug": "yareli_prime_systems_blueprint",
+  "name_en": "Yareli Prime Systems Blueprint",
+  "name_en_slug": "yareli_prime_systems_blueprint",
+  "name_kr": "야렐리 프라임 시스템 설계도",
+  "aliases": [
+    "Yareli Prime Systems",
+    "Yareli Prime Systems Blueprint",
+    "yareli prime systems blueprint",
+    "yareli_prime_systems_blueprint",
+    "야렐리 프라임 시스템",
+    "야렐리 프라임 시스템 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/YareliPrimeSystemsBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/yareli_prime_systems_blueprint.80badf98bdde8e0c47cac61aa6149ea0.webp",
+  "thumb": "items/images/en/thumbs/yareli_prime_systems_blueprint.80badf98bdde8e0c47cac61aa6149ea0.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,30 @@
+﻿{
+    "schema":  "obs_prime.item_wiki_entry.v1",
+    "slug":  "galatine_prime_handle",
+    "market_slug":  "galatine_prime_handle",
+    "name_en":  "Galatine Prime Handle",
+    "name_en_slug":  "galatine_prime_handle",
+    "name_kr":  "갈라틴 프라임 핸들",
+    "aliases":  [
+                    "Galatine Prime Handle",
+                    "galatine_prime_handle",
+                    "갈라틴 프라임 핸들"
+                ],
+    "ducats":  45,
+    "ducats_display":  "45 d",
+    "ducats_source":  "warframe_market_v2_items",
+    "rarities":  [
+                     "Uncommon"
+                 ],
+    "plat":  null,
+    "plat_display":  "-",
+    "plat_date":  "",
+    "source":  {
+                   "wfcd_relics":  "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Relics.json",
+                   "warframe_market_items":  "https://api.warframe.market/v2/items",
+                   "price_cache":  "data/market_cache/warframe_market_prices.json"
+               },
+    "updated_at":  "2026-06-26T02:05:14Z",
+    "version":  "26-06-26",
+    "relic_reward_count":  32
+}

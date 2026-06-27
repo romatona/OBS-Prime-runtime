@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "63886516e7c988007b5bd50b",
+  "slug": "arcane_rise",
+  "market_slug": "arcane_rise",
+  "name_en": "Arcane Rise",
+  "name_en_slug": "arcane_rise",
+  "name_kr": "아케인 라이즈",
+  "aliases": [
+    "Arcane Rise",
+    "arcane rise",
+    "arcane_rise",
+    "아케인 라이즈"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Utility/LongGunDamageOnReload",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/arcane_rise.dd639f42f0235bd00abea150d1666f89.png",
+  "thumb": "items/images/en/thumbs/arcane_rise.dd639f42f0235bd00abea150d1666f89.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

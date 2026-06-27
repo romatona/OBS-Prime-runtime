@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5fde10c56db57b0185b39082",
+  "slug": "voidrig_weapon_pod",
+  "market_slug": "voidrig_weapon_pod",
+  "name_en": "Voidrig Weapon Pod",
+  "name_en_slug": "voidrig_weapon_pod",
+  "name_kr": "보이드리그 웨폰 포드",
+  "aliases": [
+    "Voidrig Weapon Pod",
+    "voidrig weapon pod",
+    "voidrig_weapon_pod",
+    "보이드리그 웨폰 포드"
+  ],
+  "tags": [
+    "component",
+    "necramech"
+  ],
+  "game_ref": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartWeaponPodItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/ko/voidrig_weapon_pod.c041e9d28d729aa9bdefa255ef272fa1.png",
+  "thumb": "items/images/ko/thumbs/voidrig_weapon_pod.c041e9d28d729aa9bdefa255ef272fa1.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5fb84768c34da3004797d548",
+  "slug": "sporothrix_receiver",
+  "market_slug": "sporothrix_receiver",
+  "name_en": "Sporothrix Receiver",
+  "name_en_slug": "sporothrix_receiver",
+  "name_kr": "스포로트릭스 리시버",
+  "aliases": [
+    "Sporothrix Receiver",
+    "sporothrix receiver",
+    "sporothrix_receiver",
+    "스포로트릭스 리시버"
+  ],
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/InfSniperRifleReceiver",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/sporothrix_receiver.d9a3fe663f9fee156958a698e597a6bb.png",
+  "thumb": "items/images/en/thumbs/sporothrix_receiver.d9a3fe663f9fee156958a698e597a6bb.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

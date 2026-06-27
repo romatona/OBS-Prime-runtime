@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56a7b2a51133f656cb085d93",
+  "slug": "catalyzer_link",
+  "market_slug": "catalyzer_link",
+  "name_en": "Catalyzer Link",
+  "name_en_slug": "catalyzer_link",
+  "name_kr": "카탈라이저 링크",
+  "aliases": [
+    "Catalyzer Link",
+    "catalyzer link",
+    "catalyzer_link",
+    "카탈라이저 링크"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "primary",
+    "rifle"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/Event/StatusProcWhileAimingRifleMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/catalyzer_link.8ffa520e67c52e10b51ccc1cec6b7f88.png",
+  "thumb": "items/images/en/thumbs/catalyzer_link.8ffa520e67c52e10b51ccc1cec6b7f88.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

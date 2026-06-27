@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "63ee00fd10125411da49e6e9",
+  "slug": "cathode_current",
+  "market_slug": "cathode_current",
+  "name_en": "Cathode Current",
+  "name_en_slug": "cathode_current",
+  "name_kr": "캐소드 커런트",
+  "aliases": [
+    "Cathode Current",
+    "cathode current",
+    "cathode_current",
+    "캐소드 커런트"
+  ],
+  "tags": [
+    "augment",
+    "gyre",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Gyre/GyreEnergizedAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/cathode_current.518865b7d6dd246b66a58217bf3aab8a.png",
+  "thumb": "items/images/en/thumbs/cathode_current.518865b7d6dd246b66a58217bf3aab8a.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60e70f79479445008f272572",
+  "slug": "secondary_merciless",
+  "market_slug": "secondary_merciless",
+  "name_en": "Secondary Merciless",
+  "name_en_slug": "secondary_merciless",
+  "name_kr": "세컨더리 머시리스",
+  "aliases": [
+    "Secondary Merciless",
+    "secondary merciless",
+    "secondary_merciless",
+    "세컨더리 머시리스"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SecondaryDamageOnKill",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/secondary_merciless.3269867879aabaa2cb4c47af6302ea4e.png",
+  "thumb": "items/images/en/thumbs/secondary_merciless.3269867879aabaa2cb4c47af6302ea4e.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

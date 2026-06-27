@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "67e8c6c0cedcd0be6d13594d",
+  "slug": "purgator_1_stock",
+  "market_slug": "purgator_1_stock",
+  "name_en": "Purgator 1 Stock",
+  "name_en_slug": "purgator_1_stock",
+  "name_kr": "퍼게이터 1 스톡",
+  "aliases": [
+    "Purgator 1 Stock",
+    "purgator 1 stock",
+    "purgator_1_stock",
+    "퍼게이터 1 스톡"
+  ],
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasrianNoxPlayerWeaponStock",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/purgator_1_stock.cd59243fe2d8a6cc4e29cb9adec65cb9.webp",
+  "thumb": "items/images/en/thumbs/purgator_1_stock.cd59243fe2d8a6cc4e29cb9adec65cb9.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

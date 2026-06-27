@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "693e6add03903ae8993ffb06",
+  "slug": "esti_vel_ikha",
+  "market_slug": "esti_vel_ikha",
+  "name_en": "Esti Vel-Ikha",
+  "name_en_slug": "esti_vel_ikha",
+  "name_kr": "에스티 벨-이크하",
+  "aliases": [
+    "Esti Vel-Ikha",
+    "esti vel ikha",
+    "esti_vel_ikha",
+    "에스티 벨-이크하"
+  ],
+  "tags": [
+    "any",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Antiques/DashDistanceSchools",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/ko/esti_vel_ikha.36fcb9ca20fb245b7d06d9ac3bea3828.webp",
+  "thumb": "items/images/ko/thumbs/esti_vel_ikha.36fcb9ca20fb245b7d06d9ac3bea3828.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

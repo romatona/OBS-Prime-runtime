@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "62d3494075156700ce450df3",
+  "slug": "dual_keres_prime_handle",
+  "market_slug": "dual_keres_prime_handle",
+  "name_en": "Dual Keres Prime Handle",
+  "name_en_slug": "dual_keres_prime_handle",
+  "name_kr": "듀얼 케레스 프라임 핸들",
+  "aliases": [
+    "Dual Keres Prime Handle",
+    "dual keres prime handle",
+    "dual_keres_prime_handle",
+    "듀얼 케레스 프라임 핸들"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/DualKeresPrimeHandle",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/dual_keres_prime_handle.ea70ac30dab8db745193cb166b246efc.png",
+  "thumb": "items/images/en/thumbs/dual_keres_prime_handle.ea70ac30dab8db745193cb166b246efc.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

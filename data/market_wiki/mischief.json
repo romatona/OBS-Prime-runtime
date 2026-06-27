@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5788fad54fff472f131a1360",
+  "slug": "mischief",
+  "market_slug": "mischief",
+  "name_en": "Mischief",
+  "name_en_slug": "mischief",
+  "name_kr": "미스치프",
+  "aliases": [
+    "Mischief",
+    "mischief",
+    "미스치프"
+  ],
+  "tags": [
+    "kavat",
+    "mod",
+    "rare",
+    "smeeta_kavat"
+  ],
+  "game_ref": "/Lotus/Types/Friendly/Pets/CatbrowPetPrecepts/CatbrowDistractPrecept",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/mischief.ea4ad1cb83cc9c58f7a51df554177b12.png",
+  "thumb": "items/images/en/thumbs/mischief.ea4ad1cb83cc9c58f7a51df554177b12.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

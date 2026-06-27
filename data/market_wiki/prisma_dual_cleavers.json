@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "55a469a4e7798902410538b1",
+  "slug": "prisma_dual_cleavers",
+  "market_slug": "prisma_dual_cleavers",
+  "name_en": "Prisma Dual Cleavers",
+  "name_en_slug": "prisma_dual_cleavers",
+  "name_kr": "프리즈마 듀얼 클리버즈",
+  "aliases": [
+    "Prisma Dual Cleavers",
+    "prisma dual cleavers",
+    "prisma_dual_cleavers",
+    "프리즈마 듀얼 클리버즈"
+  ],
+  "tags": [
+    "melee",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/PrismaDualCleavers",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/prisma_dual_cleavers.5fa78638ad0916b3f6acff746d006218.png",
+  "thumb": "items/images/en/thumbs/prisma_dual_cleavers.5fa78638ad0916b3f6acff746d006218.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

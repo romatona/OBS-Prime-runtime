@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5ada1ab2b2b6a80bb33793f3",
+  "slug": "reaping_chakram",
+  "market_slug": "reaping_chakram",
+  "name_en": "Reaping Chakram",
+  "name_en_slug": "reaping_chakram",
+  "name_kr": "리핑 차크람",
+  "aliases": [
+    "Reaping Chakram",
+    "reaping chakram",
+    "reaping_chakram",
+    "리핑 차크람"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "nezha",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Nezha/NezhaRingAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/reaping_chakram.4ecd66014b3fab077c400970f0b3db5e.png",
+  "thumb": "items/images/en/thumbs/reaping_chakram.4ecd66014b3fab077c400970f0b3db5e.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

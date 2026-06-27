@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "693e669403903ae8993ffaf6",
+  "slug": "ulashta_shol",
+  "market_slug": "ulashta_shol",
+  "name_en": "Ulashta-Shol",
+  "name_en_slug": "ulashta_shol",
+  "name_kr": "울라슈타-숄",
+  "aliases": [
+    "Ulashta-Shol",
+    "ulashta shol",
+    "ulashta_shol",
+    "울라슈타-숄"
+  ],
+  "tags": [
+    "any",
+    "common",
+    "mod"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Antiques/ReduceDeathEffect",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/ko/ulashta_shol.4cacac659f630b15489be9bc72285460.webp",
+  "thumb": "items/images/ko/thumbs/ulashta_shol.4cacac659f630b15489be9bc72285460.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

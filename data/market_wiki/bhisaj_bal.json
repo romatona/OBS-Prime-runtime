@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5f4ed3fbd5c36d0086f55b0e",
+  "slug": "bhisaj_bal",
+  "market_slug": "bhisaj_bal",
+  "name_en": "Bhisaj-Bal",
+  "name_en_slug": "bhisaj_bal",
+  "name_kr": "비사즈-발",
+  "aliases": [
+    "Bhisaj-Bal",
+    "bhisaj bal",
+    "bhisaj_bal",
+    "비사즈-발"
+  ],
+  "tags": [
+    "mod",
+    "paris_prime",
+    "primary",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/Event/ParisHealOnStatusMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/bhisaj_bal.e31c73f58b576c39f4a67c78481042f3.png",
+  "thumb": "items/images/en/thumbs/bhisaj_bal.e31c73f58b576c39f4a67c78481042f3.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

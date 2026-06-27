@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5b91784d0566c80216658ce8",
+  "slug": "conductor",
+  "market_slug": "conductor",
+  "name_en": "Conductor",
+  "name_en_slug": "conductor",
+  "name_kr": "컨덕터",
+  "aliases": [
+    "Conductor",
+    "conductor",
+    "컨덕터"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "octavia",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Bard/BardCharmAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/conductor.176dbf05c7070dba7196023a13fd5422.png",
+  "thumb": "items/images/en/thumbs/conductor.176dbf05c7070dba7196023a13fd5422.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

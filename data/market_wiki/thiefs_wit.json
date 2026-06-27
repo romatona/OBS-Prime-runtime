@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515646",
+  "slug": "thiefs_wit",
+  "market_slug": "thiefs_wit",
+  "name_en": "Thief's Wit",
+  "name_en_slug": "thiefs_wit",
+  "name_kr": "시브즈 위트",
+  "aliases": [
+    "Thief's Wit",
+    "thiefs wit",
+    "thiefs_wit",
+    "시브즈 위트"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Warframe/AvatarLootRadarMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/thiefs_wit.b861b939df1689692ce5371fbe2d1e2d.png",
+  "thumb": "items/images/en/thumbs/thiefs_wit.b861b939df1689692ce5371fbe2d1e2d.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

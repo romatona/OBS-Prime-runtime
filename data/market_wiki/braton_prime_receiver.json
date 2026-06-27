@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a73e65e779893a797fff34",
+  "slug": "braton_prime_receiver",
+  "market_slug": "braton_prime_receiver",
+  "name_en": "Braton Prime Receiver",
+  "name_en_slug": "braton_prime_receiver",
+  "name_kr": "브래튼 프라임 리시버",
+  "aliases": [
+    "Braton Prime Receiver",
+    "braton prime receiver",
+    "braton_prime_receiver",
+    "브래튼 프라임 리시버"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/BratonPrimeReceiver",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/braton_prime_receiver.ae229642d6179ebfb1547ed7d976e749.png",
+  "thumb": "items/images/en/thumbs/braton_prime_receiver.ae229642d6179ebfb1547ed7d976e749.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

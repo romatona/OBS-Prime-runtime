@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5ba9f2044567de01415f638f",
+  "slug": "raksa_kubrow_imprint",
+  "market_slug": "raksa_kubrow_imprint",
+  "name_en": "Raksa Kubrow Imprint",
+  "name_en_slug": "raksa_kubrow_imprint",
+  "name_kr": "락사 쿠브로 임프린트",
+  "aliases": [
+    "Raksa Kubrow Imprint",
+    "raksa kubrow imprint",
+    "raksa_kubrow_imprint",
+    "락사 쿠브로 임프린트"
+  ],
+  "tags": [
+    "imprint",
+    "kubrow",
+    "pet"
+  ],
+  "game_ref": "/Lotus/Types/Game/KubrowPet/GuardKubrowPetPowerSuit",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/raksa_kubrow_imprint.e64d6ce9309296cba5a4ad71a1dde192.png",
+  "thumb": "items/images/en/thumbs/raksa_kubrow_imprint.e64d6ce9309296cba5a4ad71a1dde192.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

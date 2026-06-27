@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "693e65e103903ae8993ffaee",
+  "slug": "lashta_vak",
+  "market_slug": "lashta_vak",
+  "name_en": "Lashta-Vak",
+  "name_en_slug": "lashta_vak",
+  "name_kr": "라슈타-바크",
+  "aliases": [
+    "Lashta-Vak",
+    "lashta vak",
+    "lashta_vak",
+    "라슈타-바크"
+  ],
+  "tags": [
+    "any",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Antiques/VoidSlingCrateBreaker",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/ko/lashta_vak.306e715333fbf6e3c77cac33f9143d07.webp",
+  "thumb": "items/images/ko/thumbs/lashta_vak.306e715333fbf6e3c77cac33f9143d07.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "64c3a3a26645670594f57a60",
+  "slug": "winding_isles_scene",
+  "market_slug": "winding_isles_scene",
+  "name_en": "Winding Isles Scene",
+  "name_en_slug": "winding_isles_scene",
+  "name_kr": "구불구불한 섬 배경",
+  "aliases": [
+    "Winding Isles Scene",
+    "winding isles scene",
+    "winding_isles_scene",
+    "구불구불한 섬 배경"
+  ],
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/MiscItems/PhotoboothTileDuviriIsleCapC",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/winding_isles_scene.c416fa04313a40e363f24b4d86a7c689.png",
+  "thumb": "items/images/en/thumbs/winding_isles_scene.c416fa04313a40e363f24b4d86a7c689.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

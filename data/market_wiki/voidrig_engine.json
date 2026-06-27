@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5fde10c46db57b0185b3907d",
+  "slug": "voidrig_engine",
+  "market_slug": "voidrig_engine",
+  "name_en": "Voidrig Engine",
+  "name_en_slug": "voidrig_engine",
+  "name_kr": "보이드리그 엔진",
+  "aliases": [
+    "Voidrig Engine",
+    "voidrig engine",
+    "voidrig_engine",
+    "보이드리그 엔진"
+  ],
+  "tags": [
+    "component",
+    "necramech"
+  ],
+  "game_ref": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartEngineItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/ko/voidrig_engine.8644e648e796b8b8db590ee5de986cca.png",
+  "thumb": "items/images/ko/thumbs/voidrig_engine.8644e648e796b8b8db590ee5de986cca.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

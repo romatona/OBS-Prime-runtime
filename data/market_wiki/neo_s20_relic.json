@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "69d6782bb3984cc97e241761",
+  "slug": "neo_s20_relic",
+  "market_slug": "neo_s20_relic",
+  "name_en": "Neo S20 Relic",
+  "name_en_slug": "neo_s20_relic",
+  "name_kr": "네오 S20 성유물",
+  "aliases": [
+    "Neo S20 Relic",
+    "neo s20 relic",
+    "neo_s20_relic",
+    "네오 S20 성유물"
+  ],
+  "tags": [
+    "neo",
+    "relic"
+  ],
+  "game_ref": "/Lotus/Types/Game/Projections/T3VoidProjectionVorunaPrimeC",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/neo_s20_relic.08a3b3471bad10b739bd40b1236505c6.webp",
+  "thumb": "items/images/en/thumbs/neo_s20_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

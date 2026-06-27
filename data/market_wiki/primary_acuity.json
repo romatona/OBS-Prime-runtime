@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "675c61e47b18977f6e645416",
+  "slug": "primary_acuity",
+  "market_slug": "primary_acuity",
+  "name_en": "Primary Acuity",
+  "name_en_slug": "primary_acuity",
+  "name_kr": "프라이머리 어큐이티",
+  "aliases": [
+    "Primary Acuity",
+    "primary acuity",
+    "primary_acuity",
+    "프라이머리 어큐이티"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "rifle"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/WeaponWeakpointCriticalChanceMod",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/primary_acuity.15c6392e8548645c7525e7aeaa50a8bd.webp",
+  "thumb": "items/images/en/thumbs/primary_acuity.15c6392e8548645c7525e7aeaa50a8bd.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e51563e",
+  "slug": "piercing_hit",
+  "market_slug": "piercing_hit",
+  "name_en": "Piercing Hit",
+  "name_en_slug": "piercing_hit",
+  "name_kr": "피어싱 히트",
+  "aliases": [
+    "Piercing Hit",
+    "piercing hit",
+    "piercing_hit",
+    "피어싱 히트"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "primary",
+    "rifle"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/WeaponArmorPiercingDamageMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/piercing_hit.f2c3f27b03f5a40d3e8a6b6f7d8cfafe.png",
+  "thumb": "items/images/en/thumbs/piercing_hit.f2c3f27b03f5a40d3e8a6b6f7d8cfafe.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

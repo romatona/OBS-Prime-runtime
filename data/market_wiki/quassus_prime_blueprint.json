@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "673516dedb3ac2cfade14a7d",
+  "slug": "quassus_prime_blueprint",
+  "market_slug": "quassus_prime_blueprint",
+  "name_en": "Quassus Prime Blueprint",
+  "name_en_slug": "quassus_prime_blueprint",
+  "name_kr": "콰서스 프라임 설계도",
+  "aliases": [
+    "Quassus Prime",
+    "Quassus Prime Blueprint",
+    "quassus prime blueprint",
+    "quassus_prime_blueprint",
+    "콰서스 프라임",
+    "콰서스 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "melee",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/QuassusPrimeBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/quassus_prime_blueprint.e2d3b6fc89126a4d513be40752388c0e.webp",
+  "thumb": "items/images/en/thumbs/quassus_prime_blueprint.e2d3b6fc89126a4d513be40752388c0e.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

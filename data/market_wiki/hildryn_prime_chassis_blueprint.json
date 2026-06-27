@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "641263e07d179f02100c6d4b",
+  "slug": "hildryn_prime_chassis_blueprint",
+  "market_slug": "hildryn_prime_chassis_blueprint",
+  "name_en": "Hildryn Prime Chassis Blueprint",
+  "name_en_slug": "hildryn_prime_chassis_blueprint",
+  "name_kr": "힐드린 프라임 섀시 설계도",
+  "aliases": [
+    "Hildryn Prime Chassis",
+    "Hildryn Prime Chassis Blueprint",
+    "hildryn prime chassis blueprint",
+    "hildryn_prime_chassis_blueprint",
+    "힐드린 프라임 섀시",
+    "힐드린 프라임 섀시 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/HildrynPrimeChassisBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/hildryn_prime_chassis_blueprint.7e3f1cd4b94baa590dde37cd0ad0ba9e.png",
+  "thumb": "items/images/en/thumbs/hildryn_prime_chassis_blueprint.7e3f1cd4b94baa590dde37cd0ad0ba9e.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

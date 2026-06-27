@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "667ebc4259acb6bf03ebc329",
+  "slug": "primed_dual_rounds",
+  "market_slug": "primed_dual_rounds",
+  "name_en": "Primed Dual Rounds",
+  "name_en_slug": "primed_dual_rounds",
+  "name_kr": "프라임드 듀얼 라운즈",
+  "aliases": [
+    "Primed Dual Rounds",
+    "primed dual rounds",
+    "primed_dual_rounds",
+    "프라임드 듀얼 라운즈"
+  ],
+  "tags": [
+    "archgun",
+    "archwing",
+    "legendary",
+    "mod",
+    "primary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Archwing/Rifle/PrimedArchwingRifleFireIterationsMod",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/primed_dual_rounds.c21d07162fabf6e4065f99038a1fa25a.webp",
+  "thumb": "items/images/en/thumbs/primed_dual_rounds.c21d07162fabf6e4065f99038a1fa25a.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

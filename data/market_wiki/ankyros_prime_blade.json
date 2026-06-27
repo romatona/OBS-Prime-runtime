@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a73e65e779893a797fff24",
+  "slug": "ankyros_prime_blade",
+  "market_slug": "ankyros_prime_blade",
+  "name_en": "Ankyros Prime Blade",
+  "name_en_slug": "ankyros_prime_blade",
+  "name_kr": "앤카이로스 프라임 블레이드",
+  "aliases": [
+    "Ankyros Prime Blade",
+    "ankyros prime blade",
+    "ankyros_prime_blade",
+    "앤카이로스 프라임 블레이드"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/AnkyrosPrimeBlade",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/ankyros_prime_blade.81b3e5876c214047d10a0d90f92ebdfe.png",
+  "thumb": "items/images/en/thumbs/ankyros_prime_blade.81b3e5876c214047d10a0d90f92ebdfe.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

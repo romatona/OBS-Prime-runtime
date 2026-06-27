@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "67e8c6becedcd0be6d13594b",
+  "slug": "purgator_1_barrel",
+  "market_slug": "purgator_1_barrel",
+  "name_en": "Purgator 1 Barrel",
+  "name_en_slug": "purgator_1_barrel",
+  "name_kr": "퍼게이터 1 배럴",
+  "aliases": [
+    "Purgator 1 Barrel",
+    "purgator 1 barrel",
+    "purgator_1_barrel",
+    "퍼게이터 1 배럴"
+  ],
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasrianNoxPlayerWeaponBarrel",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/purgator_1_barrel.cd59243fe2d8a6cc4e29cb9adec65cb9.webp",
+  "thumb": "items/images/en/thumbs/purgator_1_barrel.cd59243fe2d8a6cc4e29cb9adec65cb9.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

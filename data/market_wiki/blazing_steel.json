@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e515692",
+  "slug": "blazing_steel",
+  "market_slug": "blazing_steel",
+  "name_en": "Blazing Steel",
+  "name_en_slug": "blazing_steel",
+  "name_kr": "블레이징 스틸",
+  "aliases": [
+    "Blazing Steel",
+    "blazing steel",
+    "blazing_steel",
+    "블레이징 스틸"
+  ],
+  "tags": [
+    "archmelee",
+    "archwing",
+    "melee",
+    "mod",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingWeaponFireDamageMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/blazing_steel.4462c08189e7218a64537da221faa4c6.png",
+  "thumb": "items/images/en/thumbs/blazing_steel.4462c08189e7218a64537da221faa4c6.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54aae25de7798968b372a4e1",
+  "slug": "vaykor_marelok",
+  "market_slug": "vaykor_marelok",
+  "name_en": "Vaykor Marelok",
+  "name_en_slug": "vaykor_marelok",
+  "name_kr": "베이코어 메어락",
+  "aliases": [
+    "Vaykor Marelok",
+    "vaykor marelok",
+    "vaykor_marelok",
+    "베이코어 메어락"
+  ],
+  "tags": [
+    "secondary",
+    "syndicate",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Syndicates/SteelMeridian/Pistols/SMMarelok",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/vaykor_marelok.592a0473da4aaf70a4864b0ca864a17f.png",
+  "thumb": "items/images/en/thumbs/vaykor_marelok.592a0473da4aaf70a4864b0ca864a17f.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

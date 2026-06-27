@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "554d3af4e77989420d3de2a6",
+  "slug": "radiant_finish",
+  "market_slug": "radiant_finish",
+  "name_en": "Radiant Finish",
+  "name_en_slug": "radiant_finish",
+  "name_kr": "레이디언트 피니쉬",
+  "aliases": [
+    "Radiant Finish",
+    "radiant finish",
+    "radiant_finish",
+    "레이디언트 피니쉬"
+  ],
+  "tags": [
+    "augment",
+    "excalibur",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Excalibur/RadialBlindAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/radiant_finish.e4571603960bba734886efc1e0a0968b.png",
+  "thumb": "items/images/en/thumbs/radiant_finish.e4571603960bba734886efc1e0a0968b.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

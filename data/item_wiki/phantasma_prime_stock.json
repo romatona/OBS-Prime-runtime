@@ -1,0 +1,31 @@
+﻿{
+    "schema":  "obs_prime.item_wiki_entry.v1",
+    "slug":  "phantasma_prime_stock",
+    "market_slug":  "phantasma_prime_stock",
+    "name_en":  "Phantasma Prime Stock",
+    "name_en_slug":  "phantasma_prime_stock",
+    "name_kr":  "판타즈마 프라임 스톡",
+    "aliases":  [
+                    "Phantasma Prime Stock",
+                    "phantasma_prime_stock",
+                    "판타즈마 프라임 스톡"
+                ],
+    "ducats":  65,
+    "ducats_display":  "65 d",
+    "ducats_source":  "warframe_market_v2_items",
+    "rarities":  [
+                     "Rare",
+                     "Uncommon"
+                 ],
+    "plat":  null,
+    "plat_display":  "-",
+    "plat_date":  "",
+    "source":  {
+                   "wfcd_relics":  "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Relics.json",
+                   "warframe_market_items":  "https://api.warframe.market/v2/items",
+                   "price_cache":  "data/market_cache/warframe_market_prices.json"
+               },
+    "updated_at":  "2026-06-26T02:05:14Z",
+    "version":  "26-06-26",
+    "relic_reward_count":  24
+}

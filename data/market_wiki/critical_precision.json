@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "62d3494175156700ce450e03",
+  "slug": "critical_precision",
+  "market_slug": "critical_precision",
+  "name_en": "Critical Precision",
+  "name_en_slug": "critical_precision",
+  "name_kr": "크리티컬 프리시젼",
+  "aliases": [
+    "Critical Precision",
+    "critical precision",
+    "critical_precision",
+    "크리티컬 프리시젼"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "tiberon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/Event/Nightwave/NightwaveTiberonAugmentMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/critical_precision.3d9b25be4870a3bc8a8b619fb453a8a4.png",
+  "thumb": "items/images/en/thumbs/critical_precision.3d9b25be4870a3bc8a8b619fb453a8a4.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

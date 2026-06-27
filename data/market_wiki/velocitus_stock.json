@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5783bf10d9b6753790c89e8a",
+  "slug": "velocitus_stock",
+  "market_slug": "velocitus_stock",
+  "name_en": "Velocitus Stock",
+  "name_en_slug": "velocitus_stock",
+  "name_kr": "벨로시투스 스톡",
+  "aliases": [
+    "Velocitus Stock",
+    "velocitus stock",
+    "velocitus_stock",
+    "벨로시투스 스톡"
+  ],
+  "tags": [
+    "archwing",
+    "component",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchRailgunStock",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/velocitus_stock.0e2289bd3cc8bba9a0393d1fad061ab6.png",
+  "thumb": "items/images/en/thumbs/velocitus_stock.0e2289bd3cc8bba9a0393d1fad061ab6.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

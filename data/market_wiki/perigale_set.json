@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "63886516e7c988007b5bd50c",
+  "slug": "perigale_set",
+  "market_slug": "perigale_set",
+  "name_en": "Perigale Set",
+  "name_en_slug": "perigale_set",
+  "name_kr": "페리게일 세트",
+  "aliases": [
+    "Perigale Set",
+    "perigale set",
+    "perigale_set",
+    "페리게일 세트"
+  ],
+  "tags": [
+    "primary",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/LongGuns/TnQuadSniper/TnQuadSniper",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/perigale_set.679b0e40d7651d8a117e07d1c7039886.png",
+  "thumb": "items/images/en/thumbs/perigale_set.679b0e40d7651d8a117e07d1c7039886.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

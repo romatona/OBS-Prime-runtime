@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5f498a1f9426ed00443bd09e",
+  "slug": "necramech_thrusters",
+  "market_slug": "necramech_thrusters",
+  "name_en": "Necramech Thrusters",
+  "name_en_slug": "necramech_thrusters",
+  "name_kr": "네크라메크 쓰러스터",
+  "aliases": [
+    "Necramech Thrusters",
+    "necramech thrusters",
+    "necramech_thrusters",
+    "네크라메크 쓰러스터"
+  ],
+  "tags": [
+    "mod",
+    "necramech",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Necromech/NecromechBoostMaxMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/necramech_thrusters.3b81fa35b2c3386ac45b4c06c543d608.png",
+  "thumb": "items/images/en/thumbs/necramech_thrusters.3b81fa35b2c3386ac45b4c06c543d608.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

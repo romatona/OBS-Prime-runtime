@@ -1,0 +1,30 @@
+﻿{
+    "schema":  "obs_prime.item_wiki_entry.v1",
+    "slug":  "baza_prime_stock",
+    "market_slug":  "baza_prime_stock",
+    "name_en":  "Baza Prime Stock",
+    "name_en_slug":  "baza_prime_stock",
+    "name_kr":  "바자 프라임 스톡",
+    "aliases":  [
+                    "Baza Prime Stock",
+                    "baza_prime_stock",
+                    "바자 프라임 스톡"
+                ],
+    "ducats":  100,
+    "ducats_display":  "100 d",
+    "ducats_source":  "warframe_market_v2_items",
+    "rarities":  [
+                     "Rare"
+                 ],
+    "plat":  null,
+    "plat_display":  "-",
+    "plat_date":  "",
+    "source":  {
+                   "wfcd_relics":  "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Relics.json",
+                   "warframe_market_items":  "https://api.warframe.market/v2/items",
+                   "price_cache":  "data/market_cache/warframe_market_prices.json"
+               },
+    "updated_at":  "2026-06-26T02:05:14Z",
+    "version":  "26-06-26",
+    "relic_reward_count":  16
+}

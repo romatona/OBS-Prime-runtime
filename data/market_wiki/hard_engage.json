@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5f498a239426ed00443bd0ba",
+  "slug": "hard_engage",
+  "market_slug": "hard_engage",
+  "name_en": "Hard Engage",
+  "name_en_slug": "hard_engage",
+  "name_kr": "하드 인게이지",
+  "aliases": [
+    "Hard Engage",
+    "hard engage",
+    "hard_engage",
+    "하드 인게이지"
+  ],
+  "tags": [
+    "moa",
+    "mod",
+    "rare",
+    "sentinel"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sentinel/Moa/MoaMeleeMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/hard_engage.d7fe88b2f84043d5c691b9d6531c4087.png",
+  "thumb": "items/images/en/thumbs/hard_engage.d7fe88b2f84043d5c691b9d6531c4087.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

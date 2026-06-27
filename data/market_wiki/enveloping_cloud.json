@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5b91784d0566c80216658ce9",
+  "slug": "enveloping_cloud",
+  "market_slug": "enveloping_cloud",
+  "name_en": "Enveloping Cloud",
+  "name_en_slug": "enveloping_cloud",
+  "name_kr": "인벨로핑 클라우드",
+  "aliases": [
+    "Enveloping Cloud",
+    "enveloping cloud",
+    "enveloping_cloud",
+    "인벨로핑 클라우드"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "rare",
+    "warframe",
+    "wukong"
+  ],
+  "game_ref": "/Lotus/Powersuits/MonkeyKing/MonkeyCloudAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/enveloping_cloud.bd980ad56e9579b5c5f5504079f7d273.png",
+  "thumb": "items/images/en/thumbs/enveloping_cloud.bd980ad56e9579b5c5f5504079f7d273.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

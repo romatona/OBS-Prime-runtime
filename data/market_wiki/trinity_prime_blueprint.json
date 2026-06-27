@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56153689b66f836f7a3c0baf",
+  "slug": "trinity_prime_blueprint",
+  "market_slug": "trinity_prime_blueprint",
+  "name_en": "Trinity Prime Blueprint",
+  "name_en_slug": "trinity_prime_blueprint",
+  "name_kr": "트리니티 프라임 설계도",
+  "aliases": [
+    "Trinity Prime",
+    "Trinity Prime Blueprint",
+    "trinity prime blueprint",
+    "trinity_prime_blueprint",
+    "트리니티 프라임",
+    "트리니티 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/TrinityPrimeBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/trinity_prime_blueprint.4115dba418ab8ee70197a7fdaee8da76.png",
+  "thumb": "items/images/en/thumbs/trinity_prime_blueprint.4115dba418ab8ee70197a7fdaee8da76.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

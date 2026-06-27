@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5bc1ab93b919f200c18c10f0",
+  "slug": "sharpshooter",
+  "market_slug": "sharpshooter",
+  "name_en": "Sharpshooter",
+  "name_en_slug": "sharpshooter",
+  "name_kr": "샤프슈터",
+  "aliases": [
+    "Sharpshooter",
+    "sharpshooter",
+    "샤프슈터"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "sniper"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/EnergyOnHeadshotRifle",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/sharpshooter.82008706e945ec2bf7c88a0587ae404d.png",
+  "thumb": "items/images/en/thumbs/sharpshooter.82008706e945ec2bf7c88a0587ae404d.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

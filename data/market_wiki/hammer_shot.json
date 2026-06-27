@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e51558d",
+  "slug": "hammer_shot",
+  "market_slug": "hammer_shot",
+  "name_en": "Hammer Shot",
+  "name_en_slug": "hammer_shot",
+  "name_kr": "해머 샷",
+  "aliases": [
+    "Hammer Shot",
+    "hammer shot",
+    "hammer_shot",
+    "해머 샷"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "rifle"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/DualStat/HammerShotMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/hammer_shot.fb11fe7457d821871f4c92b9acea585e.png",
+  "thumb": "items/images/en/thumbs/hammer_shot.fb11fe7457d821871f4c92b9acea585e.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

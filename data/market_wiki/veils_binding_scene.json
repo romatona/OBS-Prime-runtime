@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "58e6407ada6e257f670cf071",
+  "slug": "veils_binding_scene",
+  "market_slug": "veils_binding_scene",
+  "name_en": "Veil's Binding Scene",
+  "name_en_slug": "veils_binding_scene",
+  "name_kr": "베일의 구속실 배경",
+  "aliases": [
+    "Veil's Binding Scene",
+    "veils binding scene",
+    "veils_binding_scene",
+    "베일의 구속실 배경"
+  ],
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/MiscItems/PhotoboothTileSyndicateRedVeil",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/veils_binding_scene.76bd980d04e518c1a85f536fa71378c1.png",
+  "thumb": "items/images/en/thumbs/veils_binding_scene.76bd980d04e518c1a85f536fa71378c1.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

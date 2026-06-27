@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a73e65e779893a797fff32",
+  "slug": "braton_prime_barrel",
+  "market_slug": "braton_prime_barrel",
+  "name_en": "Braton Prime Barrel",
+  "name_en_slug": "braton_prime_barrel",
+  "name_kr": "브래튼 프라임 배럴",
+  "aliases": [
+    "Braton Prime Barrel",
+    "braton prime barrel",
+    "braton_prime_barrel",
+    "브래튼 프라임 배럴"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/BratonPrimeBarrel",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/braton_prime_barrel.ae229642d6179ebfb1547ed7d976e749.png",
+  "thumb": "items/images/en/thumbs/braton_prime_barrel.ae229642d6179ebfb1547ed7d976e749.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

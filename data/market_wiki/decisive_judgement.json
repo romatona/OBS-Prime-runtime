@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156c0",
+  "slug": "decisive_judgement",
+  "market_slug": "decisive_judgement",
+  "name_en": "Decisive Judgement",
+  "name_en_slug": "decisive_judgement",
+  "name_kr": "디사이시브 저지먼트",
+  "aliases": [
+    "Decisive Judgement",
+    "decisive judgement",
+    "decisive_judgement",
+    "디사이시브 저지먼트"
+  ],
+  "tags": [
+    "mod",
+    "nikanas",
+    "rare",
+    "stance"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/KatanaCmbTwoMeleeTree",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/decisive_judgement.1f59640c5a465330e0ebb0eb2c257ab5.png",
+  "thumb": "items/images/en/thumbs/decisive_judgement.1f59640c5a465330e0ebb0eb2c257ab5.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

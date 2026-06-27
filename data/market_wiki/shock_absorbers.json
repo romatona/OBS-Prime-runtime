@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515597",
+  "slug": "shock_absorbers",
+  "market_slug": "shock_absorbers",
+  "name_en": "Shock Absorbers",
+  "name_en_slug": "shock_absorbers",
+  "name_kr": "쇼크 업소버",
+  "aliases": [
+    "Shock Absorbers",
+    "shock absorbers",
+    "shock_absorbers",
+    "쇼크 업소버"
+  ],
+  "tags": [
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Warframe/AvatarDamageResistanceKnockdown",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/shock_absorbers.f8b689167fd8fe8c992773d65dcb95fe.png",
+  "thumb": "items/images/en/thumbs/shock_absorbers.f8b689167fd8fe8c992773d65dcb95fe.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

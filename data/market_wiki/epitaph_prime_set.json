@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "66c60c2766bbb2aedca695a3",
+  "slug": "epitaph_prime_set",
+  "market_slug": "epitaph_prime_set",
+  "name_en": "Epitaph Prime Set",
+  "name_en_slug": "epitaph_prime_set",
+  "name_kr": "에피타프 프라임 세트",
+  "aliases": [
+    "Epitaph Prime Set",
+    "epitaph prime set",
+    "epitaph_prime_set",
+    "에피타프 프라임 세트"
+  ],
+  "tags": [
+    "prime",
+    "secondary",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Pistols/PrimeEpitaph/PrimeEpitaphSidearmWeapon",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/epitaph_prime.7402042b9ff2df97d76b99404f0bb527.webp",
+  "thumb": "items/images/en/thumbs/epitaph_prime.7402042b9ff2df97d76b99404f0bb527.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

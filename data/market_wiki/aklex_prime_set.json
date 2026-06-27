@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "588c7a51c353473a172364f4",
+  "slug": "aklex_prime_set",
+  "market_slug": "aklex_prime_set",
+  "name_en": "Aklex Prime Set",
+  "name_en_slug": "aklex_prime_set",
+  "name_kr": "아클렉스 프라임 세트",
+  "aliases": [
+    "Aklex Prime Set",
+    "aklex prime set",
+    "aklex_prime_set",
+    "아클렉스 프라임 세트"
+  ],
+  "tags": [
+    "prime",
+    "secondary",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Akimbo/AkLexPrimePistols",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/aklex_prime_set.d4be2f3e545d5e1101d5b83a027e68fe.png",
+  "thumb": "items/images/en/thumbs/aklex_prime_set.d4be2f3e545d5e1101d5b83a027e68fe.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

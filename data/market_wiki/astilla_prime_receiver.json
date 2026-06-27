@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60ad4a1cf1904300d012c706",
+  "slug": "astilla_prime_receiver",
+  "market_slug": "astilla_prime_receiver",
+  "name_en": "Astilla Prime Receiver",
+  "name_en_slug": "astilla_prime_receiver",
+  "name_kr": "아스틸라 프라임 리시버",
+  "aliases": [
+    "Astilla Prime Receiver",
+    "astilla prime receiver",
+    "astilla_prime_receiver",
+    "아스틸라 프라임 리시버"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/AstillaPrimeReceiver",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/astilla_prime_receiver.4bad71b95376c38d100a5d8caa581266.png",
+  "thumb": "items/images/en/thumbs/astilla_prime_receiver.4bad71b95376c38d100a5d8caa581266.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

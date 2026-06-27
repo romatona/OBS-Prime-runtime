@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5cdedd22fc2db20e0d0c5543",
+  "slug": "primed_pack_leader",
+  "market_slug": "primed_pack_leader",
+  "name_en": "Primed Pack Leader",
+  "name_en_slug": "primed_pack_leader",
+  "name_kr": "프라임드 팩 리더",
+  "aliases": [
+    "Primed Pack Leader",
+    "primed pack leader",
+    "primed_pack_leader",
+    "프라임드 팩 리더"
+  ],
+  "tags": [
+    "companion",
+    "legendary",
+    "mod",
+    "sentinel"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/Expert/KubrowPackLeaderExpertMod",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/primed_pack_leader.39a41b49aeb7fd8cac6cce8a51c86513.png",
+  "thumb": "items/images/en/thumbs/primed_pack_leader.39a41b49aeb7fd8cac6cce8a51c86513.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

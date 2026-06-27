@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "583580fd2c2ada003badef89",
+  "slug": "cernos_prime_string",
+  "market_slug": "cernos_prime_string",
+  "name_en": "Cernos Prime String",
+  "name_en_slug": "cernos_prime_string",
+  "name_kr": "세르노스 프라임 스트링",
+  "aliases": [
+    "Cernos Prime String",
+    "cernos prime string",
+    "cernos_prime_string",
+    "세르노스 프라임 스트링"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeCernosString",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/cernos_prime_string.b3ac02e80ee17cc0756348f1d04b69cc.png",
+  "thumb": "items/images/en/thumbs/cernos_prime_string.b3ac02e80ee17cc0756348f1d04b69cc.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

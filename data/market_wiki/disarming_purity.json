@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5911f11d97a0add8e9d5da4c",
+  "slug": "disarming_purity",
+  "market_slug": "disarming_purity",
+  "name_en": "Disarming Purity",
+  "name_en_slug": "disarming_purity",
+  "name_kr": "디스아밍 퓨리티",
+  "aliases": [
+    "Disarming Purity",
+    "disarming purity",
+    "disarming_purity",
+    "디스아밍 퓨리티"
+  ],
+  "tags": [
+    "mod",
+    "panthera",
+    "primary",
+    "rare",
+    "syndicate"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Syndicate/PantheraMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/disarming_purity.051b3489272e846e1ea5ecc351ea9c32.png",
+  "thumb": "items/images/en/thumbs/disarming_purity.051b3489272e846e1ea5ecc351ea9c32.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5911f11d97a0add8e9d5da4f",
+  "slug": "stockpiled_blight",
+  "market_slug": "stockpiled_blight",
+  "name_en": "Stockpiled Blight",
+  "name_en_slug": "stockpiled_blight",
+  "name_kr": "스톡파일드 블라이트",
+  "aliases": [
+    "Stockpiled Blight",
+    "stockpiled blight",
+    "stockpiled_blight",
+    "스톡파일드 블라이트"
+  ],
+  "tags": [
+    "kunai",
+    "mod",
+    "rare",
+    "secondary",
+    "syndicate"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Syndicate/KunaiMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/stockpiled_blight.3231785f2d66f6d8a1a452aacffb0d3d.png",
+  "thumb": "items/images/en/thumbs/stockpiled_blight.3231785f2d66f6d8a1a452aacffb0d3d.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

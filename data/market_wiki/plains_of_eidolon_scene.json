@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "59ecb5d7195d2301e654749c",
+  "slug": "plains_of_eidolon_scene",
+  "market_slug": "plains_of_eidolon_scene",
+  "name_en": "Plains Of Eidolon Scene",
+  "name_en_slug": "plains_of_eidolon_scene",
+  "name_kr": "아이돌론의 평원 배경",
+  "aliases": [
+    "Plains Of Eidolon Scene",
+    "plains of eidolon scene",
+    "plains_of_eidolon_scene",
+    "아이돌론의 평원 배경"
+  ],
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/MiscItems/PhotoboothTileEidolonLandscape",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/plains_of_eidolon_scene.12c5743cf544e8d8ce1d8d147fdedbda.png",
+  "thumb": "items/images/en/thumbs/plains_of_eidolon_scene.12c5743cf544e8d8ce1d8d147fdedbda.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

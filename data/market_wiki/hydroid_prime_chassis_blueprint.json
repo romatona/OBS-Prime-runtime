@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "59a48b625cd9938cfede703a",
+  "slug": "hydroid_prime_chassis_blueprint",
+  "market_slug": "hydroid_prime_chassis_blueprint",
+  "name_en": "Hydroid Prime Chassis Blueprint",
+  "name_en_slug": "hydroid_prime_chassis_blueprint",
+  "name_kr": "하이드로이드 프라임 섀시 설계도",
+  "aliases": [
+    "Hydroid Prime Chassis",
+    "Hydroid Prime Chassis Blueprint",
+    "hydroid prime chassis blueprint",
+    "hydroid_prime_chassis_blueprint",
+    "하이드로이드 프라임 섀시",
+    "하이드로이드 프라임 섀시 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/HydroidPrimeChassisBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/hydroid_prime_chassis.5f1abb4ef137bf0dd41565a913f5232a.png",
+  "thumb": "items/images/en/thumbs/hydroid_prime_chassis.5f1abb4ef137bf0dd41565a913f5232a.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

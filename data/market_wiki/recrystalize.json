@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6604a6a8dbdd5c1673781dbf",
+  "slug": "recrystalize",
+  "market_slug": "recrystalize",
+  "name_en": "Recrystalize",
+  "name_en_slug": "recrystalize",
+  "name_kr": "리크리스탈라이즈",
+  "aliases": [
+    "Recrystalize",
+    "recrystalize",
+    "리크리스탈라이즈"
+  ],
+  "tags": [
+    "augment",
+    "citrine",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Geode/GeodeGrowthsAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/recrystalize.deac2107b3fe3d3543aa47f22586e719.png",
+  "thumb": "items/images/en/thumbs/recrystalize.deac2107b3fe3d3543aa47f22586e719.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

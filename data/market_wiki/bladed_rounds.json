@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56a7b2851133f656cb085d8d",
+  "slug": "bladed_rounds",
+  "market_slug": "bladed_rounds",
+  "name_en": "Bladed Rounds",
+  "name_en_slug": "bladed_rounds",
+  "name_kr": "블레이디드 라운즈",
+  "aliases": [
+    "Bladed Rounds",
+    "bladed rounds",
+    "bladed_rounds",
+    "블레이디드 라운즈"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rifle",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/Event/CritDamageWhileAimingRifleMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/bladed_rounds.ef8baaa32b793cfea6ede28f48ec2dd9.png",
+  "thumb": "items/images/en/thumbs/bladed_rounds.ef8baaa32b793cfea6ede28f48ec2dd9.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

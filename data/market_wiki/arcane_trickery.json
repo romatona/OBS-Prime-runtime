@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "551085ece7798972cb579c3e",
+  "slug": "arcane_trickery",
+  "market_slug": "arcane_trickery",
+  "name_en": "Arcane Trickery",
+  "name_en_slug": "arcane_trickery",
+  "name_kr": "아케인 트리커리",
+  "aliases": [
+    "Arcane Trickery",
+    "arcane trickery",
+    "arcane_trickery",
+    "아케인 트리커리"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/InvisibilityOnFinisher",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/arcane_trickery.bec8b43aaa7a5ec1cb152f017516a69c.png",
+  "thumb": "items/images/en/thumbs/arcane_trickery.bec8b43aaa7a5ec1cb152f017516a69c.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

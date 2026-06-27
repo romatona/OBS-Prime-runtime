@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5dff6e111456970316674a0c",
+  "slug": "warhead",
+  "market_slug": "warhead",
+  "name_en": "Warhead",
+  "name_en_slug": "warhead",
+  "name_kr": "워헤드",
+  "aliases": [
+    "Warhead",
+    "warhead",
+    "워헤드"
+  ],
+  "tags": [
+    "mod",
+    "railjack",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Railjack/Gunnery/LavanOrdnanceDamage",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/warhead.e72c4c662e69a1340c98b841dad7ae70.png",
+  "thumb": "items/images/en/thumbs/warhead.e72c4c662e69a1340c98b841dad7ae70.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "67db600d9cec3e52e62523e1",
+  "slug": "soft_safe",
+  "market_slug": "soft_safe",
+  "name_en": "Soft Safe",
+  "name_en_slug": "soft_safe",
+  "name_kr": "소프트 세이프",
+  "aliases": [
+    "Soft Safe",
+    "soft safe",
+    "soft_safe",
+    "소프트 세이프"
+  ],
+  "tags": [
+    "mod",
+    "parazon",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Immortal/AntivirusSixMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/soft_safe.30113885f90a3783b0d551e14728dfe3.webp",
+  "thumb": "items/images/en/thumbs/soft_safe.30113885f90a3783b0d551e14728dfe3.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

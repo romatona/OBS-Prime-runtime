@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515602",
+  "slug": "pack_leader",
+  "market_slug": "pack_leader",
+  "name_en": "Pack Leader",
+  "name_en_slug": "pack_leader",
+  "name_kr": "팩 리더",
+  "aliases": [
+    "Pack Leader",
+    "pack leader",
+    "pack_leader",
+    "팩 리더"
+  ],
+  "tags": [
+    "common",
+    "companion",
+    "mod",
+    "sentinel"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/KubrowPackLeaderMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/pack_leader.4e87848ac52dd4ab5673acb0ddcaadfb.png",
+  "thumb": "items/images/en/thumbs/pack_leader.4e87848ac52dd4ab5673acb0ddcaadfb.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5fb84768c34da3004797d54d",
+  "slug": "volatile_parasite",
+  "market_slug": "volatile_parasite",
+  "name_en": "Volatile Parasite",
+  "name_en_slug": "volatile_parasite",
+  "name_kr": "볼래틸 패러사이트",
+  "aliases": [
+    "Volatile Parasite",
+    "volatile parasite",
+    "volatile_parasite",
+    "볼래틸 패러사이트"
+  ],
+  "tags": [
+    "kubrow",
+    "mod",
+    "predasite",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/InfestedPredatorMaggotSummonerPrecept",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/volatile_parasite.fd671126fd4051e8e3addc13ae56d1f0.png",
+  "thumb": "items/images/en/thumbs/volatile_parasite.fd671126fd4051e8e3addc13ae56d1f0.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

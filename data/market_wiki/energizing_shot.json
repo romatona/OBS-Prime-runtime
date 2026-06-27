@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5e7caa02267539063de48c40",
+  "slug": "energizing_shot",
+  "market_slug": "energizing_shot",
+  "name_en": "Energizing Shot",
+  "name_en_slug": "energizing_shot",
+  "name_kr": "에너자이징 샷",
+  "aliases": [
+    "Energizing Shot",
+    "energizing shot",
+    "energizing_shot",
+    "에너자이징 샷"
+  ],
+  "tags": [
+    "mod",
+    "pistol_(no_aoe)",
+    "rare",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Pistol/Event/ShootPickUpPistolMod",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/energizing_shot.8e0c1b01dba24357b770fe970d57c459.png",
+  "thumb": "items/images/en/thumbs/energizing_shot.8e0c1b01dba24357b770fe970d57c459.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

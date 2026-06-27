@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "57e91e65c76eb74c087f492f",
+  "slug": "ayatan_orta_sculpture",
+  "market_slug": "ayatan_orta_sculpture",
+  "name_en": "Ayatan Orta Sculpture",
+  "name_en_slug": "ayatan_orta_sculpture",
+  "name_kr": "아야탄 오르타 조각상",
+  "aliases": [
+    "Ayatan Orta Sculpture",
+    "ayatan orta sculpture",
+    "ayatan_orta_sculpture",
+    "아야탄 오르타 조각상"
+  ],
+  "tags": [
+    "ayatan_sculpture"
+  ],
+  "game_ref": "/Lotus/Types/Items/FusionTreasures/OroFusexC",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/ko/ayatan_orta_sculpture.942499eea26924073ddbb60d8d3016d6.png",
+  "thumb": "items/images/ko/thumbs/ayatan_orta_sculpture.942499eea26924073ddbb60d8d3016d6.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

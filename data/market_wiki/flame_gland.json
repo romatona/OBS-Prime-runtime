@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5be5f5a23ffcc7038857f119",
+  "slug": "flame_gland",
+  "market_slug": "flame_gland",
+  "name_en": "Flame Gland",
+  "name_en_slug": "flame_gland",
+  "name_kr": "플레임 글랜드",
+  "aliases": [
+    "Flame Gland",
+    "flame gland",
+    "flame_gland",
+    "플레임 글랜드"
+  ],
+  "tags": [
+    "claws",
+    "melee",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/DualStat/KubrowFireEventMeleeMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/flame_gland.4b9ae82095e0338bff0388a4738a9439.png",
+  "thumb": "items/images/en/thumbs/flame_gland.4b9ae82095e0338bff0388a4738a9439.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "693e66b603903ae8993ffaf8",
+  "slug": "sil_tabol",
+  "market_slug": "sil_tabol",
+  "name_en": "Sil-Tabol",
+  "name_en_slug": "sil_tabol",
+  "name_kr": "실-타볼",
+  "aliases": [
+    "Sil-Tabol",
+    "sil tabol",
+    "sil_tabol",
+    "실-타볼"
+  ],
+  "tags": [
+    "any",
+    "mod",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Antiques/ProcChanceSchool",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/ko/sil_tabol.350bff6b4f2f427be632d51a9743138f.webp",
+  "thumb": "items/images/ko/thumbs/sil_tabol.350bff6b4f2f427be632d51a9743138f.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "63886517e7c988007b5bd513",
+  "slug": "sarofang_handle",
+  "market_slug": "sarofang_handle",
+  "name_en": "Sarofang Handle",
+  "name_en_slug": "sarofang_handle",
+  "name_kr": "사로팡 핸들",
+  "aliases": [
+    "Sarofang Handle",
+    "sarofang handle",
+    "sarofang_handle",
+    "사로팡 핸들"
+  ],
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/WolfFrameAxeWeaponHandle",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/sarofang_handle.132b80ed3bbefa26846dbafa1bfe5f56.png",
+  "thumb": "items/images/en/thumbs/sarofang_handle.132b80ed3bbefa26846dbafa1bfe5f56.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

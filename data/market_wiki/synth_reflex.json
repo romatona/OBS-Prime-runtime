@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5be4b0a43ffcc703294e76ae",
+  "slug": "synth_reflex",
+  "market_slug": "synth_reflex",
+  "name_en": "Synth Reflex",
+  "name_en_slug": "synth_reflex",
+  "name_kr": "신스 리플렉스",
+  "aliases": [
+    "Synth Reflex",
+    "synth reflex",
+    "synth_reflex",
+    "신스 리플렉스"
+  ],
+  "tags": [
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sets/Synth/WarframeSynthReflexMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/synth_reflex.72b529bc038f95a3c119c4817fcaa7be.png",
+  "thumb": "items/images/en/thumbs/synth_reflex.72b529bc038f95a3c119c4817fcaa7be.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

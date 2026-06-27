@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "67acd945125398d92c8bb4ee",
+  "slug": "lavos_prime_systems_blueprint",
+  "market_slug": "lavos_prime_systems_blueprint",
+  "name_en": "Lavos Prime Systems Blueprint",
+  "name_en_slug": "lavos_prime_systems_blueprint",
+  "name_kr": "라보스 프라임 시스템 설계도",
+  "aliases": [
+    "Lavos Prime Systems",
+    "Lavos Prime Systems Blueprint",
+    "lavos prime systems blueprint",
+    "lavos_prime_systems_blueprint",
+    "라보스 프라임 시스템",
+    "라보스 프라임 시스템 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/LavosPrimeSystemsBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/lavos_prime_systems_blueprint.b50879ee28eb0c9effda56dadca76c86.webp",
+  "thumb": "items/images/en/thumbs/lavos_prime_systems_blueprint.b50879ee28eb0c9effda56dadca76c86.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

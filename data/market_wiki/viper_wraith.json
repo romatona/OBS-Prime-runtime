@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5a5a121bdd7913052b3a0967",
+  "slug": "viper_wraith",
+  "market_slug": "viper_wraith",
+  "name_en": "Viper Wraith",
+  "name_en_slug": "viper_wraith",
+  "name_kr": "바이퍼 레이스",
+  "aliases": [
+    "Viper Wraith",
+    "viper wraith",
+    "viper_wraith",
+    "바이퍼 레이스"
+  ],
+  "tags": [
+    "secondary",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Grineer/Pistols/WraithSingleViper/WraithSingleViper",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/viper_wraith.47ad03fdead19969888235b7e959e426.png",
+  "thumb": "items/images/en/thumbs/viper_wraith.47ad03fdead19969888235b7e959e426.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "644b00227ec1900044b97729",
+  "slug": "shotgun_vendetta",
+  "market_slug": "shotgun_vendetta",
+  "name_en": "Shotgun Vendetta",
+  "name_en_slug": "shotgun_vendetta",
+  "name_kr": "샷건 벤데타",
+  "aliases": [
+    "Shotgun Vendetta",
+    "shotgun vendetta",
+    "shotgun_vendetta",
+    "샷건 벤데타"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/ShotgunMultishotAndReloadSpeedOnCloseKill",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/shotgun_vendetta.219b0d47d26345b989decc3a56326c54.png",
+  "thumb": "items/images/en/thumbs/shotgun_vendetta.219b0d47d26345b989decc3a56326c54.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

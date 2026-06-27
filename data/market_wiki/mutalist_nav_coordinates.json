@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54d4c752e77989282cc8b0a0",
+  "slug": "mutalist_nav_coordinates",
+  "market_slug": "mutalist_nav_coordinates",
+  "name_en": "Mutalist Alad V Nav Coordinate",
+  "name_en_slug": "mutalist_nav_coordinates",
+  "name_kr": "뮤탈리스트 알라드 V 내비 코디네이트",
+  "aliases": [
+    "Mutalist Alad V Nav Coordinate",
+    "mutalist nav coordinates",
+    "mutalist_nav_coordinates",
+    "뮤탈리스트 알라드 V 내비 코디네이트"
+  ],
+  "tags": [
+    "misc"
+  ],
+  "game_ref": "",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/mutalist_nav_coordinates.15993c196cd1145c0c7ab083ca73b00d.webp",
+  "thumb": "items/images/en/thumbs/mutalist_nav_coordinates.15993c196cd1145c0c7ab083ca73b00d.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

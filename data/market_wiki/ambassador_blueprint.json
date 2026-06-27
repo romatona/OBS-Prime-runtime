@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60f3feb1b64404003f0bf5fe",
+  "slug": "ambassador_blueprint",
+  "market_slug": "ambassador_blueprint",
+  "name_en": "Ambassador Blueprint",
+  "name_en_slug": "ambassador_blueprint",
+  "name_kr": "앰배서더 설계도",
+  "aliases": [
+    "Ambassador",
+    "Ambassador Blueprint",
+    "ambassador blueprint",
+    "ambassador_blueprint",
+    "앰배서더",
+    "앰배서더 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "primary",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/CrpArSniperBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/ambassador_blueprint.7ccc0f5c1047f5a0cd9f02de8d40b06f.png",
+  "thumb": "items/images/en/thumbs/ambassador_blueprint.7ccc0f5c1047f5a0cd9f02de8d40b06f.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

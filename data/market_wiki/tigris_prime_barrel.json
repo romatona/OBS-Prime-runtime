@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "57bc9c84e506eb45ea251457",
+  "slug": "tigris_prime_barrel",
+  "market_slug": "tigris_prime_barrel",
+  "name_en": "Tigris Prime Barrel",
+  "name_en_slug": "tigris_prime_barrel",
+  "name_kr": "티그리스 프라임 배럴",
+  "aliases": [
+    "Tigris Prime Barrel",
+    "tigris prime barrel",
+    "tigris_prime_barrel",
+    "티그리스 프라임 배럴"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeTigrisBarrel",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/tigris_prime_barrel.5f82721ea78697c95208b9bceb72c4a4.png",
+  "thumb": "items/images/en/thumbs/tigris_prime_barrel.5f82721ea78697c95208b9bceb72c4a4.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

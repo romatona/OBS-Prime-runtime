@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "57bc9a40e506eb45ea251451",
+  "slug": "nekros_prime_set",
+  "market_slug": "nekros_prime_set",
+  "name_en": "Nekros Prime Set",
+  "name_en_slug": "nekros_prime_set",
+  "name_kr": "네크로스 프라임 세트",
+  "aliases": [
+    "Nekros Prime Set",
+    "nekros prime set",
+    "nekros_prime_set",
+    "네크로스 프라임 세트"
+  ],
+  "tags": [
+    "prime",
+    "set",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Necro/NekrosPrime",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/nekros_prime_set.523943a15c82985ebe7cf14eac98966d.png",
+  "thumb": "items/images/en/thumbs/nekros_prime_set.523943a15c82985ebe7cf14eac98966d.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

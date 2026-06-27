@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "66c6097966bbb2aedca69581",
+  "slug": "axi_s17_relic",
+  "market_slug": "axi_s17_relic",
+  "name_en": "Axi S17 Relic",
+  "name_en_slug": "axi_s17_relic",
+  "name_kr": "액시 S17 성유물",
+  "aliases": [
+    "Axi S17 Relic",
+    "axi s17 relic",
+    "axi_s17_relic",
+    "액시 S17 성유물"
+  ],
+  "tags": [
+    "axi",
+    "relic"
+  ],
+  "game_ref": "/Lotus/Types/Game/Projections/T4VoidProjectionSevagothPrimeC",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/unknown.png",
+  "thumb": "items/unknown.thumb.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

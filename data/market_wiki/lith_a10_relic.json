@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "68add9b11027572e028db6dd",
+  "slug": "lith_a10_relic",
+  "market_slug": "lith_a10_relic",
+  "name_en": "Lith A10 Relic",
+  "name_en_slug": "lith_a10_relic",
+  "name_kr": "리스 A10 성유물",
+  "aliases": [
+    "Lith A10 Relic",
+    "lith a10 relic",
+    "lith_a10_relic",
+    "리스 A10 성유물"
+  ],
+  "tags": [
+    "lith",
+    "relic"
+  ],
+  "game_ref": "/Lotus/Types/Game/Projections/T1VoidProjectionCalibanPrimeE",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/lith_a10_relic.78903ffe750d335f05034144948ad67d.webp",
+  "thumb": "items/images/en/thumbs/lith_a10_relic.78903ffe750d335f05034144948ad67d.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

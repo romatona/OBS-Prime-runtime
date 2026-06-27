@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "55c15459e779895dd6f10f59",
+  "slug": "covert_lethality",
+  "market_slug": "covert_lethality",
+  "name_en": "Covert Lethality",
+  "name_en_slug": "covert_lethality",
+  "name_kr": "코버트 리썰리티",
+  "aliases": [
+    "Covert Lethality",
+    "covert lethality",
+    "covert_lethality",
+    "코버트 리썰리티"
+  ],
+  "tags": [
+    "daggers",
+    "melee",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeStealthLethalMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/covert_lethality.bdddef2fb5c4e8f763467ee054206363.png",
+  "thumb": "items/images/en/thumbs/covert_lethality.bdddef2fb5c4e8f763467ee054206363.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

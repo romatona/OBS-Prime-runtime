@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156c6",
+  "slug": "enemy_radar",
+  "market_slug": "enemy_radar",
+  "name_en": "Enemy Radar",
+  "name_en_slug": "enemy_radar",
+  "name_kr": "에너미 레이더",
+  "aliases": [
+    "Enemy Radar",
+    "enemy radar",
+    "enemy_radar",
+    "에너미 레이더"
+  ],
+  "tags": [
+    "aura",
+    "mod",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Aura/PlayerEnemyRadarAuraMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/enemy_radar.cee8b527e0265bb39d41e9aa541ac781.png",
+  "thumb": "items/images/en/thumbs/enemy_radar.cee8b527e0265bb39d41e9aa541ac781.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

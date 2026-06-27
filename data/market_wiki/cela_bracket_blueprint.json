@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60e5b8fc4794450053e9993f",
+  "slug": "cela_bracket_blueprint",
+  "market_slug": "cela_bracket_blueprint",
+  "name_en": "Cela Bracket Blueprint",
+  "name_en_slug": "cela_bracket_blueprint",
+  "name_kr": "셀라 브라켓 설계도",
+  "aliases": [
+    "Cela Bracket",
+    "Cela Bracket Blueprint",
+    "cela bracket blueprint",
+    "cela_bracket_blueprint",
+    "셀라 브라켓",
+    "셀라 브라켓 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "hound",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartLegsABlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/cela_bracket_blueprint.b2b33f61627ad4068822a84b8231e1ba.png",
+  "thumb": "items/images/en/thumbs/cela_bracket_blueprint.b2b33f61627ad4068822a84b8231e1ba.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

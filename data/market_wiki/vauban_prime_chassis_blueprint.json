@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "573b7fc20ec44a47787a690e",
+  "slug": "vauban_prime_chassis_blueprint",
+  "market_slug": "vauban_prime_chassis_blueprint",
+  "name_en": "Vauban Prime Chassis Blueprint",
+  "name_en_slug": "vauban_prime_chassis_blueprint",
+  "name_kr": "바우반 프라임 섀시 설계도",
+  "aliases": [
+    "Vauban Prime Chassis",
+    "Vauban Prime Chassis Blueprint",
+    "vauban prime chassis blueprint",
+    "vauban_prime_chassis_blueprint",
+    "바우반 프라임 섀시",
+    "바우반 프라임 섀시 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/VaubanPrimeChassisBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/vauban_prime_chassis.9c15bb47d3ed4ed8e960c2502fac82f2.png",
+  "thumb": "items/images/en/thumbs/vauban_prime_chassis.9c15bb47d3ed4ed8e960c2502fac82f2.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

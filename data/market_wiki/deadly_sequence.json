@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515666",
+  "slug": "deadly_sequence",
+  "market_slug": "deadly_sequence",
+  "name_en": "Deadly Sequence",
+  "name_en_slug": "deadly_sequence",
+  "name_kr": "데들리 시퀀스",
+  "aliases": [
+    "Deadly Sequence",
+    "deadly sequence",
+    "deadly_sequence",
+    "데들리 시퀀스"
+  ],
+  "tags": [
+    "grinlok",
+    "mod",
+    "primary",
+    "rare",
+    "syndicate"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Syndicate/GrinlokMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/deadly_sequence.da21893bc4cd1e2eea7a73044479c148.png",
+  "thumb": "items/images/en/thumbs/deadly_sequence.da21893bc4cd1e2eea7a73044479c148.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

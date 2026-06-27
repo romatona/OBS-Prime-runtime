@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60e70f78479445008f27256b",
+  "slug": "new_loka_combat_emote",
+  "market_slug": "new_loka_combat_emote",
+  "name_en": "New Loka Combat Emote",
+  "name_en_slug": "new_loka_combat_emote",
+  "name_kr": "뉴 로카 전투 감정 표현",
+  "aliases": [
+    "New Loka Combat Emote",
+    "new loka combat emote",
+    "new_loka_combat_emote",
+    "뉴 로카 전투 감정 표현"
+  ],
+  "tags": [
+    "emote",
+    "syndicate"
+  ],
+  "game_ref": "/Lotus/Types/Items/Emotes/Syndicate/NLCombatEmote",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/new_loka_combat_emote.e69660d40c398fa97f6436612fa2fd05.png",
+  "thumb": "items/images/en/thumbs/new_loka_combat_emote.e69660d40c398fa97f6436612fa2fd05.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

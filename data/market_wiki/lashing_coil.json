@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5be5f5a13ffcc7038857f10b",
+  "slug": "lashing_coil",
+  "market_slug": "lashing_coil",
+  "name_en": "Lashing Coil",
+  "name_en_slug": "lashing_coil",
+  "name_kr": "래슁 코일",
+  "aliases": [
+    "Lashing Coil",
+    "lashing coil",
+    "lashing_coil",
+    "래슁 코일"
+  ],
+  "tags": [
+    "mod",
+    "pvp",
+    "stance",
+    "uncommon",
+    "whips"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPWhipStanceOne",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/lashing_coil.865c7d854f031a1eb28d8ca6a17b2ec1.png",
+  "thumb": "items/images/en/thumbs/lashing_coil.865c7d854f031a1eb28d8ca6a17b2ec1.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515667",
+  "slug": "spare_parts",
+  "market_slug": "spare_parts",
+  "name_en": "Spare Parts",
+  "name_en_slug": "spare_parts",
+  "name_kr": "스페어 파츠",
+  "aliases": [
+    "Spare Parts",
+    "spare parts",
+    "spare_parts",
+    "스페어 파츠"
+  ],
+  "tags": [
+    "mod",
+    "robotic",
+    "sentinel",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sentinel/SentinelDropChanceMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/spare_parts.97af7d72ad1b2725bda7e17cc94c7e4f.png",
+  "thumb": "items/images/en/thumbs/spare_parts.97af7d72ad1b2725bda7e17cc94c7e4f.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

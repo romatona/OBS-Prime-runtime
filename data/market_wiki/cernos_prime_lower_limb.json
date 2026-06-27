@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "583580e12c2ada003badef86",
+  "slug": "cernos_prime_lower_limb",
+  "market_slug": "cernos_prime_lower_limb",
+  "name_en": "Cernos Prime Lower Limb",
+  "name_en_slug": "cernos_prime_lower_limb",
+  "name_kr": "세르노스 프라임 로워 림",
+  "aliases": [
+    "Cernos Prime Lower Limb",
+    "cernos prime lower limb",
+    "cernos_prime_lower_limb",
+    "세르노스 프라임 로워 림"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeCernosLowerLimb",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/cernos_prime_lower_limb.b3ac02e80ee17cc0756348f1d04b69cc.png",
+  "thumb": "items/images/en/thumbs/cernos_prime_lower_limb.b3ac02e80ee17cc0756348f1d04b69cc.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

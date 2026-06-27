@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a4ff",
+  "slug": "tempered_bound",
+  "market_slug": "tempered_bound",
+  "name_en": "Tempered Bound",
+  "name_en_slug": "tempered_bound",
+  "name_kr": "템퍼드 바운드",
+  "aliases": [
+    "Tempered Bound",
+    "tempered bound",
+    "tempered_bound",
+    "템퍼드 바운드"
+  ],
+  "tags": [
+    "mod",
+    "pvp",
+    "uncommon",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Warframe/MoreShieldLessBulletJumpMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/tempered_bound.cdc7368fa20d61eaecae92f5527dfb18.png",
+  "thumb": "items/images/en/thumbs/tempered_bound.cdc7368fa20d61eaecae92f5527dfb18.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

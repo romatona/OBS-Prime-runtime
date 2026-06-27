@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "55e797c8e779892474566543",
+  "slug": "vaykor_hek",
+  "market_slug": "vaykor_hek",
+  "name_en": "Vaykor Hek",
+  "name_en_slug": "vaykor_hek",
+  "name_kr": "베이코어 헥",
+  "aliases": [
+    "Vaykor Hek",
+    "vaykor hek",
+    "vaykor_hek",
+    "베이코어 헥"
+  ],
+  "tags": [
+    "primary",
+    "syndicate",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Syndicates/SteelMeridian/LongGuns/SMHek",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/vaykor_hek.2276a61ab8713d1b35e651db67402ca9.png",
+  "thumb": "items/images/en/thumbs/vaykor_hek.2276a61ab8713d1b35e651db67402ca9.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

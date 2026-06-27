@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "66f6d4663a826eccf651c36e",
+  "slug": "burning_hate",
+  "market_slug": "burning_hate",
+  "name_en": "Burning Hate",
+  "name_en_slug": "burning_hate",
+  "name_kr": "버닝 헤이트",
+  "aliases": [
+    "Burning Hate",
+    "burning hate",
+    "burning_hate",
+    "버닝 헤이트"
+  ],
+  "tags": [
+    "hate",
+    "melee",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Melee/Event/Nightwave/NightwaveStalkerScytheAugmentMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/burning_hate.beee5a6aff188b16a81c242f6be06902.webp",
+  "thumb": "items/images/en/thumbs/burning_hate.beee5a6aff188b16a81c242f6be06902.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

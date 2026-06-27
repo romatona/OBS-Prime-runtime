@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "64c2aa1566456704eba6ba3d",
+  "slug": "intrepid_stand",
+  "market_slug": "intrepid_stand",
+  "name_en": "Intrepid Stand",
+  "name_en_slug": "intrepid_stand",
+  "name_kr": "인트레피드 스탠드",
+  "aliases": [
+    "Intrepid Stand",
+    "intrepid stand",
+    "intrepid_stand",
+    "인트레피드 스탠드"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "rare",
+    "styanax",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Hoplite/HopliteArmyAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/intrepid_stand.a6678ae3974e7ce5e582d431356bcfac.png",
+  "thumb": "items/images/en/thumbs/intrepid_stand.a6678ae3974e7ce5e582d431356bcfac.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

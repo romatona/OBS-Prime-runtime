@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "63ee00ff10125411da49e6fa",
+  "slug": "secondary_encumber",
+  "market_slug": "secondary_encumber",
+  "name_en": "Secondary Encumber",
+  "name_en_slug": "secondary_encumber",
+  "name_kr": "세컨더리 인컴버",
+  "aliases": [
+    "Secondary Encumber",
+    "secondary encumber",
+    "secondary_encumber",
+    "세컨더리 인컴버"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Utility/ExtraProcOnProc",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/secondary_encumber.0e6c3bb15956e965b63a16c90ea70a9d.png",
+  "thumb": "items/images/en/thumbs/secondary_encumber.0e6c3bb15956e965b63a16c90ea70a9d.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

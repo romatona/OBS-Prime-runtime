@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e5155b2",
+  "slug": "dead_eye",
+  "market_slug": "dead_eye",
+  "name_en": "Dead Eye",
+  "name_en_slug": "dead_eye",
+  "name_kr": "데드 아이",
+  "aliases": [
+    "Dead Eye",
+    "dead eye",
+    "dead_eye",
+    "데드 아이"
+  ],
+  "tags": [
+    "aura",
+    "mod",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Aura/PlayerSniperDamageAuraMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/dead_eye.559f9fab1259fe9081d4c2bd68481283.png",
+  "thumb": "items/images/en/thumbs/dead_eye.559f9fab1259fe9081d4c2bd68481283.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

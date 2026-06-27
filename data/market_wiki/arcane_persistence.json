@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6939d5d8d6a357b81964f85f",
+  "slug": "arcane_persistence",
+  "market_slug": "arcane_persistence",
+  "name_en": "Arcane Persistence",
+  "name_en_slug": "arcane_persistence",
+  "name_kr": "아케인 퍼시스턴스",
+  "aliases": [
+    "Arcane Persistence",
+    "arcane persistence",
+    "arcane_persistence",
+    "아케인 퍼시스턴스"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/MaxDPSTakenForArmour",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/arcane_persistence.0af23174a3ef891081096a5fb3d15967.webp",
+  "thumb": "items/images/en/thumbs/arcane_persistence.0af23174a3ef891081096a5fb3d15967.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

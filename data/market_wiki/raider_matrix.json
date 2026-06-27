@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6056348690a69e004e862883",
+  "slug": "raider_matrix",
+  "market_slug": "raider_matrix",
+  "name_en": "Raider Matrix",
+  "name_en_slug": "raider_matrix",
+  "name_kr": "레이더 매트릭스",
+  "aliases": [
+    "Raider Matrix",
+    "raider matrix",
+    "raider_matrix",
+    "레이더 매트릭스"
+  ],
+  "tags": [
+    "mod",
+    "railjack",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Railjack/Piloting/LavanHijackMatrixAura",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/raider_matrix.d358607448a682ae4bdbed1118b867a7.png",
+  "thumb": "items/images/en/thumbs/raider_matrix.d358607448a682ae4bdbed1118b867a7.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

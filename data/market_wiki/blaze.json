@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156b1",
+  "slug": "blaze",
+  "market_slug": "blaze",
+  "name_en": "Blaze",
+  "name_en_slug": "blaze",
+  "name_kr": "블레이즈",
+  "aliases": [
+    "Blaze",
+    "blaze",
+    "블레이즈"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "shotgun"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Shotgun/DualStat/BlazeMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/blaze.273c8ee4490ace959257a4b9015f4237.png",
+  "thumb": "items/images/en/thumbs/blaze.273c8ee4490ace959257a4b9015f4237.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

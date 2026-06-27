@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5754a316e701ef5844257daa",
+  "slug": "shattering_impact",
+  "market_slug": "shattering_impact",
+  "name_en": "Shattering Impact",
+  "name_en_slug": "shattering_impact",
+  "name_kr": "섀터링 임팩트",
+  "aliases": [
+    "Shattering Impact",
+    "shattering impact",
+    "shattering_impact",
+    "섀터링 임팩트"
+  ],
+  "tags": [
+    "common",
+    "melee",
+    "mod"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeArmorShatterMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/shattering_impact.6212f037b178c3980d8c9584ad966e42.png",
+  "thumb": "items/images/en/thumbs/shattering_impact.6212f037b178c3980d8c9584ad966e42.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

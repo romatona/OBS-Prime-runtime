@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "675c61d47b18977f6e645414",
+  "slug": "magnetic_claws",
+  "market_slug": "magnetic_claws",
+  "name_en": "Magnetic Claws",
+  "name_en_slug": "magnetic_claws",
+  "name_kr": "마그네틱 클로",
+  "aliases": [
+    "Magnetic Claws",
+    "magnetic claws",
+    "magnetic_claws",
+    "마그네틱 클로"
+  ],
+  "tags": [
+    "claws",
+    "melee",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/DualStat/KubrowMagneticEventMeleeMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/magnetic_claws.b0d0d9a3250b28c86c06be61e46f3988.webp",
+  "thumb": "items/images/en/thumbs/magnetic_claws.b0d0d9a3250b28c86c06be61e46f3988.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

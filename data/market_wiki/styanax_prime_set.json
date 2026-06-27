@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6a330f3c58b60af8cd1a0d07",
+  "slug": "styanax_prime_set",
+  "market_slug": "styanax_prime_set",
+  "name_en": "Styanax Prime Set",
+  "name_en_slug": "styanax_prime_set",
+  "name_kr": "스티아낙스 프라임 세트",
+  "aliases": [
+    "Styanax Prime Set",
+    "styanax prime set",
+    "styanax_prime_set",
+    "스티아낙스 프라임 세트"
+  ],
+  "tags": [
+    "prime",
+    "set",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Hoplite/StyanaxPrime",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/styanax_prime_set.27f0de9e366d4a69ace940a8f927783d.webp",
+  "thumb": "items/images/en/thumbs/styanax_prime_set.27f0de9e366d4a69ace940a8f927783d.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "675c59247b18977f6e6453e8",
+  "slug": "arcane_crepuscular",
+  "market_slug": "arcane_crepuscular",
+  "name_en": "Arcane Crepuscular",
+  "name_en_slug": "arcane_crepuscular",
+  "name_kr": "아케인 크리퍼스큘러",
+  "aliases": [
+    "Arcane Crepuscular",
+    "arcane crepuscular",
+    "arcane_crepuscular",
+    "아케인 크리퍼스큘러"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Utility/AbilityStrengthAndCritDamageWhenInvisible",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/arcane_crepuscular.8e34ad3ac57362158d9ec6d642364427.webp",
+  "thumb": "items/images/en/thumbs/arcane_crepuscular.8e34ad3ac57362158d9ec6d642364427.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

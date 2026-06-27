@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "566751815dcbc186f0536bd3",
+  "slug": "arcane_precision",
+  "market_slug": "arcane_precision",
+  "name_en": "Arcane Precision",
+  "name_en_slug": "arcane_precision",
+  "name_kr": "아케인 프리시젼",
+  "aliases": [
+    "Arcane Precision",
+    "arcane precision",
+    "arcane_precision",
+    "아케인 프리시젼"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcanePistolDamageOnHeadshot",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/arcane_precision.9947891b2c40889b5ae96ea6987df9c1.png",
+  "thumb": "items/images/en/thumbs/arcane_precision.9947891b2c40889b5ae96ea6987df9c1.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54aaf526e779896a8c2ecfd8",
+  "slug": "ancient_fusion_core",
+  "market_slug": "ancient_fusion_core",
+  "name_en": "Ancient Fusion Core",
+  "name_en_slug": "ancient_fusion_core",
+  "name_kr": "에인션트 퓨전 코어",
+  "aliases": [
+    "Ancient Fusion Core",
+    "ancient fusion core",
+    "ancient_fusion_core",
+    "에인션트 퓨전 코어"
+  ],
+  "tags": [
+    "fusion core",
+    "legendary"
+  ],
+  "game_ref": "",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/ancient_fusion_core.98f3def86e72c56c2acc352e4da3d744.webp",
+  "thumb": "items/images/en/thumbs/ancient_fusion_core.98f3def86e72c56c2acc352e4da3d744.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

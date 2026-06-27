@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a73e65e779893a797fff81",
+  "slug": "ember_prime_blueprint",
+  "market_slug": "ember_prime_blueprint",
+  "name_en": "Ember Prime Blueprint",
+  "name_en_slug": "ember_prime_blueprint",
+  "name_kr": "엠버 프라임 설계도",
+  "aliases": [
+    "Ember Prime",
+    "Ember Prime Blueprint",
+    "ember prime blueprint",
+    "ember_prime_blueprint",
+    "엠버 프라임",
+    "엠버 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/EmberPrimeBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/ember_prime_blueprint.971255acc3f1ad8a374d236c6af1c816.png",
+  "thumb": "items/images/en/thumbs/ember_prime_blueprint.971255acc3f1ad8a374d236c6af1c816.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e51560a",
+  "slug": "fortitude",
+  "market_slug": "fortitude",
+  "name_en": "Fortitude",
+  "name_en_slug": "fortitude",
+  "name_kr": "포티튜드",
+  "aliases": [
+    "Fortitude",
+    "fortitude",
+    "포티튜드"
+  ],
+  "tags": [
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Warframe/DualStat/FortitudeMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/fortitude.977352ca166dd054da57bbe50cf4ec3e.png",
+  "thumb": "items/images/en/thumbs/fortitude.977352ca166dd054da57bbe50cf4ec3e.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

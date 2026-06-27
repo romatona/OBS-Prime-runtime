@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e5155bd",
+  "slug": "melee_prowess",
+  "market_slug": "melee_prowess",
+  "name_en": "Melee Prowess",
+  "name_en_slug": "melee_prowess",
+  "name_kr": "밀리 프라워스",
+  "aliases": [
+    "Melee Prowess",
+    "melee prowess",
+    "melee_prowess",
+    "밀리 프라워스"
+  ],
+  "tags": [
+    "common",
+    "melee",
+    "mod"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Melee/WeaponStunChanceMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/melee_prowess.f792c4c19fa0f63b782959a71993d299.png",
+  "thumb": "items/images/en/thumbs/melee_prowess.f792c4c19fa0f63b782959a71993d299.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

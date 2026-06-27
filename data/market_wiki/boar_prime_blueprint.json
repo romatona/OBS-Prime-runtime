@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a73e65e779893a797fff2b",
+  "slug": "boar_prime_blueprint",
+  "market_slug": "boar_prime_blueprint",
+  "name_en": "Boar Prime Blueprint",
+  "name_en_slug": "boar_prime_blueprint",
+  "name_kr": "보어 프라임 설계도",
+  "aliases": [
+    "Boar Prime",
+    "Boar Prime Blueprint",
+    "boar prime blueprint",
+    "boar_prime_blueprint",
+    "보어 프라임",
+    "보어 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "primary",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/BoarPrimeBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/boar_prime_blueprint.5e8a5ba1520169c7a99c738624328d26.png",
+  "thumb": "items/images/en/thumbs/boar_prime_blueprint.5e8a5ba1520169c7a99c738624328d26.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

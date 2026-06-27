@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5dff6e1014569703166749e3",
+  "slug": "breach_quanta",
+  "market_slug": "breach_quanta",
+  "name_en": "Breach Quanta",
+  "name_en_slug": "breach_quanta",
+  "name_kr": "브리치 콴타",
+  "aliases": [
+    "Breach Quanta",
+    "breach quanta",
+    "breach_quanta",
+    "브리치 콴타"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "railjack"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Railjack/Tactical/BreachRepair",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/breach_quanta.5626aef55def01e96d9e0cc1142bc117.png",
+  "thumb": "items/images/en/thumbs/breach_quanta.5626aef55def01e96d9e0cc1142bc117.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

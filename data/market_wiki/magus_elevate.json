@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5a04750e6c4655012038ddce",
+  "slug": "magus_elevate",
+  "market_slug": "magus_elevate",
+  "name_en": "Magus Elevate",
+  "name_en_slug": "magus_elevate",
+  "name_kr": "마구스 엘리베이트",
+  "aliases": [
+    "Magus Elevate",
+    "magus elevate",
+    "magus_elevate",
+    "마구스 엘리베이트"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealOnTransferenceIn",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/magus_elevate.c2f5a10648687f0c0fc4f66f5df6b76f.png",
+  "thumb": "items/images/en/thumbs/magus_elevate.c2f5a10648687f0c0fc4f66f5df6b76f.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

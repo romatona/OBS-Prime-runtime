@@ -1,0 +1,34 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "641263e07d179f02100c6d4e",
+  "slug": "larkspur_prime_blueprint",
+  "market_slug": "larkspur_prime_blueprint",
+  "name_en": "Larkspur Prime Blueprint",
+  "name_en_slug": "larkspur_prime_blueprint",
+  "name_kr": "라크스퍼 프라임 설계도",
+  "aliases": [
+    "Larkspur Prime",
+    "Larkspur Prime Blueprint",
+    "larkspur prime blueprint",
+    "larkspur_prime_blueprint",
+    "라크스퍼 프라임",
+    "라크스퍼 프라임 설계도"
+  ],
+  "tags": [
+    "archwing",
+    "blueprint",
+    "primary",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/LarkspurPrimeBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/larkspur_prime_blueprint.592e684b836593e202891aea8b3a3f6c.png",
+  "thumb": "items/images/en/thumbs/larkspur_prime_blueprint.592e684b836593e202891aea8b3a3f6c.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

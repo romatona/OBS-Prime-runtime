@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5f498a269426ed00443bd0d8",
+  "slug": "necramech_intensify",
+  "market_slug": "necramech_intensify",
+  "name_en": "Necramech Intensify",
+  "name_en_slug": "necramech_intensify",
+  "name_kr": "네크라메크 인텐시파이",
+  "aliases": [
+    "Necramech Intensify",
+    "necramech intensify",
+    "necramech_intensify",
+    "네크라메크 인텐시파이"
+  ],
+  "tags": [
+    "mod",
+    "necramech",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Necromech/NecromechAbilityStrengthMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/necramech_intensify.399017e72512b8e11c3eafc93875937a.png",
+  "thumb": "items/images/en/thumbs/necramech_intensify.399017e72512b8e11c3eafc93875937a.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

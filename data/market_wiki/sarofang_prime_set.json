@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "69d6774fb3984cc97e241758",
+  "slug": "sarofang_prime_set",
+  "market_slug": "sarofang_prime_set",
+  "name_en": "Sarofang Prime Set",
+  "name_en_slug": "sarofang_prime_set",
+  "name_kr": "사로팡 프라임 세트",
+  "aliases": [
+    "Sarofang Prime Set",
+    "sarofang prime set",
+    "sarofang_prime_set",
+    "사로팡 프라임 세트"
+  ],
+  "tags": [
+    "melee",
+    "prime",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/Axe/PrimeVorunaAxeWeapon",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/sarofang_prime_set.fbbab9117b49d01d099fd937219c9749.webp",
+  "thumb": "items/images/en/thumbs/sarofang_prime_set.fbbab9117b49d01d099fd937219c9749.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

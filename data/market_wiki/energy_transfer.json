@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5ada1ab4b2b6a80bb33793f6",
+  "slug": "energy_transfer",
+  "market_slug": "energy_transfer",
+  "name_en": "Energy Transfer",
+  "name_en_slug": "energy_transfer",
+  "name_kr": "에너지 트랜스퍼",
+  "aliases": [
+    "Energy Transfer",
+    "energy transfer",
+    "energy_transfer",
+    "에너지 트랜스퍼"
+  ],
+  "tags": [
+    "augment",
+    "equinox",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/YinYang/YinYangBurstAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/energy_transfer.af31c7a3333fd9b17ac2f266fe39216b.png",
+  "thumb": "items/images/en/thumbs/energy_transfer.af31c7a3333fd9b17ac2f266fe39216b.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "657f2efd8820fb8f3c5f465d",
+  "slug": "melee_influence",
+  "market_slug": "melee_influence",
+  "name_en": "Melee Influence",
+  "name_en_slug": "melee_influence",
+  "name_kr": "Melee Influence",
+  "aliases": [
+    "Melee Influence",
+    "melee influence",
+    "melee_influence"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "game_ref": "",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/melee_influence.b22232a58406e5feeb8bbe94c07c18d2.webp",
+  "thumb": "items/images/en/thumbs/melee_influence.b22232a58406e5feeb8bbe94c07c18d2.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

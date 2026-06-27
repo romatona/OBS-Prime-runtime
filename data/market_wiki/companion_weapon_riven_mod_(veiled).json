@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5d6ea6777ea27b05d929cbfc",
+  "slug": "companion_weapon_riven_mod_(veiled)",
+  "market_slug": "companion_weapon_riven_mod_(veiled)",
+  "name_en": "Companion Weapon Riven Mod (Veiled)",
+  "name_en_slug": "companion_weapon_riven_mod_(veiled)",
+  "name_kr": "동반자 무기 리벤 모드 (미개봉)",
+  "aliases": [
+    "Companion Weapon Riven Mod (Veiled)",
+    "companion weapon riven mod (veiled)",
+    "companion_weapon_riven_mod_(veiled)",
+    "동반자 무기 리벤 모드 (미개봉)"
+  ],
+  "tags": [
+    "mod",
+    "riven"
+  ],
+  "game_ref": "",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/companion_weapon_riven_mod_(veiled).43633261c8ac6836608f58b37f8c9eaa.webp",
+  "thumb": "items/images/en/thumbs/companion_weapon_riven_mod_(veiled).43633261c8ac6836608f58b37f8c9eaa.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

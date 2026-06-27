@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "626a197df40db600660a1d8d",
+  "slug": "combat_reload",
+  "market_slug": "combat_reload",
+  "name_en": "Combat Reload",
+  "name_en_slug": "combat_reload",
+  "name_kr": "컴뱃 리로드",
+  "aliases": [
+    "Combat Reload",
+    "combat reload",
+    "combat_reload",
+    "컴뱃 리로드"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "tigris"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/Event/Nightwave/NightwaveTigrisAugmentMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/combat_reload.bb9f21c1fd571b29f89e4e78b552deb4.png",
+  "thumb": "items/images/en/thumbs/combat_reload.bb9f21c1fd571b29f89e4e78b552deb4.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

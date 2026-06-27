@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5fde10c66db57b0185b39085",
+  "slug": "bonewidow_capsule",
+  "market_slug": "bonewidow_capsule",
+  "name_en": "Bonewidow Capsule",
+  "name_en_slug": "bonewidow_capsule",
+  "name_kr": "본위도우 캡슐",
+  "aliases": [
+    "Bonewidow Capsule",
+    "bonewidow capsule",
+    "bonewidow_capsule",
+    "본위도우 캡슐"
+  ],
+  "tags": [
+    "component",
+    "necramech"
+  ],
+  "game_ref": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartSystemsItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/ko/bonewidow_capsule.75bd55fc8ff8512e1667272e4bc4e567.png",
+  "thumb": "items/images/ko/thumbs/bonewidow_capsule.75bd55fc8ff8512e1667272e4bc4e567.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

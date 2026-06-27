@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "63229386dd457f0096113c43",
+  "slug": "archon_vitality",
+  "market_slug": "archon_vitality",
+  "name_en": "Archon Vitality",
+  "name_en_slug": "archon_vitality",
+  "name_kr": "아콘 바이탈리티",
+  "aliases": [
+    "Archon Vitality",
+    "archon vitality",
+    "archon_vitality",
+    "아콘 바이탈리티"
+  ],
+  "tags": [
+    "archon",
+    "mod",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Warframe/Kahl/KahlAvatarHealthMaxMod",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/archon_vitality.e2a0584c833528c8a69bf80f6ee5ec0f.png",
+  "thumb": "items/images/en/thumbs/archon_vitality.e2a0584c833528c8a69bf80f6ee5ec0f.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

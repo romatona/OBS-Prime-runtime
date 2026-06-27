@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a4da",
+  "slug": "impaler_munitions",
+  "market_slug": "impaler_munitions",
+  "name_en": "Impaler Munitions",
+  "name_en_slug": "impaler_munitions",
+  "name_kr": "임페일러 뮤니션즈",
+  "aliases": [
+    "Impaler Munitions",
+    "impaler munitions",
+    "impaler_munitions",
+    "임페일러 뮤니션즈"
+  ],
+  "tags": [
+    "mod",
+    "pistol",
+    "pvp",
+    "secondary",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Pistol/DamageBiasPuncturePistolMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/impaler_munitions.5bbb1a625def945ac6d5ca590f947fd6.png",
+  "thumb": "items/images/en/thumbs/impaler_munitions.5bbb1a625def945ac6d5ca590f947fd6.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

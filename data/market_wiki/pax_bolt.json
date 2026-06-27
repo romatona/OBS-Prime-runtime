@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5bf54b483ffcc7066e7eb854",
+  "slug": "pax_bolt",
+  "market_slug": "pax_bolt",
+  "name_en": "Pax Bolt",
+  "name_en_slug": "pax_bolt",
+  "name_kr": "팍스 볼트",
+  "aliases": [
+    "Pax Bolt",
+    "pax bolt",
+    "pax_bolt",
+    "팍스 볼트"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Utility/EnergyEfficiencyOnHeadshot",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/pax_bolt.c2a3984cf53e69467a87424c1ca2acd4.png",
+  "thumb": "items/images/en/thumbs/pax_bolt.c2a3984cf53e69467a87424c1ca2acd4.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

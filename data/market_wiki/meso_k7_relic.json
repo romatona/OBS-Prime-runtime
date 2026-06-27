@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "682df3e135715d4f3e9c64c5",
+  "slug": "meso_k7_relic",
+  "market_slug": "meso_k7_relic",
+  "name_en": "Meso K7 Relic",
+  "name_en_slug": "meso_k7_relic",
+  "name_kr": "메소 K7 성유물",
+  "aliases": [
+    "Meso K7 Relic",
+    "meso k7 relic",
+    "meso_k7_relic",
+    "메소 K7 성유물"
+  ],
+  "tags": [
+    "meso",
+    "relic"
+  ],
+  "game_ref": "/Lotus/Types/Game/Projections/T2VoidProjectionYareliPrimeB",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/meso_k7_relic.a2f3850abeecafbbe3369af2aaf253ff.webp",
+  "thumb": "items/images/en/thumbs/meso_k7_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

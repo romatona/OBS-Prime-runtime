@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60e5b8fd4794450053e99947",
+  "slug": "galvanized_scope",
+  "market_slug": "galvanized_scope",
+  "name_en": "Galvanized Scope",
+  "name_en_slug": "galvanized_scope",
+  "name_kr": "갈바나이즈드 스코프",
+  "aliases": [
+    "Galvanized Scope",
+    "galvanized scope",
+    "galvanized_scope",
+    "갈바나이즈드 스코프"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "rifle"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/Event/CritChanceWhileAimingRifleSPMod",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/galvanized_scope.40e96c1ddd7156854a1d5fc84ab986ce.png",
+  "thumb": "items/images/en/thumbs/galvanized_scope.40e96c1ddd7156854a1d5fc84ab986ce.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

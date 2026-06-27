@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56a7b2901133f656cb085d8f",
+  "slug": "pressurized_magazine",
+  "market_slug": "pressurized_magazine",
+  "name_en": "Pressurized Magazine",
+  "name_en_slug": "pressurized_magazine",
+  "name_kr": "프레셔라이즈드 매거진",
+  "aliases": [
+    "Pressurized Magazine",
+    "pressurized magazine",
+    "pressurized_magazine",
+    "프레셔라이즈드 매거진"
+  ],
+  "tags": [
+    "mod",
+    "pistol",
+    "rare",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Pistol/Event/FireRateWhileAimingPistolMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/pressurized_magazine.daa3ea71eeb3c2b826aacc536d4b5e95.png",
+  "thumb": "items/images/en/thumbs/pressurized_magazine.daa3ea71eeb3c2b826aacc536d4b5e95.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

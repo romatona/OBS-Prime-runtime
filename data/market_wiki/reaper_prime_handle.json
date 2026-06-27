@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a73e65e779893a797fff5a",
+  "slug": "reaper_prime_handle",
+  "market_slug": "reaper_prime_handle",
+  "name_en": "Reaper Prime Handle",
+  "name_en_slug": "reaper_prime_handle",
+  "name_kr": "리퍼 프라임 핸들",
+  "aliases": [
+    "Reaper Prime Handle",
+    "reaper prime handle",
+    "reaper_prime_handle",
+    "리퍼 프라임 핸들"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeScytheHandle",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/reaper_prime_handle.4e1d36812203a97fd0191930485b1095.png",
+  "thumb": "items/images/en/thumbs/reaper_prime_handle.4e1d36812203a97fd0191930485b1095.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

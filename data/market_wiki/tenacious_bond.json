@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6531692bf31453d36319c56e",
+  "slug": "tenacious_bond",
+  "market_slug": "tenacious_bond",
+  "name_en": "Tenacious Bond",
+  "name_en_slug": "tenacious_bond",
+  "name_kr": "터네이셔스 본드",
+  "aliases": [
+    "Tenacious Bond",
+    "tenacious bond",
+    "tenacious_bond",
+    "터네이셔스 본드"
+  ],
+  "tags": [
+    "companion",
+    "mod",
+    "rare",
+    "sentinel"
+  ],
+  "game_ref": "/Lotus/Types/Sentinels/SentinelPrecepts/VoidBond/TenaciousPartner",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/tenacious_bond.2e3e484bbee202f7481636fc27151997.png",
+  "thumb": "items/images/en/thumbs/tenacious_bond.2e3e484bbee202f7481636fc27151997.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "673516aadb3ac2cfade14a71",
+  "slug": "xaku_prime_blueprint",
+  "market_slug": "xaku_prime_blueprint",
+  "name_en": "Xaku Prime Blueprint",
+  "name_en_slug": "xaku_prime_blueprint",
+  "name_kr": "자쿠 프라임 설계도",
+  "aliases": [
+    "Xaku Prime",
+    "Xaku Prime Blueprint",
+    "xaku prime blueprint",
+    "xaku_prime_blueprint",
+    "자쿠 프라임",
+    "자쿠 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/xaku_prime_blueprint.caeeda2f9eec158d19fd76d7631fa5de.webp",
+  "thumb": "items/images/en/thumbs/xaku_prime_blueprint.caeeda2f9eec158d19fd76d7631fa5de.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

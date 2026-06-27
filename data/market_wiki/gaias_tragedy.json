@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "561537e3b66f836f9fb6b4e8",
+  "slug": "gaias_tragedy",
+  "market_slug": "gaias_tragedy",
+  "name_en": "Gaia's Tragedy",
+  "name_en_slug": "gaias_tragedy",
+  "name_kr": "가이아스 트라제디",
+  "aliases": [
+    "Gaia's Tragedy",
+    "gaias tragedy",
+    "gaias_tragedy",
+    "가이아스 트라제디"
+  ],
+  "tags": [
+    "fists",
+    "mod",
+    "rare",
+    "stance"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/FistCmbThreeMeleeTree",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/gaias_tragedy.00ab7027cd3116017ba7758e21af423a.png",
+  "thumb": "items/images/en/thumbs/gaias_tragedy.00ab7027cd3116017ba7758e21af423a.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

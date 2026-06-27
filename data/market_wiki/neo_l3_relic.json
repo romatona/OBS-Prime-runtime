@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "64c2aa1466456704eba6ba2b",
+  "slug": "neo_l3_relic",
+  "market_slug": "neo_l3_relic",
+  "name_en": "Neo L3 Relic",
+  "name_en_slug": "neo_l3_relic",
+  "name_kr": "네오 L3 성유물",
+  "aliases": [
+    "Neo L3 Relic",
+    "neo l3 relic",
+    "neo_l3_relic",
+    "네오 L3 성유물"
+  ],
+  "tags": [
+    "neo",
+    "relic"
+  ],
+  "game_ref": "/Lotus/Types/Game/Projections/T3VoidProjectionWispPrimeE",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/neo_l3_relic.224e87d2d7e5a4e52109429468c8d379.png",
+  "thumb": "items/images/en/thumbs/neo_l3_relic.224e87d2d7e5a4e52109429468c8d379.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

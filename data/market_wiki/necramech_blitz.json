@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5f4ed3f8d5c36d0086f55b08",
+  "slug": "necramech_blitz",
+  "market_slug": "necramech_blitz",
+  "name_en": "Necramech Blitz",
+  "name_en_slug": "necramech_blitz",
+  "name_kr": "네크라메크 블릿츠",
+  "aliases": [
+    "Necramech Blitz",
+    "necramech blitz",
+    "necramech_blitz",
+    "네크라메크 블릿츠"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "necramech"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Necromech/NecromechSlideDamageMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/necramech_blitz.9bb602da20c4207a0d2cf79009279756.png",
+  "thumb": "items/images/en/thumbs/necramech_blitz.9bb602da20c4207a0d2cf79009279756.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

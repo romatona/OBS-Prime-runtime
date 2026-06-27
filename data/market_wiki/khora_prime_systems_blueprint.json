@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "62d3494175156700ce450e04",
+  "slug": "khora_prime_systems_blueprint",
+  "market_slug": "khora_prime_systems_blueprint",
+  "name_en": "Khora Prime Systems Blueprint",
+  "name_en_slug": "khora_prime_systems_blueprint",
+  "name_kr": "코라 프라임 시스템 설계도",
+  "aliases": [
+    "Khora Prime Systems",
+    "Khora Prime Systems Blueprint",
+    "khora prime systems blueprint",
+    "khora_prime_systems_blueprint",
+    "코라 프라임 시스템",
+    "코라 프라임 시스템 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/KhoraPrimeSystemsBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/khora_prime_systems_blueprint.12b9da415ed4f659296947b5c7157dc0.png",
+  "thumb": "items/images/en/thumbs/khora_prime_systems_blueprint.12b9da415ed4f659296947b5c7157dc0.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

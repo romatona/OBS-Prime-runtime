@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "657c67a594e1edefd8db9c90",
+  "slug": "primed_redirection",
+  "market_slug": "primed_redirection",
+  "name_en": "Primed Redirection",
+  "name_en_slug": "primed_redirection",
+  "name_kr": "프라임드 리다이렉션",
+  "aliases": [
+    "Primed Redirection",
+    "primed redirection",
+    "primed_redirection",
+    "프라임드 리다이렉션"
+  ],
+  "tags": [
+    "legendary",
+    "mod",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Warframe/Expert/AvatarShieldMaxModExpert",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/primed_redirection.325f8cb4a67aa608a364f7d19d9fd2e0.png",
+  "thumb": "items/images/en/thumbs/primed_redirection.325f8cb4a67aa608a364f7d19d9fd2e0.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "685d4fdbf41598dddb4cc2f8",
+  "slug": "razor_mortar",
+  "market_slug": "razor_mortar",
+  "name_en": "Razor Mortar",
+  "name_en_slug": "razor_mortar",
+  "name_kr": "레이저 몰타",
+  "aliases": [
+    "Razor Mortar",
+    "razor mortar",
+    "razor_mortar",
+    "레이저 몰타"
+  ],
+  "tags": [
+    "augment",
+    "caliban",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Sentient/SentientWhirlwindAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/razor_mortar.e7efa4bdcc9ff8de1497a34173cbf890.webp",
+  "thumb": "items/images/en/thumbs/razor_mortar.e7efa4bdcc9ff8de1497a34173cbf890.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

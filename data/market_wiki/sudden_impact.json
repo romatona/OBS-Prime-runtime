@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515655",
+  "slug": "sudden_impact",
+  "market_slug": "sudden_impact",
+  "name_en": "Sudden Impact",
+  "name_en_slug": "sudden_impact",
+  "name_kr": "서든 임팩트",
+  "aliases": [
+    "Sudden Impact",
+    "sudden impact",
+    "sudden_impact",
+    "서든 임팩트"
+  ],
+  "tags": [
+    "archmelee",
+    "archwing",
+    "common",
+    "melee",
+    "mod"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingMeleeStatusChanceMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/sudden_impact.86fff87fc89ac8f586597cdc4f7eed96.png",
+  "thumb": "items/images/en/thumbs/sudden_impact.86fff87fc89ac8f586597cdc4f7eed96.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56783f24cbfa8f0432dd8996",
+  "slug": "carrier_prime_set",
+  "market_slug": "carrier_prime_set",
+  "name_en": "Carrier Prime Set",
+  "name_en_slug": "carrier_prime_set",
+  "name_kr": "캐리어 프라임 세트",
+  "aliases": [
+    "Carrier Prime Set",
+    "carrier prime set",
+    "carrier_prime_set",
+    "캐리어 프라임 세트"
+  ],
+  "tags": [
+    "prime",
+    "sentinel",
+    "set"
+  ],
+  "game_ref": "/Lotus/Types/Sentinels/SentinelPowersuits/PrimeCarrierPowerSuit",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/carrier_prime_set.1f39e6e9ecef0225b0755dd5c89f3cc8.png",
+  "thumb": "items/images/en/thumbs/carrier_prime_set.1f39e6e9ecef0225b0755dd5c89f3cc8.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "675c61507b18977f6e6453fc",
+  "slug": "höllvanian_terrace_in_summer",
+  "market_slug": "höllvanian_terrace_in_summer",
+  "name_en": "Höllvanian Terrace In Summer Scene",
+  "name_en_slug": "höllvanian_terrace_in_summer",
+  "name_kr": "홀바니아 여름 테라스 배경",
+  "aliases": [
+    "Höllvanian Terrace In Summer Scene",
+    "höllvanian terrace in summer",
+    "höllvanian_terrace_in_summer",
+    "홀바니아 여름 테라스 배경"
+  ],
+  "tags": [
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConAlleyValguma",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/höllvanian_terrace_in_summer.0bf4d756cb9688a0ad3a34f94a0da30c.webp",
+  "thumb": "items/images/en/thumbs/höllvanian_terrace_in_summer.0bf4d756cb9688a0ad3a34f94a0da30c.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

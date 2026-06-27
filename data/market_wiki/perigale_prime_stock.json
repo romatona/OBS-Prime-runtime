@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "69d6770db3984cc97e241756",
+  "slug": "perigale_prime_stock",
+  "market_slug": "perigale_prime_stock",
+  "name_en": "Perigale Prime Stock",
+  "name_en_slug": "perigale_prime_stock",
+  "name_kr": "페리게일 프라임 스톡",
+  "aliases": [
+    "Perigale Prime Stock",
+    "perigale prime stock",
+    "perigale_prime_stock",
+    "페리게일 프라임 스톡"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/PerigalePrimeStock",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/perigale_prime_stock.9168f4020497799e8dd44b130c899c5d.webp",
+  "thumb": "items/images/en/thumbs/perigale_prime_stock.9168f4020497799e8dd44b130c899c5d.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

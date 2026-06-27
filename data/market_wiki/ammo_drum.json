@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e51562f",
+  "slug": "ammo_drum",
+  "market_slug": "ammo_drum",
+  "name_en": "Ammo Drum",
+  "name_en_slug": "ammo_drum",
+  "name_kr": "애모 드럼",
+  "aliases": [
+    "Ammo Drum",
+    "ammo drum",
+    "ammo_drum",
+    "애모 드럼"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "primary",
+    "rifle"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/WeaponAmmoMaxMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/ammo_drum.2c5e508c9c2f5b8d199bccbc8dde9491.png",
+  "thumb": "items/images/en/thumbs/ammo_drum.2c5e508c9c2f5b8d199bccbc8dde9491.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

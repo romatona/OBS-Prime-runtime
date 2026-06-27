@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "675c61797b18977f6e645408",
+  "slug": "höllvanian_old_town_in_fall",
+  "market_slug": "höllvanian_old_town_in_fall",
+  "name_en": "Höllvanian Old Town In Fall Scene",
+  "name_en_slug": "höllvanian_old_town_in_fall",
+  "name_kr": "홀바니아 가을 구시가지 배경",
+  "aliases": [
+    "Höllvanian Old Town In Fall Scene",
+    "höllvanian old town in fall",
+    "höllvanian_old_town_in_fall",
+    "홀바니아 가을 구시가지 배경"
+  ],
+  "tags": [
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConStreetStrencu",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/höllvanian_old_town_in_fall.344818cf886ef0e7aa674b4aee6de1dc.webp",
+  "thumb": "items/images/en/thumbs/höllvanian_old_town_in_fall.344818cf886ef0e7aa674b4aee6de1dc.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

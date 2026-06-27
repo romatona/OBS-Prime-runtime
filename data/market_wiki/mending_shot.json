@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5e7caa01267539063de48c3c",
+  "slug": "mending_shot",
+  "market_slug": "mending_shot",
+  "name_en": "Mending Shot",
+  "name_en_slug": "mending_shot",
+  "name_kr": "멘딩 샷",
+  "aliases": [
+    "Mending Shot",
+    "mending shot",
+    "mending_shot",
+    "멘딩 샷"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "rifle_(no_aoe)"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/Event/Arbitration/ShootPickUpRifleMod",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/mending_shot.ad5ba71f5bb163a491800032f1fe2591.png",
+  "thumb": "items/images/en/thumbs/mending_shot.ad5ba71f5bb163a491800032f1fe2591.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

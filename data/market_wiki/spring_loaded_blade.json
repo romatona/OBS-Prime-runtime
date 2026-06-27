@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "59f38f558c202c007335ba66",
+  "slug": "spring_loaded_blade",
+  "market_slug": "spring_loaded_blade",
+  "name_en": "Spring-Loaded Blade",
+  "name_en_slug": "spring_loaded_blade",
+  "name_kr": "스프링-로디드 블레이드",
+  "aliases": [
+    "Spring-Loaded Blade",
+    "spring loaded blade",
+    "spring_loaded_blade",
+    "스프링-로디드 블레이드"
+  ],
+  "tags": [
+    "melee",
+    "mod",
+    "rare",
+    "syndicate"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Syndicate/MeleeRangeOnProcMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/spring_loaded_blade.fd154881f2430c34f92827e152c64b29.png",
+  "thumb": "items/images/en/thumbs/spring_loaded_blade.fd154881f2430c34f92827e152c64b29.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

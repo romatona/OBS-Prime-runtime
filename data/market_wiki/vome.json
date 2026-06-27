@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5dbe9b0e7ea27b0ffe3ca277",
+  "slug": "vome",
+  "market_slug": "vome",
+  "name_en": "Vome",
+  "name_en_slug": "vome",
+  "name_kr": "봄",
+  "aliases": [
+    "Vome",
+    "vome",
+    "봄"
+  ],
+  "tags": [
+    "mod",
+    "parazon",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Immortal/ImmortalFourMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/vome.542f8f39dab25dbce955e8a7ddb35c3a.png",
+  "thumb": "items/images/en/thumbs/vome.542f8f39dab25dbce955e8a7ddb35c3a.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e51567a",
+  "slug": "malicious_raptor",
+  "market_slug": "malicious_raptor",
+  "name_en": "Malicious Raptor",
+  "name_en_slug": "malicious_raptor",
+  "name_kr": "말리셔스 랩터",
+  "aliases": [
+    "Malicious Raptor",
+    "malicious raptor",
+    "malicious_raptor",
+    "말리셔스 랩터"
+  ],
+  "tags": [
+    "claws",
+    "mod",
+    "rare",
+    "stance"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/ClawCmbOneMeleeTree",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/malicious_raptor.501a9e285cf7f788e2a9b4678a38c367.png",
+  "thumb": "items/images/en/thumbs/malicious_raptor.501a9e285cf7f788e2a9b4678a38c367.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5a311f84c2c9e90dfff475e5",
+  "slug": "kogake_prime_blueprint",
+  "market_slug": "kogake_prime_blueprint",
+  "name_en": "Kogake Prime Blueprint",
+  "name_en_slug": "kogake_prime_blueprint",
+  "name_kr": "코가케 프라임 설계도",
+  "aliases": [
+    "Kogake Prime",
+    "Kogake Prime Blueprint",
+    "kogake prime blueprint",
+    "kogake_prime_blueprint",
+    "코가케 프라임",
+    "코가케 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "melee",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/KogakePrimeBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/kogake_prime_blueprint.456b865463108d6f6ff51da978f839cd.png",
+  "thumb": "items/images/en/thumbs/kogake_prime_blueprint.456b865463108d6f6ff51da978f839cd.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

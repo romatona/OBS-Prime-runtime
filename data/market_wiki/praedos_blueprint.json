@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "626ca573f40db600829c9d0c",
+  "slug": "praedos_blueprint",
+  "market_slug": "praedos_blueprint",
+  "name_en": "Praedos Blueprint",
+  "name_en_slug": "praedos_blueprint",
+  "name_kr": "프레이도스 설계도",
+  "aliases": [
+    "Praedos",
+    "Praedos Blueprint",
+    "praedos blueprint",
+    "praedos_blueprint",
+    "프레이도스",
+    "프레이도스 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "melee",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/Evolving/ZarimanTonfaWeaponBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/praedos_blueprint.e1da5767a0e93a169cc678f1a8bff20f.png",
+  "thumb": "items/images/en/thumbs/praedos_blueprint.e1da5767a0e93a169cc678f1a8bff20f.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,112 @@
+{
+  "items": [
+    {
+      "id": "bronco_prime_barrel",
+      "ko_name": "브론코 프라임 배럴",
+      "en_name": "Bronco Prime Barrel",
+      "aliases": ["Bronco Prime Barrel", "브론코 배럴", "브롱코 프라임 배럴"],
+      "item_type": "part",
+      "rarity": "common",
+      "ducats": 45,
+      "market_slug": "bronco_prime_barrel",
+      "vaulted": false,
+      "tradable": true
+    },
+    {
+      "id": "lex_prime_receiver",
+      "ko_name": "렉스 프라임 리시버",
+      "en_name": "Lex Prime Receiver",
+      "aliases": ["Lex Prime Receiver", "렉스 리시버"],
+      "item_type": "part",
+      "rarity": "common",
+      "ducats": 15,
+      "market_slug": "lex_prime_receiver",
+      "vaulted": false,
+      "tradable": true
+    },
+    {
+      "id": "forma_blueprint",
+      "ko_name": "포르마 설계도",
+      "en_name": "Forma Blueprint",
+      "aliases": ["Forma Blueprint", "포르마 청사진", "Forma"],
+      "item_type": "blueprint",
+      "rarity": "common",
+      "ducats": 0,
+      "market_slug": "forma_blueprint",
+      "vaulted": false,
+      "tradable": false
+    },
+    {
+      "id": "glaive_prime_blade",
+      "ko_name": "글레이브 프라임 블레이드",
+      "en_name": "Glaive Prime Blade",
+      "aliases": ["Glaive Prime Blade", "글레이브 블레이드", "글레이브 프라임 블레"],
+      "item_type": "part",
+      "rarity": "rare",
+      "ducats": 100,
+      "market_slug": "glaive_prime_blade",
+      "vaulted": true,
+      "tradable": true
+    }
+  ],
+  "prices": [
+    {
+      "item_id": "bronco_prime_barrel",
+      "platform": "pc",
+      "currency": "platinum",
+      "plat_price_min": 8,
+      "plat_price_median": 12,
+      "plat_price_avg": 11.5,
+      "volume_48h": 24,
+      "orders_seen": 12,
+      "last_updated": "2026-06-25T00:00:00Z",
+      "source": "local_fixture"
+    },
+    {
+      "item_id": "lex_prime_receiver",
+      "platform": "pc",
+      "currency": "platinum",
+      "plat_price_min": 5,
+      "plat_price_median": 8,
+      "plat_price_avg": 8.3,
+      "volume_48h": 21,
+      "orders_seen": 10,
+      "last_updated": "2026-06-25T00:00:00Z",
+      "source": "local_fixture"
+    },
+    {
+      "item_id": "forma_blueprint",
+      "platform": "pc",
+      "currency": "platinum",
+      "plat_price_min": null,
+      "plat_price_median": null,
+      "plat_price_avg": null,
+      "volume_48h": 0,
+      "orders_seen": 0,
+      "last_updated": "2026-06-25T00:00:00Z",
+      "source": "local_fixture"
+    },
+    {
+      "item_id": "glaive_prime_blade",
+      "platform": "pc",
+      "currency": "platinum",
+      "plat_price_min": 80,
+      "plat_price_median": 95,
+      "plat_price_avg": 98.2,
+      "volume_48h": 9,
+      "orders_seen": 7,
+      "last_updated": "2026-06-25T00:00:00Z",
+      "source": "local_fixture"
+    }
+  ],
+  "user_state": [
+    {
+      "item_id": "glaive_prime_blade",
+      "owned_count": 0,
+      "needed_count": 1,
+      "pinned": true,
+      "manual_priority": 10,
+      "notes": "Example pinned target for MVP fixture."
+    }
+  ]
+}

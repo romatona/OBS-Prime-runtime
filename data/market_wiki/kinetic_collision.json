@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "554d3f0ce779894445a848fa",
+  "slug": "kinetic_collision",
+  "market_slug": "kinetic_collision",
+  "name_en": "Kinetic Collision",
+  "name_en_slug": "kinetic_collision",
+  "name_kr": "키네틱 콜리젼",
+  "aliases": [
+    "Kinetic Collision",
+    "kinetic collision",
+    "kinetic_collision",
+    "키네틱 콜리젼"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "rare",
+    "volt",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Volt/SpeedPvPAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/kinetic_collision.167f9268ab9b025ea7c2c2c911d04ff6.png",
+  "thumb": "items/images/en/thumbs/kinetic_collision.167f9268ab9b025ea7c2c2c911d04ff6.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

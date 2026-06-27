@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5ce7fd85d23a3b00908c4204",
+  "slug": "proton_pulse",
+  "market_slug": "proton_pulse",
+  "name_en": "Proton Pulse",
+  "name_en_slug": "proton_pulse",
+  "name_kr": "프로톤 펄스",
+  "aliases": [
+    "Proton Pulse",
+    "proton pulse",
+    "proton_pulse",
+    "프로톤 펄스"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sets/Spider/SpiderModA",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/proton_pulse.1421f759fe461d981591d55621cba142.png",
+  "thumb": "items/images/en/thumbs/proton_pulse.1421f759fe461d981591d55621cba142.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

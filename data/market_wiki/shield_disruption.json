@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e5155cf",
+  "slug": "shield_disruption",
+  "market_slug": "shield_disruption",
+  "name_en": "Shield Disruption",
+  "name_en_slug": "shield_disruption",
+  "name_kr": "실드 디스럽션",
+  "aliases": [
+    "Shield Disruption",
+    "shield disruption",
+    "shield_disruption",
+    "실드 디스럽션"
+  ],
+  "tags": [
+    "aura",
+    "mod",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Aura/EnemyShieldReductionAuraMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/shield_disruption.f9fc4cba7d6d38bc9c694819089267ce.png",
+  "thumb": "items/images/en/thumbs/shield_disruption.f9fc4cba7d6d38bc9c694819089267ce.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

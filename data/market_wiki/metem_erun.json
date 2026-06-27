@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "693e662903903ae8993ffaf2",
+  "slug": "metem_erun",
+  "market_slug": "metem_erun",
+  "name_en": "Metem-Erun",
+  "name_en_slug": "metem_erun",
+  "name_kr": "메템-에룬",
+  "aliases": [
+    "Metem-Erun",
+    "metem erun",
+    "metem_erun",
+    "메템-에룬"
+  ],
+  "tags": [
+    "any",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Antiques/SuperSpeedSchools",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/ko/metem_erun.2fc62867495d383c8e3f8b3603891b15.webp",
+  "thumb": "items/images/ko/thumbs/metem_erun.2fc62867495d383c8e3f8b3603891b15.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

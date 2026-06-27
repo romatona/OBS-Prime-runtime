@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5729bd15cb59ed5a9b484e91",
+  "slug": "vulcan_blitz",
+  "market_slug": "vulcan_blitz",
+  "name_en": "Vulcan Blitz",
+  "name_en_slug": "vulcan_blitz",
+  "name_kr": "불칸 블릿츠",
+  "aliases": [
+    "Vulcan Blitz",
+    "vulcan blitz",
+    "vulcan_blitz",
+    "불칸 블릿츠"
+  ],
+  "tags": [
+    "jat_kittag",
+    "melee",
+    "mod",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Melee/Event/ProjectNightwatch/JatKittagNightwatchMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/vulcan_blitz.c41b4bfac727e7cea0856441c3d4df7b.png",
+  "thumb": "items/images/en/thumbs/vulcan_blitz.c41b4bfac727e7cea0856441c3d4df7b.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

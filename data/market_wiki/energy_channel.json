@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e51564b",
+  "slug": "energy_channel",
+  "market_slug": "energy_channel",
+  "name_en": "Energy Channel",
+  "name_en_slug": "energy_channel",
+  "name_kr": "에너지 채널",
+  "aliases": [
+    "Energy Channel",
+    "energy channel",
+    "energy_channel",
+    "에너지 채널"
+  ],
+  "tags": [
+    "melee",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Melee/WeaponPowerDamageMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/energy_channel.d69e91b8d709d7369f235efb0384f44f.png",
+  "thumb": "items/images/en/thumbs/energy_channel.d69e91b8d709d7369f235efb0384f44f.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

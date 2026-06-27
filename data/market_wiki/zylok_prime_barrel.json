@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6530694722c7fd977050854a",
+  "slug": "zylok_prime_barrel",
+  "market_slug": "zylok_prime_barrel",
+  "name_en": "Zylok Prime Barrel",
+  "name_en_slug": "zylok_prime_barrel",
+  "name_kr": "자일락 프라임 배럴",
+  "aliases": [
+    "Zylok Prime Barrel",
+    "zylok prime barrel",
+    "zylok_prime_barrel",
+    "자일락 프라임 배럴"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/ZylokPrimeBarrel",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/zylok_prime_barrel.3e33bc4a5c48f70000b4ad50fa283437.png",
+  "thumb": "items/images/en/thumbs/zylok_prime_barrel.3e33bc4a5c48f70000b4ad50fa283437.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

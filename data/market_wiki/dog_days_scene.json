@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5d4c4fcc74bdad0694ecca6c",
+  "slug": "dog_days_scene",
+  "market_slug": "dog_days_scene",
+  "name_en": "Dog Days Scene",
+  "name_en_slug": "dog_days_scene",
+  "name_kr": "도그 데이즈 배경",
+  "aliases": [
+    "Dog Days Scene",
+    "dog days scene",
+    "dog_days_scene",
+    "도그 데이즈 배경"
+  ],
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/MiscItems/PhotoboothTileBeach",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/dog_days_scene.a06a32583e30d9861eaeaf249696db16.png",
+  "thumb": "items/images/en/thumbs/dog_days_scene.a06a32583e30d9861eaeaf249696db16.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

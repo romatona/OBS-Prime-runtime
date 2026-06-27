@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "654500acf9c750264c9cf87b",
+  "slug": "gotva_prime",
+  "market_slug": "gotva_prime",
+  "name_en": "Gotva Prime",
+  "name_en_slug": "gotva_prime",
+  "name_kr": "고트바 프라임",
+  "aliases": [
+    "Gotva Prime",
+    "gotva prime",
+    "gotva_prime",
+    "고트바 프라임"
+  ],
+  "tags": [
+    "primary",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Grineer/LongGuns/GrnOrokinRifle/GrnOrokinRifleWeapon",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/gotva_prime.323e7113fa10a54ab363496770917b19.png",
+  "thumb": "items/images/en/thumbs/gotva_prime.323e7113fa10a54ab363496770917b19.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

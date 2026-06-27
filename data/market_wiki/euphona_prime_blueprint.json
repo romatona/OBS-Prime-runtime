@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "58b57068eb26db5c31192112",
+  "slug": "euphona_prime_blueprint",
+  "market_slug": "euphona_prime_blueprint",
+  "name_en": "Euphona Prime Blueprint",
+  "name_en_slug": "euphona_prime_blueprint",
+  "name_kr": "유포나 프라임 설계도",
+  "aliases": [
+    "Euphona Prime",
+    "Euphona Prime Blueprint",
+    "euphona prime blueprint",
+    "euphona_prime_blueprint",
+    "유포나 프라임",
+    "유포나 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "prime",
+    "secondary",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/Prime1HShotgunBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/euphona_prime_blueprint.6a18cc50c57ac13c3203e872baf85a8d.png",
+  "thumb": "items/images/en/thumbs/euphona_prime_blueprint.6a18cc50c57ac13c3203e872baf85a8d.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

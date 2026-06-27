@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e5155ee",
+  "slug": "entropy_flight",
+  "market_slug": "entropy_flight",
+  "name_en": "Entropy Flight",
+  "name_en_slug": "entropy_flight",
+  "name_kr": "엔트로피 플라이트",
+  "aliases": [
+    "Entropy Flight",
+    "entropy flight",
+    "entropy_flight",
+    "엔트로피 플라이트"
+  ],
+  "tags": [
+    "kestrel",
+    "melee",
+    "mod",
+    "rare",
+    "syndicate"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Syndicate/KestrelMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/entropy_flight.d0aac5dc51491213cff3e4ff49c9acff.png",
+  "thumb": "items/images/en/thumbs/entropy_flight.d0aac5dc51491213cff3e4ff49c9acff.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

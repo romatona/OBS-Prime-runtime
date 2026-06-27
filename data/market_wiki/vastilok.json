@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6169ab3bc02a2f0045919275",
+  "slug": "vastilok",
+  "market_slug": "vastilok",
+  "name_en": "Vastilok",
+  "name_en_slug": "vastilok",
+  "name_kr": "바스틸락",
+  "aliases": [
+    "Vastilok",
+    "vastilok",
+    "바스틸락"
+  ],
+  "tags": [
+    "melee",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Grineer/Melee/GunBlade/GrnGunBlade/GrnGunblade",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/vastilok.0d6a0cdb886e051eab8f6b4e26df3e99.png",
+  "thumb": "items/images/en/thumbs/vastilok.0d6a0cdb886e051eab8f6b4e26df3e99.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

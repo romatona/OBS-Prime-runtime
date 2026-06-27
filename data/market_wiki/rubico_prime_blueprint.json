@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5baa8bbf4567de01ac283499",
+  "slug": "rubico_prime_blueprint",
+  "market_slug": "rubico_prime_blueprint",
+  "name_en": "Rubico Prime Blueprint",
+  "name_en_slug": "rubico_prime_blueprint",
+  "name_kr": "루비코 프라임 설계도",
+  "aliases": [
+    "Rubico Prime",
+    "Rubico Prime Blueprint",
+    "rubico prime blueprint",
+    "rubico_prime_blueprint",
+    "루비코 프라임",
+    "루비코 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "primary",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/RubicoPrimeBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/rubico_prime_blueprint.2071211bc2436d4e768dbb61f98f6efd.png",
+  "thumb": "items/images/en/thumbs/rubico_prime_blueprint.2071211bc2436d4e768dbb61f98f6efd.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

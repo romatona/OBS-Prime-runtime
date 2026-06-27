@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156af",
+  "slug": "cleanse_infested",
+  "market_slug": "cleanse_infested",
+  "name_en": "Cleanse Infested",
+  "name_en_slug": "cleanse_infested",
+  "name_kr": "클렌즈 인페스티드",
+  "aliases": [
+    "Cleanse Infested",
+    "cleanse infested",
+    "cleanse_infested",
+    "클렌즈 인페스티드"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "shotgun",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Shotgun/WeaponShotgunFactionDamageInfested",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/cleanse_infested.e6aacd608ac9598fc9a3ad117ca10b11.png",
+  "thumb": "items/images/en/thumbs/cleanse_infested.e6aacd608ac9598fc9a3ad117ca10b11.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

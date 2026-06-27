@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515644",
+  "slug": "hells_chamber",
+  "market_slug": "hells_chamber",
+  "name_en": "Hell's Chamber",
+  "name_en_slug": "hells_chamber",
+  "name_kr": "헬스 체임버",
+  "aliases": [
+    "Hell's Chamber",
+    "hells chamber",
+    "hells_chamber",
+    "헬스 체임버"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "shotgun"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Shotgun/WeaponFireIterationsMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/hells_chamber.eb3ff423fe41efafd3b7f7565a0c4d59.png",
+  "thumb": "items/images/en/thumbs/hells_chamber.eb3ff423fe41efafd3b7f7565a0c4d59.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a73e65e779893a797fff29",
+  "slug": "bo_prime_ornament",
+  "market_slug": "bo_prime_ornament",
+  "name_en": "Bo Prime Ornament",
+  "name_en_slug": "bo_prime_ornament",
+  "name_kr": "보 프라임 오너먼트",
+  "aliases": [
+    "Bo Prime Ornament",
+    "bo prime ornament",
+    "bo_prime_ornament",
+    "보 프라임 오너먼트"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBoOrnament",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/bo_prime_ornament.fad65cfb95d62a4275be60be30375846.png",
+  "thumb": "items/images/en/thumbs/bo_prime_ornament.fad65cfb95d62a4275be60be30375846.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

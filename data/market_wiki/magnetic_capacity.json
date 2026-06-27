@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "675c620f7b18977f6e64541a",
+  "slug": "magnetic_capacity",
+  "market_slug": "magnetic_capacity",
+  "name_en": "Magnetic Capacity",
+  "name_en_slug": "magnetic_capacity",
+  "name_kr": "마그네틱 캐퍼시티",
+  "aliases": [
+    "Magnetic Capacity",
+    "magnetic capacity",
+    "magnetic_capacity",
+    "마그네틱 캐퍼시티"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "rifle"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/DualStat/MagneticClipRifleMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/magnetic_capacity.b447e347781ace9cc133946801a9227f.webp",
+  "thumb": "items/images/en/thumbs/magnetic_capacity.b447e347781ace9cc133946801a9227f.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5e02154e14569703bf43e54c",
+  "slug": "blackout_pulse",
+  "market_slug": "blackout_pulse",
+  "name_en": "Blackout Pulse",
+  "name_en_slug": "blackout_pulse",
+  "name_kr": "블랙아웃 펄스",
+  "aliases": [
+    "Blackout Pulse",
+    "blackout pulse",
+    "blackout_pulse",
+    "블랙아웃 펄스"
+  ],
+  "tags": [
+    "mod",
+    "railjack",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Railjack/Abilities/CrewShipEMPAbilityCard",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/blackout_pulse.c419ed4b310b69260f459d268c6a5a7d.png",
+  "thumb": "items/images/en/thumbs/blackout_pulse.c419ed4b310b69260f459d268c6a5a7d.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

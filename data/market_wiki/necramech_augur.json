@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5fde10c56db57b0185b39080",
+  "slug": "necramech_augur",
+  "market_slug": "necramech_augur",
+  "name_en": "Necramech Augur",
+  "name_en_slug": "necramech_augur",
+  "name_kr": "네크라메크 어거",
+  "aliases": [
+    "Necramech Augur",
+    "necramech augur",
+    "necramech_augur",
+    "네크라메크 어거"
+  ],
+  "tags": [
+    "mod",
+    "necramech",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Necromech/NecromechEnergyToOvershieldsMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/necramech_augur.c2b0e7cb1ddefbca9535eeacc5e1f768.png",
+  "thumb": "items/images/en/thumbs/necramech_augur.c2b0e7cb1ddefbca9535eeacc5e1f768.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

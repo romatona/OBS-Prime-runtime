@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5a04750a6c4655012038ddc7",
+  "slug": "virtuos_null",
+  "market_slug": "virtuos_null",
+  "name_en": "Virtuos Null",
+  "name_en_slug": "virtuos_null",
+  "name_kr": "버츄오스 널",
+  "aliases": [
+    "Virtuos Null",
+    "virtuos null",
+    "virtuos_null",
+    "버츄오스 널"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "common",
+    "operator"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/OperatorAmmoRegenOnKill",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/virtuos_null.e3f5a968f4b41d236acad8c9efb8cfef.png",
+  "thumb": "items/images/en/thumbs/virtuos_null.e3f5a968f4b41d236acad8c9efb8cfef.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

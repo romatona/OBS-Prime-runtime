@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156e6",
+  "slug": "terminal_velocity",
+  "market_slug": "terminal_velocity",
+  "name_en": "Terminal Velocity",
+  "name_en_slug": "terminal_velocity",
+  "name_kr": "터미널 벨로시티",
+  "aliases": [
+    "Terminal Velocity",
+    "terminal velocity",
+    "terminal_velocity",
+    "터미널 벨로시티"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rifle",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/WeaponProjectileSpeedMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/terminal_velocity.b4d2c26dca399873d04d5cda75ca674b.png",
+  "thumb": "items/images/en/thumbs/terminal_velocity.b4d2c26dca399873d04d5cda75ca674b.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

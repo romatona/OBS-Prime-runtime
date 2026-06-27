@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5ee7de8b04d55c0b1052e4ca",
+  "slug": "corpus_ship_bridge_scene",
+  "market_slug": "corpus_ship_bridge_scene",
+  "name_en": "Corpus Ship Bridge Scene",
+  "name_en_slug": "corpus_ship_bridge_scene",
+  "name_kr": "코퍼스 함선 함교 배경",
+  "aliases": [
+    "Corpus Ship Bridge Scene",
+    "corpus ship bridge scene",
+    "corpus_ship_bridge_scene",
+    "코퍼스 함선 함교 배경"
+  ],
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/MiscItems/PhotoboothTileCorpusShipBridge",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/corpus_ship_bridge_scene.d26bef383671de26a0c2aa3bc8e0e522.png",
+  "thumb": "items/images/en/thumbs/corpus_ship_bridge_scene.d26bef383671de26a0c2aa3bc8e0e522.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

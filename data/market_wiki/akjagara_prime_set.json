@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5c196fae96037800ddadac15",
+  "slug": "akjagara_prime_set",
+  "market_slug": "akjagara_prime_set",
+  "name_en": "Akjagara Prime Set",
+  "name_en_slug": "akjagara_prime_set",
+  "name_kr": "아크자가라 프라임 세트",
+  "aliases": [
+    "Akjagara Prime Set",
+    "akjagara prime set",
+    "akjagara_prime_set",
+    "아크자가라 프라임 세트"
+  ],
+  "tags": [
+    "prime",
+    "secondary",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Pistols/PrimeAkjagara/AkJagaraPrime",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/akjagara_prime_set.5ed111e5dcb3df5d57c5411849c113e4.png",
+  "thumb": "items/images/en/thumbs/akjagara_prime_set.5ed111e5dcb3df5d57c5411849c113e4.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

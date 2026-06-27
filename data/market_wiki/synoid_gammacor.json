@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54aae283e779897f276a5768",
+  "slug": "synoid_gammacor",
+  "market_slug": "synoid_gammacor",
+  "name_en": "Synoid Gammacor",
+  "name_en_slug": "synoid_gammacor",
+  "name_kr": "사이노이드 감마코어",
+  "aliases": [
+    "Synoid Gammacor",
+    "synoid gammacor",
+    "synoid_gammacor",
+    "사이노이드 감마코어"
+  ],
+  "tags": [
+    "secondary",
+    "syndicate",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Syndicates/CephalonSuda/Pistols/CSSynoidGammacor",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/synoid_gammacor.16811422b2fab432718fd630acbf5358.png",
+  "thumb": "items/images/en/thumbs/synoid_gammacor.16811422b2fab432718fd630acbf5358.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

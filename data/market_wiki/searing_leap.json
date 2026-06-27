@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a4f0",
+  "slug": "searing_leap",
+  "market_slug": "searing_leap",
+  "name_en": "Searing Leap",
+  "name_en_slug": "searing_leap",
+  "name_kr": "시어링 리프",
+  "aliases": [
+    "Searing Leap",
+    "searing leap",
+    "searing_leap",
+    "시어링 리프"
+  ],
+  "tags": [
+    "mod",
+    "pvp",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Warframe/FireParkourPvPMod",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/searing_leap.7841e8bfddec3339f4fa9c10319683aa.png",
+  "thumb": "items/images/en/thumbs/searing_leap.7841e8bfddec3339f4fa9c10319683aa.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

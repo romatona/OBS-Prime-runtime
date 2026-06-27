@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "673516acdb3ac2cfade14a73",
+  "slug": "xaku_prime_chassis_blueprint",
+  "market_slug": "xaku_prime_chassis_blueprint",
+  "name_en": "Xaku Prime Chassis Blueprint",
+  "name_en_slug": "xaku_prime_chassis_blueprint",
+  "name_kr": "자쿠 프라임 섀시 설계도",
+  "aliases": [
+    "Xaku Prime Chassis",
+    "Xaku Prime Chassis Blueprint",
+    "xaku prime chassis blueprint",
+    "xaku_prime_chassis_blueprint",
+    "자쿠 프라임 섀시",
+    "자쿠 프라임 섀시 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeChassisBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/xaku_prime_chassis_blueprint.caeeda2f9eec158d19fd76d7631fa5de.webp",
+  "thumb": "items/images/en/thumbs/xaku_prime_chassis_blueprint.caeeda2f9eec158d19fd76d7631fa5de.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5be5f5a43ffcc7038857f12d",
+  "slug": "goblite_tears",
+  "market_slug": "goblite_tears",
+  "name_en": "Goblite Tears",
+  "name_en_slug": "goblite_tears",
+  "name_kr": "고블라이트 티어스",
+  "aliases": [
+    "Goblite Tears",
+    "goblite tears",
+    "goblite_tears",
+    "고블라이트 티어스"
+  ],
+  "tags": [
+    "gem"
+  ],
+  "game_ref": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemACutItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/goblite_tears.33b290553ebce2a57562cc316bc7e9aa.png",
+  "thumb": "items/images/en/thumbs/goblite_tears.33b290553ebce2a57562cc316bc7e9aa.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

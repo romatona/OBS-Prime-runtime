@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56153734b66f836f976f5501",
+  "slug": "kavasa_prime_band",
+  "market_slug": "kavasa_prime_band",
+  "name_en": "Kavasa Prime Band",
+  "name_en_slug": "kavasa_prime_band",
+  "name_kr": "카바사 프라임 칼라 밴드",
+  "aliases": [
+    "Kavasa Prime Band",
+    "kavasa prime band",
+    "kavasa_prime_band",
+    "카바사 프라임 칼라 밴드"
+  ],
+  "tags": [
+    "prime"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Kubrow/Collars/PrimeKubrowCollarABandComponent",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/kavasa_prime_band.cc1bafee4156c05ebaa812d39cd559ba.png",
+  "thumb": "items/images/en/thumbs/kavasa_prime_band.cc1bafee4156c05ebaa812d39cd559ba.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

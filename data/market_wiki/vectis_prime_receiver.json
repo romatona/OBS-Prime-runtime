@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "559daaefe779897b5a2d3551",
+  "slug": "vectis_prime_receiver",
+  "market_slug": "vectis_prime_receiver",
+  "name_en": "Vectis Prime Receiver",
+  "name_en_slug": "vectis_prime_receiver",
+  "name_kr": "벡티스 프라임 리시버",
+  "aliases": [
+    "Vectis Prime Receiver",
+    "vectis prime receiver",
+    "vectis_prime_receiver",
+    "벡티스 프라임 리시버"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/VectisPrimeReceiver",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/vectis_prime_receiver.028e001af4469482df80bff29542e043.png",
+  "thumb": "items/images/en/thumbs/vectis_prime_receiver.028e001af4469482df80bff29542e043.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

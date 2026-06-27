@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5f4ed3f9d5c36d0086f55b0a",
+  "slug": "necramech_fury",
+  "market_slug": "necramech_fury",
+  "name_en": "Necramech Fury",
+  "name_en_slug": "necramech_fury",
+  "name_kr": "네크라메크 퓨리",
+  "aliases": [
+    "Necramech Fury",
+    "necramech fury",
+    "necramech_fury",
+    "네크라메크 퓨리"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "necramech"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Necromech/NecromechMeleeSpeedMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/necramech_fury.c252bdfdb99cb71ce2dd019c196b95b1.png",
+  "thumb": "items/images/en/thumbs/necramech_fury.c252bdfdb99cb71ce2dd019c196b95b1.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

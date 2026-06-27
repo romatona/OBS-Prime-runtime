@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54ca39abe7798915c1c11e10",
+  "slug": "creeping_bullseye",
+  "market_slug": "creeping_bullseye",
+  "name_en": "Creeping Bullseye",
+  "name_en_slug": "creeping_bullseye",
+  "name_kr": "크리핑 불스아이",
+  "aliases": [
+    "Creeping Bullseye",
+    "creeping bullseye",
+    "creeping_bullseye",
+    "크리핑 불스아이"
+  ],
+  "tags": [
+    "mod",
+    "pistol",
+    "rare",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Pistol/DualStat/CorruptedCritChanceFireRatePistol",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/creeping_bullseye.dfcb8d21b36d9e2a2632f37c75b3532f.png",
+  "thumb": "items/images/en/thumbs/creeping_bullseye.dfcb8d21b36d9e2a2632f37c75b3532f.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

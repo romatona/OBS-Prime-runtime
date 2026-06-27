@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5ce7fd85d23a3b00908c4206",
+  "slug": "whiplash_mine",
+  "market_slug": "whiplash_mine",
+  "name_en": "Whiplash Mine",
+  "name_en_slug": "whiplash_mine",
+  "name_kr": "윕래쉬 마인",
+  "aliases": [
+    "Whiplash Mine",
+    "whiplash mine",
+    "whiplash_mine",
+    "윕래쉬 마인"
+  ],
+  "tags": [
+    "common",
+    "moa",
+    "mod",
+    "sentinel"
+  ],
+  "game_ref": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetPrecept/MoaTetherVaccumMinePrecept",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/whiplash_mine.456875d6f4b1d774c8f880dca0bf9975.png",
+  "thumb": "items/images/en/thumbs/whiplash_mine.456875d6f4b1d774c8f880dca0bf9975.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

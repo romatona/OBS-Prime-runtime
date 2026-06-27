@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "64eda5d5facd4806c393e639",
+  "slug": "undercroft_lodging_scene",
+  "market_slug": "undercroft_lodging_scene",
+  "name_en": "Undercroft Lodging Scene",
+  "name_en_slug": "undercroft_lodging_scene",
+  "name_kr": "지하실 숙소 배경",
+  "aliases": [
+    "Undercroft Lodging Scene",
+    "undercroft lodging scene",
+    "undercroft_lodging_scene",
+    "지하실 숙소 배경"
+  ],
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/MiscItems/PhotoboothTileDuviriArenaLivingQuarters",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/undercroft_lodging_scene.f256f46595595d7a06feefa1c7dd3cae.png",
+  "thumb": "items/images/en/thumbs/undercroft_lodging_scene.f256f46595595d7a06feefa1c7dd3cae.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5fde10c66db57b0185b39087",
+  "slug": "necramech_aviator",
+  "market_slug": "necramech_aviator",
+  "name_en": "Necramech Aviator",
+  "name_en_slug": "necramech_aviator",
+  "name_kr": "네크라메크 에비에이터",
+  "aliases": [
+    "Necramech Aviator",
+    "necramech aviator",
+    "necramech_aviator",
+    "네크라메크 에비에이터"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "necramech"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Necromech/NecromechAvatarDamageReductionInAir",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/necramech_aviator.4d0d2675352961f8c71459c57c7f5267.png",
+  "thumb": "items/images/en/thumbs/necramech_aviator.4d0d2675352961f8c71459c57c7f5267.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

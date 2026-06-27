@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56783f24cbfa8f0432dd89a2",
+  "slug": "lex_prime_set",
+  "market_slug": "lex_prime_set",
+  "name_en": "Lex Prime Set",
+  "name_en_slug": "lex_prime_set",
+  "name_kr": "렉스 프라임 세트",
+  "aliases": [
+    "Lex Prime Set",
+    "lex prime set",
+    "lex_prime_set",
+    "렉스 프라임 세트"
+  ],
+  "tags": [
+    "prime",
+    "secondary",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Pistols/PrimeLex/PrimeLex",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/lex_prime_set.13776cf63dfd68968067b517184a6ac0.png",
+  "thumb": "items/images/en/thumbs/lex_prime_set.13776cf63dfd68968067b517184a6ac0.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

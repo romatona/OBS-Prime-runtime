@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a73e65e779893a797fff36",
+  "slug": "bronco_prime_barrel",
+  "market_slug": "bronco_prime_barrel",
+  "name_en": "Bronco Prime Barrel",
+  "name_en_slug": "bronco_prime_barrel",
+  "name_kr": "브롱코 프라임 배럴",
+  "aliases": [
+    "Bronco Prime Barrel",
+    "bronco prime barrel",
+    "bronco_prime_barrel",
+    "브롱코 프라임 배럴"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/BroncoPrimeBarrel",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/bronco_prime_barrel.aa5499a3b26806f1f26a987be9dcf0ca.png",
+  "thumb": "items/images/en/thumbs/bronco_prime_barrel.aa5499a3b26806f1f26a987be9dcf0ca.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

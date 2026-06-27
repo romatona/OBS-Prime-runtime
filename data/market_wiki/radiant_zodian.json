@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5be5f5a23ffcc7038857f123",
+  "slug": "radiant_zodian",
+  "market_slug": "radiant_zodian",
+  "name_en": "Radiant Zodian",
+  "name_en_slug": "radiant_zodian",
+  "name_kr": "레이디언트 조디안",
+  "aliases": [
+    "Radiant Zodian",
+    "radiant zodian",
+    "radiant_zodian",
+    "레이디언트 조디안"
+  ],
+  "tags": [
+    "gem"
+  ],
+  "game_ref": "/Lotus/Types/Items/Gems/Solaris/SolarisEidolonGemACutItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/radiant_zodian.e2aefff3921bbf6045832fe9b77b0480.png",
+  "thumb": "items/images/en/thumbs/radiant_zodian.e2aefff3921bbf6045832fe9b77b0480.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

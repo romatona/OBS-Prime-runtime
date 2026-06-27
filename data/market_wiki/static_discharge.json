@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "580e392dca550948410af0aa",
+  "slug": "static_discharge",
+  "market_slug": "static_discharge",
+  "name_en": "Static Discharge",
+  "name_en_slug": "static_discharge",
+  "name_kr": "스태틱 디스차지",
+  "aliases": [
+    "Static Discharge",
+    "static discharge",
+    "static_discharge",
+    "스태틱 디스차지"
+  ],
+  "tags": [
+    "melee",
+    "mod",
+    "prova",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Melee/Event/CorpusArena/ProvaCorpusArenaMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/static_discharge.d2cf544a23a502e675ccb784bf23b044.png",
+  "thumb": "items/images/en/thumbs/static_discharge.d2cf544a23a502e675ccb784bf23b044.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

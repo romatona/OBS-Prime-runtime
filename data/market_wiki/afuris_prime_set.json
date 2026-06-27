@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "639a941c74b02f008887784c",
+  "slug": "afuris_prime_set",
+  "market_slug": "afuris_prime_set",
+  "name_en": "Afuris Prime Set",
+  "name_en_slug": "afuris_prime_set",
+  "name_kr": "아퓨리스 프라임 세트",
+  "aliases": [
+    "Afuris Prime Set",
+    "afuris prime set",
+    "afuris_prime_set",
+    "아퓨리스 프라임 세트"
+  ],
+  "tags": [
+    "prime",
+    "secondary",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Pistols/PrimeAfuris/PrimeAFurisWeapon",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/afuris_prime_set.bfdca7167652c5c2d474ac75ea3af595.png",
+  "thumb": "items/images/en/thumbs/afuris_prime_set.bfdca7167652c5c2d474ac75ea3af595.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

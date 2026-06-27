@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5615432bb66f8371035bfa27",
+  "slug": "hysterical_fixation",
+  "market_slug": "hysterical_fixation",
+  "name_en": "Hysterical Fixation",
+  "name_en_slug": "hysterical_fixation",
+  "name_kr": "히스테리컬 픽세이션",
+  "aliases": [
+    "Hysterical Fixation",
+    "hysterical fixation",
+    "hysterical_fixation",
+    "히스테리컬 픽세이션"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "rare",
+    "valkyr",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Berserker/LastStandPvPAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/hysterical_fixation.ee66a28ce6af173f246b554544b1121f.png",
+  "thumb": "items/images/en/thumbs/hysterical_fixation.ee66a28ce6af173f246b554544b1121f.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

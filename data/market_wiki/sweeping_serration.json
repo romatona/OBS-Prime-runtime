@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e51567d",
+  "slug": "sweeping_serration",
+  "market_slug": "sweeping_serration",
+  "name_en": "Sweeping Serration",
+  "name_en_slug": "sweeping_serration",
+  "name_kr": "스위핑 서레이션",
+  "aliases": [
+    "Sweeping Serration",
+    "sweeping serration",
+    "sweeping_serration",
+    "스위핑 서레이션"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "shotgun"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Shotgun/WeaponEventSlashDamageMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/sweeping_serration.4b3c010db4dbd87d01acd779b861506f.png",
+  "thumb": "items/images/en/thumbs/sweeping_serration.4b3c010db4dbd87d01acd779b861506f.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

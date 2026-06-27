@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5f4ed3f5d5c36d0086f55b02",
+  "slug": "damzav_vati",
+  "market_slug": "damzav_vati",
+  "name_en": "Damzav-Vati",
+  "name_en_slug": "damzav_vati",
+  "name_kr": "담자브-바티",
+  "aliases": [
+    "Damzav-Vati",
+    "damzav vati",
+    "damzav_vati",
+    "담자브-바티"
+  ],
+  "tags": [
+    "akbronco_prime",
+    "mod",
+    "rare",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Pistol/Event/AkbroncoViralDamageMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/damzav_vati.7ed9e8ee920872beab987ff36c0e7e37.png",
+  "thumb": "items/images/en/thumbs/damzav_vati.7ed9e8ee920872beab987ff36c0e7e37.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

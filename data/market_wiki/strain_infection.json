@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5c1bda0114a8e4006b1dad58",
+  "slug": "strain_infection",
+  "market_slug": "strain_infection",
+  "name_en": "Strain Infection",
+  "name_en_slug": "strain_infection",
+  "name_kr": "스트레인 인펙션",
+  "aliases": [
+    "Strain Infection",
+    "strain infection",
+    "strain_infection",
+    "스트레인 인펙션"
+  ],
+  "tags": [
+    "melee",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sets/Strain/MeleeStrainInfectionMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/strain_infection.b015e7879c9611616ec44b56cfda3933.png",
+  "thumb": "items/images/en/thumbs/strain_infection.b015e7879c9611616ec44b56cfda3933.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

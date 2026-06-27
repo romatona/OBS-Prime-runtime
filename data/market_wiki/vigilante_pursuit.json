@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "59dfeb63115f1d887cfd7abc",
+  "slug": "vigilante_pursuit",
+  "market_slug": "vigilante_pursuit",
+  "name_en": "Vigilante Pursuit",
+  "name_en_slug": "vigilante_pursuit",
+  "name_kr": "비질란티 퍼수트",
+  "aliases": [
+    "Vigilante Pursuit",
+    "vigilante pursuit",
+    "vigilante_pursuit",
+    "비질란티 퍼수트"
+  ],
+  "tags": [
+    "mod",
+    "uncommon",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sets/Vigilante/WarframeVigilantePursuitMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/vigilante_pursuit.332dedb5fa7b6edac656a8fd1ad10535.png",
+  "thumb": "items/images/en/thumbs/vigilante_pursuit.332dedb5fa7b6edac656a8fd1ad10535.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

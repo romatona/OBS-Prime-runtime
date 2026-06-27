@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515674",
+  "slug": "vital_sense",
+  "market_slug": "vital_sense",
+  "name_en": "Vital Sense",
+  "name_en_slug": "vital_sense",
+  "name_kr": "바이탈 센스",
+  "aliases": [
+    "Vital Sense",
+    "vital sense",
+    "vital_sense",
+    "바이탈 센스"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "rifle"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/WeaponCritDamageMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/vital_sense.bae6419bd652a53a3bdb0a8f1e75abd1.png",
+  "thumb": "items/images/en/thumbs/vital_sense.bae6419bd652a53a3bdb0a8f1e75abd1.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

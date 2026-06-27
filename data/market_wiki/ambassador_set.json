@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60f3feb1b64404003f0bf5fb",
+  "slug": "ambassador_set",
+  "market_slug": "ambassador_set",
+  "name_en": "Ambassador Set",
+  "name_en_slug": "ambassador_set",
+  "name_kr": "앰배서더 세트",
+  "aliases": [
+    "Ambassador Set",
+    "ambassador set",
+    "ambassador_set",
+    "앰배서더 세트"
+  ],
+  "tags": [
+    "primary",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Corpus/LongGuns/CrpArSniper/CrpArSniperRifle",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/ambassador_set.7ccc0f5c1047f5a0cd9f02de8d40b06f.png",
+  "thumb": "items/images/en/thumbs/ambassador_set.7ccc0f5c1047f5a0cd9f02de8d40b06f.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "693e62c903903ae8993ffad8",
+  "slug": "roathes_oblivion_arena",
+  "market_slug": "roathes_oblivion_arena",
+  "name_en": "Roathe's Oblivion Arena",
+  "name_en_slug": "roathes_oblivion_arena",
+  "name_kr": "로스의 망각의 아레나",
+  "aliases": [
+    "Roathe's Oblivion Arena",
+    "roathes oblivion arena",
+    "roathes_oblivion_arena",
+    "로스의 망각의 아레나"
+  ],
+  "tags": [
+    "simulacrum"
+  ],
+  "game_ref": "/Lotus/Types/Items/DangerRoom/DangerRoomTileDevilTowerUrielArena",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/roathes_oblivion_arena.6fd83e987d608e83e7c2c74a16002915.webp",
+  "thumb": "items/images/en/thumbs/roathes_oblivion_arena.6fd83e987d608e83e7c2c74a16002915.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

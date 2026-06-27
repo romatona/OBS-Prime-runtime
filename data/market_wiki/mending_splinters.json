@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5b91784d0566c80216658ce7",
+  "slug": "mending_splinters",
+  "market_slug": "mending_splinters",
+  "name_en": "Mending Splinters",
+  "name_en_slug": "mending_splinters",
+  "name_kr": "멘딩 스플린터",
+  "aliases": [
+    "Mending Splinters",
+    "mending splinters",
+    "mending_splinters",
+    "멘딩 스플린터"
+  ],
+  "tags": [
+    "augment",
+    "gara",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Glass/GlassShatterAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/mending_splinters.d342d63b040feb053c5c1a2dc66ea373.png",
+  "thumb": "items/images/en/thumbs/mending_splinters.d342d63b040feb053c5c1a2dc66ea373.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

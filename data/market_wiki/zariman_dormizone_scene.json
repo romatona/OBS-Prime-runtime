@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "626a197af40db600660a1d82",
+  "slug": "zariman_dormizone_scene",
+  "market_slug": "zariman_dormizone_scene",
+  "name_en": "Zariman Dormizone Scene",
+  "name_en_slug": "zariman_dormizone_scene",
+  "name_kr": "자리만 도미존 배경",
+  "aliases": [
+    "Zariman Dormizone Scene",
+    "zariman dormizone scene",
+    "zariman_dormizone_scene",
+    "자리만 도미존 배경"
+  ],
+  "tags": [
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/PhotoBooth/Zariman/PhotoboothTileZarApartment",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/zariman_dormizone_scene.81b26fbb7a0b65d70b1f2701114b13ba.png",
+  "thumb": "items/images/en/thumbs/zariman_dormizone_scene.81b26fbb7a0b65d70b1f2701114b13ba.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

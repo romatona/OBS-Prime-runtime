@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60ad4a1bf1904300d012c700",
+  "slug": "volnus_prime_set",
+  "market_slug": "volnus_prime_set",
+  "name_en": "Volnus Prime Set",
+  "name_en_slug": "volnus_prime_set",
+  "name_kr": "볼누스 프라임 세트",
+  "aliases": [
+    "Volnus Prime Set",
+    "volnus prime set",
+    "volnus_prime_set",
+    "볼누스 프라임 세트"
+  ],
+  "tags": [
+    "melee",
+    "prime",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/PrimeVolnus/VolnusPrimeWeapon",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/volnus_prime_set.61e00a9ff67ea0fb1ce0be39e6263ea2.png",
+  "thumb": "items/images/en/thumbs/volnus_prime_set.61e00a9ff67ea0fb1ce0be39e6263ea2.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

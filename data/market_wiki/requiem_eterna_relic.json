@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "69c52958bb986142bb6e02bb",
+  "slug": "requiem_eterna_relic",
+  "market_slug": "requiem_eterna_relic",
+  "name_en": "Requiem Eterna Relic",
+  "name_en_slug": "requiem_eterna_relic",
+  "name_kr": "레퀴엠 이터나 성유물",
+  "aliases": [
+    "Requiem Eterna Relic",
+    "requiem eterna relic",
+    "requiem_eterna_relic",
+    "레퀴엠 이터나 성유물"
+  ],
+  "tags": [
+    "relic",
+    "requiem"
+  ],
+  "game_ref": "/Lotus/Types/Game/Projections/T5VoidProjectionImmortalOmniA",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/unknown.png",
+  "thumb": "items/unknown.thumb.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

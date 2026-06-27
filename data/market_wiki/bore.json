@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "554d3f0ce779894445a848f8",
+  "slug": "bore",
+  "market_slug": "bore",
+  "name_en": "Bore",
+  "name_en_slug": "bore",
+  "name_kr": "보어",
+  "aliases": [
+    "Bore",
+    "bore",
+    "보어"
+  ],
+  "tags": [
+    "mod",
+    "pistol",
+    "rare",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Pistol/WeaponEventPunctureDamageMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/bore.85134a49bc61d938217e3df664f0cef5.png",
+  "thumb": "items/images/en/thumbs/bore.85134a49bc61d938217e3df664f0cef5.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

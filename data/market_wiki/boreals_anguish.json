@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "61bb64fd3132ff00482b5fcd",
+  "slug": "boreals_anguish",
+  "market_slug": "boreals_anguish",
+  "name_en": "Boreal's Anguish",
+  "name_en_slug": "boreals_anguish",
+  "name_kr": "보리얼 앵귀시",
+  "aliases": [
+    "Boreal's Anguish",
+    "boreals anguish",
+    "boreals_anguish",
+    "보리얼 앵귀시"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sets/Boreal/BorealExilusMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/boreals_anguish.ae0eb69e47835a77fea6a004619445a7.png",
+  "thumb": "items/images/en/thumbs/boreals_anguish.ae0eb69e47835a77fea6a004619445a7.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

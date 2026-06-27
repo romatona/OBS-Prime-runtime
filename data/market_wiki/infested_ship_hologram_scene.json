@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6089662bea93740269271785",
+  "slug": "infested_ship_hologram_scene",
+  "market_slug": "infested_ship_hologram_scene",
+  "name_en": "Infested Ship Hologram Scene",
+  "name_en_slug": "infested_ship_hologram_scene",
+  "name_kr": "인페스티드 함선 홀로그램 배경",
+  "aliases": [
+    "Infested Ship Hologram Scene",
+    "infested ship hologram scene",
+    "infested_ship_hologram_scene",
+    "인페스티드 함선 홀로그램 배경"
+  ],
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/MiscItems/PhotoboothTileInfestedPurify02Objective",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/infested_ship_hologram_scene.6e1e70f34ce8a45ce62184743519bfc8.png",
+  "thumb": "items/images/en/thumbs/infested_ship_hologram_scene.6e1e70f34ce8a45ce62184743519bfc8.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

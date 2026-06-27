@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156bc",
+  "slug": "incendiary_coat",
+  "market_slug": "incendiary_coat",
+  "name_en": "Incendiary Coat",
+  "name_en_slug": "incendiary_coat",
+  "name_kr": "인센디어리 코트",
+  "aliases": [
+    "Incendiary Coat",
+    "incendiary coat",
+    "incendiary_coat",
+    "인센디어리 코트"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "shotgun",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Shotgun/WeaponFireDamageMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/incendiary_coat.08c60b348153dcf1a33305345e93cc79.png",
+  "thumb": "items/images/en/thumbs/incendiary_coat.08c60b348153dcf1a33305345e93cc79.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "62d3493f75156700ce450de7",
+  "slug": "hystrix_prime_blueprint",
+  "market_slug": "hystrix_prime_blueprint",
+  "name_en": "Hystrix Prime Blueprint",
+  "name_en_slug": "hystrix_prime_blueprint",
+  "name_kr": "히스트릭스 프라임 설계도",
+  "aliases": [
+    "Hystrix Prime",
+    "Hystrix Prime Blueprint",
+    "hystrix prime blueprint",
+    "hystrix_prime_blueprint",
+    "히스트릭스 프라임",
+    "히스트릭스 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "prime",
+    "secondary",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/HystrixPrimeBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/hystrix_prime_blueprint.1ac7d440197ca107e3df6646cb58a43d.png",
+  "thumb": "items/images/en/thumbs/hystrix_prime_blueprint.1ac7d440197ca107e3df6646cb58a43d.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

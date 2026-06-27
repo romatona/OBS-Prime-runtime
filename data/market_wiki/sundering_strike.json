@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156e0",
+  "slug": "sundering_strike",
+  "market_slug": "sundering_strike",
+  "name_en": "Sundering Strike",
+  "name_en_slug": "sundering_strike",
+  "name_kr": "선더링 스트라이크",
+  "aliases": [
+    "Sundering Strike",
+    "sundering strike",
+    "sundering_strike",
+    "선더링 스트라이크"
+  ],
+  "tags": [
+    "melee",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Melee/WeaponArmorPiercingDamageMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/sundering_strike.ebd1f73508fa44ab1d00a53ce98de05e.png",
+  "thumb": "items/images/en/thumbs/sundering_strike.ebd1f73508fa44ab1d00a53ce98de05e.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

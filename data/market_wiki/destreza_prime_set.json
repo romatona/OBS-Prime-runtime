@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5b2985e2eb069f04ea65b0f6",
+  "slug": "destreza_prime_set",
+  "market_slug": "destreza_prime_set",
+  "name_en": "Destreza Prime Set",
+  "name_en_slug": "destreza_prime_set",
+  "name_kr": "데스트레자 프라임 세트",
+  "aliases": [
+    "Destreza Prime Set",
+    "destreza prime set",
+    "destreza_prime_set",
+    "데스트레자 프라임 세트"
+  ],
+  "tags": [
+    "melee",
+    "prime",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/Swords/PRapier/DestrezaPrime",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/destreza_prime_set.b1a1cc461a2cfcf9998f0588c8e932a4.png",
+  "thumb": "items/images/en/thumbs/destreza_prime_set.b1a1cc461a2cfcf9998f0588c8e932a4.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "595567c18e34b5ed3cb3d9be",
+  "slug": "toxin_resistance",
+  "market_slug": "toxin_resistance",
+  "name_en": "Toxin Resistance",
+  "name_en_slug": "toxin_resistance",
+  "name_kr": "톡신 레지스턴스",
+  "aliases": [
+    "Toxin Resistance",
+    "toxin resistance",
+    "toxin_resistance",
+    "톡신 레지스턴스"
+  ],
+  "tags": [
+    "aura",
+    "mod",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Aura/PlayerPoisonImmunityAuraMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/toxin_resistance.d7d61c40b26bb9842aa608479c9ca8a1.png",
+  "thumb": "items/images/en/thumbs/toxin_resistance.d7d61c40b26bb9842aa608479c9ca8a1.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

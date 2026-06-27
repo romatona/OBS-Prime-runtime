@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5f4ed3f7d5c36d0086f55b07",
+  "slug": "necramech_hydraulics",
+  "market_slug": "necramech_hydraulics",
+  "name_en": "Necramech Hydraulics",
+  "name_en_slug": "necramech_hydraulics",
+  "name_kr": "네크라메크 하이드롤릭스",
+  "aliases": [
+    "Necramech Hydraulics",
+    "necramech hydraulics",
+    "necramech_hydraulics",
+    "네크라메크 하이드롤릭스"
+  ],
+  "tags": [
+    "mod",
+    "necramech",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Necromech/NecromechJumpHeightMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/necramech_hydraulics.fd671126fd4051e8e3addc13ae56d1f0.png",
+  "thumb": "items/images/en/thumbs/necramech_hydraulics.fd671126fd4051e8e3addc13ae56d1f0.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

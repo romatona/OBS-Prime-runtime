@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5fde10c26db57b0185b39073",
+  "slug": "cortege_barrel",
+  "market_slug": "cortege_barrel",
+  "name_en": "Cortege Barrel",
+  "name_en_slug": "cortege_barrel",
+  "name_kr": "코르테지 배럴",
+  "aliases": [
+    "Cortege Barrel",
+    "cortege barrel",
+    "cortege_barrel",
+    "코르테지 배럴"
+  ],
+  "tags": [
+    "component",
+    "necramech"
+  ],
+  "game_ref": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunBarrelItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/ko/cortege_barrel.d33f9cd234690f5b7be1daaaa236a64f.png",
+  "thumb": "items/images/ko/thumbs/cortege_barrel.d33f9cd234690f5b7be1daaaa236a64f.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

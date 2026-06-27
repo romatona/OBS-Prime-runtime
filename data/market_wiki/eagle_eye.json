@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156cc",
+  "slug": "eagle_eye",
+  "market_slug": "eagle_eye",
+  "name_en": "Eagle Eye",
+  "name_en_slug": "eagle_eye",
+  "name_kr": "이글 아이",
+  "aliases": [
+    "Eagle Eye",
+    "eagle eye",
+    "eagle_eye",
+    "이글 아이"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rifle",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/WeaponZoomFovMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/eagle_eye.84b925bc0a194c323f0a54f5ea4a2cd5.png",
+  "thumb": "items/images/en/thumbs/eagle_eye.84b925bc0a194c323f0a54f5ea4a2cd5.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,8 @@
+# Runtime Python packages for OBS prime.
+# External programs are still required separately:
+# - Tesseract OCR binary
+# - OBS Studio with obs-websocket
+
+pillow>=12.0.0
+pytesseract>=0.3.13
+mss>=10.2.0

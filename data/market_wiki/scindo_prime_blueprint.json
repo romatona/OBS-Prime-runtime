@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a73e65e779893a797fff5c",
+  "slug": "scindo_prime_blueprint",
+  "market_slug": "scindo_prime_blueprint",
+  "name_en": "Scindo Prime Blueprint",
+  "name_en_slug": "scindo_prime_blueprint",
+  "name_kr": "신도 프라임 설계도",
+  "aliases": [
+    "Scindo Prime",
+    "Scindo Prime Blueprint",
+    "scindo prime blueprint",
+    "scindo_prime_blueprint",
+    "신도 프라임",
+    "신도 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "melee",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/PrimeScindoBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/scindo_prime_blueprint.ae70ac90b811a44f64263394b6410c28.png",
+  "thumb": "items/images/en/thumbs/scindo_prime_blueprint.ae70ac90b811a44f64263394b6410c28.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

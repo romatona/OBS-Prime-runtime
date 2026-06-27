@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5a0ef3fc10bc40007cce1c8d",
+  "slug": "hunter_command",
+  "market_slug": "hunter_command",
+  "name_en": "Hunter Command",
+  "name_en_slug": "hunter_command",
+  "name_kr": "헌터 커맨드",
+  "aliases": [
+    "Hunter Command",
+    "hunter command",
+    "hunter_command",
+    "헌터 커맨드"
+  ],
+  "tags": [
+    "beast",
+    "mod",
+    "rare",
+    "sentinel"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sets/Hunter/CompanionHunterCommandMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/hunter_command.cf8a8c9c68407be2be4c09089815569d.png",
+  "thumb": "items/images/en/thumbs/hunter_command.cf8a8c9c68407be2be4c09089815569d.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

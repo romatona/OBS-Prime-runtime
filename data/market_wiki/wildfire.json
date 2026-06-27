@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515610",
+  "slug": "wildfire",
+  "market_slug": "wildfire",
+  "name_en": "Wildfire",
+  "name_en_slug": "wildfire",
+  "name_kr": "와일드파이어",
+  "aliases": [
+    "Wildfire",
+    "wildfire",
+    "와일드파이어"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "rifle"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/DualStat/WildfireMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/wildfire.146df295f70ba7a56acf599bbd52f0ee.png",
+  "thumb": "items/images/en/thumbs/wildfire.146df295f70ba7a56acf599bbd52f0ee.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

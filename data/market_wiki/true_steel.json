@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515673",
+  "slug": "true_steel",
+  "market_slug": "true_steel",
+  "name_en": "True Steel",
+  "name_en_slug": "true_steel",
+  "name_kr": "트루 스틸",
+  "aliases": [
+    "True Steel",
+    "true steel",
+    "true_steel",
+    "트루 스틸"
+  ],
+  "tags": [
+    "common",
+    "melee",
+    "mod"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Melee/WeaponCritChanceMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/true_steel.56d021e0c096dadd750bdb11955f5ee7.png",
+  "thumb": "items/images/en/thumbs/true_steel.56d021e0c096dadd750bdb11955f5ee7.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

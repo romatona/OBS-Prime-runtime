@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "582b0f8a0af25410b099f800",
+  "slug": "rathbone_set",
+  "market_slug": "rathbone_set",
+  "name_en": "Rathbone Set",
+  "name_en_slug": "rathbone_set",
+  "name_kr": "래스본 세트",
+  "aliases": [
+    "Rathbone Set",
+    "rathbone set",
+    "rathbone_set",
+    "래스본 세트"
+  ],
+  "tags": [
+    "archwing",
+    "melee",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Archwing/Melee/ArchHammer/ArchHammer",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/rathbone_set.7e6a0db9a09fae95a9f6a4e96b1f0979.png",
+  "thumb": "items/images/en/thumbs/rathbone_set.7e6a0db9a09fae95a9f6a4e96b1f0979.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "675c61b47b18977f6e64540e",
+  "slug": "magnetic_welt",
+  "market_slug": "magnetic_welt",
+  "name_en": "Magnetic Welt",
+  "name_en_slug": "magnetic_welt",
+  "name_kr": "마그네틱 웰트",
+  "aliases": [
+    "Magnetic Welt",
+    "magnetic welt",
+    "magnetic_welt",
+    "마그네틱 웰트"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "shotgun"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Shotgun/WeaponMagneticOnImpactShotgunMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/magnetic_welt.2b5f4005ed814b0e817c46a213586574.webp",
+  "thumb": "items/images/en/thumbs/magnetic_welt.2b5f4005ed814b0e817c46a213586574.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

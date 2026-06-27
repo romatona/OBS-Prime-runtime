@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5d8f65b27ea27b0968b6e579",
+  "slug": "pathocyst_set",
+  "market_slug": "pathocyst_set",
+  "name_en": "Pathocyst Set",
+  "name_en_slug": "pathocyst_set",
+  "name_kr": "패소시스트 세트",
+  "aliases": [
+    "Pathocyst Set",
+    "pathocyst set",
+    "pathocyst_set",
+    "패소시스트 세트"
+  ],
+  "tags": [
+    "melee",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Infested/Melee/InfBoomerang/InfBoomerangWeapon",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/pathocyst_set.f423b7a6a78d2e4780c1007f0f0fb464.png",
+  "thumb": "items/images/en/thumbs/pathocyst_set.f423b7a6a78d2e4780c1007f0f0fb464.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

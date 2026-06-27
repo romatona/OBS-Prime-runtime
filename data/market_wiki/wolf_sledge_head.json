@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5c7849e22cc6ce090383e266",
+  "slug": "wolf_sledge_head",
+  "market_slug": "wolf_sledge_head",
+  "name_en": "Wolf Sledge Head",
+  "name_en_slug": "wolf_sledge_head",
+  "name_kr": "울프 슬레지 헤드",
+  "aliases": [
+    "Wolf Sledge Head",
+    "wolf sledge head",
+    "wolf_sledge_head",
+    "울프 슬레지 헤드"
+  ],
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/ThrowingHammerHead",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/wolf_sledge_head.6b288aa755e84f886faa90486ed17d37.png",
+  "thumb": "items/images/en/thumbs/wolf_sledge_head.6b288aa755e84f886faa90486ed17d37.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

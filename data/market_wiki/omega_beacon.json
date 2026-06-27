@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "598b06b4ab6b61be6fec0fb5",
+  "slug": "omega_beacon",
+  "market_slug": "omega_beacon",
+  "name_en": "Omega Beacon",
+  "name_en_slug": "omega_beacon",
+  "name_kr": "오메가 비컨",
+  "aliases": [
+    "Omega Beacon",
+    "omega beacon",
+    "omega_beacon",
+    "오메가 비컨"
+  ],
+  "tags": [
+    "misc"
+  ],
+  "game_ref": "/Lotus/Types/Items/MiscItems/VayHekCoordinateFragmentD",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/omega_beacon.65e5468044d5119a49463ec60b3e24e7.png",
+  "thumb": "items/images/en/thumbs/omega_beacon.65e5468044d5119a49463ec60b3e24e7.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

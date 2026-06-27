@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6a33103258b60af8cd1a0d18",
+  "slug": "primary_compression",
+  "market_slug": "primary_compression",
+  "name_en": "Primary Compression",
+  "name_en_slug": "primary_compression",
+  "name_kr": "프라이머리 컴프레션",
+  "aliases": [
+    "Primary Compression",
+    "primary compression",
+    "primary_compression",
+    "프라이머리 컴프레션"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Utility/ConvergeRadialAttackOnAim",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/primary_compression.4c7b696553acb6a8cb573aa0d9990b2b.webp",
+  "thumb": "items/images/en/thumbs/primary_compression.4c7b696553acb6a8cb573aa0d9990b2b.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

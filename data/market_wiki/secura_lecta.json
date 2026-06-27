@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "57dbdc525e334907aa8edb58",
+  "slug": "secura_lecta",
+  "market_slug": "secura_lecta",
+  "name_en": "Secura Lecta",
+  "name_en_slug": "secura_lecta",
+  "name_kr": "세큐라 렉타",
+  "aliases": [
+    "Secura Lecta",
+    "secura lecta",
+    "secura_lecta",
+    "세큐라 렉타"
+  ],
+  "tags": [
+    "melee",
+    "syndicate",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Syndicates/PerrinSequence/Melee/PSLecta",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/secura_lecta.44e35643f0208a0aa069fe393cd2e11b.png",
+  "thumb": "items/images/en/thumbs/secura_lecta.44e35643f0208a0aa069fe393cd2e11b.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

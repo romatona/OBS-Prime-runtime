@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6055de865221e30083f6f108",
+  "slug": "hemorrhage",
+  "market_slug": "hemorrhage",
+  "name_en": "Hemorrhage",
+  "name_en_slug": "hemorrhage",
+  "name_kr": "헤모리지",
+  "aliases": [
+    "Hemorrhage",
+    "hemorrhage",
+    "헤모리지"
+  ],
+  "tags": [
+    "mod",
+    "pistol",
+    "rare",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Pistol/WeaponBleedOnImpactPistolMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/hemorrhage.9fa6a7835706ed24963b83ea11e38950.png",
+  "thumb": "items/images/en/thumbs/hemorrhage.9fa6a7835706ed24963b83ea11e38950.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

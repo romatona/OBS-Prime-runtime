@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "644b00247ec1900044b97735",
+  "slug": "mountains_edge",
+  "market_slug": "mountains_edge",
+  "name_en": "Mountain's Edge",
+  "name_en_slug": "mountains_edge",
+  "name_kr": "마운틴즈 엣지",
+  "aliases": [
+    "Mountain's Edge",
+    "mountains edge",
+    "mountains_edge",
+    "마운틴즈 엣지"
+  ],
+  "tags": [
+    "dual_nikanas",
+    "mod",
+    "stance",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DualKatanaCmbOneMeleeTree",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/mountains_edge.04f58be6d468001292df3dd94559a96c.png",
+  "thumb": "items/images/en/thumbs/mountains_edge.04f58be6d468001292df3dd94559a96c.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

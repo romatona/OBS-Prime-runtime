@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5fde10c26db57b0185b39072",
+  "slug": "morgha_receiver",
+  "market_slug": "morgha_receiver",
+  "name_en": "Morgha Receiver",
+  "name_en_slug": "morgha_receiver",
+  "name_kr": "모르가 리시버",
+  "aliases": [
+    "Morgha Receiver",
+    "morgha receiver",
+    "morgha_receiver",
+    "모르가 리시버"
+  ],
+  "tags": [
+    "component",
+    "necramech"
+  ],
+  "game_ref": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherReceiverItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/ko/morgha_receiver.a08482f3e246479e09f00f1ee8ffccb6.png",
+  "thumb": "items/images/ko/thumbs/morgha_receiver.a08482f3e246479e09f00f1ee8ffccb6.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

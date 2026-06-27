@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5cb04869fc2db2068006980f",
+  "slug": "teeming_virulence",
+  "market_slug": "teeming_virulence",
+  "name_en": "Teeming Virulence",
+  "name_en_slug": "teeming_virulence",
+  "name_kr": "티밍 비럴런스",
+  "aliases": [
+    "Teeming Virulence",
+    "teeming virulence",
+    "teeming_virulence",
+    "티밍 비럴런스"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "nidus",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Infestation/InfestRuptureAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/teeming_virulence.fa710f9e32c92ec59ee9bd77215811d0.png",
+  "thumb": "items/images/en/thumbs/teeming_virulence.fa710f9e32c92ec59ee9bd77215811d0.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

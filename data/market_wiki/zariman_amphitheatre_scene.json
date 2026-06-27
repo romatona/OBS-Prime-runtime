@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "626a197ef40db600660a1d8f",
+  "slug": "zariman_amphitheatre_scene",
+  "market_slug": "zariman_amphitheatre_scene",
+  "name_en": "Zariman Amphitheatre Scene",
+  "name_en_slug": "zariman_amphitheatre_scene",
+  "name_kr": "자리만 원형 극장 배경",
+  "aliases": [
+    "Zariman Amphitheatre Scene",
+    "zariman amphitheatre scene",
+    "zariman_amphitheatre_scene",
+    "자리만 원형 극장 배경"
+  ],
+  "tags": [
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/PhotoBooth/Zariman/PhotoboothTileZarAmphitheatre",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/zariman_amphitheatre_scene.a8cbde206b7206247673918740f9ff94.png",
+  "thumb": "items/images/en/thumbs/zariman_amphitheatre_scene.a8cbde206b7206247673918740f9ff94.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

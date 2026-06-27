@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "566751b75dcbc186f0536bd5",
+  "slug": "arcane_ultimatum",
+  "market_slug": "arcane_ultimatum",
+  "name_en": "Arcane Ultimatum",
+  "name_en_slug": "arcane_ultimatum",
+  "name_kr": "아케인 얼티메이텀",
+  "aliases": [
+    "Arcane Ultimatum",
+    "arcane ultimatum",
+    "arcane_ultimatum",
+    "아케인 얼티메이텀"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcaneArmorOnFinisher",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/arcane_ultimatum.6f19f5350ebf251e2c2375bbd667f537.png",
+  "thumb": "items/images/en/thumbs/arcane_ultimatum.6f19f5350ebf251e2c2375bbd667f537.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5e839494267539077b0dd6b1",
+  "slug": "overloader",
+  "market_slug": "overloader",
+  "name_en": "Overloader",
+  "name_en_slug": "overloader",
+  "name_kr": "오버로더",
+  "aliases": [
+    "Overloader",
+    "overloader",
+    "오버로더"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "railjack"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Railjack/Gunnery/LavanMaxOrdnanceMunitions",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/overloader.f1adfd8533786d59432ade8a2c6e5898.png",
+  "thumb": "items/images/en/thumbs/overloader.f1adfd8533786d59432ade8a2c6e5898.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

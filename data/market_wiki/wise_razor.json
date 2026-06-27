@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5c8694862cc6ce0bbc095d9d",
+  "slug": "wise_razor",
+  "market_slug": "wise_razor",
+  "name_en": "Wise Razor",
+  "name_en_slug": "wise_razor",
+  "name_kr": "와이즈 레이저",
+  "aliases": [
+    "Wise Razor",
+    "wise razor",
+    "wise_razor",
+    "와이즈 레이저"
+  ],
+  "tags": [
+    "mod",
+    "stance",
+    "two_handed_nikana",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/LongKatanaCmbOneMeleeTree",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/wise_razor.f030a617d9883c07f3cc854f98537534.png",
+  "thumb": "items/images/en/thumbs/wise_razor.f030a617d9883c07f3cc854f98537534.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

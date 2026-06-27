@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "69df8586158c0f2a93756b10",
+  "slug": "neo_g10_relic",
+  "market_slug": "neo_g10_relic",
+  "name_en": "Neo G10 Relic",
+  "name_en_slug": "neo_g10_relic",
+  "name_kr": "네오 G10 성유물",
+  "aliases": [
+    "Neo G10 Relic",
+    "neo g10 relic",
+    "neo_g10_relic",
+    "네오 G10 성유물"
+  ],
+  "tags": [
+    "neo",
+    "relic"
+  ],
+  "game_ref": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussGrendelVaultA",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/neo_g10_relic.08a3b3471bad10b739bd40b1236505c6.webp",
+  "thumb": "items/images/en/thumbs/neo_g10_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

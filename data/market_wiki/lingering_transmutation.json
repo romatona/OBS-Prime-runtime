@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "68efba8d89984fb97a33aa31",
+  "slug": "lingering_transmutation",
+  "market_slug": "lingering_transmutation",
+  "name_en": "Lingering Transmutation",
+  "name_en_slug": "lingering_transmutation",
+  "name_kr": "링거링 트랜스뮤테이션",
+  "aliases": [
+    "Lingering Transmutation",
+    "lingering transmutation",
+    "lingering_transmutation",
+    "링거링 트랜스뮤테이션"
+  ],
+  "tags": [
+    "augment",
+    "lavos",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Alchemist/AlchemistTransmuteAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/unknown.png",
+  "thumb": "",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6939aa8d5d9ebda239125d2f",
+  "slug": "alternox_prime_stock",
+  "market_slug": "alternox_prime_stock",
+  "name_en": "Alternox Prime Stock",
+  "name_en_slug": "alternox_prime_stock",
+  "name_kr": "알터녹스 프라임 스톡",
+  "aliases": [
+    "Alternox Prime Stock",
+    "alternox prime stock",
+    "alternox_prime_stock",
+    "알터녹스 프라임 스톡"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/AlternoxPrimeStock",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/alternox_prime_stock.ca0e1c78e73fbc6edd38586b28ef82d1.webp",
+  "thumb": "items/images/en/thumbs/alternox_prime_stock.ca0e1c78e73fbc6edd38586b28ef82d1.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

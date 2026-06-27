@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156a0",
+  "slug": "rending_strike",
+  "market_slug": "rending_strike",
+  "name_en": "Rending Strike",
+  "name_en_slug": "rending_strike",
+  "name_kr": "렌딩 스트라이크",
+  "aliases": [
+    "Rending Strike",
+    "rending strike",
+    "rending_strike",
+    "렌딩 스트라이크"
+  ],
+  "tags": [
+    "melee",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Melee/DualStat/RendingStrikeMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/rending_strike.07440fd328749d627d981654c4dd4a84.png",
+  "thumb": "items/images/en/thumbs/rending_strike.07440fd328749d627d981654c4dd4a84.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

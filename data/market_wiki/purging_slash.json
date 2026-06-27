@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "554d3f0ce779894445a848f5",
+  "slug": "purging_slash",
+  "market_slug": "purging_slash",
+  "name_en": "Purging Slash",
+  "name_en_slug": "purging_slash",
+  "name_kr": "퍼징 슬래쉬",
+  "aliases": [
+    "Purging Slash",
+    "purging slash",
+    "purging_slash",
+    "퍼징 슬래쉬"
+  ],
+  "tags": [
+    "augment",
+    "excalibur",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Excalibur/SlashDashPvPAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/purging_slash.a29fe9095c4986f161bd9d79c879b5ee.png",
+  "thumb": "items/images/en/thumbs/purging_slash.a29fe9095c4986f161bd9d79c879b5ee.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

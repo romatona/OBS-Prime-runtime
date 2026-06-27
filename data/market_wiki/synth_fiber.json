@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5be4b0a53ffcc703294e76b6",
+  "slug": "synth_fiber",
+  "market_slug": "synth_fiber",
+  "name_en": "Synth Fiber",
+  "name_en_slug": "synth_fiber",
+  "name_kr": "신스 파이버",
+  "aliases": [
+    "Synth Fiber",
+    "synth fiber",
+    "synth_fiber",
+    "신스 파이버"
+  ],
+  "tags": [
+    "companion",
+    "mod",
+    "rare",
+    "sentinel"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sets/Synth/SentinelSynthFibersMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/synth_fiber.f1546bfa7427c3f2395d74e23a2a3329.png",
+  "thumb": "items/images/en/thumbs/synth_fiber.f1546bfa7427c3f2395d74e23a2a3329.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5729bd02cb59ed5a9b484e8c",
+  "slug": "acid_shells",
+  "market_slug": "acid_shells",
+  "name_en": "Acid Shells",
+  "name_en_slug": "acid_shells",
+  "name_kr": "애시드 쉘즈",
+  "aliases": [
+    "Acid Shells",
+    "acid shells",
+    "acid_shells",
+    "애시드 쉘즈"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "sobek",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Shotgun/Event/ProjectNightwatch/SobekNightwatchMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/acid_shells.b43df89f2ae8597841c0087d02df2314.png",
+  "thumb": "items/images/en/thumbs/acid_shells.b43df89f2ae8597841c0087d02df2314.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

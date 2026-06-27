@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "69d6782fb3984cc97e241765",
+  "slug": "meso_l4_relic",
+  "market_slug": "meso_l4_relic",
+  "name_en": "Meso L4 Relic",
+  "name_en_slug": "meso_l4_relic",
+  "name_kr": "메소 L4 성유물",
+  "aliases": [
+    "Meso L4 Relic",
+    "meso l4 relic",
+    "meso_l4_relic",
+    "메소 L4 성유물"
+  ],
+  "tags": [
+    "meso",
+    "relic"
+  ],
+  "game_ref": "/Lotus/Types/Game/Projections/T2VoidProjectionVorunaPrimeA",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/meso_l4_relic.a2f3850abeecafbbe3369af2aaf253ff.webp",
+  "thumb": "items/images/en/thumbs/meso_l4_relic.a2f3850abeecafbbe3369af2aaf253ff.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

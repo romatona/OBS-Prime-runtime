@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "675c62297b18977f6e64541e",
+  "slug": "merciless_gunfight",
+  "market_slug": "merciless_gunfight",
+  "name_en": "Merciless Gunfight",
+  "name_en_slug": "merciless_gunfight",
+  "name_kr": "머시리스 건파이트",
+  "aliases": [
+    "Merciless Gunfight",
+    "merciless gunfight",
+    "merciless_gunfight",
+    "머시리스 건파이트"
+  ],
+  "tags": [
+    "mod",
+    "pistol",
+    "rare",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Pistol/DualStat/CriticalDamagePunchThroughMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/merciless_gunfight.8bfe78b71db7e2c7ecb05cd9c49fe6dd.webp",
+  "thumb": "items/images/en/thumbs/merciless_gunfight.8bfe78b71db7e2c7ecb05cd9c49fe6dd.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

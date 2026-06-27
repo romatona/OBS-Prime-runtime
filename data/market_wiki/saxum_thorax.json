@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5f498a1e9426ed00443bd092",
+  "slug": "saxum_thorax",
+  "market_slug": "saxum_thorax",
+  "name_en": "Saxum Thorax",
+  "name_en_slug": "saxum_thorax",
+  "name_kr": "삭숨 쏘락스",
+  "aliases": [
+    "Saxum Thorax",
+    "saxum thorax",
+    "saxum_thorax",
+    "삭숨 쏘락스"
+  ],
+  "tags": [
+    "common",
+    "melee",
+    "mod"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sets/Femur/FemurThoraxMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/saxum_thorax.de51f81c238742fa68f02341888bce31.png",
+  "thumb": "items/images/en/thumbs/saxum_thorax.de51f81c238742fa68f02341888bce31.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

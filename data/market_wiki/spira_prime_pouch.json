@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56c3bc115d2f0202da32e946",
+  "slug": "spira_prime_pouch",
+  "market_slug": "spira_prime_pouch",
+  "name_en": "Spira Prime Pouch",
+  "name_en_slug": "spira_prime_pouch",
+  "name_kr": "스피라 프라임 파우치",
+  "aliases": [
+    "Spira Prime Pouch",
+    "spira prime pouch",
+    "spira_prime_pouch",
+    "스피라 프라임 파우치"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeLiDaggerHolster",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/spira_prime_pouch.1a495b1cb31bba268dc7a50f2a4f7134.png",
+  "thumb": "items/images/en/thumbs/spira_prime_pouch.1a495b1cb31bba268dc7a50f2a4f7134.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

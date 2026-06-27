@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "55c15448e779895dccdabe9c",
+  "slug": "adhesive_blast",
+  "market_slug": "adhesive_blast",
+  "name_en": "Adhesive Blast",
+  "name_en_slug": "adhesive_blast",
+  "name_kr": "애드히시브 블래스트",
+  "aliases": [
+    "Adhesive Blast",
+    "adhesive blast",
+    "adhesive_blast",
+    "애드히시브 블래스트"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "unique"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/WeaponGrenadeStickyMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/adhesive_blast.10b405d40b908ec8cf3ea73547e724f7.png",
+  "thumb": "items/images/en/thumbs/adhesive_blast.10b405d40b908ec8cf3ea73547e724f7.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

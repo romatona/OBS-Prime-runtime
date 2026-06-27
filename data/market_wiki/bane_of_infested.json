@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e5155c2",
+  "slug": "bane_of_infested",
+  "market_slug": "bane_of_infested",
+  "name_en": "Bane Of Infested",
+  "name_en_slug": "bane_of_infested",
+  "name_kr": "베인 오브 인페스티드",
+  "aliases": [
+    "Bane Of Infested",
+    "bane of infested",
+    "bane_of_infested",
+    "베인 오브 인페스티드"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rifle",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/WeaponFactionDamageInfested",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/bane_of_infested.9e952c43d499b268f9e6b3136e470ad4.png",
+  "thumb": "items/images/en/thumbs/bane_of_infested.9e952c43d499b268f9e6b3136e470ad4.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

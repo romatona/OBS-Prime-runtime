@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6467860a7ec1900db1ca9cc6",
+  "slug": "prisma_lenz",
+  "market_slug": "prisma_lenz",
+  "name_en": "Prisma Lenz",
+  "name_en_slug": "prisma_lenz",
+  "name_kr": "프리즈마 렌즈",
+  "aliases": [
+    "Prisma Lenz",
+    "prisma lenz",
+    "prisma_lenz",
+    "프리즈마 렌즈"
+  ],
+  "tags": [
+    "primary",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Corpus/Bow/Longbow/PrismaLenz/PrismaLenzWeapon",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/prisma_lenz.36c488cabc262314b09b01127c7fbc6f.png",
+  "thumb": "items/images/en/thumbs/prisma_lenz.36c488cabc262314b09b01127c7fbc6f.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

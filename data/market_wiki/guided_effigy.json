@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "59385f6716efa3a742b15f61",
+  "slug": "guided_effigy",
+  "market_slug": "guided_effigy",
+  "name_en": "Guided Effigy",
+  "name_en_slug": "guided_effigy",
+  "name_kr": "가이디드 에피지",
+  "aliases": [
+    "Guided Effigy",
+    "guided effigy",
+    "guided_effigy",
+    "가이디드 에피지"
+  ],
+  "tags": [
+    "augment",
+    "chroma",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Dragon/DragonPeltAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/guided_effigy.c19b00b3672ac4678a87d7d3494ed55a.png",
+  "thumb": "items/images/en/thumbs/guided_effigy.c19b00b3672ac4678a87d7d3494ed55a.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

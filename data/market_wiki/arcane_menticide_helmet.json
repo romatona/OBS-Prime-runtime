@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54aaf170e779893cfbd8ec50",
+  "slug": "arcane_menticide_helmet",
+  "market_slug": "arcane_menticide_helmet",
+  "name_en": "Arcane Menticide Helmet",
+  "name_en_slug": "arcane_menticide_helmet",
+  "name_kr": "아케인 멘터사이드 헬멧",
+  "aliases": [
+    "Arcane Menticide Helmet",
+    "arcane menticide helmet",
+    "arcane_menticide_helmet",
+    "아케인 멘터사이드 헬멧"
+  ],
+  "tags": [
+    "arcane_helmet",
+    "skin"
+  ],
+  "game_ref": "/Lotus/Upgrades/Skins/Jade/JadeHelmetAlt",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/arcane_menticide_nyx_helmet.9ed49fb0a6adc0edf1b75ea960c2ce2e.png",
+  "thumb": "items/images/en/thumbs/arcane_menticide_nyx_helmet.9ed49fb0a6adc0edf1b75ea960c2ce2e.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

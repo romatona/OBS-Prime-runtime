@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156e9",
+  "slug": "shotgun_ammo_mutation",
+  "market_slug": "shotgun_ammo_mutation",
+  "name_en": "Shotgun Ammo Mutation",
+  "name_en_slug": "shotgun_ammo_mutation",
+  "name_kr": "샷건 애모 뮤테이션",
+  "aliases": [
+    "Shotgun Ammo Mutation",
+    "shotgun ammo mutation",
+    "shotgun_ammo_mutation",
+    "샷건 애모 뮤테이션"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "shotgun"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Shotgun/WeaponShotgunConvertAmmoMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/shotgun_ammo_mutation.2a2c46f64e6533beab652081bde6b5b4.png",
+  "thumb": "items/images/en/thumbs/shotgun_ammo_mutation.2a2c46f64e6533beab652081bde6b5b4.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

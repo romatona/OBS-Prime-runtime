@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "67acd913125398d92c8bb4e6",
+  "slug": "dual_zoren_prime_blueprint",
+  "market_slug": "dual_zoren_prime_blueprint",
+  "name_en": "Dual Zoren Prime Blueprint",
+  "name_en_slug": "dual_zoren_prime_blueprint",
+  "name_kr": "듀얼 조런 프라임 설계도",
+  "aliases": [
+    "Dual Zoren Prime",
+    "Dual Zoren Prime Blueprint",
+    "dual zoren prime blueprint",
+    "dual_zoren_prime_blueprint",
+    "듀얼 조런 프라임",
+    "듀얼 조런 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "melee",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/DualZorenPrimeBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/dual_zoren_prime_blueprint.d98ec2f1e8178524255002d3f248089f.webp",
+  "thumb": "items/images/en/thumbs/dual_zoren_prime_blueprint.d98ec2f1e8178524255002d3f248089f.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

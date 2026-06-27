@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5fde10c36db57b0185b39075",
+  "slug": "cortege_receiver",
+  "market_slug": "cortege_receiver",
+  "name_en": "Cortege Receiver",
+  "name_en_slug": "cortege_receiver",
+  "name_kr": "코르테지 리시버",
+  "aliases": [
+    "Cortege Receiver",
+    "cortege receiver",
+    "cortege_receiver",
+    "코르테지 리시버"
+  ],
+  "tags": [
+    "component",
+    "necramech"
+  ],
+  "game_ref": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunReceiverItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/ko/cortege_receiver.a08482f3e246479e09f00f1ee8ffccb6.png",
+  "thumb": "items/images/ko/thumbs/cortege_receiver.a08482f3e246479e09f00f1ee8ffccb6.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

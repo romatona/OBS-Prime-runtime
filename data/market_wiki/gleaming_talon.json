@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e51567c",
+  "slug": "gleaming_talon",
+  "market_slug": "gleaming_talon",
+  "name_en": "Gleaming Talon",
+  "name_en_slug": "gleaming_talon",
+  "name_kr": "글리밍 탈론",
+  "aliases": [
+    "Gleaming Talon",
+    "gleaming talon",
+    "gleaming_talon",
+    "글리밍 탈론"
+  ],
+  "tags": [
+    "glaives",
+    "mod",
+    "rare",
+    "stance"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/GlaiveCmbOneMeleeTree",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/gleaming_talon.d891c21d066a48485059c35cf0d55214.png",
+  "thumb": "items/images/en/thumbs/gleaming_talon.d891c21d066a48485059c35cf0d55214.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

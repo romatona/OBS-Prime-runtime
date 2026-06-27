@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5bd05ad03ffcc700eb7cfcff",
+  "slug": "lua_containment_scene",
+  "market_slug": "lua_containment_scene",
+  "name_en": "Lua Containment Scene",
+  "name_en_slug": "lua_containment_scene",
+  "name_kr": "루아 저지 배경",
+  "aliases": [
+    "Lua Containment Scene",
+    "lua containment scene",
+    "lua_containment_scene",
+    "루아 저지 배경"
+  ],
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/MiscItems/PhotoboothTileSyndicateArbitersContainment",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/lua_containment_scene.f3696ad7d670f8228acf03032758f902.png",
+  "thumb": "items/images/en/thumbs/lua_containment_scene.f3696ad7d670f8228acf03032758f902.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

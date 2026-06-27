@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6877caf1731e63abe79a5d04",
+  "slug": "duviri_throne_room_scene",
+  "market_slug": "duviri_throne_room_scene",
+  "name_en": "Duviri Throne Room Scene",
+  "name_en_slug": "duviri_throne_room_scene",
+  "name_kr": "두비리 알현실 배경",
+  "aliases": [
+    "Duviri Throne Room Scene",
+    "duviri throne room scene",
+    "duviri_throne_room_scene",
+    "두비리 알현실 배경"
+  ],
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/MiscItems/PhotoboothTileDuviriThroneRoom",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/duviri_throne_room_scene.8883d15581b1a014f3ebfd5e208800ad.webp",
+  "thumb": "items/images/en/thumbs/duviri_throne_room_scene.8883d15581b1a014f3ebfd5e208800ad.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156b3",
+  "slug": "flechette",
+  "market_slug": "flechette",
+  "name_en": "Flechette",
+  "name_en_slug": "flechette",
+  "name_kr": "플레솃",
+  "aliases": [
+    "Flechette",
+    "flechette",
+    "플레솃"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "primary",
+    "shotgun"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Shotgun/WeaponArmorPiercingDamageMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/flechette.d861855060f3cffa9baa7a9157d9169a.png",
+  "thumb": "items/images/en/thumbs/flechette.d861855060f3cffa9baa7a9157d9169a.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "551085a6e77989729ab10a35",
+  "slug": "arcane_awakening",
+  "market_slug": "arcane_awakening",
+  "name_en": "Arcane Awakening",
+  "name_en_slug": "arcane_awakening",
+  "name_kr": "아케인 어웨이크닝",
+  "aliases": [
+    "Arcane Awakening",
+    "arcane awakening",
+    "arcane_awakening",
+    "아케인 어웨이크닝"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Utility/PistolDamageOnReload",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/arcane_awakening.5d194d91360b233f4226fd02af5d7d1d.png",
+  "thumb": "items/images/en/thumbs/arcane_awakening.5d194d91360b233f4226fd02af5d7d1d.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a73e65e779893a797fff4c",
+  "slug": "latron_prime_stock",
+  "market_slug": "latron_prime_stock",
+  "name_en": "Latron Prime Stock",
+  "name_en_slug": "latron_prime_stock",
+  "name_kr": "래트론 프라임 스톡",
+  "aliases": [
+    "Latron Prime Stock",
+    "latron prime stock",
+    "latron_prime_stock",
+    "래트론 프라임 스톡"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/LatronPrimeStock",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/latron_prime_stock.5c8b8009acbdb97fd49177ba155ecfbe.png",
+  "thumb": "items/images/en/thumbs/latron_prime_stock.5c8b8009acbdb97fd49177ba155ecfbe.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,27 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6054de6b5221e30057501079",
+  "slug": "duroid",
+  "market_slug": "duroid",
+  "name_en": "Duroid",
+  "name_en_slug": "duroid",
+  "name_kr": "듀로이드",
+  "aliases": [
+    "Duroid",
+    "duroid",
+    "듀로이드"
+  ],
+  "tags": [
+    "fish"
+  ],
+  "game_ref": "/Lotus/Types/Items/Fish/Deimos/OrokinRareAFishItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/duroid.d383babc8e0d5dccbd1d8c0d54093fb9.png",
+  "thumb": "items/images/en/thumbs/duroid.d383babc8e0d5dccbd1d8c0d54093fb9.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

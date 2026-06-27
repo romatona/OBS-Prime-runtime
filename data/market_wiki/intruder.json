@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515649",
+  "slug": "intruder",
+  "market_slug": "intruder",
+  "name_en": "Intruder",
+  "name_en_slug": "intruder",
+  "name_kr": "인트루더",
+  "aliases": [
+    "Intruder",
+    "intruder",
+    "인트루더"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "parazon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Warframe/AvatarTimeLimitIncreaseMod",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/intruder.c38f0366ae84d068f18fdb3c22448731.png",
+  "thumb": "items/images/en/thumbs/intruder.c38f0366ae84d068f18fdb3c22448731.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

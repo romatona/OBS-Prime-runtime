@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a520",
+  "slug": "secondary_wind",
+  "market_slug": "secondary_wind",
+  "name_en": "Secondary Wind",
+  "name_en_slug": "secondary_wind",
+  "name_kr": "세컨더리 윈드",
+  "aliases": [
+    "Secondary Wind",
+    "secondary wind",
+    "secondary_wind",
+    "세컨더리 윈드"
+  ],
+  "tags": [
+    "mod",
+    "pistol",
+    "pvp",
+    "rare",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Pistol/HealthRegenonKillPistolMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/secondary_wind.25beb8a667f2ed313f55350fcda1620c.png",
+  "thumb": "items/images/en/thumbs/secondary_wind.25beb8a667f2ed313f55350fcda1620c.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

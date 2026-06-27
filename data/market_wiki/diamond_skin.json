@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e5155dc",
+  "slug": "diamond_skin",
+  "market_slug": "diamond_skin",
+  "name_en": "Diamond Skin",
+  "name_en_slug": "diamond_skin",
+  "name_kr": "다이아몬드 스킨",
+  "aliases": [
+    "Diamond Skin",
+    "diamond skin",
+    "diamond_skin",
+    "다이아몬드 스킨"
+  ],
+  "tags": [
+    "mod",
+    "uncommon",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Warframe/AvatarDamageResistanceLaser",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/diamond_skin.fcbee4a2fb0610d7cffde32d25bcec51.png",
+  "thumb": "items/images/en/thumbs/diamond_skin.fcbee4a2fb0610d7cffde32d25bcec51.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

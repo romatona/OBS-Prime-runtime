@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6054dd975221e30057500f90",
+  "slug": "neo_g3_relic",
+  "market_slug": "neo_g3_relic",
+  "name_en": "Neo G3 Relic",
+  "name_en_slug": "neo_g3_relic",
+  "name_kr": "네오 G3 성유물",
+  "aliases": [
+    "Neo G3 Relic",
+    "neo g3 relic",
+    "neo_g3_relic",
+    "네오 G3 성유물"
+  ],
+  "tags": [
+    "neo",
+    "relic"
+  ],
+  "game_ref": "/Lotus/Types/Game/Projections/T3VoidProjectionOberonNekrosVaultB",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/neo_g3_relic.404dc9ef087cc16ca255f5b5fd17fff0.png",
+  "thumb": "items/images/en/thumbs/neo_g3_relic.404dc9ef087cc16ca255f5b5fd17fff0.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

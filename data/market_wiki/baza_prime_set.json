@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5df955121456970150510f22",
+  "slug": "baza_prime_set",
+  "market_slug": "baza_prime_set",
+  "name_en": "Baza Prime Set",
+  "name_en_slug": "baza_prime_set",
+  "name_kr": "바자 프라임 세트",
+  "aliases": [
+    "Baza Prime Set",
+    "baza prime set",
+    "baza_prime_set",
+    "바자 프라임 세트"
+  ],
+  "tags": [
+    "primary",
+    "prime",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/LongGuns/PrimeBaza/PrimeBazaGun",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/baza_prime_set.a5f9c94cee410a5af7726ee6b2fca2b5.png",
+  "thumb": "items/images/en/thumbs/baza_prime_set.a5f9c94cee410a5af7726ee6b2fca2b5.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

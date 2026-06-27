@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5fb84767c34da3004797d541",
+  "slug": "arum_spinosa_blueprint",
+  "market_slug": "arum_spinosa_blueprint",
+  "name_en": "Arum Spinosa Blueprint",
+  "name_en_slug": "arum_spinosa_blueprint",
+  "name_kr": "아룸 스피노사 설계도",
+  "aliases": [
+    "Arum Spinosa",
+    "Arum Spinosa Blueprint",
+    "arum spinosa blueprint",
+    "arum_spinosa_blueprint",
+    "아룸 스피노사",
+    "아룸 스피노사 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "melee",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/InfWarFanBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/arum_spinosa_blueprint.a676e9febc397c744ba0f3d4f13b891f.png",
+  "thumb": "items/images/en/thumbs/arum_spinosa_blueprint.a676e9febc397c744ba0f3d4f13b891f.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

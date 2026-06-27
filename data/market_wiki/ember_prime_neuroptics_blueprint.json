@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a73e65e779893a797fff6d",
+  "slug": "ember_prime_neuroptics_blueprint",
+  "market_slug": "ember_prime_neuroptics_blueprint",
+  "name_en": "Ember Prime Neuroptics Blueprint",
+  "name_en_slug": "ember_prime_neuroptics_blueprint",
+  "name_kr": "엠버 프라임 뉴로옵틱스 설계도",
+  "aliases": [
+    "Ember Prime Neuroptics",
+    "Ember Prime Neuroptics Blueprint",
+    "ember prime neuroptics blueprint",
+    "ember_prime_neuroptics_blueprint",
+    "엠버 프라임 뉴로옵틱스",
+    "엠버 프라임 뉴로옵틱스 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/EmberPrimeHelmetBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/ember_prime_neuroptics.971255acc3f1ad8a374d236c6af1c816.png",
+  "thumb": "items/images/en/thumbs/ember_prime_neuroptics.971255acc3f1ad8a374d236c6af1c816.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

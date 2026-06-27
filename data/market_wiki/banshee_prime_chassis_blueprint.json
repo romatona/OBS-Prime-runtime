@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "58b57068eb26db5c3119210c",
+  "slug": "banshee_prime_chassis_blueprint",
+  "market_slug": "banshee_prime_chassis_blueprint",
+  "name_en": "Banshee Prime Chassis Blueprint",
+  "name_en_slug": "banshee_prime_chassis_blueprint",
+  "name_kr": "밴쉬 프라임 섀시 설계도",
+  "aliases": [
+    "Banshee Prime Chassis",
+    "Banshee Prime Chassis Blueprint",
+    "banshee prime chassis blueprint",
+    "banshee_prime_chassis_blueprint",
+    "밴쉬 프라임 섀시",
+    "밴쉬 프라임 섀시 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/BansheePrimeChassisBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/banshee_prime_chassis.a0956816beb733841bce57e69a568cd6.png",
+  "thumb": "items/images/en/thumbs/banshee_prime_chassis.a0956816beb733841bce57e69a568cd6.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

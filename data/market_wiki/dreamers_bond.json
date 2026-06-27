@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "65d6509a453a14fbc68e2739",
+  "slug": "dreamers_bond",
+  "market_slug": "dreamers_bond",
+  "name_en": "Dreamer's Bond",
+  "name_en_slug": "dreamers_bond",
+  "name_kr": "드리머즈 본드",
+  "aliases": [
+    "Dreamer's Bond",
+    "dreamers bond",
+    "dreamers_bond",
+    "드리머즈 본드"
+  ],
+  "tags": [
+    "aura",
+    "mod",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Aura/PlayerEnergyHealthRegenAuraMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/dreamers_bond.b08406e3487c624b0f94e813ef0ed326.png",
+  "thumb": "items/images/en/thumbs/dreamers_bond.b08406e3487c624b0f94e813ef0ed326.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

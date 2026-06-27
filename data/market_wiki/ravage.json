@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156a1",
+  "slug": "ravage",
+  "market_slug": "ravage",
+  "name_en": "Ravage",
+  "name_en_slug": "ravage",
+  "name_kr": "래비지",
+  "aliases": [
+    "Ravage",
+    "ravage",
+    "래비지"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "shotgun"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Shotgun/WeaponCritDamageMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/ravage.2d2e570ce05bd26a256cb9ba253f7ce8.png",
+  "thumb": "items/images/en/thumbs/ravage.2d2e570ce05bd26a256cb9ba253f7ce8.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

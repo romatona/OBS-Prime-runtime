@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "61a25ff968fd79003fe3fd54",
+  "slug": "champions_blessing",
+  "market_slug": "champions_blessing",
+  "name_en": "Champion's Blessing",
+  "name_en_slug": "champions_blessing",
+  "name_kr": "챔피언즈 블레싱",
+  "aliases": [
+    "Champion's Blessing",
+    "champions blessing",
+    "champions_blessing",
+    "챔피언즈 블레싱"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "rare",
+    "trinity",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Trinity/BlessingAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/champions_blessing.df69afba3b546fb6e42461d932603c01.png",
+  "thumb": "items/images/en/thumbs/champions_blessing.df69afba3b546fb6e42461d932603c01.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

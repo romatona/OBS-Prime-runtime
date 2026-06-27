@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a516",
+  "slug": "kill_switch",
+  "market_slug": "kill_switch",
+  "name_en": "Kill Switch",
+  "name_en_slug": "kill_switch",
+  "name_kr": "킬 스위치",
+  "aliases": [
+    "Kill Switch",
+    "kill switch",
+    "kill_switch",
+    "킬 스위치"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "pvp",
+    "rare",
+    "shotgun"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/FasterReloadOnKillShotgunMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/kill_switch.96ca67221bbb27cb0da2566ac276b735.png",
+  "thumb": "items/images/en/thumbs/kill_switch.96ca67221bbb27cb0da2566ac276b735.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

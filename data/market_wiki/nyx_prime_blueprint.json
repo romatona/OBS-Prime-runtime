@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a73e65e779893a797fff72",
+  "slug": "nyx_prime_blueprint",
+  "market_slug": "nyx_prime_blueprint",
+  "name_en": "Nyx Prime Blueprint",
+  "name_en_slug": "nyx_prime_blueprint",
+  "name_kr": "닉스 프라임 설계도",
+  "aliases": [
+    "Nyx Prime",
+    "Nyx Prime Blueprint",
+    "nyx prime blueprint",
+    "nyx_prime_blueprint",
+    "닉스 프라임",
+    "닉스 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/NyxPrimeBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/nyx_prime_blueprint.fd41c04c9e9bcc7e0e6963914f68f880.png",
+  "thumb": "items/images/en/thumbs/nyx_prime_blueprint.fd41c04c9e9bcc7e0e6963914f68f880.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

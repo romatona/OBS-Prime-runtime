@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60e70f79479445008f272571",
+  "slug": "red_veil_knee_guards",
+  "market_slug": "red_veil_knee_guards",
+  "name_en": "Red Veil Knee Guards",
+  "name_en_slug": "red_veil_knee_guards",
+  "name_kr": "레드 베일 니 가드",
+  "aliases": [
+    "Red Veil Knee Guards",
+    "red veil knee guards",
+    "red_veil_knee_guards",
+    "레드 베일 니 가드"
+  ],
+  "tags": [
+    "skin"
+  ],
+  "game_ref": "/Lotus/Upgrades/Skins/Armor/RedVeilArmor/RedVeilLArmor",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/red_veil_knee_guards.81e51f8f477594964c832ee03908f549.png",
+  "thumb": "items/images/en/thumbs/red_veil_knee_guards.81e51f8f477594964c832ee03908f549.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

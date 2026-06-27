@@ -1,0 +1,27 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6054de845221e30057501086",
+  "slug": "norg",
+  "market_slug": "norg",
+  "name_en": "Norg",
+  "name_en_slug": "norg",
+  "name_kr": "노그",
+  "aliases": [
+    "Norg",
+    "norg",
+    "노그"
+  ],
+  "tags": [
+    "fish"
+  ],
+  "game_ref": "/Lotus/Types/Items/Fish/Eidolon/NightRareFishAItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/norg.6ed3a518e958e16e5f1e162a9ea829b7.png",
+  "thumb": "items/images/en/thumbs/norg.6ed3a518e958e16e5f1e162a9ea829b7.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

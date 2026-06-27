@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "57dbdc825e334907aa8edb64",
+  "slug": "itzal_wings_blueprint",
+  "market_slug": "itzal_wings_blueprint",
+  "name_en": "Itzal Wings Blueprint",
+  "name_en_slug": "itzal_wings_blueprint",
+  "name_kr": "잇잘 윙 설계도",
+  "aliases": [
+    "Itzal Wings",
+    "Itzal Wings Blueprint",
+    "itzal wings blueprint",
+    "itzal_wings_blueprint",
+    "잇잘 윙",
+    "잇잘 윙 설계도"
+  ],
+  "tags": [
+    "archwing",
+    "blueprint",
+    "component"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/ArchwingRecipes/StealthArchwing/StealthArchwingWingsBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/itzal_wings.0010e4eeee847edd082019f488da2fc2.png",
+  "thumb": "items/images/en/thumbs/itzal_wings.0010e4eeee847edd082019f488da2fc2.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

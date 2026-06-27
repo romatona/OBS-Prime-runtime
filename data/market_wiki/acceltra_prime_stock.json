@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "65a7fcc4ed5b0d2e3eb462d2",
+  "slug": "acceltra_prime_stock",
+  "market_slug": "acceltra_prime_stock",
+  "name_en": "Acceltra Prime Stock",
+  "name_en_slug": "acceltra_prime_stock",
+  "name_kr": "액셀트라 프라임 스톡",
+  "aliases": [
+    "Acceltra Prime Stock",
+    "acceltra prime stock",
+    "acceltra_prime_stock",
+    "액셀트라 프라임 스톡"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/AcceltraPrimeStock",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/acceltra_prime_stock.b826cc938ba700ff8d8f07d2b38051f7.png",
+  "thumb": "items/images/en/thumbs/acceltra_prime_stock.b826cc938ba700ff8d8f07d2b38051f7.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

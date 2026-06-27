@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56900be253c8e91351672724",
+  "slug": "primed_bane_of_infested",
+  "market_slug": "primed_bane_of_infested",
+  "name_en": "Primed Bane Of Infested",
+  "name_en_slug": "primed_bane_of_infested",
+  "name_kr": "프라임드 베인 오브 인페스티드",
+  "aliases": [
+    "Primed Bane Of Infested",
+    "primed bane of infested",
+    "primed_bane_of_infested",
+    "프라임드 베인 오브 인페스티드"
+  ],
+  "tags": [
+    "legendary",
+    "mod",
+    "primary",
+    "rifle"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/Expert/PrimedWeaponFactionDamageInfested",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/primed_bane_of_infested.dfb6994085d676b00ca85cf63a082a61.png",
+  "thumb": "items/images/en/thumbs/primed_bane_of_infested.dfb6994085d676b00ca85cf63a082a61.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

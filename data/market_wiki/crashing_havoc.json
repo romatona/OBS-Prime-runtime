@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5be5f5a33ffcc7038857f124",
+  "slug": "crashing_havoc",
+  "market_slug": "crashing_havoc",
+  "name_en": "Crashing Havoc",
+  "name_en_slug": "crashing_havoc",
+  "name_kr": "크래슁 하복",
+  "aliases": [
+    "Crashing Havoc",
+    "crashing havoc",
+    "crashing_havoc",
+    "크래슁 하복"
+  ],
+  "tags": [
+    "hammers",
+    "mod",
+    "pvp",
+    "stance",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPHammerStanceOne",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/crashing_havoc.ca855ed1b2e26b6f75e117338ab90dbb.png",
+  "thumb": "items/images/en/thumbs/crashing_havoc.ca855ed1b2e26b6f75e117338ab90dbb.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

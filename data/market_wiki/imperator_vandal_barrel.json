@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5740c16d9d238d4a03d28515",
+  "slug": "imperator_vandal_barrel",
+  "market_slug": "imperator_vandal_barrel",
+  "name_en": "Imperator Vandal Barrel",
+  "name_en_slug": "imperator_vandal_barrel",
+  "name_kr": "임페라토르 반달 배럴",
+  "aliases": [
+    "Imperator Vandal Barrel",
+    "imperator vandal barrel",
+    "imperator_vandal_barrel",
+    "임페라토르 반달 배럴"
+  ],
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/ImperatorVandalBarrel",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/imperator_vandal_barrel.a7802d291f16f9dcd97afb2e69c879b6.png",
+  "thumb": "items/images/en/thumbs/imperator_vandal_barrel.a7802d291f16f9dcd97afb2e69c879b6.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

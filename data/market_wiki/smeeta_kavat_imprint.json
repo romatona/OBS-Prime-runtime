@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5ba9f2034567de01415f638c",
+  "slug": "smeeta_kavat_imprint",
+  "market_slug": "smeeta_kavat_imprint",
+  "name_en": "Smeeta Kavat Imprint",
+  "name_en_slug": "smeeta_kavat_imprint",
+  "name_kr": "스미타 카밧 임프린트",
+  "aliases": [
+    "Smeeta Kavat Imprint",
+    "smeeta kavat imprint",
+    "smeeta_kavat_imprint",
+    "스미타 카밧 임프린트"
+  ],
+  "tags": [
+    "imprint",
+    "kubrow",
+    "pet"
+  ],
+  "game_ref": "/Lotus/Types/Game/CatbrowPet/CheshireCatbrowPetPowerSuit",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/smeeta_kavat_imprint.0e793612eeed6e1d39d98a8f4835c3d2.png",
+  "thumb": "items/images/en/thumbs/smeeta_kavat_imprint.0e793612eeed6e1d39d98a8f4835c3d2.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

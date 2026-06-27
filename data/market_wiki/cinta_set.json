@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "645104637ec190030e510939",
+  "slug": "cinta_set",
+  "market_slug": "cinta_set",
+  "name_en": "Cinta Set",
+  "name_en_slug": "cinta_set",
+  "name_kr": "신타 세트",
+  "aliases": [
+    "Cinta Set",
+    "cinta set",
+    "cinta_set",
+    "신타 세트"
+  ],
+  "tags": [
+    "primary",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Bows/DaxDuviriAsymetricalBow/DaxDuviriAsymmetricalLongBowPlayerWeapon",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/ko/cinta_set.b194993855e39e7e4c47706e7344736e.png",
+  "thumb": "items/images/ko/thumbs/cinta_set.b194993855e39e7e4c47706e7344736e.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6242037766a58f0108c3d48a",
+  "slug": "corvas_prime_receiver",
+  "market_slug": "corvas_prime_receiver",
+  "name_en": "Corvas Prime Receiver",
+  "name_en_slug": "corvas_prime_receiver",
+  "name_kr": "코르바스 프라임 리시버",
+  "aliases": [
+    "Corvas Prime Receiver",
+    "corvas prime receiver",
+    "corvas_prime_receiver",
+    "코르바스 프라임 리시버"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/CorvasPrimeReceiver",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/corvas_prime_receiver.f6bd98b0b4a2491580a40775708b21f4.png",
+  "thumb": "items/images/en/thumbs/corvas_prime_receiver.f6bd98b0b4a2491580a40775708b21f4.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

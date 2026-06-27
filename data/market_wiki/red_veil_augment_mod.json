@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5800c6c9c021d9dc0a9f8917",
+  "slug": "red_veil_augment_mod",
+  "market_slug": "red_veil_augment_mod",
+  "name_en": "Red Veil Augment Mod",
+  "name_en_slug": "red_veil_augment_mod",
+  "name_kr": "레드 베일 개조 모드",
+  "aliases": [
+    "Red Veil Augment Mod",
+    "red veil augment mod",
+    "red_veil_augment_mod",
+    "레드 베일 개조 모드"
+  ],
+  "tags": [
+    "mod",
+    "rare",
+    "syndicate"
+  ],
+  "game_ref": "",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/red_veil_augment_mod.716a6ecba2be791e9960cdd5ae73927c.webp",
+  "thumb": "items/images/en/thumbs/red_veil_augment_mod.716a6ecba2be791e9960cdd5ae73927c.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

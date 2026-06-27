@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e51566e",
+  "slug": "pointed_wind",
+  "market_slug": "pointed_wind",
+  "name_en": "Pointed Wind",
+  "name_en_slug": "pointed_wind",
+  "name_kr": "포인티드 윈드",
+  "aliases": [
+    "Pointed Wind",
+    "pointed wind",
+    "pointed_wind",
+    "포인티드 윈드"
+  ],
+  "tags": [
+    "daggers",
+    "mod",
+    "rare",
+    "stance"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DaggerCmbTwoMeleeTree",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/pointed_wind.32a87c4d2733e14f641db59e0c53e8c6.png",
+  "thumb": "items/images/en/thumbs/pointed_wind.32a87c4d2733e14f641db59e0c53e8c6.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

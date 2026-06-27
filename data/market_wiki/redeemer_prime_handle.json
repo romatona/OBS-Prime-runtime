@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5c196fb096037800ddadac19",
+  "slug": "redeemer_prime_handle",
+  "market_slug": "redeemer_prime_handle",
+  "name_en": "Redeemer Prime Handle",
+  "name_en_slug": "redeemer_prime_handle",
+  "name_kr": "리디머 프라임 핸들",
+  "aliases": [
+    "Redeemer Prime Handle",
+    "redeemer prime handle",
+    "redeemer_prime_handle",
+    "리디머 프라임 핸들"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/RedeemerPrimeHandle",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/redeemer_prime_handle.92fcede37c1ab66d22a2287dc2334731.png",
+  "thumb": "items/images/en/thumbs/redeemer_prime_handle.92fcede37c1ab66d22a2287dc2334731.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

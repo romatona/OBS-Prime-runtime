@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "644b00237ec1900044b97731",
+  "slug": "castle_town_scene",
+  "market_slug": "castle_town_scene",
+  "name_en": "Castle Town Scene",
+  "name_en_slug": "castle_town_scene",
+  "name_kr": "도성 배경",
+  "aliases": [
+    "Castle Town Scene",
+    "castle town scene",
+    "castle_town_scene",
+    "도성 배경"
+  ],
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/MiscItems/PhotoboothTileDuviriMainlandTown",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/castle_town_scene.231d87ca9386326ebf23ecc28ed8713e.png",
+  "thumb": "items/images/en/thumbs/castle_town_scene.231d87ca9386326ebf23ecc28ed8713e.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

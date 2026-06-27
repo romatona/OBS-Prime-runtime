@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5bebf1713ffcc704caf38cf4",
+  "slug": "akvasto_prime_set",
+  "market_slug": "akvasto_prime_set",
+  "name_en": "Akvasto Prime Set",
+  "name_en_slug": "akvasto_prime_set",
+  "name_kr": "아크바스토 프라임 세트",
+  "aliases": [
+    "Akvasto Prime Set",
+    "akvasto prime set",
+    "akvasto_prime_set",
+    "아크바스토 프라임 세트"
+  ],
+  "tags": [
+    "prime",
+    "secondary",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Pistols/PrimeVasto/AkPrimeVasto/AkPrimeVastoPistol",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/akvasto_prime_set.029887bbd387510ffec1debd81f65dab.png",
+  "thumb": "items/images/en/thumbs/akvasto_prime_set.029887bbd387510ffec1debd81f65dab.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

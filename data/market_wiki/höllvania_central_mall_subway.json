@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "675c61697b18977f6e645402",
+  "slug": "höllvania_central_mall_subway",
+  "market_slug": "höllvania_central_mall_subway",
+  "name_en": "Höllvania Central Mall Subway",
+  "name_en_slug": "höllvania_central_mall_subway",
+  "name_kr": "홀바니아 중앙 쇼핑몰 지하철",
+  "aliases": [
+    "Höllvania Central Mall Subway",
+    "höllvania central mall subway",
+    "höllvania_central_mall_subway",
+    "홀바니아 중앙 쇼핑몰 지하철"
+  ],
+  "tags": [
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConMallStargla",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/höllvania_central_mall_subway.519164f9ef93cf13877d8c6b4d8b5ccf.webp",
+  "thumb": "items/images/en/thumbs/höllvania_central_mall_subway.519164f9ef93cf13877d8c6b4d8b5ccf.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

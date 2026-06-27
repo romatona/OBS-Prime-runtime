@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5fb84767c34da3004797d53a",
+  "slug": "critical_surge",
+  "market_slug": "critical_surge",
+  "name_en": "Critical Surge",
+  "name_en_slug": "critical_surge",
+  "name_kr": "크리티컬 서지",
+  "aliases": [
+    "Critical Surge",
+    "critical surge",
+    "critical_surge",
+    "크리티컬 서지"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "rare",
+    "warframe",
+    "wisp"
+  ],
+  "game_ref": "/Lotus/Powersuits/Wisp/WispHarnessAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/critical_surge.fd671126fd4051e8e3addc13ae56d1f0.png",
+  "thumb": "items/images/en/thumbs/critical_surge.fd671126fd4051e8e3addc13ae56d1f0.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

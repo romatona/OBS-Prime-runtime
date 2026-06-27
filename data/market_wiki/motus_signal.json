@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5ce7fd89d23a3b00908c4217",
+  "slug": "motus_signal",
+  "market_slug": "motus_signal",
+  "name_en": "Motus Signal",
+  "name_en_slug": "motus_signal",
+  "name_kr": "모터스 시그널",
+  "aliases": [
+    "Motus Signal",
+    "motus signal",
+    "motus_signal",
+    "모터스 시그널"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sets/Raptor/RaptorModA",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/motus_signal.82e3d6747a47f0aed2d30057d39d7cec.png",
+  "thumb": "items/images/en/thumbs/motus_signal.82e3d6747a47f0aed2d30057d39d7cec.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

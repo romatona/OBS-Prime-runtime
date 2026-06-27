@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "57e91e5cc76eb74c087f492c",
+  "slug": "ayatan_cyan_star",
+  "market_slug": "ayatan_cyan_star",
+  "name_en": "Ayatan Cyan Star",
+  "name_en_slug": "ayatan_cyan_star",
+  "name_kr": "아야탄 사이안 별",
+  "aliases": [
+    "Ayatan Cyan Star",
+    "ayatan cyan star",
+    "ayatan_cyan_star",
+    "아야탄 사이안 별"
+  ],
+  "tags": [
+    "ayatan_star"
+  ],
+  "game_ref": "/Lotus/Types/Items/FusionTreasures/OroFusexOrnamentA",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/ayatan_cyan_star.89fae8de34c9b16b9f5a9c6acb84e8d9.png",
+  "thumb": "items/images/en/thumbs/ayatan_cyan_star.89fae8de34c9b16b9f5a9c6acb84e8d9.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

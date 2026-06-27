@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6672381a8ba7c81b70d02cb2",
+  "slug": "semi_rifle_cannonade",
+  "market_slug": "semi_rifle_cannonade",
+  "name_en": "Semi-Rifle Cannonade",
+  "name_en_slug": "semi_rifle_cannonade",
+  "name_kr": "세미-라이플 캐노네이드",
+  "aliases": [
+    "Semi-Rifle Cannonade",
+    "semi rifle cannonade",
+    "semi_rifle_cannonade",
+    "세미-라이플 캐노네이드"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rifle",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/RifleSemiAutoFantasyMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/semi_rifle_cannonade.7c70ac07e877a7efdbe52a25140ad821.webp",
+  "thumb": "items/images/en/thumbs/semi_rifle_cannonade.7c70ac07e877a7efdbe52a25140ad821.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

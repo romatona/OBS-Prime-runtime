@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e5155d4",
+  "slug": "power_throw",
+  "market_slug": "power_throw",
+  "name_en": "Power Throw",
+  "name_en_slug": "power_throw",
+  "name_kr": "파워 쓰로우",
+  "aliases": [
+    "Power Throw",
+    "power throw",
+    "power_throw",
+    "파워 쓰로우"
+  ],
+  "tags": [
+    "melee",
+    "mod",
+    "rare",
+    "thrown_melee"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Melee/WeaponGlaivePowerthrowMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/power_throw.3f539579816deca71f6af6d661a5b08d.png",
+  "thumb": "items/images/en/thumbs/power_throw.3f539579816deca71f6af6d661a5b08d.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

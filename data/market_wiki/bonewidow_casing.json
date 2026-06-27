@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5fde10c26db57b0185b39070",
+  "slug": "bonewidow_casing",
+  "market_slug": "bonewidow_casing",
+  "name_en": "Bonewidow Casing",
+  "name_en_slug": "bonewidow_casing",
+  "name_kr": "본위도우 케이싱",
+  "aliases": [
+    "Bonewidow Casing",
+    "bonewidow casing",
+    "bonewidow_casing",
+    "본위도우 케이싱"
+  ],
+  "tags": [
+    "component",
+    "necramech"
+  ],
+  "game_ref": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartChassisItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/ko/bonewidow_casing.d8acf865db09a10d93fdac2cdd1e8211.png",
+  "thumb": "items/images/ko/thumbs/bonewidow_casing.d8acf865db09a10d93fdac2cdd1e8211.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

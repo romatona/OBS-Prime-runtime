@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "61bb64fb3132ff00482b5fb2",
+  "slug": "knell_prime_set",
+  "market_slug": "knell_prime_set",
+  "name_en": "Knell Prime Set",
+  "name_en_slug": "knell_prime_set",
+  "name_kr": "넬 프라임 세트",
+  "aliases": [
+    "Knell Prime Set",
+    "knell prime set",
+    "knell_prime_set",
+    "넬 프라임 세트"
+  ],
+  "tags": [
+    "prime",
+    "secondary",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Pistols/PrimeKnell/PrimeKnellWeapon",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/knell_prime_set.bde803a974cb2f30577f31b4b2961efb.png",
+  "thumb": "items/images/en/thumbs/knell_prime_set.bde803a974cb2f30577f31b4b2961efb.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5c1bda1214a8e4006b1dad79",
+  "slug": "sabot_rounds",
+  "market_slug": "sabot_rounds",
+  "name_en": "Sabot Rounds",
+  "name_en_slug": "sabot_rounds",
+  "name_kr": "사보트 라운즈",
+  "aliases": [
+    "Sabot Rounds",
+    "sabot rounds",
+    "sabot_rounds",
+    "사보트 라운즈"
+  ],
+  "tags": [
+    "archgun",
+    "archwing",
+    "mod",
+    "primary",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRiflePunchthroughMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/sabot_rounds.d1f3fed232e4a789ddc604a995f35c08.png",
+  "thumb": "items/images/en/thumbs/sabot_rounds.d1f3fed232e4a789ddc604a995f35c08.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60e70f78479445008f27256c",
+  "slug": "cephalon_suda_piloting_emote",
+  "market_slug": "cephalon_suda_piloting_emote",
+  "name_en": "Cephalon Suda Piloting Emote",
+  "name_en_slug": "cephalon_suda_piloting_emote",
+  "name_kr": "세팔론 수다 조종 감정 표현",
+  "aliases": [
+    "Cephalon Suda Piloting Emote",
+    "cephalon suda piloting emote",
+    "cephalon_suda_piloting_emote",
+    "세팔론 수다 조종 감정 표현"
+  ],
+  "tags": [
+    "emote",
+    "syndicate"
+  ],
+  "game_ref": "/Lotus/Types/Items/Emotes/Syndicate/CSPilotingEmote",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/cephalon_suda_piloting_emote.eb25f3771144d9f9c4d7381c8b33d386.png",
+  "thumb": "items/images/en/thumbs/cephalon_suda_piloting_emote.eb25f3771144d9f9c4d7381c8b33d386.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

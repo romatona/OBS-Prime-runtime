@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5fe0ea836db57b0225115013",
+  "slug": "prisma_dual_decurions",
+  "market_slug": "prisma_dual_decurions",
+  "name_en": "Prisma Dual Decurions",
+  "name_en_slug": "prisma_dual_decurions",
+  "name_kr": "프리즈마 듀얼 데큐리온",
+  "aliases": [
+    "Prisma Dual Decurions",
+    "prisma dual decurions",
+    "prisma_dual_decurions",
+    "프리즈마 듀얼 데큐리온"
+  ],
+  "tags": [
+    "archwing",
+    "primary",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchwingHeavyPistols/Prisma/PrismaArchHeavyPistols",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/prisma_dual_decurion.4ee7041a38ef9ad13e0b56829098d536.png",
+  "thumb": "items/images/en/thumbs/prisma_dual_decurion.4ee7041a38ef9ad13e0b56829098d536.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6056348590a69e004e86287e",
+  "slug": "ironclad_matrix",
+  "market_slug": "ironclad_matrix",
+  "name_en": "Ironclad Matrix",
+  "name_en_slug": "ironclad_matrix",
+  "name_kr": "아이언클래드 매트릭스",
+  "aliases": [
+    "Ironclad Matrix",
+    "ironclad matrix",
+    "ironclad_matrix",
+    "아이언클래드 매트릭스"
+  ],
+  "tags": [
+    "mod",
+    "railjack",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Railjack/Engineering/VidarDefensiveMatrix",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/ironclad_matrix.f3d713baa7175aee4fe361c7f6d56e0c.png",
+  "thumb": "items/images/en/thumbs/ironclad_matrix.f3d713baa7175aee4fe361c7f6d56e0c.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,27 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6054de785221e3005750107f",
+  "slug": "karkina",
+  "market_slug": "karkina",
+  "name_en": "Karkina",
+  "name_en_slug": "karkina",
+  "name_kr": "카르키나",
+  "aliases": [
+    "Karkina",
+    "karkina",
+    "카르키나"
+  ],
+  "tags": [
+    "fish"
+  ],
+  "game_ref": "/Lotus/Types/Items/Fish/Eidolon/BothUncommonFishBItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/karkina.8e31a023f6fea55fca0f5f20d8e296a8.png",
+  "thumb": "items/images/en/thumbs/karkina.8e31a023f6fea55fca0f5f20d8e296a8.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

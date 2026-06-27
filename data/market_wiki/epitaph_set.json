@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60783dec84a7d703418582d0",
+  "slug": "epitaph_set",
+  "market_slug": "epitaph_set",
+  "name_en": "Epitaph Set",
+  "name_en_slug": "epitaph_set",
+  "name_kr": "에피타프 세트",
+  "aliases": [
+    "Epitaph Set",
+    "epitaph set",
+    "epitaph_set",
+    "에피타프 세트"
+  ],
+  "tags": [
+    "secondary",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Pistols/TnWraitheSidearm/TnWraitheSidearmWeapon",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/epitaph_set.b3a75cdcef1c7ba2971d2c550f8390e3.png",
+  "thumb": "items/images/en/thumbs/epitaph_set.b3a75cdcef1c7ba2971d2c550f8390e3.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

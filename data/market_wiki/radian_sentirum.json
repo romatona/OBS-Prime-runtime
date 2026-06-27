@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "59eba86952f90ed715e14159",
+  "slug": "radian_sentirum",
+  "market_slug": "radian_sentirum",
+  "name_en": "Radian Sentirum",
+  "name_en_slug": "radian_sentirum",
+  "name_kr": "레이디언 센티럼",
+  "aliases": [
+    "Radian Sentirum",
+    "radian sentirum",
+    "radian_sentirum",
+    "레이디언 센티럼"
+  ],
+  "tags": [
+    "gem"
+  ],
+  "game_ref": "/Lotus/Types/Items/Gems/Eidolon/EidolonGemACutAItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/radian_sentirum.fd67dbe87fcedfc1d914bc36ad2cb7eb.png",
+  "thumb": "items/images/en/thumbs/radian_sentirum.fd67dbe87fcedfc1d914bc36ad2cb7eb.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

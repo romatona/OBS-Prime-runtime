@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "67db60639cec3e52e62523ee",
+  "slug": "technocyte_coda_stadium_scene",
+  "market_slug": "technocyte_coda_stadium_scene",
+  "name_en": "Technocyte Coda Stadium Scene",
+  "name_en_slug": "technocyte_coda_stadium_scene",
+  "name_kr": "테크노사이트 코다 스타디움 배경",
+  "aliases": [
+    "Technocyte Coda Stadium Scene",
+    "technocyte coda stadium scene",
+    "technocyte_coda_stadium_scene",
+    "테크노사이트 코다 스타디움 배경"
+  ],
+  "tags": [
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/PhotoBooth/PhotoboothTileRJLasXStadiumBossArena",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/technocyte_coda_stadium_scene.12413b6912f2f7eaea7e909415274572.webp",
+  "thumb": "items/images/en/thumbs/technocyte_coda_stadium_scene.12413b6912f2f7eaea7e909415274572.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

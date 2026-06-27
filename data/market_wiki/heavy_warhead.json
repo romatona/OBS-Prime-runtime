@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a511",
+  "slug": "heavy_warhead",
+  "market_slug": "heavy_warhead",
+  "name_en": "Heavy Warhead",
+  "name_en_slug": "heavy_warhead",
+  "name_kr": "헤비 워헤드",
+  "aliases": [
+    "Heavy Warhead",
+    "heavy warhead",
+    "heavy_warhead",
+    "헤비 워헤드"
+  ],
+  "tags": [
+    "mod",
+    "pistol",
+    "pvp",
+    "rare",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Pistol/BiggerRadiusSlowerVelocityPistolMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/heavy_warhead.f6463d740768ab98091869aa34de1698.png",
+  "thumb": "items/images/en/thumbs/heavy_warhead.f6463d740768ab98091869aa34de1698.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

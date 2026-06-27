@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5a311f84c2c9e90dfff475e4",
+  "slug": "kogake_prime_boot",
+  "market_slug": "kogake_prime_boot",
+  "name_en": "Kogake Prime Boot",
+  "name_en_slug": "kogake_prime_boot",
+  "name_kr": "코가케 프라임 부츠",
+  "aliases": [
+    "Kogake Prime Boot",
+    "kogake prime boot",
+    "kogake_prime_boot",
+    "코가케 프라임 부츠"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/KogakePrimeBoot",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/kogake_prime_boot.456b865463108d6f6ff51da978f839cd.png",
+  "thumb": "items/images/en/thumbs/kogake_prime_boot.456b865463108d6f6ff51da978f839cd.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

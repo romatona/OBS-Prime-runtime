@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5be5f5a03ffcc7038857f108",
+  "slug": "scarlet_hurricane",
+  "market_slug": "scarlet_hurricane",
+  "name_en": "Scarlet Hurricane",
+  "name_en_slug": "scarlet_hurricane",
+  "name_kr": "스칼렛 허리케인",
+  "aliases": [
+    "Scarlet Hurricane",
+    "scarlet hurricane",
+    "scarlet_hurricane",
+    "스칼렛 허리케인"
+  ],
+  "tags": [
+    "claws",
+    "mod",
+    "pvp",
+    "stance",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPClawStanceOne",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/scarlet_hurricane.1f4c763aa9db4ebbb599b301614a9f4f.png",
+  "thumb": "items/images/en/thumbs/scarlet_hurricane.1f4c763aa9db4ebbb599b301614a9f4f.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

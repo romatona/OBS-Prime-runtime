@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "57c73be094b4b0f159ab5e13",
+  "slug": "hysterical_assault",
+  "market_slug": "hysterical_assault",
+  "name_en": "Hysterical Assault",
+  "name_en_slug": "hysterical_assault",
+  "name_kr": "히스테리컬 어썰트",
+  "aliases": [
+    "Hysterical Assault",
+    "hysterical assault",
+    "hysterical_assault",
+    "히스테리컬 어썰트"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "rare",
+    "valkyr",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Berserker/LastStandAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/hysterical_assault.d0eaaceb3982bdd8bb585766ed9e6204.png",
+  "thumb": "items/images/en/thumbs/hysterical_assault.d0eaaceb3982bdd8bb585766ed9e6204.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

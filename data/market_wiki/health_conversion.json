@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56dac8d25cc639de0a45c52d",
+  "slug": "health_conversion",
+  "market_slug": "health_conversion",
+  "name_en": "Health Conversion",
+  "name_en_slug": "health_conversion",
+  "name_kr": "헬스 컨버전",
+  "aliases": [
+    "Health Conversion",
+    "health conversion",
+    "health_conversion",
+    "헬스 컨버전"
+  ],
+  "tags": [
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Warframe/HealthPickupGivesArmourMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/health_conversion.9d00e60accdfe2bf5185ed7669a92a88.png",
+  "thumb": "items/images/en/thumbs/health_conversion.9d00e60accdfe2bf5185ed7669a92a88.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

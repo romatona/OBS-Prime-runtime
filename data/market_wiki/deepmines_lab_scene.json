@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6901487ef88bae2d5b1f5396",
+  "slug": "deepmines_lab_scene",
+  "market_slug": "deepmines_lab_scene",
+  "name_en": "Deepmines Lab Scene",
+  "name_en_slug": "deepmines_lab_scene",
+  "name_kr": "지하 광산 연구소 배경",
+  "aliases": [
+    "Deepmines Lab Scene",
+    "deepmines lab scene",
+    "deepmines_lab_scene",
+    "지하 광산 연구소 배경"
+  ],
+  "tags": [
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/PhotoBooth/2025FallUpdate/PhotoboothNokkoLab",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/deepmines_lab_scene.be0bbf59d3b1e8b546e2296fe02e9b2c.webp",
+  "thumb": "items/images/en/thumbs/deepmines_lab_scene.be0bbf59d3b1e8b546e2296fe02e9b2c.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

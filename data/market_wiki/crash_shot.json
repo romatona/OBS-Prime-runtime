@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a4d1",
+  "slug": "crash_shot",
+  "market_slug": "crash_shot",
+  "name_en": "Crash Shot",
+  "name_en_slug": "crash_shot",
+  "name_kr": "크래쉬 샷",
+  "aliases": [
+    "Crash Shot",
+    "crash shot",
+    "crash_shot",
+    "크래쉬 샷"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "pvp",
+    "shotgun",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/DamageBiasImpactShotgunMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/crash_shot.8de3e7c1f08433a767ab31af52864e06.png",
+  "thumb": "items/images/en/thumbs/crash_shot.8de3e7c1f08433a767ab31af52864e06.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

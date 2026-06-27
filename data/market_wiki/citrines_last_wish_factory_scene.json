@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "63ee010010125411da49e6fe",
+  "slug": "citrines_last_wish_factory_scene",
+  "market_slug": "citrines_last_wish_factory_scene",
+  "name_en": "Citrine's Last Wish Factory Scene",
+  "name_en_slug": "citrines_last_wish_factory_scene",
+  "name_kr": "시트린의 마지막 소원 공장 배경",
+  "aliases": [
+    "Citrine's Last Wish Factory Scene",
+    "citrines last wish factory scene",
+    "citrines_last_wish_factory_scene",
+    "시트린의 마지막 소원 공장 배경"
+  ],
+  "tags": [
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/PhotoBooth/PhotoboothCitrinesLastWish",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/citrines_last_wish_factory_scene.ada19c70709531d5111e8a78f7c48496.png",
+  "thumb": "items/images/en/thumbs/citrines_last_wish_factory_scene.ada19c70709531d5111e8a78f7c48496.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "582b0f890af25410b099f7ff",
+  "slug": "corvas_set",
+  "market_slug": "corvas_set",
+  "name_en": "Corvas Set",
+  "name_en_slug": "corvas_set",
+  "name_kr": "코르바스 세트",
+  "aliases": [
+    "Corvas Set",
+    "corvas set",
+    "corvas_set",
+    "코르바스 세트"
+  ],
+  "tags": [
+    "archwing",
+    "primary",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Archwing/Primary/LaunchGrenade/ArchCannon",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/corvas_set.0248b2ad006d7ad6a460cc03eac4baa7.png",
+  "thumb": "items/images/en/thumbs/corvas_set.0248b2ad006d7ad6a460cc03eac4baa7.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

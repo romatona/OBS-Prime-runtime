@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e515690",
+  "slug": "savage_silence",
+  "market_slug": "savage_silence",
+  "name_en": "Savage Silence",
+  "name_en_slug": "savage_silence",
+  "name_kr": "새비지 사일런스",
+  "aliases": [
+    "Savage Silence",
+    "savage silence",
+    "savage_silence",
+    "새비지 사일런스"
+  ],
+  "tags": [
+    "augment",
+    "banshee",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Banshee/SilenceAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/savage_silence.ac9dfbbdd2b49fac9fe8a9fadd681463.png",
+  "thumb": "items/images/en/thumbs/savage_silence.ac9dfbbdd2b49fac9fe8a9fadd681463.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

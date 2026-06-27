@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "605b1de967ea0b004939c994",
+  "slug": "athodai_barrel",
+  "market_slug": "athodai_barrel",
+  "name_en": "Athodai Barrel",
+  "name_en_slug": "athodai_barrel",
+  "name_kr": "아쏘다이 배럴",
+  "aliases": [
+    "Athodai Barrel",
+    "athodai barrel",
+    "athodai_barrel",
+    "아쏘다이 배럴"
+  ],
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/AthodaiPistolBarrel",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/athodai_barrel.df278ff7a927e6fa6e2c3a20f4ccdcfb.png",
+  "thumb": "items/images/en/thumbs/athodai_barrel.df278ff7a927e6fa6e2c3a20f4ccdcfb.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

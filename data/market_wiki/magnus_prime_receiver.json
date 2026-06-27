@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6139101b30dd5b004b7f90ae",
+  "slug": "magnus_prime_receiver",
+  "market_slug": "magnus_prime_receiver",
+  "name_en": "Magnus Prime Receiver",
+  "name_en_slug": "magnus_prime_receiver",
+  "name_kr": "매그너스 프라임 리시버",
+  "aliases": [
+    "Magnus Prime Receiver",
+    "magnus prime receiver",
+    "magnus_prime_receiver",
+    "매그너스 프라임 리시버"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/MagnusPrimeReceiver",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/magnus_prime_receiver.0a344c24cc5add7707d6bb7c65e585b2.png",
+  "thumb": "items/images/en/thumbs/magnus_prime_receiver.0a344c24cc5add7707d6bb7c65e585b2.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

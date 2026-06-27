@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5c93e3b8fc2db20121591320",
+  "slug": "napalm_grenades",
+  "market_slug": "napalm_grenades",
+  "name_en": "Napalm Grenades",
+  "name_en_slug": "napalm_grenades",
+  "name_kr": "네이팜 그레네이드",
+  "aliases": [
+    "Napalm Grenades",
+    "napalm grenades",
+    "napalm_grenades",
+    "네이팜 그레네이드"
+  ],
+  "tags": [
+    "mod",
+    "penta",
+    "primary",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/GrenadeLauncherProjectileMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/napalm_grenades.f2ef75913e36cd9c4dfb041e1345c334.png",
+  "thumb": "items/images/en/thumbs/napalm_grenades.f2ef75913e36cd9c4dfb041e1345c334.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

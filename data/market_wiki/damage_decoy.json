@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6604a66edbdd5c1673781db9",
+  "slug": "damage_decoy",
+  "market_slug": "damage_decoy",
+  "name_en": "Damage Decoy",
+  "name_en_slug": "damage_decoy",
+  "name_kr": "데미지 디코이",
+  "aliases": [
+    "Damage Decoy",
+    "damage decoy",
+    "damage_decoy",
+    "데미지 디코이"
+  ],
+  "tags": [
+    "loki",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Loki/DecoyAugmentTwoCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/damage_decoy.7c1f472f2b7be65de7e9584e11cfa08d.png",
+  "thumb": "items/images/en/thumbs/damage_decoy.7c1f472f2b7be65de7e9584e11cfa08d.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

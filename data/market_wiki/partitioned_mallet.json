@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5b50a3b23a84fd02a7823252",
+  "slug": "partitioned_mallet",
+  "market_slug": "partitioned_mallet",
+  "name_en": "Partitioned Mallet",
+  "name_en_slug": "partitioned_mallet",
+  "name_kr": "파티션드 말렛",
+  "aliases": [
+    "Partitioned Mallet",
+    "partitioned mallet",
+    "partitioned_mallet",
+    "파티션드 말렛"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "octavia",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Bard/BardMusicAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/partitioned_mallet.e43558fc4eae736abf25f156f62cf517.png",
+  "thumb": "items/images/en/thumbs/partitioned_mallet.e43558fc4eae736abf25f156f62cf517.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

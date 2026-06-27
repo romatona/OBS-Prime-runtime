@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54aaf265e779895081b99385",
+  "slug": "arcane_phoenix_helmet",
+  "market_slug": "arcane_phoenix_helmet",
+  "name_en": "Arcane Phoenix Helmet",
+  "name_en_slug": "arcane_phoenix_helmet",
+  "name_kr": "아케인 피닉스 헬멧",
+  "aliases": [
+    "Arcane Phoenix Helmet",
+    "arcane phoenix helmet",
+    "arcane_phoenix_helmet",
+    "아케인 피닉스 헬멧"
+  ],
+  "tags": [
+    "arcane_helmet",
+    "skin"
+  ],
+  "game_ref": "/Lotus/Upgrades/Skins/Ember/EmberHelmetAlt",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/arcane_phoenix_ember_helmet.60c4c41457b1b29347dfd74551684366.png",
+  "thumb": "items/images/en/thumbs/arcane_phoenix_ember_helmet.60c4c41457b1b29347dfd74551684366.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

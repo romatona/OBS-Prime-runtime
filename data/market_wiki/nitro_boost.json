@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5be701113ffcc703e462c704",
+  "slug": "nitro_boost",
+  "market_slug": "nitro_boost",
+  "name_en": "Nitro Boost",
+  "name_en_slug": "nitro_boost",
+  "name_kr": "나이트로 부스트",
+  "aliases": [
+    "Nitro Boost",
+    "nitro boost",
+    "nitro_boost",
+    "나이트로 부스트"
+  ],
+  "tags": [
+    "k_drive",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Hoverboard/HBSprintSpeedMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/nitro_boost.3b6d966109f4e1a9f68349aaacbce888.png",
+  "thumb": "items/images/en/thumbs/nitro_boost.3b6d966109f4e1a9f68349aaacbce888.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

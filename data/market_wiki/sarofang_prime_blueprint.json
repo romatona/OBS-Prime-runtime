@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "69d67750b3984cc97e241759",
+  "slug": "sarofang_prime_blueprint",
+  "market_slug": "sarofang_prime_blueprint",
+  "name_en": "Sarofang Prime Blueprint",
+  "name_en_slug": "sarofang_prime_blueprint",
+  "name_kr": "사로팡 프라임 설계도",
+  "aliases": [
+    "Sarofang Prime",
+    "Sarofang Prime Blueprint",
+    "sarofang prime blueprint",
+    "sarofang_prime_blueprint",
+    "사로팡 프라임",
+    "사로팡 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "melee",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/SarofangPrimeBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/sarofang_prime_blueprint.fbbab9117b49d01d099fd937219c9749.webp",
+  "thumb": "items/images/en/thumbs/sarofang_prime_blueprint.fbbab9117b49d01d099fd937219c9749.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

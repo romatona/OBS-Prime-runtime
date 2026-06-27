@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "67e8c973cedcd0be6d135956",
+  "slug": "efv_8_mars_receiver",
+  "market_slug": "efv_8_mars_receiver",
+  "name_en": "EFV-8 Mars Receiver",
+  "name_en_slug": "efv_8_mars_receiver",
+  "name_kr": "EFV-8 마스 리시버",
+  "aliases": [
+    "EFV-8 Mars Receiver",
+    "EFV-8 마스 리시버",
+    "efv 8 mars receiver",
+    "efv_8_mars_receiver"
+  ],
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasGooPistolPlayerWeaponReceiver",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/efv_8_mars_receiver.7ea6d23799085277f1942e054de9f6fd.webp",
+  "thumb": "items/images/en/thumbs/efv_8_mars_receiver.7ea6d23799085277f1942e054de9f6fd.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

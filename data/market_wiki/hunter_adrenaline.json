@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5a0ef3fb10bc40007cce1c89",
+  "slug": "hunter_adrenaline",
+  "market_slug": "hunter_adrenaline",
+  "name_en": "Hunter Adrenaline",
+  "name_en_slug": "hunter_adrenaline",
+  "name_kr": "헌터 아드레날린",
+  "aliases": [
+    "Hunter Adrenaline",
+    "hunter adrenaline",
+    "hunter_adrenaline",
+    "헌터 아드레날린"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sets/Hunter/WarframeHunterAdrenalineMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/hunter_adrenaline.4aa86a8459126574f6f7191a08cbeb84.png",
+  "thumb": "items/images/en/thumbs/hunter_adrenaline.4aa86a8459126574f6f7191a08cbeb84.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

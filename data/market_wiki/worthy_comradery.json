@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "675c62587b18977f6e645422",
+  "slug": "worthy_comradery",
+  "market_slug": "worthy_comradery",
+  "name_en": "Worthy Comradery",
+  "name_en_slug": "worthy_comradery",
+  "name_kr": "워디 콤래더리",
+  "aliases": [
+    "Worthy Comradery",
+    "worthy comradery",
+    "worthy_comradery",
+    "워디 콤래더리"
+  ],
+  "tags": [
+    "aura",
+    "mod",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Aura/PlayerWeakpointCriticalChanceAuraMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/worthy_comradery.94d690c00d5d0aa096e766cea678b3fe.webp",
+  "thumb": "items/images/en/thumbs/worthy_comradery.94d690c00d5d0aa096e766cea678b3fe.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

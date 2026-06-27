@@ -1,0 +1,27 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6054de6c5221e3005750107a",
+  "slug": "chondricord",
+  "market_slug": "chondricord",
+  "name_en": "Chondricord",
+  "name_en_slug": "chondricord",
+  "name_kr": "콘드리코드",
+  "aliases": [
+    "Chondricord",
+    "chondricord",
+    "콘드리코드"
+  ],
+  "tags": [
+    "fish"
+  ],
+  "game_ref": "/Lotus/Types/Items/Fish/Deimos/OrokinUncommonAFishItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/chondricord.840ef965f6d424431214c65439c347c8.png",
+  "thumb": "items/images/en/thumbs/chondricord.840ef965f6d424431214c65439c347c8.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

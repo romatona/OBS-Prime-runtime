@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e5155c4",
+  "slug": "tranquil_cleave",
+  "market_slug": "tranquil_cleave",
+  "name_en": "Tranquil Cleave",
+  "name_en_slug": "tranquil_cleave",
+  "name_kr": "트랭퀼 클리브",
+  "aliases": [
+    "Tranquil Cleave",
+    "tranquil cleave",
+    "tranquil_cleave",
+    "트랭퀼 클리브"
+  ],
+  "tags": [
+    "mod",
+    "nikanas",
+    "rare",
+    "stance"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/KatanaCmbOneMeleeTree",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/tranquil_cleave.e23ba51f66afdbde9fdf05c445ea99c2.png",
+  "thumb": "items/images/en/thumbs/tranquil_cleave.e23ba51f66afdbde9fdf05c445ea99c2.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

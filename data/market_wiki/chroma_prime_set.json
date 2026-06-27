@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5ba9f2034567de01415f638b",
+  "slug": "chroma_prime_set",
+  "market_slug": "chroma_prime_set",
+  "name_en": "Chroma Prime Set",
+  "name_en_slug": "chroma_prime_set",
+  "name_kr": "크로마 프라임 세트",
+  "aliases": [
+    "Chroma Prime Set",
+    "chroma prime set",
+    "chroma_prime_set",
+    "크로마 프라임 세트"
+  ],
+  "tags": [
+    "prime",
+    "set",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Dragon/ChromaPrime",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/chroma_prime_set.746ea1c1556aa60f94f0c2399946baaf.png",
+  "thumb": "items/images/en/thumbs/chroma_prime_set.746ea1c1556aa60f94f0c2399946baaf.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

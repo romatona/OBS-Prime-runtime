@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6054de7d5221e30057501084",
+  "slug": "mortus_lungfish",
+  "market_slug": "mortus_lungfish",
+  "name_en": "Mortus Lungfish",
+  "name_en_slug": "mortus_lungfish",
+  "name_kr": "몰터스 폐어",
+  "aliases": [
+    "Mortus Lungfish",
+    "mortus lungfish",
+    "mortus_lungfish",
+    "몰터스 폐어"
+  ],
+  "tags": [
+    "fish"
+  ],
+  "game_ref": "/Lotus/Types/Items/Fish/Eidolon/DayUncommonFishBItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/mortus_lungfish.d4a6763f7d3cb41442eef571c9b0a6e3.png",
+  "thumb": "items/images/en/thumbs/mortus_lungfish.d4a6763f7d3cb41442eef571c9b0a6e3.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

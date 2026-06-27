@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5c7849e32cc6ce090383e26d",
+  "slug": "orb_vallis_scene",
+  "market_slug": "orb_vallis_scene",
+  "name_en": "Orb Vallis Scene",
+  "name_en_slug": "orb_vallis_scene",
+  "name_kr": "오브 협곡 배경",
+  "aliases": [
+    "Orb Vallis Scene",
+    "orb vallis scene",
+    "orb_vallis_scene",
+    "오브 협곡 배경"
+  ],
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/MiscItems/PhotoboothTileVenusLandscape",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/orb_vallis_scene.ec0d83fb585311c59e4dd5c3b668ca4e.png",
+  "thumb": "items/images/en/thumbs/orb_vallis_scene.ec0d83fb585311c59e4dd5c3b668ca4e.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

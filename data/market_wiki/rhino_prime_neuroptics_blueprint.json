@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a73e65e779893a797fff6f",
+  "slug": "rhino_prime_neuroptics_blueprint",
+  "market_slug": "rhino_prime_neuroptics_blueprint",
+  "name_en": "Rhino Prime Neuroptics Blueprint",
+  "name_en_slug": "rhino_prime_neuroptics_blueprint",
+  "name_kr": "라이노 프라임 뉴로옵틱스 설계도",
+  "aliases": [
+    "Rhino Prime Neuroptics",
+    "Rhino Prime Neuroptics Blueprint",
+    "rhino prime neuroptics blueprint",
+    "rhino_prime_neuroptics_blueprint",
+    "라이노 프라임 뉴로옵틱스",
+    "라이노 프라임 뉴로옵틱스 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/RhinoPrimeHelmetBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/rhino_prime_neuroptics.22301207f9463fe9ab215e40eb23a326.png",
+  "thumb": "items/images/en/thumbs/rhino_prime_neuroptics.22301207f9463fe9ab215e40eb23a326.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

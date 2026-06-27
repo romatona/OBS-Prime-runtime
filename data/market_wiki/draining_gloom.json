@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "585a925a2c2ada004285df01",
+  "slug": "draining_gloom",
+  "market_slug": "draining_gloom",
+  "name_en": "Draining Gloom",
+  "name_en_slug": "draining_gloom",
+  "name_kr": "드레이닝 글룸",
+  "aliases": [
+    "Draining Gloom",
+    "draining gloom",
+    "draining_gloom",
+    "드레이닝 글룸"
+  ],
+  "tags": [
+    "despair",
+    "mod",
+    "pvp",
+    "rare",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Pistol/DespairEnergyDrainAoE",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/draining_gloom.4d6890c07e01806ae034fd391d0a721c.png",
+  "thumb": "items/images/en/thumbs/draining_gloom.4d6890c07e01806ae034fd391d0a721c.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

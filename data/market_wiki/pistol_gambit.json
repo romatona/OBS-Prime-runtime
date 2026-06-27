@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e5155ca",
+  "slug": "pistol_gambit",
+  "market_slug": "pistol_gambit",
+  "name_en": "Pistol Gambit",
+  "name_en_slug": "pistol_gambit",
+  "name_kr": "피스톨 갬빗",
+  "aliases": [
+    "Pistol Gambit",
+    "pistol gambit",
+    "pistol_gambit",
+    "피스톨 갬빗"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "pistol",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Pistol/WeaponCritChanceMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/pistol_gambit.b7912cda548f169c61b0102350caa3ad.png",
+  "thumb": "items/images/en/thumbs/pistol_gambit.b7912cda548f169c61b0102350caa3ad.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

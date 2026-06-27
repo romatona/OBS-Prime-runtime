@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5bc1ab92b919f200c18c10ee",
+  "slug": "rolling_guard",
+  "market_slug": "rolling_guard",
+  "name_en": "Rolling Guard",
+  "name_en_slug": "rolling_guard",
+  "name_kr": "롤링 가드",
+  "aliases": [
+    "Rolling Guard",
+    "rolling guard",
+    "rolling_guard",
+    "롤링 가드"
+  ],
+  "tags": [
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Warframe/AvatarInvulnOnRollMod",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/rolling_guard.0b2c9bf665adf399d17197c4902615d7.png",
+  "thumb": "items/images/en/thumbs/rolling_guard.0b2c9bf665adf399d17197c4902615d7.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

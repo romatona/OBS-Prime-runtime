@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "57e91e65c76eb74c087f4932",
+  "slug": "ayatan_vaya_sculpture",
+  "market_slug": "ayatan_vaya_sculpture",
+  "name_en": "Ayatan Vaya Sculpture",
+  "name_en_slug": "ayatan_vaya_sculpture",
+  "name_kr": "아야탄 바야 조각상",
+  "aliases": [
+    "Ayatan Vaya Sculpture",
+    "ayatan vaya sculpture",
+    "ayatan_vaya_sculpture",
+    "아야탄 바야 조각상"
+  ],
+  "tags": [
+    "ayatan_sculpture"
+  ],
+  "game_ref": "/Lotus/Types/Items/FusionTreasures/OroFusexD",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/ko/ayatan_vaya_sculpture.3aaade63978258328e4106a499616299.png",
+  "thumb": "items/images/ko/thumbs/ayatan_vaya_sculpture.3aaade63978258328e4106a499616299.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

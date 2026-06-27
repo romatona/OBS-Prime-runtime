@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60e5b8ff4794450053e99956",
+  "slug": "aerial_prospectus",
+  "market_slug": "aerial_prospectus",
+  "name_en": "Aerial Prospectus",
+  "name_en_slug": "aerial_prospectus",
+  "name_kr": "에어리얼 프로스펙터스",
+  "aliases": [
+    "Aerial Prospectus",
+    "aerial prospectus",
+    "aerial_prospectus",
+    "에어리얼 프로스펙터스"
+  ],
+  "tags": [
+    "hound",
+    "mod",
+    "rare",
+    "sentinel"
+  ],
+  "game_ref": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetPrecepts/ZanukaPetPhotonStrikePrecept",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/aerial_prospectus.25ea36ce137b4e8f386e9a42eb6451bd.png",
+  "thumb": "items/images/en/thumbs/aerial_prospectus.25ea36ce137b4e8f386e9a42eb6451bd.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

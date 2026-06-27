@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "639a941c74b02f008887784b",
+  "slug": "afuris_prime_barrel",
+  "market_slug": "afuris_prime_barrel",
+  "name_en": "Afuris Prime Barrel",
+  "name_en_slug": "afuris_prime_barrel",
+  "name_kr": "아퓨리스 프라임 배럴",
+  "aliases": [
+    "Afuris Prime Barrel",
+    "afuris prime barrel",
+    "afuris_prime_barrel",
+    "아퓨리스 프라임 배럴"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/AfurisPrimeBarrel",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/afuris_prime_barrel.bfdca7167652c5c2d474ac75ea3af595.png",
+  "thumb": "items/images/en/thumbs/afuris_prime_barrel.bfdca7167652c5c2d474ac75ea3af595.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

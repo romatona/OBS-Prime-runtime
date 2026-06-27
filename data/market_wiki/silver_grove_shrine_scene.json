@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5bd05ad13ffcc700eb7cfd00",
+  "slug": "silver_grove_shrine_scene",
+  "market_slug": "silver_grove_shrine_scene",
+  "name_en": "Silver Grove Shrine Scene",
+  "name_en_slug": "silver_grove_shrine_scene",
+  "name_kr": "백은의 숲 성소 배경",
+  "aliases": [
+    "Silver Grove Shrine Scene",
+    "silver grove shrine scene",
+    "silver_grove_shrine_scene",
+    "백은의 숲 성소 배경"
+  ],
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/MiscItems/PhotoboothTileSyndicateNewLokaSilverGrove",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/silver_grove_shrine_scene.1b33e9f5c3bef41ae49ac347639bbd30.png",
+  "thumb": "items/images/en/thumbs/silver_grove_shrine_scene.1b33e9f5c3bef41ae49ac347639bbd30.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

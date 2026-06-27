@@ -1,0 +1,27 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6054de795221e30057501080",
+  "slug": "mawfish",
+  "market_slug": "mawfish",
+  "name_en": "Mawfish",
+  "name_en_slug": "mawfish",
+  "name_kr": "머우피쉬",
+  "aliases": [
+    "Mawfish",
+    "mawfish",
+    "머우피쉬"
+  ],
+  "tags": [
+    "fish"
+  ],
+  "game_ref": "/Lotus/Types/Items/Fish/Eidolon/DayCommonFishAItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/mawfish.5f814c64b17f3209eb4cc2df2efdbca0.png",
+  "thumb": "items/images/en/thumbs/mawfish.5f814c64b17f3209eb4cc2df2efdbca0.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

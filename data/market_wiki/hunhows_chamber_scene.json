@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5bd05acf3ffcc700eb7cfcfc",
+  "slug": "hunhows_chamber_scene",
+  "market_slug": "hunhows_chamber_scene",
+  "name_en": "Hunhow's Chamber Scene",
+  "name_en_slug": "hunhows_chamber_scene",
+  "name_kr": "헌하우의 공간 배경",
+  "aliases": [
+    "Hunhow's Chamber Scene",
+    "hunhows chamber scene",
+    "hunhows_chamber_scene",
+    "헌하우의 공간 배경"
+  ],
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/MiscItems/PhotoboothTileSyndicateRedVeilHunhow",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/hunhows_chamber_scene.f3696ad7d670f8228acf03032758f902.png",
+  "thumb": "items/images/en/thumbs/hunhows_chamber_scene.f3696ad7d670f8228acf03032758f902.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

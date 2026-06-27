@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6242037666a58f0108c3d482",
+  "slug": "nagantaka_prime_blueprint",
+  "market_slug": "nagantaka_prime_blueprint",
+  "name_en": "Nagantaka Prime Blueprint",
+  "name_en_slug": "nagantaka_prime_blueprint",
+  "name_kr": "나간타카 프라임 설계도",
+  "aliases": [
+    "Nagantaka Prime",
+    "Nagantaka Prime Blueprint",
+    "nagantaka prime blueprint",
+    "nagantaka_prime_blueprint",
+    "나간타카 프라임",
+    "나간타카 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "primary",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/NagantakaPrimeBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/nagantaka_prime_blueprint.f1af5a1cf53058c86df2c4969f37ea27.png",
+  "thumb": "items/images/en/thumbs/nagantaka_prime_blueprint.f1af5a1cf53058c86df2c4969f37ea27.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

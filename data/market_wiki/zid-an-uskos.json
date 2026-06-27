@@ -1,0 +1,27 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "69765a057b65a4e83d4ab4b0",
+  "slug": "zid-an-uskos",
+  "market_slug": "zid-an-uskos",
+  "name_en": "Zid-an Uskos",
+  "name_en_slug": "zid-an-uskos",
+  "name_kr": "지드-안 우스코스",
+  "aliases": [
+    "Zid-an Uskos",
+    "zid-an-uskos",
+    "지드-안 우스코스"
+  ],
+  "tags": [
+    "arcane_enhancement"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Antiques/HeatStatusProcOnUltimateKill",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/zid-an-uskos.818fb0745c38781db3fa7319dcb0729a.webp",
+  "thumb": "items/images/en/thumbs/zid-an-uskos.818fb0745c38781db3fa7319dcb0729a.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

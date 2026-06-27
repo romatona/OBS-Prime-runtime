@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "61bb64fd3132ff00482b5fbf",
+  "slug": "niras_hatred",
+  "market_slug": "niras_hatred",
+  "name_en": "Nira's Hatred",
+  "name_en_slug": "niras_hatred",
+  "name_kr": "나이라 헤이트리드",
+  "aliases": [
+    "Nira's Hatred",
+    "niras hatred",
+    "niras_hatred",
+    "나이라 헤이트리드"
+  ],
+  "tags": [
+    "mod",
+    "uncommon",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sets/Nira/NiraWarframeMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/niras_hatred.9c92948ae9386ff17f5de0b1320879a1.png",
+  "thumb": "items/images/en/thumbs/niras_hatred.9c92948ae9386ff17f5de0b1320879a1.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

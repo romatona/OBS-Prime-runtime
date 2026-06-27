@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "653833d6123a401b2563081d",
+  "slug": "abyssal_beacon",
+  "market_slug": "abyssal_beacon",
+  "name_en": "Abyssal Beacon",
+  "name_en_slug": "abyssal_beacon",
+  "name_kr": "Abyssal Beacon",
+  "aliases": [
+    "Abyssal Beacon",
+    "abyssal beacon",
+    "abyssal_beacon"
+  ],
+  "tags": [
+    "beacon",
+    "syndicate"
+  ],
+  "game_ref": "",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/abyssal_beacon.3154873da9b57ef6b1fa9878f7c0bec5.webp",
+  "thumb": "items/images/en/thumbs/abyssal_beacon.3154873da9b57ef6b1fa9878f7c0bec5.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

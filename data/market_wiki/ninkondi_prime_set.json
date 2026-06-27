@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5d21ce45f4604c012d1e0c11",
+  "slug": "ninkondi_prime_set",
+  "market_slug": "ninkondi_prime_set",
+  "name_en": "Ninkondi Prime Set",
+  "name_en_slug": "ninkondi_prime_set",
+  "name_kr": "닌콘디 프라임 세트",
+  "aliases": [
+    "Ninkondi Prime Set",
+    "ninkondi prime set",
+    "ninkondi_prime_set",
+    "닌콘디 프라임 세트"
+  ],
+  "tags": [
+    "melee",
+    "prime",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/PrimeNinkondi/PrimeNikondi",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/ninkondi_prime_set.d8516fa5fc9fe9518b6b9ec8fa59cb28.png",
+  "thumb": "items/images/en/thumbs/ninkondi_prime_set.d8516fa5fc9fe9518b6b9ec8fa59cb28.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

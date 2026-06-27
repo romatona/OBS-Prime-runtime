@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60e70f7a479445008f27257a",
+  "slug": "arbiters_combat_emote",
+  "market_slug": "arbiters_combat_emote",
+  "name_en": "Arbiters Combat Emote",
+  "name_en_slug": "arbiters_combat_emote",
+  "name_kr": "아비터즈 전투 감정 표현",
+  "aliases": [
+    "Arbiters Combat Emote",
+    "arbiters combat emote",
+    "arbiters_combat_emote",
+    "아비터즈 전투 감정 표현"
+  ],
+  "tags": [
+    "emote",
+    "syndicate"
+  ],
+  "game_ref": "/Lotus/Types/Items/Emotes/Syndicate/AHCombatEmote",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/arbiters_combat_emote.4c3ad2b674ec8aaac8aff78b4c238a19.png",
+  "thumb": "items/images/en/thumbs/arbiters_combat_emote.4c3ad2b674ec8aaac8aff78b4c238a19.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "566759c8db7c7a568a8d45ca",
+  "slug": "stealth_drift",
+  "market_slug": "stealth_drift",
+  "name_en": "Stealth Drift",
+  "name_en_slug": "stealth_drift",
+  "name_kr": "스텔스 드리프트",
+  "aliases": [
+    "Stealth Drift",
+    "stealth drift",
+    "stealth_drift",
+    "스텔스 드리프트"
+  ],
+  "tags": [
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/OrokinChallenge/OrokinChallengeModStealth",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/stealth_drift.4d089bfcf74e7fe98c2feba81b552854.png",
+  "thumb": "items/images/en/thumbs/stealth_drift.4d089bfcf74e7fe98c2feba81b552854.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

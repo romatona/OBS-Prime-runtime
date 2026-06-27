@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6056348590a69e004e862881",
+  "slug": "waveband_disruptor",
+  "market_slug": "waveband_disruptor",
+  "name_en": "Waveband Disruptor",
+  "name_en_slug": "waveband_disruptor",
+  "name_kr": "웨이브밴드 디스럽터",
+  "aliases": [
+    "Waveband Disruptor",
+    "waveband disruptor",
+    "waveband_disruptor",
+    "웨이브밴드 디스럽터"
+  ],
+  "tags": [
+    "mod",
+    "railjack",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Railjack/Gunnery/LavanCritBypassShieldTurret",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/waveband_disruptor.a5b6017f6387b3a4eb1bc2cd9ebfaeb7.png",
+  "thumb": "items/images/en/thumbs/waveband_disruptor.a5b6017f6387b3a4eb1bc2cd9ebfaeb7.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

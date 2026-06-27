@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56a7b2801133f656cb085d8c",
+  "slug": "sharpened_bullets",
+  "market_slug": "sharpened_bullets",
+  "name_en": "Sharpened Bullets",
+  "name_en_slug": "sharpened_bullets",
+  "name_kr": "샤픈드 불릿",
+  "aliases": [
+    "Sharpened Bullets",
+    "sharpened bullets",
+    "sharpened_bullets",
+    "샤픈드 불릿"
+  ],
+  "tags": [
+    "mod",
+    "pistol",
+    "secondary",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Pistol/Event/CritDamageWhileAimingPistolMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/sharpened_bullets.e2574bfc3a35927af69218dd4f48a6f6.png",
+  "thumb": "items/images/en/thumbs/sharpened_bullets.e2574bfc3a35927af69218dd4f48a6f6.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

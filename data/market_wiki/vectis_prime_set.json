@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56783f24cbfa8f0432dd89b1",
+  "slug": "vectis_prime_set",
+  "market_slug": "vectis_prime_set",
+  "name_en": "Vectis Prime Set",
+  "name_en_slug": "vectis_prime_set",
+  "name_kr": "벡티스 프라임 세트",
+  "aliases": [
+    "Vectis Prime Set",
+    "vectis prime set",
+    "vectis_prime_set",
+    "벡티스 프라임 세트"
+  ],
+  "tags": [
+    "primary",
+    "prime",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/LongGuns/PrimeVectis/PrimeVectisRifle",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/vectis_prime_set.028e001af4469482df80bff29542e043.png",
+  "thumb": "items/images/en/thumbs/vectis_prime_set.028e001af4469482df80bff29542e043.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

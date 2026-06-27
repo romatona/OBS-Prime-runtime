@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5dff6e111456970316674a16",
+  "slug": "conic_nozzle",
+  "market_slug": "conic_nozzle",
+  "name_en": "Conic Nozzle",
+  "name_en_slug": "conic_nozzle",
+  "name_kr": "코닉 노즐",
+  "aliases": [
+    "Conic Nozzle",
+    "conic nozzle",
+    "conic_nozzle",
+    "코닉 노즐"
+  ],
+  "tags": [
+    "mod",
+    "railjack",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Railjack/Piloting/ZektiSpeed",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/conic_nozzle.2a28d8acc04a19e0e5caae4c447db6f9.png",
+  "thumb": "items/images/en/thumbs/conic_nozzle.2a28d8acc04a19e0e5caae4c447db6f9.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

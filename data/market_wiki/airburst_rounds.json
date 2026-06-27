@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60cca19052f60b004dfea04e",
+  "slug": "airburst_rounds",
+  "market_slug": "airburst_rounds",
+  "name_en": "Airburst Rounds",
+  "name_en_slug": "airburst_rounds",
+  "name_kr": "에어버스트 라운즈",
+  "aliases": [
+    "Airburst Rounds",
+    "airburst rounds",
+    "airburst_rounds",
+    "에어버스트 라운즈"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "rare",
+    "warframe",
+    "zephyr"
+  ],
+  "game_ref": "/Lotus/Powersuits/Tengu/TenguBurstAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/airburst_rounds.91fb63fbc494c4cfbc99d2d4f5358b49.png",
+  "thumb": "items/images/en/thumbs/airburst_rounds.91fb63fbc494c4cfbc99d2d4f5358b49.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

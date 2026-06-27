@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5ea087d1c160d001303f9ed8",
+  "slug": "catapult",
+  "market_slug": "catapult",
+  "name_en": "Catapult",
+  "name_en_slug": "catapult",
+  "name_kr": "캐터펄트",
+  "aliases": [
+    "Catapult",
+    "catapult",
+    "캐터펄트"
+  ],
+  "tags": [
+    "augment",
+    "grendel",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Devourer/DevourerBowlAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/catapult.8f97b9f8513251cfc346f1fc514da45c.png",
+  "thumb": "items/images/en/thumbs/catapult.8f97b9f8513251cfc346f1fc514da45c.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

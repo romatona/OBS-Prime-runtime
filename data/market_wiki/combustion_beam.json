@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "55c1548fe779895df57fd05d",
+  "slug": "combustion_beam",
+  "market_slug": "combustion_beam",
+  "name_en": "Combustion Beam",
+  "name_en_slug": "combustion_beam",
+  "name_kr": "컴버스쳔 빔",
+  "aliases": [
+    "Combustion Beam",
+    "combustion beam",
+    "combustion_beam",
+    "컴버스쳔 빔"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/WeaponBeamExplodeOnDeath",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/combustion_beam.6f4d35d6c09aa716e3e7b44c2f2d5e81.png",
+  "thumb": "items/images/en/thumbs/combustion_beam.6f4d35d6c09aa716e3e7b44c2f2d5e81.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515609",
+  "slug": "sniper_scavenger",
+  "market_slug": "sniper_scavenger",
+  "name_en": "Sniper Scavenger",
+  "name_en_slug": "sniper_scavenger",
+  "name_kr": "스나이퍼 스캐빈저",
+  "aliases": [
+    "Sniper Scavenger",
+    "sniper scavenger",
+    "sniper_scavenger",
+    "스나이퍼 스캐빈저"
+  ],
+  "tags": [
+    "aura",
+    "mod",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Aura/PlayerSniperAmmoAuraMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/sniper_scavenger.fc4f17404bac3a608b6d5abb2990b66d.png",
+  "thumb": "items/images/en/thumbs/sniper_scavenger.fc4f17404bac3a608b6d5abb2990b66d.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

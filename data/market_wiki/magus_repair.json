@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5c1bda1b14a8e4006b1dad92",
+  "slug": "magus_repair",
+  "market_slug": "magus_repair",
+  "name_en": "Magus Repair",
+  "name_en_slug": "magus_repair",
+  "name_kr": "마구스 리페어",
+  "aliases": [
+    "Magus Repair",
+    "magus repair",
+    "magus_repair",
+    "마구스 리페어"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealOnVoidMode",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/magus_repair.476b8fa90aceb37cf1b07e223f1669fb.png",
+  "thumb": "items/images/en/thumbs/magus_repair.476b8fa90aceb37cf1b07e223f1669fb.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "693a1f69d6a357b81964f86f",
+  "slug": "harrowing_spire",
+  "market_slug": "harrowing_spire",
+  "name_en": "Harrowing Spire",
+  "name_en_slug": "harrowing_spire",
+  "name_kr": "해로잉 스파이어",
+  "aliases": [
+    "Harrowing Spire",
+    "harrowing spire",
+    "harrowing_spire",
+    "해로잉 스파이어"
+  ],
+  "tags": [
+    "bayonet",
+    "mod",
+    "rare",
+    "stance"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/BayonetCmbOneMeleeTree",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/harrowing_spire.aef3b0c06b16d837f9fe3c92ec2467b6.webp",
+  "thumb": "items/images/en/thumbs/harrowing_spire.aef3b0c06b16d837f9fe3c92ec2467b6.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

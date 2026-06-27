@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "69c529ffbb986142bb6e02c1",
+  "slug": "truths_flame",
+  "market_slug": "truths_flame",
+  "name_en": "Truth's Flame",
+  "name_en_slug": "truths_flame",
+  "name_kr": "트루스 플레임",
+  "aliases": [
+    "Truth's Flame",
+    "truths flame",
+    "truths_flame",
+    "트루스 플레임"
+  ],
+  "tags": [
+    "melee",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/EmpoweredHeavyMelee/CursedSyndicateEmpoweredHeavyMeleeMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/truths_flame.9c178f8ac7817f08081e34dfd2f7b9df.webp",
+  "thumb": "items/images/en/thumbs/truths_flame.9c178f8ac7817f08081e34dfd2f7b9df.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

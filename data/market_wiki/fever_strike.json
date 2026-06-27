@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515669",
+  "slug": "fever_strike",
+  "market_slug": "fever_strike",
+  "name_en": "Fever Strike",
+  "name_en_slug": "fever_strike",
+  "name_kr": "피버 스트라이크",
+  "aliases": [
+    "Fever Strike",
+    "fever strike",
+    "fever_strike",
+    "피버 스트라이크"
+  ],
+  "tags": [
+    "melee",
+    "mod",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Melee/WeaponToxinDamageMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/fever_strike.bf321f3944fc5640a739184a2a2fdf5b.png",
+  "thumb": "items/images/en/thumbs/fever_strike.bf321f3944fc5640a739184a2a2fdf5b.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

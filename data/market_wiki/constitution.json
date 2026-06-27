@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156a8",
+  "slug": "constitution",
+  "market_slug": "constitution",
+  "name_en": "Constitution",
+  "name_en_slug": "constitution",
+  "name_kr": "컨스티튜션",
+  "aliases": [
+    "Constitution",
+    "constitution",
+    "컨스티튜션"
+  ],
+  "tags": [
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Warframe/DualStat/ConstitutionMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/constitution.f1d2cd4cd1c771e3db5ef3b0c87a5fb3.png",
+  "thumb": "items/images/en/thumbs/constitution.f1d2cd4cd1c771e3db5ef3b0c87a5fb3.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

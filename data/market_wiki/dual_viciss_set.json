@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "67e8c995cedcd0be6d135959",
+  "slug": "dual_viciss_set",
+  "market_slug": "dual_viciss_set",
+  "name_en": "Dual Viciss Set",
+  "name_en_slug": "dual_viciss_set",
+  "name_kr": "듀얼 비시스 세트",
+  "aliases": [
+    "Dual Viciss Set",
+    "dual viciss set",
+    "dual_viciss_set",
+    "듀얼 비시스 세트"
+  ],
+  "tags": [
+    "melee",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Lasria/LasGooSickle/LasGooSicklePlayerWeapon",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/dual_viciss_set.c15a2204ca280b7b4db1bfe0d53a07cf.webp",
+  "thumb": "items/images/en/thumbs/dual_viciss_set.c15a2204ca280b7b4db1bfe0d53a07cf.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

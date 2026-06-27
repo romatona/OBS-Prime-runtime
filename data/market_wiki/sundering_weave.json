@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e5155b5",
+  "slug": "sundering_weave",
+  "market_slug": "sundering_weave",
+  "name_en": "Sundering Weave",
+  "name_en_slug": "sundering_weave",
+  "name_kr": "선더링 위브",
+  "aliases": [
+    "Sundering Weave",
+    "sundering weave",
+    "sundering_weave",
+    "선더링 위브"
+  ],
+  "tags": [
+    "machetes",
+    "mod",
+    "stance",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/MacheteCmbOneMeleeTree",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/sundering_weave.bbee29e4bef621557278830ca7186a6a.png",
+  "thumb": "items/images/en/thumbs/sundering_weave.bbee29e4bef621557278830ca7186a6a.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

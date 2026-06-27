@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6214e88fe3c4660048a8b97e",
+  "slug": "thermal_transfer",
+  "market_slug": "thermal_transfer",
+  "name_en": "Thermal Transfer",
+  "name_en_slug": "thermal_transfer",
+  "name_kr": "써멀 트랜스퍼",
+  "aliases": [
+    "Thermal Transfer",
+    "thermal transfer",
+    "thermal_transfer",
+    "써멀 트랜스퍼"
+  ],
+  "tags": [
+    "augment",
+    "gauss",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Runner/RunnerTransferAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/thermal_transfer.5d70e7595448afc2590b68af46b7f8db.png",
+  "thumb": "items/images/en/thumbs/thermal_transfer.5d70e7595448afc2590b68af46b7f8db.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

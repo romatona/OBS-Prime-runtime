@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5f498a269426ed00443bd0cf",
+  "slug": "necramech_refuel",
+  "market_slug": "necramech_refuel",
+  "name_en": "Necramech Refuel",
+  "name_en_slug": "necramech_refuel",
+  "name_kr": "네크라메크 리퓰",
+  "aliases": [
+    "Necramech Refuel",
+    "necramech refuel",
+    "necramech_refuel",
+    "네크라메크 리퓰"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "necramech"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Necromech/NecromechBoostRechargeMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/necramech_refuel.3064dd67344c9dad1449a60a896e66e7.png",
+  "thumb": "items/images/en/thumbs/necramech_refuel.3064dd67344c9dad1449a60a896e66e7.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

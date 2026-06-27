@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5c1bda2214a8e4006b1dada0",
+  "slug": "strain_consume",
+  "market_slug": "strain_consume",
+  "name_en": "Strain Consume",
+  "name_en_slug": "strain_consume",
+  "name_kr": "스트레인 컨슘",
+  "aliases": [
+    "Strain Consume",
+    "strain consume",
+    "strain_consume",
+    "스트레인 컨슘"
+  ],
+  "tags": [
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sets/Strain/WarframeStrainConsumeMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/strain_consume.2286ac0e3f2686c579239434531a8c96.png",
+  "thumb": "items/images/en/thumbs/strain_consume.2286ac0e3f2686c579239434531a8c96.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "68028a0a24bd8dc3de5797d4",
+  "slug": "primed_stabilizer",
+  "market_slug": "primed_stabilizer",
+  "name_en": "Primed Stabilizer",
+  "name_en_slug": "primed_stabilizer",
+  "name_kr": "프라임드 스테빌라이저",
+  "aliases": [
+    "Primed Stabilizer",
+    "primed stabilizer",
+    "primed_stabilizer",
+    "프라임드 스테빌라이저"
+  ],
+  "tags": [
+    "legendary",
+    "mod",
+    "primary",
+    "rifle"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/Expert/WeaponRecoilReductionModExpert",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/primed_stabilizer.6a71bfad85471874722d113409dcc828.webp",
+  "thumb": "items/images/en/thumbs/primed_stabilizer.6a71bfad85471874722d113409dcc828.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

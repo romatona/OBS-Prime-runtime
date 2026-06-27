@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a73e65e779893a797fff27",
+  "slug": "bo_prime_blueprint",
+  "market_slug": "bo_prime_blueprint",
+  "name_en": "Bo Prime Blueprint",
+  "name_en_slug": "bo_prime_blueprint",
+  "name_kr": "보 프라임 설계도",
+  "aliases": [
+    "Bo Prime",
+    "Bo Prime Blueprint",
+    "bo prime blueprint",
+    "bo_prime_blueprint",
+    "보 프라임",
+    "보 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "melee",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/PrimeBoBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/bo_prime_blueprint.fad65cfb95d62a4275be60be30375846.png",
+  "thumb": "items/images/en/thumbs/bo_prime_blueprint.fad65cfb95d62a4275be60be30375846.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

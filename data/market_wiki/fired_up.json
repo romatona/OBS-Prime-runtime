@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e51569b",
+  "slug": "fired_up",
+  "market_slug": "fired_up",
+  "name_en": "Fired Up",
+  "name_en_slug": "fired_up",
+  "name_kr": "파이어드 업",
+  "aliases": [
+    "Fired Up",
+    "fired up",
+    "fired_up",
+    "파이어드 업"
+  ],
+  "tags": [
+    "mod",
+    "rare",
+    "sentinel"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sentinel/SentinelOverheatDamageMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/fired_up.33e41b63a3f193f1e801b503a1afb585.png",
+  "thumb": "items/images/en/thumbs/fired_up.33e41b63a3f193f1e801b503a1afb585.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

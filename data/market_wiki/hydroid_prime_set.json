@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "59a48b625cd9938cfede703c",
+  "slug": "hydroid_prime_set",
+  "market_slug": "hydroid_prime_set",
+  "name_en": "Hydroid Prime Set",
+  "name_en_slug": "hydroid_prime_set",
+  "name_kr": "하이드로이드 프라임 세트",
+  "aliases": [
+    "Hydroid Prime Set",
+    "hydroid prime set",
+    "hydroid_prime_set",
+    "하이드로이드 프라임 세트"
+  ],
+  "tags": [
+    "prime",
+    "set",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Pirate/HydroidPrime",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/hydroid_prime_set.5f1abb4ef137bf0dd41565a913f5232a.png",
+  "thumb": "items/images/en/thumbs/hydroid_prime_set.5f1abb4ef137bf0dd41565a913f5232a.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

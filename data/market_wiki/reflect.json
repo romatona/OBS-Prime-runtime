@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5788fadc4fff472f131a1362",
+  "slug": "reflect",
+  "market_slug": "reflect",
+  "name_en": "Reflect",
+  "name_en_slug": "reflect",
+  "name_kr": "리플렉트",
+  "aliases": [
+    "Reflect",
+    "reflect",
+    "리플렉트"
+  ],
+  "tags": [
+    "adarza_kavat",
+    "kavat",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Types/Friendly/Pets/CatbrowPetPrecepts/CatbrowReflectPrecept",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/reflect.425845045b282ef7487fc8f5566cc6d5.png",
+  "thumb": "items/images/en/thumbs/reflect.425845045b282ef7487fc8f5566cc6d5.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

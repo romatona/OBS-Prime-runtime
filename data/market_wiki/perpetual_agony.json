@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "554d3af4e77989420d3de2a4",
+  "slug": "perpetual_agony",
+  "market_slug": "perpetual_agony",
+  "name_en": "Perpetual Agony",
+  "name_en_slug": "perpetual_agony",
+  "name_kr": "펄페츄얼 아고니",
+  "aliases": [
+    "Perpetual Agony",
+    "perpetual agony",
+    "perpetual_agony",
+    "펄페츄얼 아고니"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "pistol",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Pistol/WeaponProcTimeMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/perpetual_agony.544534318a687be2710174e2c8826f96.png",
+  "thumb": "items/images/en/thumbs/perpetual_agony.544534318a687be2710174e2c8826f96.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

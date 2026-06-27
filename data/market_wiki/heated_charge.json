@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156c7",
+  "slug": "heated_charge",
+  "market_slug": "heated_charge",
+  "name_en": "Heated Charge",
+  "name_en_slug": "heated_charge",
+  "name_kr": "히티드 차지",
+  "aliases": [
+    "Heated Charge",
+    "heated charge",
+    "heated_charge",
+    "히티드 차지"
+  ],
+  "tags": [
+    "mod",
+    "pistol",
+    "secondary",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Pistol/WeaponFireDamageMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/heated_charge.49a85d4cb5d62cd1e7828ad7f418a61c.png",
+  "thumb": "items/images/en/thumbs/heated_charge.49a85d4cb5d62cd1e7828ad7f418a61c.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60896628ea93740269271780",
+  "slug": "deimos_depths_scene",
+  "market_slug": "deimos_depths_scene",
+  "name_en": "Deimos Depths Scene",
+  "name_en_slug": "deimos_depths_scene",
+  "name_kr": "데이모스 심층 배경",
+  "aliases": [
+    "Deimos Depths Scene",
+    "deimos depths scene",
+    "deimos_depths_scene",
+    "데이모스 심층 배경"
+  ],
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/MiscItems/PhotoboothTileDeimosCalamity",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/deimos_depths_scene.4acffcc10d90cb2198ee6b2e86a0eff2.png",
+  "thumb": "items/images/en/thumbs/deimos_depths_scene.4acffcc10d90cb2198ee6b2e86a0eff2.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

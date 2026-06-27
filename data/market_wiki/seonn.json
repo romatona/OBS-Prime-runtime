@@ -1,0 +1,27 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "645ba2a67ec1900802a58a47",
+  "slug": "seonn",
+  "market_slug": "seonn",
+  "name_en": "Seonn",
+  "name_en_slug": "seonn",
+  "name_kr": "선",
+  "aliases": [
+    "Seonn",
+    "seonn",
+    "선"
+  ],
+  "tags": [
+    "fish"
+  ],
+  "game_ref": "/Lotus/Types/Gameplay/Duviri/Resource/Fish/DuviriFishEItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/seonn.7390238e2129d768901d3b289407169b.png",
+  "thumb": "items/images/en/thumbs/seonn.7390238e2129d768901d3b289407169b.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

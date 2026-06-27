@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "58e6407ada6e257f670cf070",
+  "slug": "teshins_refuge_scene",
+  "market_slug": "teshins_refuge_scene",
+  "name_en": "Teshin's Refuge Scene",
+  "name_en_slug": "teshins_refuge_scene",
+  "name_kr": "테신의 은신처 배경",
+  "aliases": [
+    "Teshin's Refuge Scene",
+    "teshins refuge scene",
+    "teshins_refuge_scene",
+    "테신의 은신처 배경"
+  ],
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/MiscItems/PhotoboothTilePvPConclave",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/teshins_refuge_scene.692b1c90cda56e257ed0ea837de927b0.png",
+  "thumb": "items/images/en/thumbs/teshins_refuge_scene.692b1c90cda56e257ed0ea837de927b0.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,27 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "69765a057b65a4e83d4ab4ae",
+  "slug": "zid-an-sek-eel",
+  "market_slug": "zid-an-sek-eel",
+  "name_en": "Zid-an Sek-eel",
+  "name_en_slug": "zid-an-sek-eel",
+  "name_kr": "지드-안 세크-일",
+  "aliases": [
+    "Zid-an Sek-eel",
+    "zid-an-sek-eel",
+    "지드-안 세크-일"
+  ],
+  "tags": [
+    "arcane_enhancement"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Antiques/UltimateInvisibilty",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/zid-an-sek-eel.8bc9e9fa897d0231cdeca3f6d8645e66.webp",
+  "thumb": "items/images/en/thumbs/zid-an-sek-eel.8bc9e9fa897d0231cdeca3f6d8645e66.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

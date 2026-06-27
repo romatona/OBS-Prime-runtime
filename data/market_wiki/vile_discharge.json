@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "62d3494175156700ce450dfb",
+  "slug": "vile_discharge",
+  "market_slug": "vile_discharge",
+  "name_en": "Vile Discharge",
+  "name_en_slug": "vile_discharge",
+  "name_kr": "바일 디스차지",
+  "aliases": [
+    "Vile Discharge",
+    "vile discharge",
+    "vile_discharge",
+    "바일 디스차지"
+  ],
+  "tags": [
+    "embolist",
+    "mod",
+    "rare",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/Event/Nightwave/NightwaveEmbolistAugmentMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/vile_discharge.f79e889a984d749579a3282409b02a1d.png",
+  "thumb": "items/images/en/thumbs/vile_discharge.f79e889a984d749579a3282409b02a1d.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

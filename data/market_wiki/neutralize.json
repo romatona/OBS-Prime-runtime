@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5615432bb66f8371035bfa2e",
+  "slug": "neutralize",
+  "market_slug": "neutralize",
+  "name_en": "Neutralize",
+  "name_en_slug": "neutralize",
+  "name_kr": "뉴트럴라이즈",
+  "aliases": [
+    "Neutralize",
+    "neutralize",
+    "뉴트럴라이즈"
+  ],
+  "tags": [
+    "chesa_kubrow",
+    "kubrow",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Types/Friendly/Pets/KubrowPetPrecepts/KubrowDisarmPrecept",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/neutralize.a1c4b488328e3b844b16e657030b59fb.png",
+  "thumb": "items/images/en/thumbs/neutralize.a1c4b488328e3b844b16e657030b59fb.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

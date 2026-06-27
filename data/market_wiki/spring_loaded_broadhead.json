@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a4f7",
+  "slug": "spring_loaded_broadhead",
+  "market_slug": "spring_loaded_broadhead",
+  "name_en": "Spring-Loaded Broadhead",
+  "name_en_slug": "spring_loaded_broadhead",
+  "name_kr": "스프링-로디드 브로드헤드",
+  "aliases": [
+    "Spring-Loaded Broadhead",
+    "spring loaded broadhead",
+    "spring_loaded_broadhead",
+    "스프링-로디드 브로드헤드"
+  ],
+  "tags": [
+    "daikyu",
+    "mod",
+    "primary",
+    "pvp",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Rifle/DaikyuMoreDamageOverDistanceMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/spring_loaded_broadhead.8457bdc8b1bcad57c7c22fb94bd5bebd.png",
+  "thumb": "items/images/en/thumbs/spring_loaded_broadhead.8457bdc8b1bcad57c7c22fb94bd5bebd.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

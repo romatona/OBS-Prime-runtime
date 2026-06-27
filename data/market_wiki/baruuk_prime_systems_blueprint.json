@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "639a8d9374b02f003889eb7e",
+  "slug": "baruuk_prime_systems_blueprint",
+  "market_slug": "baruuk_prime_systems_blueprint",
+  "name_en": "Baruuk Prime Systems Blueprint",
+  "name_en_slug": "baruuk_prime_systems_blueprint",
+  "name_kr": "바루크 프라임 시스템 설계도",
+  "aliases": [
+    "Baruuk Prime Systems",
+    "Baruuk Prime Systems Blueprint",
+    "baruuk prime systems blueprint",
+    "baruuk_prime_systems_blueprint",
+    "바루크 프라임 시스템",
+    "바루크 프라임 시스템 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/BaruukPrimeSystemsBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/baruuk_prime_systems_blueprint.90bcb486d7a5defe4a74c94acfebf6d0.png",
+  "thumb": "items/images/en/thumbs/baruuk_prime_systems_blueprint.90bcb486d7a5defe4a74c94acfebf6d0.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

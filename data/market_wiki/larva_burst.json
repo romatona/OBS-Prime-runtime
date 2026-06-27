@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5a6b495c7f2bca025fde2b58",
+  "slug": "larva_burst",
+  "market_slug": "larva_burst",
+  "name_en": "Larva Burst",
+  "name_en_slug": "larva_burst",
+  "name_kr": "라바 버스트",
+  "aliases": [
+    "Larva Burst",
+    "larva burst",
+    "larva_burst",
+    "라바 버스트"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "nidus",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Infestation/InfestTendrilsAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/larva_burst.cc35be884ce7c5ef3c9913a9586a76aa.png",
+  "thumb": "items/images/en/thumbs/larva_burst.cc35be884ce7c5ef3c9913a9586a76aa.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

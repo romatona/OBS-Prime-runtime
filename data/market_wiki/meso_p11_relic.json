@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "641264a57d179f02190e41f4",
+  "slug": "meso_p11_relic",
+  "market_slug": "meso_p11_relic",
+  "name_en": "Meso P11 Relic",
+  "name_en_slug": "meso_p11_relic",
+  "name_kr": "메소 P11 성유물",
+  "aliases": [
+    "Meso P11 Relic",
+    "meso p11 relic",
+    "meso_p11_relic",
+    "메소 P11 성유물"
+  ],
+  "tags": [
+    "meso",
+    "relic"
+  ],
+  "game_ref": "/Lotus/Types/Game/Projections/T2VoidProjectionHildrynPrimeA",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/meso_p11_relic.a19d00c7586541c7fb6717fa2e27b7ca.png",
+  "thumb": "items/images/en/thumbs/meso_p11_relic.a19d00c7586541c7fb6717fa2e27b7ca.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

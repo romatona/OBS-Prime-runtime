@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a502",
+  "slug": "venomous_rise",
+  "market_slug": "venomous_rise",
+  "name_en": "Venomous Rise",
+  "name_en_slug": "venomous_rise",
+  "name_kr": "베노머스 라이즈",
+  "aliases": [
+    "Venomous Rise",
+    "venomous rise",
+    "venomous_rise",
+    "베노머스 라이즈"
+  ],
+  "tags": [
+    "mod",
+    "pvp",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Warframe/PoisonParkourPvPMod",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/venomous_rise.d3013361047ec06da09edb2f83cdb0d7.png",
+  "thumb": "items/images/en/thumbs/venomous_rise.d3013361047ec06da09edb2f83cdb0d7.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

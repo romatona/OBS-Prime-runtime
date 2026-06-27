@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "66049a11dbdd5c1673781dac",
+  "slug": "dantes_retreat_scene",
+  "market_slug": "dantes_retreat_scene",
+  "name_en": "Dante's Retreat Scene",
+  "name_en_slug": "dantes_retreat_scene",
+  "name_kr": "단테의 안식처 배경",
+  "aliases": [
+    "Dante's Retreat Scene",
+    "dantes retreat scene",
+    "dantes_retreat_scene",
+    "단테의 안식처 배경"
+  ],
+  "tags": [
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/PhotoBooth/Entrati/PhotoboothTileDeadEndSecret",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/dantes_retreat_scene.f02ed57d835699b37a2b8d8af6b10cf7.png",
+  "thumb": "items/images/en/thumbs/dantes_retreat_scene.f02ed57d835699b37a2b8d8af6b10cf7.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

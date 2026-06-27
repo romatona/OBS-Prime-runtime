@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54aaf530e77989707ada3a7e",
+  "slug": "legendary_fusion_core",
+  "market_slug": "legendary_fusion_core",
+  "name_en": "Legendary Fusion Core",
+  "name_en_slug": "legendary_fusion_core",
+  "name_kr": "레전더리 퓨전 코어",
+  "aliases": [
+    "Legendary Fusion Core",
+    "legendary fusion core",
+    "legendary_fusion_core",
+    "레전더리 퓨전 코어"
+  ],
+  "tags": [
+    "fusion core"
+  ],
+  "game_ref": "",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/legendary_fusion_core.094c2850f995a3d365d934296517c0d5.webp",
+  "thumb": "items/images/en/thumbs/legendary_fusion_core.094c2850f995a3d365d934296517c0d5.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

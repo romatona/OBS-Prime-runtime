@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5ba9f2044567de01415f638e",
+  "slug": "huras_kubrow_imprint",
+  "market_slug": "huras_kubrow_imprint",
+  "name_en": "Huras Kubrow Imprint",
+  "name_en_slug": "huras_kubrow_imprint",
+  "name_kr": "휴라스 쿠브로 임프린트",
+  "aliases": [
+    "Huras Kubrow Imprint",
+    "huras kubrow imprint",
+    "huras_kubrow_imprint",
+    "휴라스 쿠브로 임프린트"
+  ],
+  "tags": [
+    "imprint",
+    "kubrow",
+    "pet"
+  ],
+  "game_ref": "/Lotus/Types/Game/KubrowPet/FurtiveKubrowPetPowerSuit",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/huras_kubrow_imprint.410e212ff69a4ac14a64bbab561e7f43.png",
+  "thumb": "items/images/en/thumbs/huras_kubrow_imprint.410e212ff69a4ac14a64bbab561e7f43.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

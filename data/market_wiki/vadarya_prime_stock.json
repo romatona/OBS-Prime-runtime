@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "68add07d731e63abe79a5d19",
+  "slug": "vadarya_prime_stock",
+  "market_slug": "vadarya_prime_stock",
+  "name_en": "Vadarya Prime Stock",
+  "name_en_slug": "vadarya_prime_stock",
+  "name_kr": "바다르야 프라임 스톡",
+  "aliases": [
+    "Vadarya Prime Stock",
+    "vadarya prime stock",
+    "vadarya_prime_stock",
+    "바다르야 프라임 스톡"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeLightningGunStock",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/unknown.png",
+  "thumb": "",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

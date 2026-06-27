@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "580e38faca550948410af0a4",
+  "slug": "thermagnetic_shells",
+  "market_slug": "thermagnetic_shells",
+  "name_en": "Thermagnetic Shells",
+  "name_en_slug": "thermagnetic_shells",
+  "name_kr": "써마그네틱 쉘즈",
+  "aliases": [
+    "Thermagnetic Shells",
+    "thermagnetic shells",
+    "thermagnetic_shells",
+    "써마그네틱 쉘즈"
+  ],
+  "tags": [
+    "detron",
+    "mod",
+    "rare",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/Event/CorpusArena/SupraCorpusArenaMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/thermagnetic_shells.7e23022e67e879991e92e22ac7ce2727.png",
+  "thumb": "items/images/en/thumbs/thermagnetic_shells.7e23022e67e879991e92e22ac7ce2727.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

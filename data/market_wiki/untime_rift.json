@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "68efba9a89984fb97a33aa33",
+  "slug": "untime_rift",
+  "market_slug": "untime_rift",
+  "name_en": "Untime Rift",
+  "name_en_slug": "untime_rift",
+  "name_kr": "언타임 리프트",
+  "aliases": [
+    "Untime Rift",
+    "untime rift",
+    "untime_rift",
+    "언타임 리프트"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "rare",
+    "warframe",
+    "xaku"
+  ],
+  "game_ref": "/Lotus/Powersuits/BrokenFrame/BrokenDestructAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/unknown.png",
+  "thumb": "",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

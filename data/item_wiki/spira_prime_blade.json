@@ -1,0 +1,31 @@
+﻿{
+    "schema":  "obs_prime.item_wiki_entry.v1",
+    "slug":  "spira_prime_blade",
+    "market_slug":  "spira_prime_blade",
+    "name_en":  "Spira Prime Blade",
+    "name_en_slug":  "spira_prime_blade",
+    "name_kr":  "스피라 프라임 블레이드",
+    "aliases":  [
+                    "Spira Prime Blade",
+                    "spira_prime_blade",
+                    "스피라 프라임 블레이드"
+                ],
+    "ducats":  65,
+    "ducats_display":  "65 d",
+    "ducats_source":  "warframe_market_v2_items",
+    "rarities":  [
+                     "Rare",
+                     "Uncommon"
+                 ],
+    "plat":  null,
+    "plat_display":  "-",
+    "plat_date":  "",
+    "source":  {
+                   "wfcd_relics":  "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Relics.json",
+                   "warframe_market_items":  "https://api.warframe.market/v2/items",
+                   "price_cache":  "data/market_cache/warframe_market_prices.json"
+               },
+    "updated_at":  "2026-06-26T02:05:14Z",
+    "version":  "26-06-26",
+    "relic_reward_count":  24
+}

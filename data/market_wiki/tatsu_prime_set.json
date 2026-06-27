@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "633e2e6af570d10793afb817",
+  "slug": "tatsu_prime_set",
+  "market_slug": "tatsu_prime_set",
+  "name_en": "Tatsu Prime Set",
+  "name_en_slug": "tatsu_prime_set",
+  "name_kr": "타츠 프라임 세트",
+  "aliases": [
+    "Tatsu Prime Set",
+    "tatsu prime set",
+    "tatsu_prime_set",
+    "타츠 프라임 세트"
+  ],
+  "tags": [
+    "melee",
+    "prime",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/Swords/PrimeTatsu/PrimeTatsuWeapon",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/tatsu_prime_set.d517fb4c89ed6076ddf26ffdb8efb88e.png",
+  "thumb": "items/images/en/thumbs/tatsu_prime_set.d517fb4c89ed6076ddf26ffdb8efb88e.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

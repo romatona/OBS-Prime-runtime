@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5ca28670fc2db2035eae05a5",
+  "slug": "equinox_prime_neuroptics_blueprint",
+  "market_slug": "equinox_prime_neuroptics_blueprint",
+  "name_en": "Equinox Prime Neuroptics Blueprint",
+  "name_en_slug": "equinox_prime_neuroptics_blueprint",
+  "name_kr": "이쿼녹스 프라임 뉴로옵틱스 설계도",
+  "aliases": [
+    "Equinox Prime Neuroptics",
+    "Equinox Prime Neuroptics Blueprint",
+    "equinox prime neuroptics blueprint",
+    "equinox_prime_neuroptics_blueprint",
+    "이쿼녹스 프라임 뉴로옵틱스",
+    "이쿼녹스 프라임 뉴로옵틱스 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/EquinoxPrimeHelmetBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/equinox_prime_neuroptics.1163c3dad7a8ffce02af7d475fc0ccd4.png",
+  "thumb": "items/images/en/thumbs/equinox_prime_neuroptics.1163c3dad7a8ffce02af7d475fc0ccd4.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

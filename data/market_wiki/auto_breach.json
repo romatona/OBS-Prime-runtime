@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5dbe9b0d7ea27b0ffe3ca275",
+  "slug": "auto_breach",
+  "market_slug": "auto_breach",
+  "name_en": "Auto Breach",
+  "name_en_slug": "auto_breach",
+  "name_kr": "오토 브리치",
+  "aliases": [
+    "Auto Breach",
+    "auto breach",
+    "auto_breach",
+    "오토 브리치"
+  ],
+  "tags": [
+    "mod",
+    "parazon",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/DataSpike/Cipher/AutoHackMod",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/auto_breach.84fc19699e6af7b4d32529aff017634c.png",
+  "thumb": "items/images/en/thumbs/auto_breach.84fc19699e6af7b4d32529aff017634c.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

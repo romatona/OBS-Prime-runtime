@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5ba9f2044567de01415f638d",
+  "slug": "sunika_kubrow_imprint",
+  "market_slug": "sunika_kubrow_imprint",
+  "name_en": "Sunika Kubrow Imprint",
+  "name_en_slug": "sunika_kubrow_imprint",
+  "name_kr": "수니카 쿠브로 임프린트",
+  "aliases": [
+    "Sunika Kubrow Imprint",
+    "sunika kubrow imprint",
+    "sunika_kubrow_imprint",
+    "수니카 쿠브로 임프린트"
+  ],
+  "tags": [
+    "imprint",
+    "kubrow",
+    "pet"
+  ],
+  "game_ref": "/Lotus/Types/Game/KubrowPet/HunterKubrowPetPowerSuit",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/sunika_kubrow_imprint.72f95cb9fc93f997efa0510120b0197c.png",
+  "thumb": "items/images/en/thumbs/sunika_kubrow_imprint.72f95cb9fc93f997efa0510120b0197c.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

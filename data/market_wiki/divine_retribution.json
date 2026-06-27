@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6604a653dbdd5c1673781db7",
+  "slug": "divine_retribution",
+  "market_slug": "divine_retribution",
+  "name_en": "Divine Retribution",
+  "name_en_slug": "divine_retribution",
+  "name_kr": "디바인 레트리뷰션",
+  "aliases": [
+    "Divine Retribution",
+    "divine retribution",
+    "divine_retribution",
+    "디바인 레트리뷰션"
+  ],
+  "tags": [
+    "mod",
+    "nezha",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Nezha/NezhaSpearAugmentTwoCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/divine_retribution.5c789c19213b7cd12fb3e2678105461e.png",
+  "thumb": "items/images/en/thumbs/divine_retribution.5c789c19213b7cd12fb3e2678105461e.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

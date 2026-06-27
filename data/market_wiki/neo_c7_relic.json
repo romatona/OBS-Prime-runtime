@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6939b7015d9ebda239125d3a",
+  "slug": "neo_c7_relic",
+  "market_slug": "neo_c7_relic",
+  "name_en": "Neo C7 Relic",
+  "name_en_slug": "neo_c7_relic",
+  "name_kr": "네오 C7 성유물",
+  "aliases": [
+    "Neo C7 Relic",
+    "neo c7 relic",
+    "neo_c7_relic",
+    "네오 C7 성유물"
+  ],
+  "tags": [
+    "neo",
+    "relic"
+  ],
+  "game_ref": "/Lotus/Types/Game/Projections/T3VoidProjectionGyrePrimeC",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/neo_c7_relic.08a3b3471bad10b739bd40b1236505c6.webp",
+  "thumb": "items/images/en/thumbs/neo_c7_relic.08a3b3471bad10b739bd40b1236505c6.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

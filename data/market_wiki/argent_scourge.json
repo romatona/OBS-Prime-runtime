@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5800c901c021d9dc0a9f891c",
+  "slug": "argent_scourge",
+  "market_slug": "argent_scourge",
+  "name_en": "Argent Scourge",
+  "name_en_slug": "argent_scourge",
+  "name_kr": "어전트 스커지",
+  "aliases": [
+    "Argent Scourge",
+    "argent scourge",
+    "argent_scourge",
+    "어전트 스커지"
+  ],
+  "tags": [
+    "mod",
+    "polearms",
+    "pvp",
+    "stance",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPPolearmStanceOne",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/argent_scourge.8a20a60d9783334c31cfe5eb983f61cd.png",
+  "thumb": "items/images/en/thumbs/argent_scourge.8a20a60d9783334c31cfe5eb983f61cd.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

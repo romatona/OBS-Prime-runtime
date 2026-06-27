@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "55e797e7e779892497cdf785",
+  "slug": "secura_penta",
+  "market_slug": "secura_penta",
+  "name_en": "Secura Penta",
+  "name_en_slug": "secura_penta",
+  "name_kr": "세큐라 펜타",
+  "aliases": [
+    "Secura Penta",
+    "secura penta",
+    "secura_penta",
+    "세큐라 펜타"
+  ],
+  "tags": [
+    "primary",
+    "syndicate",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Syndicates/PerrinSequence/LongGuns/PSPenta",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/secura_penta.46a8573433a7ddec1f7e7c1bccb4d5ac.png",
+  "thumb": "items/images/en/thumbs/secura_penta.46a8573433a7ddec1f7e7c1bccb4d5ac.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

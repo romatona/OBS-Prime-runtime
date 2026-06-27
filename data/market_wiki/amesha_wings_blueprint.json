@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "57dbdc685e334907aa8edb5c",
+  "slug": "amesha_wings_blueprint",
+  "market_slug": "amesha_wings_blueprint",
+  "name_en": "Amesha Wings",
+  "name_en_slug": "amesha_wings_blueprint",
+  "name_kr": "아메샤 윙",
+  "aliases": [
+    "Amesha Wings",
+    "amesha wings blueprint",
+    "amesha_wings_blueprint",
+    "아메샤 윙"
+  ],
+  "tags": [
+    "archwing",
+    "component"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/ArchwingRecipes/SupportArchwing/SupportArchwingWingsComponent",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/amesha_wings_blueprint.ff297caf790ef259b5715a2510974338.png",
+  "thumb": "items/images/en/thumbs/amesha_wings_blueprint.ff297caf790ef259b5715a2510974338.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

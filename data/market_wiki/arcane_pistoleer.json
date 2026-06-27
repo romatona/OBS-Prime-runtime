@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5d8765df7ea27b08950c13cc",
+  "slug": "arcane_pistoleer",
+  "market_slug": "arcane_pistoleer",
+  "name_en": "Arcane Pistoleer",
+  "name_en_slug": "arcane_pistoleer",
+  "name_kr": "아케인 피스톨리어",
+  "aliases": [
+    "Arcane Pistoleer",
+    "arcane pistoleer",
+    "arcane_pistoleer",
+    "아케인 피스톨리어"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/AmmoEfficiencyOnPistolHeadshot",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/arcane_pistoleer.bedeb0f2ceb9e91f99f682b990c09648.png",
+  "thumb": "items/images/en/thumbs/arcane_pistoleer.bedeb0f2ceb9e91f99f682b990c09648.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

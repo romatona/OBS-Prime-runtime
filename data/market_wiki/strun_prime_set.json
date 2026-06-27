@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6139101830dd5b004b7f9096",
+  "slug": "strun_prime_set",
+  "market_slug": "strun_prime_set",
+  "name_en": "Strun Prime Set",
+  "name_en_slug": "strun_prime_set",
+  "name_kr": "스트런 프라임 세트",
+  "aliases": [
+    "Strun Prime Set",
+    "strun prime set",
+    "strun_prime_set",
+    "스트런 프라임 세트"
+  ],
+  "tags": [
+    "primary",
+    "prime",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/LongGuns/PrimeStrun/PrimeStrunWeapon",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/strun_prime_set.e7f858160a34886c105633deab6b343e.png",
+  "thumb": "items/images/en/thumbs/strun_prime_set.e7f858160a34886c105633deab6b343e.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

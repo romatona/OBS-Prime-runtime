@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e5155e8",
+  "slug": "bane_of_corpus",
+  "market_slug": "bane_of_corpus",
+  "name_en": "Bane Of Corpus",
+  "name_en_slug": "bane_of_corpus",
+  "name_kr": "베인 오브 코퍼스",
+  "aliases": [
+    "Bane Of Corpus",
+    "bane of corpus",
+    "bane_of_corpus",
+    "베인 오브 코퍼스"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rifle",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/WeaponFactionDamageCorpus",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/bane_of_corpus.cc2b3296eb75613b1b4e159fb1c1b2ac.png",
+  "thumb": "items/images/en/thumbs/bane_of_corpus.cc2b3296eb75613b1b4e159fb1c1b2ac.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

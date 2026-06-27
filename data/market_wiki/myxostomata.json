@@ -1,0 +1,27 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6054de6b5221e30057501078",
+  "slug": "myxostomata",
+  "market_slug": "myxostomata",
+  "name_en": "Myxostomata",
+  "name_en_slug": "myxostomata",
+  "name_kr": "믹소스토마타",
+  "aliases": [
+    "Myxostomata",
+    "myxostomata",
+    "믹소스토마타"
+  ],
+  "tags": [
+    "fish"
+  ],
+  "game_ref": "/Lotus/Types/Items/Fish/Deimos/OrokinLegendaryAFishItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/myxostomata.8e6d7580c8aa36b60c5116ee56b94483.png",
+  "thumb": "items/images/en/thumbs/myxostomata.8e6d7580c8aa36b60c5116ee56b94483.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

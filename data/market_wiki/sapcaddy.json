@@ -1,0 +1,27 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6054de945221e30057501089",
+  "slug": "sapcaddy",
+  "market_slug": "sapcaddy",
+  "name_en": "Sapcaddy",
+  "name_en_slug": "sapcaddy",
+  "name_kr": "샙캐디",
+  "aliases": [
+    "Sapcaddy",
+    "sapcaddy",
+    "샙캐디"
+  ],
+  "tags": [
+    "fish"
+  ],
+  "game_ref": "/Lotus/Types/Items/Fish/Solaris/CorpusCoolCommonFishAItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/sapcaddy.202e75dc588c1f56b883bf34edd33447.png",
+  "thumb": "items/images/en/thumbs/sapcaddy.202e75dc588c1f56b883bf34edd33447.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

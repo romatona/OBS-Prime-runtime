@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60e5b8fe4794450053e99952",
+  "slug": "bhaira_hound_blueprint",
+  "market_slug": "bhaira_hound_blueprint",
+  "name_en": "Bhaira Hound Blueprint",
+  "name_en_slug": "bhaira_hound_blueprint",
+  "name_kr": "바이라 하운드 설계도",
+  "aliases": [
+    "Bhaira Hound",
+    "Bhaira Hound Blueprint",
+    "bhaira hound blueprint",
+    "bhaira_hound_blueprint",
+    "바이라 하운드",
+    "바이라 하운드 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "hound",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartHeadBBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/bhaira_hound_blueprint.43e52dbfdceae31a093c03087aa2749f.png",
+  "thumb": "items/images/en/thumbs/bhaira_hound_blueprint.43e52dbfdceae31a093c03087aa2749f.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

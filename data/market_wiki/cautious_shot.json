@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5bc1ab94b919f200c18c10f2",
+  "slug": "cautious_shot",
+  "market_slug": "cautious_shot",
+  "name_en": "Cautious Shot",
+  "name_en_slug": "cautious_shot",
+  "name_kr": "커셔스 샷",
+  "aliases": [
+    "Cautious Shot",
+    "cautious shot",
+    "cautious_shot",
+    "커셔스 샷"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "rifle"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/WeaponResistSelfDamageMod",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/cautious_shot.5bdfa8a36260ba57f16bc865b2be61b6.png",
+  "thumb": "items/images/en/thumbs/cautious_shot.5bdfa8a36260ba57f16bc865b2be61b6.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

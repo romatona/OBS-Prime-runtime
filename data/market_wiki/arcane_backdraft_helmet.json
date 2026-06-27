@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54aaf312e779893b99bd67bd",
+  "slug": "arcane_backdraft_helmet",
+  "market_slug": "arcane_backdraft_helmet",
+  "name_en": "Arcane Backdraft Helmet",
+  "name_en_slug": "arcane_backdraft_helmet",
+  "name_kr": "아케인 백드래프트 헬멧",
+  "aliases": [
+    "Arcane Backdraft Helmet",
+    "arcane backdraft helmet",
+    "arcane_backdraft_helmet",
+    "아케인 백드래프트 헬멧"
+  ],
+  "tags": [
+    "arcane_helmet",
+    "skin"
+  ],
+  "game_ref": "/Lotus/Upgrades/Skins/Ember/EmberHelmetAltB",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/arcane_backdraft_ember_helmet.043ac2179a516fbb8f39e1da426f6855.png",
+  "thumb": "items/images/en/thumbs/arcane_backdraft_ember_helmet.043ac2179a516fbb8f39e1da426f6855.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

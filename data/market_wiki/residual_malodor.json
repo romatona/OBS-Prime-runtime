@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5fb84768c34da3004797d54f",
+  "slug": "residual_malodor",
+  "market_slug": "residual_malodor",
+  "name_en": "Residual Malodor",
+  "name_en_slug": "residual_malodor",
+  "name_kr": "레지듀얼 말로도어",
+  "aliases": [
+    "Residual Malodor",
+    "residual malodor",
+    "residual_malodor",
+    "레지듀얼 말로도어"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Utility/IceMistOnKill",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/residual_malodor.86abb352aa3a2557d982719f96f5b3f6.png",
+  "thumb": "items/images/en/thumbs/residual_malodor.86abb352aa3a2557d982719f96f5b3f6.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

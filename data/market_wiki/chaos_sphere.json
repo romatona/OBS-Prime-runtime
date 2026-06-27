@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5615432bb66f8371035bfa26",
+  "slug": "chaos_sphere",
+  "market_slug": "chaos_sphere",
+  "name_en": "Chaos Sphere",
+  "name_en_slug": "chaos_sphere",
+  "name_kr": "카오스 스피어",
+  "aliases": [
+    "Chaos Sphere",
+    "chaos sphere",
+    "chaos_sphere",
+    "카오스 스피어"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "nyx",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Jade/ChaosAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/chaos_sphere.4194f4d65e462bfc107592b025aef339.png",
+  "thumb": "items/images/en/thumbs/chaos_sphere.4194f4d65e462bfc107592b025aef339.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

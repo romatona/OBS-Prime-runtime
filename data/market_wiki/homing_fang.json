@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515613",
+  "slug": "homing_fang",
+  "market_slug": "homing_fang",
+  "name_en": "Homing Fang",
+  "name_en_slug": "homing_fang",
+  "name_kr": "호밍 팽",
+  "aliases": [
+    "Homing Fang",
+    "homing fang",
+    "homing_fang",
+    "호밍 팽"
+  ],
+  "tags": [
+    "daggers",
+    "mod",
+    "stance",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DaggerCmbOneMeleeTree",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/homing_fang.4a024ae5692abd0ef304003c58a31ef7.png",
+  "thumb": "items/images/en/thumbs/homing_fang.4a024ae5692abd0ef304003c58a31ef7.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "58b57068eb26db5c3119210a",
+  "slug": "banshee_prime_blueprint",
+  "market_slug": "banshee_prime_blueprint",
+  "name_en": "Banshee Prime Blueprint",
+  "name_en_slug": "banshee_prime_blueprint",
+  "name_kr": "밴쉬 프라임 설계도",
+  "aliases": [
+    "Banshee Prime",
+    "Banshee Prime Blueprint",
+    "banshee prime blueprint",
+    "banshee_prime_blueprint",
+    "밴쉬 프라임",
+    "밴쉬 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/BansheePrimeBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/banshee_prime_blueprint.a0956816beb733841bce57e69a568cd6.png",
+  "thumb": "items/images/en/thumbs/banshee_prime_blueprint.a0956816beb733841bce57e69a568cd6.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

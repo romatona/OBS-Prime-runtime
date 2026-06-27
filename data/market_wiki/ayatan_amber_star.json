@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "57e91e5cc76eb74c087f492d",
+  "slug": "ayatan_amber_star",
+  "market_slug": "ayatan_amber_star",
+  "name_en": "Ayatan Amber Star",
+  "name_en_slug": "ayatan_amber_star",
+  "name_kr": "아야탄 앰버 별",
+  "aliases": [
+    "Ayatan Amber Star",
+    "ayatan amber star",
+    "ayatan_amber_star",
+    "아야탄 앰버 별"
+  ],
+  "tags": [
+    "ayatan_star"
+  ],
+  "game_ref": "/Lotus/Types/Items/FusionTreasures/OroFusexOrnamentB",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/ayatan_amber_star.9657dbb79cc82338d5b3caa62da3e934.png",
+  "thumb": "items/images/en/thumbs/ayatan_amber_star.9657dbb79cc82338d5b3caa62da3e934.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

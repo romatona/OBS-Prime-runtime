@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "68cd5ef5e800bed01fa3482e",
+  "slug": "primed_bane_of_the_murmur",
+  "market_slug": "primed_bane_of_the_murmur",
+  "name_en": "Primed Bane Of The Murmur",
+  "name_en_slug": "primed_bane_of_the_murmur",
+  "name_kr": "프라임드 베인 오브 더 머머",
+  "aliases": [
+    "Primed Bane Of The Murmur",
+    "primed bane of the murmur",
+    "primed_bane_of_the_murmur",
+    "프라임드 베인 오브 더 머머"
+  ],
+  "tags": [
+    "legendary",
+    "mod",
+    "primary",
+    "rifle"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/Expert/PrimedWeaponFactionDamageMurmurs",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/primed_bane_of_the_murmur.5c422ed6c90990253654c35908810795.webp",
+  "thumb": "items/images/en/thumbs/primed_bane_of_the_murmur.5c422ed6c90990253654c35908810795.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

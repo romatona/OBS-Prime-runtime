@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6054de5e5221e30057501067",
+  "slug": "lith_k3_relic",
+  "market_slug": "lith_k3_relic",
+  "name_en": "Lith K3 Relic",
+  "name_en_slug": "lith_k3_relic",
+  "name_kr": "리스 K3 성유물",
+  "aliases": [
+    "Lith K3 Relic",
+    "lith k3 relic",
+    "lith_k3_relic",
+    "리스 K3 성유물"
+  ],
+  "tags": [
+    "lith",
+    "relic"
+  ],
+  "game_ref": "/Lotus/Types/Game/Projections/T1VoidProjectionAtlasPrimeD",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/lith_k3_relic.4c2cd55afd4007566866d226c86e0fdd.png",
+  "thumb": "items/images/en/thumbs/lith_k3_relic.4c2cd55afd4007566866d226c86e0fdd.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

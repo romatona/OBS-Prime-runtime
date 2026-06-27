@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "605b1de867ea0b004939c993",
+  "slug": "athodai_blueprint",
+  "market_slug": "athodai_blueprint",
+  "name_en": "Athodai Blueprint",
+  "name_en_slug": "athodai_blueprint",
+  "name_kr": "아쏘다이 설계도",
+  "aliases": [
+    "Athodai",
+    "Athodai Blueprint",
+    "athodai blueprint",
+    "athodai_blueprint",
+    "아쏘다이",
+    "아쏘다이 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "secondary",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/AthodaiPistolBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/athodai_blueprint.df278ff7a927e6fa6e2c3a20f4ccdcfb.png",
+  "thumb": "items/images/en/thumbs/athodai_blueprint.df278ff7a927e6fa6e2c3a20f4ccdcfb.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

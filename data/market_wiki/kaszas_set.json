@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "582b0f630af25410b099f7f7",
+  "slug": "kaszas_set",
+  "market_slug": "kaszas_set",
+  "name_en": "Kaszas Set",
+  "name_en_slug": "kaszas_set",
+  "name_kr": "카스자스 세트",
+  "aliases": [
+    "Kaszas Set",
+    "kaszas set",
+    "kaszas_set",
+    "카스자스 세트"
+  ],
+  "tags": [
+    "archwing",
+    "melee",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Archwing/Melee/ArchScythe/ArchScythe",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/kaszas_set.11baea8229af2d3500c79b829f9dfcee.png",
+  "thumb": "items/images/en/thumbs/kaszas_set.11baea8229af2d3500c79b829f9dfcee.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

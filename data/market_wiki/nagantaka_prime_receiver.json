@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6242037666a58f0108c3d481",
+  "slug": "nagantaka_prime_receiver",
+  "market_slug": "nagantaka_prime_receiver",
+  "name_en": "Nagantaka Prime Receiver",
+  "name_en_slug": "nagantaka_prime_receiver",
+  "name_kr": "나간타카 프라임 리시버",
+  "aliases": [
+    "Nagantaka Prime Receiver",
+    "nagantaka prime receiver",
+    "nagantaka_prime_receiver",
+    "나간타카 프라임 리시버"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/NagantakaPrimeReceiver",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/nagantaka_prime_receiver.f1af5a1cf53058c86df2c4969f37ea27.png",
+  "thumb": "items/images/en/thumbs/nagantaka_prime_receiver.f1af5a1cf53058c86df2c4969f37ea27.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

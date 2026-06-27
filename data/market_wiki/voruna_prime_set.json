@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "69d6763bb3984cc97e24174b",
+  "slug": "voruna_prime_set",
+  "market_slug": "voruna_prime_set",
+  "name_en": "Voruna Prime Set",
+  "name_en_slug": "voruna_prime_set",
+  "name_kr": "보루나 프라임 세트",
+  "aliases": [
+    "Voruna Prime Set",
+    "voruna prime set",
+    "voruna_prime_set",
+    "보루나 프라임 세트"
+  ],
+  "tags": [
+    "prime",
+    "set",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Werewolf/VorunaPrime",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/voruna_prime_set.6a82ab2971991cfa9ff8b92df7ed8547.webp",
+  "thumb": "items/images/en/thumbs/voruna_prime_set.6a82ab2971991cfa9ff8b92df7ed8547.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

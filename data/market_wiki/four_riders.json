@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "554d3af4e77989420d3de2a3",
+  "slug": "four_riders",
+  "market_slug": "four_riders",
+  "name_en": "Four Riders",
+  "name_en_slug": "four_riders",
+  "name_kr": "포 라이더스",
+  "aliases": [
+    "Four Riders",
+    "four riders",
+    "four_riders",
+    "포 라이더스"
+  ],
+  "tags": [
+    "claws",
+    "mod",
+    "rare",
+    "stance"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/ClawCmbThreeMeleeTree",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/four_riders.c73064ac1f7811538e099dcfb9f8a6e1.png",
+  "thumb": "items/images/en/thumbs/four_riders.c73064ac1f7811538e099dcfb9f8a6e1.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

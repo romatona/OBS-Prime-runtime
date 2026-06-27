@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "592dd262011e88f094afec8a",
+  "slug": "silva_and_aegis_prime_blade",
+  "market_slug": "silva_and_aegis_prime_blade",
+  "name_en": "Silva & Aegis Prime Blade",
+  "name_en_slug": "silva_and_aegis_prime_blade",
+  "name_kr": "실바 & 이지스 프라임 블레이드",
+  "aliases": [
+    "Silva & Aegis Prime Blade",
+    "silva and aegis prime blade",
+    "silva_and_aegis_prime_blade",
+    "실바 & 이지스 프라임 블레이드"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/SilvaAegisPrimeBlade",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/silva_and_aegis_prime_blade.d226bbe86d3eccd8c751958dba46a4f6.png",
+  "thumb": "items/images/en/thumbs/silva_and_aegis_prime_blade.d226bbe86d3eccd8c751958dba46a4f6.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

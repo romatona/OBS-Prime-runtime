@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5df8b0ac1456970087cd9b03",
+  "slug": "ivara_prime_systems_blueprint",
+  "market_slug": "ivara_prime_systems_blueprint",
+  "name_en": "Ivara Prime Systems Blueprint",
+  "name_en_slug": "ivara_prime_systems_blueprint",
+  "name_kr": "이바라 프라임 시스템 설계도",
+  "aliases": [
+    "Ivara Prime Systems",
+    "Ivara Prime Systems Blueprint",
+    "ivara prime systems blueprint",
+    "ivara_prime_systems_blueprint",
+    "이바라 프라임 시스템",
+    "이바라 프라임 시스템 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/IvaraPrimeSystemsBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/ivara_prime_systems.5c4fbd8ffa071c741cf93e260e43b6db.png",
+  "thumb": "items/images/en/thumbs/ivara_prime_systems.5c4fbd8ffa071c741cf93e260e43b6db.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

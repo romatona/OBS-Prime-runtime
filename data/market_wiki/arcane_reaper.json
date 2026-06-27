@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "644b00247ec1900044b97733",
+  "slug": "arcane_reaper",
+  "market_slug": "arcane_reaper",
+  "name_en": "Arcane Reaper",
+  "name_en_slug": "arcane_reaper",
+  "name_kr": "아케인 리퍼",
+  "aliases": [
+    "Arcane Reaper",
+    "arcane reaper",
+    "arcane_reaper",
+    "아케인 리퍼"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "legendary"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/HealthRegenAndArmorOnMeleeKill",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/arcane_reaper.5eaac187d816d010ec44ee1a05979564.png",
+  "thumb": "items/images/en/thumbs/arcane_reaper.5eaac187d816d010ec44ee1a05979564.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

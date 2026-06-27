@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "675c59297b18977f6e6453ea",
+  "slug": "arcane_impetus",
+  "market_slug": "arcane_impetus",
+  "name_en": "Arcane Impetus",
+  "name_en_slug": "arcane_impetus",
+  "name_kr": "아케인 임페터스",
+  "aliases": [
+    "Arcane Impetus",
+    "arcane impetus",
+    "arcane_impetus",
+    "아케인 임페터스"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Utility/AbilityStatusProcsGiveAbilityStrengthAndEfficiency",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/arcane_impetus.eaa1ea005d4f154f48f97f0989e7f848.webp",
+  "thumb": "items/images/en/thumbs/arcane_impetus.eaa1ea005d4f154f48f97f0989e7f848.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

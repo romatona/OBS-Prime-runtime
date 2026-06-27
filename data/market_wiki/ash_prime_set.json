@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56783f24cbfa8f0432dd898f",
+  "slug": "ash_prime_set",
+  "market_slug": "ash_prime_set",
+  "name_en": "Ash Prime Set",
+  "name_en_slug": "ash_prime_set",
+  "name_kr": "애쉬 프라임 세트",
+  "aliases": [
+    "Ash Prime Set",
+    "ash prime set",
+    "ash_prime_set",
+    "애쉬 프라임 세트"
+  ],
+  "tags": [
+    "prime",
+    "set",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Ninja/AshPrime",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/ash_prime_set.9f3f82bee82a9741531857cf76eb6594.png",
+  "thumb": "items/images/en/thumbs/ash_prime_set.9f3f82bee82a9741531857cf76eb6594.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

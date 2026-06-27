@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "626a1979f40db600660a1d81",
+  "slug": "emergence_renewed",
+  "market_slug": "emergence_renewed",
+  "name_en": "Emergence Renewed",
+  "name_en_slug": "emergence_renewed",
+  "name_kr": "이머전스 리뉴드",
+  "aliases": [
+    "Emergence Renewed",
+    "emergence renewed",
+    "emergence_renewed",
+    "이머전스 리뉴드"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Zariman/OperatorOnEnergyDepletedRegenEnergy",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/emergence_renewed.a5f55caadd8f27ff5acbe25bbd9b00a7.png",
+  "thumb": "items/images/en/thumbs/emergence_renewed.a5f55caadd8f27ff5acbe25bbd9b00a7.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

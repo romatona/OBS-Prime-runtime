@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56fdbd6c2e26966de716e433",
+  "slug": "war_blade",
+  "market_slug": "war_blade",
+  "name_en": "War Blade",
+  "name_en_slug": "war_blade",
+  "name_kr": "워 블레이드",
+  "aliases": [
+    "War Blade",
+    "war blade",
+    "war_blade",
+    "워 블레이드"
+  ],
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/WarBlade",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/war_blade.79aea5cde8a32f0cdb77bc19b5d1e9a5.png",
+  "thumb": "items/images/en/thumbs/war_blade.79aea5cde8a32f0cdb77bc19b5d1e9a5.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

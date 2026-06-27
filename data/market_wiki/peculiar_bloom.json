@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5adf872a931bcf00574adc14",
+  "slug": "peculiar_bloom",
+  "market_slug": "peculiar_bloom",
+  "name_en": "Peculiar Bloom",
+  "name_en_slug": "peculiar_bloom",
+  "name_kr": "페큘리어 블룸",
+  "aliases": [
+    "Peculiar Bloom",
+    "peculiar bloom",
+    "peculiar_bloom",
+    "페큘리어 블룸"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "mod",
+    "peculiar",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Peculiars/FlowerPowerMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/peculiar_bloom.835675287908be4212f4765014b2f6bd.png",
+  "thumb": "items/images/en/thumbs/peculiar_bloom.835675287908be4212f4765014b2f6bd.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

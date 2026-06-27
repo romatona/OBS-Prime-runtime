@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5783908fd9b6753790c89e80",
+  "slug": "afterburner",
+  "market_slug": "afterburner",
+  "name_en": "Afterburner",
+  "name_en_slug": "afterburner",
+  "name_kr": "애프터버너",
+  "aliases": [
+    "Afterburner",
+    "afterburner",
+    "애프터버너"
+  ],
+  "tags": [
+    "archwing",
+    "augment",
+    "elytron",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Powersuits/Archwing/DemolitionJetPack/ExhaustTrailAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/afterburner.755307558060af227fdb36ba72d805e9.png",
+  "thumb": "items/images/en/thumbs/afterburner.755307558060af227fdb36ba72d805e9.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "67eff367cedcd0be6d13595e",
+  "slug": "primed_steady_hands",
+  "market_slug": "primed_steady_hands",
+  "name_en": "Primed Steady Hands",
+  "name_en_slug": "primed_steady_hands",
+  "name_kr": "프라임드 스테디 핸즈",
+  "aliases": [
+    "Primed Steady Hands",
+    "primed steady hands",
+    "primed_steady_hands",
+    "프라임드 스테디 핸즈"
+  ],
+  "tags": [
+    "legendary",
+    "mod",
+    "pistol",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponRecoilReductionModExpert",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/primed_steady_hands.1d29887a28ce4c601e6c1ba29c92bbe4.webp",
+  "thumb": "items/images/en/thumbs/primed_steady_hands.1d29887a28ce4c601e6c1ba29c92bbe4.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

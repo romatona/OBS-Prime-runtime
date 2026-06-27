@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "63ee00fc10125411da49e6e6",
+  "slug": "corufell_receiver",
+  "market_slug": "corufell_receiver",
+  "name_en": "Corufell Receiver",
+  "name_en_slug": "corufell_receiver",
+  "name_kr": "코루펠 리시버",
+  "aliases": [
+    "Corufell Receiver",
+    "corufell receiver",
+    "corufell_receiver",
+    "코루펠 리시버"
+  ],
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/GunScytheReceiver",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/corufell_receiver.784286cecaf71b494449fa3fa721c641.png",
+  "thumb": "items/images/en/thumbs/corufell_receiver.784286cecaf71b494449fa3fa721c641.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

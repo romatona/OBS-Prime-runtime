@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5f4ed3ecd5c36d0086f55af6",
+  "slug": "deimos_vault_scene",
+  "market_slug": "deimos_vault_scene",
+  "name_en": "Deimos Vault Scene",
+  "name_en_slug": "deimos_vault_scene",
+  "name_kr": "데이모스 금고 배경",
+  "aliases": [
+    "Deimos Vault Scene",
+    "deimos vault scene",
+    "deimos_vault_scene",
+    "데이모스 금고 배경"
+  ],
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/MiscItems/PhotoboothTileDeimosBouncy",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/deimos_vault_scene.2d2d03e6675c32e6af85b0111a57b649.png",
+  "thumb": "items/images/en/thumbs/deimos_vault_scene.2d2d03e6675c32e6af85b0111a57b649.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

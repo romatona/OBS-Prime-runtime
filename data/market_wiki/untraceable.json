@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5dbe9b0e7ea27b0ffe3ca276",
+  "slug": "untraceable",
+  "market_slug": "untraceable",
+  "name_en": "Untraceable",
+  "name_en_slug": "untraceable",
+  "name_kr": "언트레이서블",
+  "aliases": [
+    "Untraceable",
+    "untraceable",
+    "언트레이서블"
+  ],
+  "tags": [
+    "mod",
+    "parazon",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/DataSpike/Cipher/OnHackInvisMod",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/untraceable.e564932132d9511093ba2bad454e693d.png",
+  "thumb": "items/images/en/thumbs/untraceable.e564932132d9511093ba2bad454e693d.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6056348590a69e004e862880",
+  "slug": "onslaught_matrix",
+  "market_slug": "onslaught_matrix",
+  "name_en": "Onslaught Matrix",
+  "name_en_slug": "onslaught_matrix",
+  "name_kr": "온슬로트 매트릭스",
+  "aliases": [
+    "Onslaught Matrix",
+    "onslaught matrix",
+    "onslaught_matrix",
+    "온슬로트 매트릭스"
+  ],
+  "tags": [
+    "mod",
+    "railjack",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Railjack/Gunnery/VidarOffensiveMatrix",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/onslaught_matrix.d0eda7ff030de77395f89442ffdf190e.png",
+  "thumb": "items/images/en/thumbs/onslaught_matrix.d0eda7ff030de77395f89442ffdf190e.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

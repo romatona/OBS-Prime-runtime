@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5fde10c46db57b0185b3907b",
+  "slug": "morgha_barrel",
+  "market_slug": "morgha_barrel",
+  "name_en": "Morgha Barrel",
+  "name_en_slug": "morgha_barrel",
+  "name_kr": "모르가 배럴",
+  "aliases": [
+    "Morgha Barrel",
+    "morgha barrel",
+    "morgha_barrel",
+    "모르가 배럴"
+  ],
+  "tags": [
+    "component",
+    "necramech"
+  ],
+  "game_ref": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherBarrelItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/ko/morgha_barrel.d33f9cd234690f5b7be1daaaa236a64f.png",
+  "thumb": "items/images/ko/thumbs/morgha_barrel.d33f9cd234690f5b7be1daaaa236a64f.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

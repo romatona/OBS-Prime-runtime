@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e5155f4",
+  "slug": "point_strike",
+  "market_slug": "point_strike",
+  "name_en": "Point Strike",
+  "name_en_slug": "point_strike",
+  "name_kr": "포인트 스트라이크",
+  "aliases": [
+    "Point Strike",
+    "point strike",
+    "point_strike",
+    "포인트 스트라이크"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "primary",
+    "rifle"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/WeaponCritChanceMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/point_strike.daf4a843bb0b729029dcf70c64647cca.png",
+  "thumb": "items/images/en/thumbs/point_strike.daf4a843bb0b729029dcf70c64647cca.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

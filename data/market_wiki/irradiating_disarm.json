@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54e0c9eee7798903744178b0",
+  "slug": "irradiating_disarm",
+  "market_slug": "irradiating_disarm",
+  "name_en": "Irradiating Disarm",
+  "name_en_slug": "irradiating_disarm",
+  "name_kr": "이레디에이팅 디스암",
+  "aliases": [
+    "Irradiating Disarm",
+    "irradiating disarm",
+    "irradiating_disarm",
+    "이레디에이팅 디스암"
+  ],
+  "tags": [
+    "augment",
+    "loki",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Loki/DisarmAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/irradiating_disarm.cffd5ed77e1365babfd3e9559b96ebc6.png",
+  "thumb": "items/images/en/thumbs/irradiating_disarm.cffd5ed77e1365babfd3e9559b96ebc6.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

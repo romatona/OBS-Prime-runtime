@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60e70f80479445008f2725a5",
+  "slug": "red_veil_armor_set",
+  "market_slug": "red_veil_armor_set",
+  "name_en": "Red Veil Armor Set",
+  "name_en_slug": "red_veil_armor_set",
+  "name_kr": "레드 베일 아머 세트",
+  "aliases": [
+    "Red Veil Armor Set",
+    "red veil armor set",
+    "red_veil_armor_set",
+    "레드 베일 아머 세트"
+  ],
+  "tags": [
+    "skin"
+  ],
+  "game_ref": "",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/red_veil_armor_set.f90e9e6a2c0e587feeb5fb1777fd2790.webp",
+  "thumb": "items/images/en/thumbs/red_veil_armor_set.f90e9e6a2c0e587feeb5fb1777fd2790.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

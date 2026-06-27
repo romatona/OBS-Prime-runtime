@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e5155eb",
+  "slug": "venom_dose",
+  "market_slug": "venom_dose",
+  "name_en": "Venom Dose",
+  "name_en_slug": "venom_dose",
+  "name_kr": "베놈 도즈",
+  "aliases": [
+    "Venom Dose",
+    "venom dose",
+    "venom_dose",
+    "베놈 도즈"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "rare",
+    "saryn",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Saryn/PoisonAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/venom_dose.9ce559a7511a8c9e070ae118ccdf4d09.png",
+  "thumb": "items/images/en/thumbs/venom_dose.9ce559a7511a8c9e070ae118ccdf4d09.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

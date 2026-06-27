@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "568c177fc221c673bc088845",
+  "slug": "armored_evade",
+  "market_slug": "armored_evade",
+  "name_en": "Armored Evade",
+  "name_en_slug": "armored_evade",
+  "name_kr": "아머드 이베이드",
+  "aliases": [
+    "Armored Evade",
+    "armored evade",
+    "armored_evade",
+    "아머드 이베이드"
+  ],
+  "tags": [
+    "mod",
+    "pvp",
+    "uncommon",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Warframe/DamageResistanceLessSlide",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/armored_evade.726f03c9e8f010cb3074d216fc1a68f2.png",
+  "thumb": "items/images/en/thumbs/armored_evade.726f03c9e8f010cb3074d216fc1a68f2.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

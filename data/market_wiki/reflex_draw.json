@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a4eb",
+  "slug": "reflex_draw",
+  "market_slug": "reflex_draw",
+  "name_en": "Reflex Draw",
+  "name_en_slug": "reflex_draw",
+  "name_kr": "리플렉스 드로우",
+  "aliases": [
+    "Reflex Draw",
+    "reflex draw",
+    "reflex_draw",
+    "리플렉스 드로우"
+  ],
+  "tags": [
+    "mod",
+    "pistol",
+    "pvp",
+    "secondary",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Pistol/HolsterSpeedBonusMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/reflex_draw.c8118e6a8c6396c0f9e8a2fda0ef93fe.png",
+  "thumb": "items/images/en/thumbs/reflex_draw.c8118e6a8c6396c0f9e8a2fda0ef93fe.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

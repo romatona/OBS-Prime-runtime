@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "603621500a372600fd5614db",
+  "slug": "pandero_prime_blueprint",
+  "market_slug": "pandero_prime_blueprint",
+  "name_en": "Pandero Prime Blueprint",
+  "name_en_slug": "pandero_prime_blueprint",
+  "name_kr": "판데로 프라임 설계도",
+  "aliases": [
+    "Pandero Prime",
+    "Pandero Prime Blueprint",
+    "pandero prime blueprint",
+    "pandero_prime_blueprint",
+    "판데로 프라임",
+    "판데로 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "prime",
+    "secondary",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/PanderoPrimeBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/pandero_prime_blueprint.b83adf601737a6357fb8a5c06b637e8f.png",
+  "thumb": "items/images/en/thumbs/pandero_prime_blueprint.b83adf601737a6357fb8a5c06b637e8f.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

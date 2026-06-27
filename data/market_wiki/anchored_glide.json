@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5e7caa02267539063de48c41",
+  "slug": "anchored_glide",
+  "market_slug": "anchored_glide",
+  "name_en": "Anchored Glide",
+  "name_en_slug": "anchored_glide",
+  "name_kr": "앵커드 글라이드",
+  "aliases": [
+    "Anchored Glide",
+    "anchored glide",
+    "anchored_glide",
+    "앵커드 글라이드"
+  ],
+  "tags": [
+    "mod",
+    "rare",
+    "warframe",
+    "zephyr"
+  ],
+  "game_ref": "/Lotus/Powersuits/Tengu/TenguDisablePassiveMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/anchored_glide.f5f043a3836edf65ef625618548cf6f8.png",
+  "thumb": "items/images/en/thumbs/anchored_glide.f5f043a3836edf65ef625618548cf6f8.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

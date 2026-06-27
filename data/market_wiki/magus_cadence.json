@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5a0475076c4655012038ddbe",
+  "slug": "magus_cadence",
+  "market_slug": "magus_cadence",
+  "name_en": "Magus Cadence",
+  "name_en_slug": "magus_cadence",
+  "name_kr": "마구스 케이던스",
+  "aliases": [
+    "Magus Cadence",
+    "magus cadence",
+    "magus_cadence",
+    "마구스 케이던스"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/SpeedOnVoidDash",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/magus_cadence.c86f261fe3644b1eb27e22d4a53fa318.png",
+  "thumb": "items/images/en/thumbs/magus_cadence.c86f261fe3644b1eb27e22d4a53fa318.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

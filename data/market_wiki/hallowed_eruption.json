@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54e64500e779897594fa68d4",
+  "slug": "hallowed_eruption",
+  "market_slug": "hallowed_eruption",
+  "name_en": "Hallowed Eruption",
+  "name_en_slug": "hallowed_eruption",
+  "name_kr": "할로우드 이럽션",
+  "aliases": [
+    "Hallowed Eruption",
+    "hallowed eruption",
+    "hallowed_eruption",
+    "할로우드 이럽션"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "oberon",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Paladin/StairwayToHeavenAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/hallowed_eruption.76c36d2a76a53af8772a80501f9ca138.png",
+  "thumb": "items/images/en/thumbs/hallowed_eruption.76c36d2a76a53af8772a80501f9ca138.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

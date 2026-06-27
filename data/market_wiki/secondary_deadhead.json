@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60e70f7f479445008f27259d",
+  "slug": "secondary_deadhead",
+  "market_slug": "secondary_deadhead",
+  "name_en": "Secondary Deadhead",
+  "name_en_slug": "secondary_deadhead",
+  "name_kr": "세컨더리 데드헤드",
+  "aliases": [
+    "Secondary Deadhead",
+    "secondary deadhead",
+    "secondary_deadhead",
+    "세컨더리 데드헤드"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/SecondaryDamageOnNoMelee",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/secondary_deadhead.c688ab21ab8b336bce4bc4467a3e7010.png",
+  "thumb": "items/images/en/thumbs/secondary_deadhead.c688ab21ab8b336bce4bc4467a3e7010.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

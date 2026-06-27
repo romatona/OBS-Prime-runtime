@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5783bf71d9b6753790c89e9d",
+  "slug": "cyngas_stock",
+  "market_slug": "cyngas_stock",
+  "name_en": "Cyngas Stock",
+  "name_en_slug": "cyngas_stock",
+  "name_kr": "싱가스 스톡",
+  "aliases": [
+    "Cyngas Stock",
+    "cyngas stock",
+    "cyngas_stock",
+    "싱가스 스톡"
+  ],
+  "tags": [
+    "archwing",
+    "component",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchBurstGunStock",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/cyngas_stock.5b9891a467264b6048cd58b409911767.png",
+  "thumb": "items/images/en/thumbs/cyngas_stock.5b9891a467264b6048cd58b409911767.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

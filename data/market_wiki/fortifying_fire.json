@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6056347f90a69e004e862873",
+  "slug": "fortifying_fire",
+  "market_slug": "fortifying_fire",
+  "name_en": "Fortifying Fire",
+  "name_en_slug": "fortifying_fire",
+  "name_kr": "포티파잉 파이어",
+  "aliases": [
+    "Fortifying Fire",
+    "fortifying fire",
+    "fortifying_fire",
+    "포티파잉 파이어"
+  ],
+  "tags": [
+    "mod",
+    "railjack",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Railjack/Engineering/LavanShieldOnCrit",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/fortifying_fire.7646e3be1f427b918676c9ecac9fa23a.png",
+  "thumb": "items/images/en/thumbs/fortifying_fire.7646e3be1f427b918676c9ecac9fa23a.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

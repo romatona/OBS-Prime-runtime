@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515615",
+  "slug": "ironclad_charge",
+  "market_slug": "ironclad_charge",
+  "name_en": "Ironclad Charge",
+  "name_en_slug": "ironclad_charge",
+  "name_kr": "아이언클래드 차지",
+  "aliases": [
+    "Ironclad Charge",
+    "ironclad charge",
+    "ironclad_charge",
+    "아이언클래드 차지"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "rare",
+    "rhino",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Rhino/RhinoChargeAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/ironclad_charge.599316c6fd9b0e8e5aeae0cfea29710b.png",
+  "thumb": "items/images/en/thumbs/ironclad_charge.599316c6fd9b0e8e5aeae0cfea29710b.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "58446ffa2c2ada0071154b52",
+  "slug": "relentless_combination",
+  "market_slug": "relentless_combination",
+  "name_en": "Relentless Combination",
+  "name_en_slug": "relentless_combination",
+  "name_kr": "릴렌트리스 컴비네이션",
+  "aliases": [
+    "Relentless Combination",
+    "relentless combination",
+    "relentless_combination",
+    "릴렌트리스 컴비네이션"
+  ],
+  "tags": [
+    "melee",
+    "mod",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Melee/WeaponMeleeComboChanceFromDot",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/relentless_combination.1c8cacce7f4d841b2471013085cde633.png",
+  "thumb": "items/images/en/thumbs/relentless_combination.1c8cacce7f4d841b2471013085cde633.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

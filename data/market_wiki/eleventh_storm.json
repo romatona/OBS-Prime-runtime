@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e5155ef",
+  "slug": "eleventh_storm",
+  "market_slug": "eleventh_storm",
+  "name_en": "Eleventh Storm",
+  "name_en_slug": "eleventh_storm",
+  "name_kr": "일레븐스 스톰",
+  "aliases": [
+    "Eleventh Storm",
+    "eleventh storm",
+    "eleventh_storm",
+    "일레븐스 스톰"
+  ],
+  "tags": [
+    "mod",
+    "stance",
+    "sword_and_shield",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/SwordShieldCmbOneMeleeTree",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/eleventh_storm.f08448d35130e5d84a8f270451bc273a.png",
+  "thumb": "items/images/en/thumbs/eleventh_storm.f08448d35130e5d84a8f270451bc273a.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

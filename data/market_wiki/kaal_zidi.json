@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "693e6a7803903ae8993ffb00",
+  "slug": "kaal_zidi",
+  "market_slug": "kaal_zidi",
+  "name_en": "Kaal-Zidi",
+  "name_en_slug": "kaal_zidi",
+  "name_kr": "칼-지디",
+  "aliases": [
+    "Kaal-Zidi",
+    "kaal zidi",
+    "kaal_zidi",
+    "칼-지디"
+  ],
+  "tags": [
+    "any",
+    "mod",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Antiques/Ghostwalk",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/ko/kaal_zidi.1859d25f4454533fc40a1f35e1e03796.webp",
+  "thumb": "items/images/ko/thumbs/kaal_zidi.1859d25f4454533fc40a1f35e1e03796.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "687915b1731e63abe79a5d07",
+  "slug": "solstice_square_stage_scene",
+  "market_slug": "solstice_square_stage_scene",
+  "name_en": "Solstice Square Stage Scene",
+  "name_en_slug": "solstice_square_stage_scene",
+  "name_kr": "솔스티스 광장 무대 배경",
+  "aliases": [
+    "Solstice Square Stage Scene",
+    "solstice square stage scene",
+    "solstice_square_stage_scene",
+    "솔스티스 광장 무대 배경"
+  ],
+  "tags": [
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaObjTempleDefense",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/solstice_square_stage_scene.989e2110d7f4b71b99c5196ce7281b52.webp",
+  "thumb": "items/images/en/thumbs/solstice_square_stage_scene.989e2110d7f4b71b99c5196ce7281b52.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

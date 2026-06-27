@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a4c6",
+  "slug": "adept_surge",
+  "market_slug": "adept_surge",
+  "name_en": "Adept Surge",
+  "name_en_slug": "adept_surge",
+  "name_kr": "어뎁트 서지",
+  "aliases": [
+    "Adept Surge",
+    "adept surge",
+    "adept_surge",
+    "어뎁트 서지"
+  ],
+  "tags": [
+    "mod",
+    "pvp",
+    "uncommon",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Warframe/MoreBulletJumpLessHealthMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/adept_surge.d176142917c6532a97645ade76dd3edc.png",
+  "thumb": "items/images/en/thumbs/adept_surge.d176142917c6532a97645ade76dd3edc.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

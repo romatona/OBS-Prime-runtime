@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5dff6e1014569703166749ee",
+  "slug": "ion_burn",
+  "market_slug": "ion_burn",
+  "name_en": "Ion Burn",
+  "name_en_slug": "ion_burn",
+  "name_kr": "이온 번",
+  "aliases": [
+    "Ion Burn",
+    "ion burn",
+    "ion_burn",
+    "이온 번"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "railjack"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Railjack/Piloting/ZektiBoostSpeed",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/ion_burn.89135105caf28d092f7990aedfdf8e81.png",
+  "thumb": "items/images/en/thumbs/ion_burn.89135105caf28d092f7990aedfdf8e81.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

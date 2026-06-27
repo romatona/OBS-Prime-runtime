@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5baa8bbf4567de01ac283498",
+  "slug": "rubico_prime_stock",
+  "market_slug": "rubico_prime_stock",
+  "name_en": "Rubico Prime Stock",
+  "name_en_slug": "rubico_prime_stock",
+  "name_kr": "루비코 프라임 스톡",
+  "aliases": [
+    "Rubico Prime Stock",
+    "rubico prime stock",
+    "rubico_prime_stock",
+    "루비코 프라임 스톡"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/RubicoPrimeStock",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/rubico_prime_stock.2071211bc2436d4e768dbb61f98f6efd.png",
+  "thumb": "items/images/en/thumbs/rubico_prime_stock.2071211bc2436d4e768dbb61f98f6efd.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

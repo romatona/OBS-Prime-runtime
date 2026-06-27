@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515628",
+  "slug": "physique",
+  "market_slug": "physique",
+  "name_en": "Physique",
+  "name_en_slug": "physique",
+  "name_kr": "피지크",
+  "aliases": [
+    "Physique",
+    "physique",
+    "피지크"
+  ],
+  "tags": [
+    "aura",
+    "mod",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Aura/PlayerHealthAuraMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/physique.51690dd724964ede7510962e6419f809.png",
+  "thumb": "items/images/en/thumbs/physique.51690dd724964ede7510962e6419f809.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

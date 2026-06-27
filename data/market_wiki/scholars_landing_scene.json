@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6877cae9731e63abe79a5d02",
+  "slug": "scholars_landing_scene",
+  "market_slug": "scholars_landing_scene",
+  "name_en": "Scholar's Landing Scene",
+  "name_en_slug": "scholars_landing_scene",
+  "name_kr": "학자의 도래지 배경",
+  "aliases": [
+    "Scholar's Landing Scene",
+    "scholars landing scene",
+    "scholars_landing_scene",
+    "학자의 도래지 배경"
+  ],
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/MiscItems/PhotoboothTileDuviriScholarsLandingMITW",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/scholars_landing_scene.e0e8f05e4099791b466423901e225df1.webp",
+  "thumb": "items/images/en/thumbs/scholars_landing_scene.e0e8f05e4099791b466423901e225df1.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

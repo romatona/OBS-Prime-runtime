@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e51567f",
+  "slug": "crowd_dispersion",
+  "market_slug": "crowd_dispersion",
+  "name_en": "Crowd Dispersion",
+  "name_en_slug": "crowd_dispersion",
+  "name_kr": "크라우드 디스퍼젼",
+  "aliases": [
+    "Crowd Dispersion",
+    "crowd dispersion",
+    "crowd_dispersion",
+    "크라우드 디스퍼젼"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "sentinel",
+    "wyrm"
+  ],
+  "game_ref": "/Lotus/Types/Sentinels/SentinelPrecepts/CrowdDispersion",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/crowd_dispersion.06d7388b16972ed277445c2e09873841.png",
+  "thumb": "items/images/en/thumbs/crowd_dispersion.06d7388b16972ed277445c2e09873841.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5ce7fd86d23a3b00908c4209",
+  "slug": "proton_jet",
+  "market_slug": "proton_jet",
+  "name_en": "Proton Jet",
+  "name_en_slug": "proton_jet",
+  "name_kr": "프로톤 제트",
+  "aliases": [
+    "Proton Jet",
+    "proton jet",
+    "proton_jet",
+    "프로톤 제트"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rifle",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sets/Spider/SpiderModB",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/proton_jet.79c7fc989dd7af4f8b6cbbd01e72a691.png",
+  "thumb": "items/images/en/thumbs/proton_jet.79c7fc989dd7af4f8b6cbbd01e72a691.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

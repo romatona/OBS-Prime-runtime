@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "67db60899cec3e52e62523f6",
+  "slug": "arcane_universal_fallout",
+  "market_slug": "arcane_universal_fallout",
+  "name_en": "Arcane Universal Fallout",
+  "name_en_slug": "arcane_universal_fallout",
+  "name_kr": "아케인 유니버설 폴아웃",
+  "aliases": [
+    "Arcane Universal Fallout",
+    "arcane universal fallout",
+    "arcane_universal_fallout",
+    "아케인 유니버설 폴아웃"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "legendary"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Utility/AbilityRadiationProcsCreateUniversalOrbsOnKill",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/arcane_universal_fallout.a2684caa30e88e5ef81c183acefe3354.webp",
+  "thumb": "items/images/en/thumbs/arcane_universal_fallout.a2684caa30e88e5ef81c183acefe3354.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

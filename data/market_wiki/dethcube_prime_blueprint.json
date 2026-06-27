@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5d93ca117ea27b0a87566f6a",
+  "slug": "dethcube_prime_blueprint",
+  "market_slug": "dethcube_prime_blueprint",
+  "name_en": "Dethcube Prime Blueprint",
+  "name_en_slug": "dethcube_prime_blueprint",
+  "name_kr": "데스큐브 프라임 설계도",
+  "aliases": [
+    "Dethcube Prime",
+    "Dethcube Prime Blueprint",
+    "dethcube prime blueprint",
+    "dethcube_prime_blueprint",
+    "데스큐브 프라임",
+    "데스큐브 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "prime",
+    "sentinel"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/SentinelRecipes/PrimeDethcubeSentinelBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/dethcube_prime_blueprint.47a0e82681bf367a015928558a9f133b.png",
+  "thumb": "items/images/en/thumbs/dethcube_prime_blueprint.47a0e82681bf367a015928558a9f133b.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

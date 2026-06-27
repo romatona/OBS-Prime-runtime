@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "673516c6db3ac2cfade14a77",
+  "slug": "trumna_prime_blueprint",
+  "market_slug": "trumna_prime_blueprint",
+  "name_en": "Trumna Prime Blueprint",
+  "name_en_slug": "trumna_prime_blueprint",
+  "name_kr": "트럼나 프라임 설계도",
+  "aliases": [
+    "Trumna Prime",
+    "Trumna Prime Blueprint",
+    "trumna prime blueprint",
+    "trumna_prime_blueprint",
+    "트럼나 프라임",
+    "트럼나 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "primary",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/TrumnaPrimeBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/trumna_prime_blueprint.ccbe6544b4b41bb246fee4f68fe4d371.webp",
+  "thumb": "items/images/en/thumbs/trumna_prime_blueprint.ccbe6544b4b41bb246fee4f68fe4d371.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

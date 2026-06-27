@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "603621500a372600fd5614d6",
+  "slug": "tenora_prime_barrel",
+  "market_slug": "tenora_prime_barrel",
+  "name_en": "Tenora Prime Barrel",
+  "name_en_slug": "tenora_prime_barrel",
+  "name_kr": "테노라 프라임 배럴",
+  "aliases": [
+    "Tenora Prime Barrel",
+    "tenora prime barrel",
+    "tenora_prime_barrel",
+    "테노라 프라임 배럴"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/TenoraPrimeBarrel",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/tenora_prime_barrel.cdda299ba3526be64a78df20883fd173.png",
+  "thumb": "items/images/en/thumbs/tenora_prime_barrel.cdda299ba3526be64a78df20883fd173.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a51d",
+  "slug": "measured_burst",
+  "market_slug": "measured_burst",
+  "name_en": "Measured Burst",
+  "name_en_slug": "measured_burst",
+  "name_kr": "메져드 버스트",
+  "aliases": [
+    "Measured Burst",
+    "measured burst",
+    "measured_burst",
+    "메져드 버스트"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "pvp",
+    "rare",
+    "tiberon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Rifle/TiberonLowRoFAiming",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/measured_burst.f125aa52c465d97d41f165fdc431d297.png",
+  "thumb": "items/images/en/thumbs/measured_burst.f125aa52c465d97d41f165fdc431d297.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

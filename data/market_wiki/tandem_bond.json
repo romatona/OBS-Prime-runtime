@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6531693ef31453d36319c56f",
+  "slug": "tandem_bond",
+  "market_slug": "tandem_bond",
+  "name_en": "Tandem Bond",
+  "name_en_slug": "tandem_bond",
+  "name_kr": "탠덤 본드",
+  "aliases": [
+    "Tandem Bond",
+    "tandem bond",
+    "tandem_bond",
+    "탠덤 본드"
+  ],
+  "tags": [
+    "beast",
+    "mod",
+    "rare",
+    "sentinel"
+  ],
+  "game_ref": "/Lotus/Types/Sentinels/SentinelPrecepts/VoidBond/TandemTactics",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/tandem_bond.03d917cccbf6b5f5399883742f5a9729.png",
+  "thumb": "items/images/en/thumbs/tandem_bond.03d917cccbf6b5f5399883742f5a9729.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

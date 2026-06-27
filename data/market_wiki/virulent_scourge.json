@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515672",
+  "slug": "virulent_scourge",
+  "market_slug": "virulent_scourge",
+  "name_en": "Virulent Scourge",
+  "name_en_slug": "virulent_scourge",
+  "name_kr": "비럴런트 스커지",
+  "aliases": [
+    "Virulent Scourge",
+    "virulent scourge",
+    "virulent_scourge",
+    "비럴런트 스커지"
+  ],
+  "tags": [
+    "melee",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Melee/DualStat/PoisonEventMeleeMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/virulent_scourge.8f1ae337bfdc14e2ff7ceade522842a5.png",
+  "thumb": "items/images/en/thumbs/virulent_scourge.8f1ae337bfdc14e2ff7ceade522842a5.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

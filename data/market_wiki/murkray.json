@@ -1,0 +1,27 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6054de6f5221e3005750107d",
+  "slug": "murkray",
+  "market_slug": "murkray",
+  "name_en": "Murkray",
+  "name_en_slug": "murkray",
+  "name_kr": "머크레이",
+  "aliases": [
+    "Murkray",
+    "murkray",
+    "머크레이"
+  ],
+  "tags": [
+    "fish"
+  ],
+  "game_ref": "/Lotus/Types/Items/Fish/Eidolon/BothRareFishAItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/murkray.459e5a03226a2c0cfcebf26bfc6ac560.png",
+  "thumb": "items/images/en/thumbs/murkray.459e5a03226a2c0cfcebf26bfc6ac560.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

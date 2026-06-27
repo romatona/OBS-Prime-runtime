@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "675c61c07b18977f6e645410",
+  "slug": "magnetic_strafe",
+  "market_slug": "magnetic_strafe",
+  "name_en": "Magnetic Strafe",
+  "name_en_slug": "magnetic_strafe",
+  "name_kr": "마그네틱 스트레이프",
+  "aliases": [
+    "Magnetic Strafe",
+    "magnetic strafe",
+    "magnetic_strafe",
+    "마그네틱 스트레이프"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "shotgun"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Shotgun/DualStat/MagneticFireRateShotgunMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/magnetic_strafe.0653b6db4a0acb604c56e98c0d9e8599.webp",
+  "thumb": "items/images/en/thumbs/magnetic_strafe.0653b6db4a0acb604c56e98c0d9e8599.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

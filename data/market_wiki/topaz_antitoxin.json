@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5d6ea67d7ea27b05d929cc01",
+  "slug": "topaz_antitoxin",
+  "market_slug": "topaz_antitoxin",
+  "name_en": "Topaz Antitoxin",
+  "name_en_slug": "topaz_antitoxin",
+  "name_kr": "토파즈 안티톡신",
+  "aliases": [
+    "Topaz Antitoxin",
+    "topaz antitoxin",
+    "topaz_antitoxin",
+    "토파즈 안티톡신"
+  ],
+  "tags": [
+    "consumable"
+  ],
+  "game_ref": "/Lotus/Types/Restoratives/Consumable/Toxins/NightUnCommonAntitoxin",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/topaz_antitoxin.059998459db9749a8b0e25e51b86e4d1.png",
+  "thumb": "items/images/en/thumbs/topaz_antitoxin.059998459db9749a8b0e25e51b86e4d1.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

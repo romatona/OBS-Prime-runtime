@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e51568b",
+  "slug": "gnashing_payara",
+  "market_slug": "gnashing_payara",
+  "name_en": "Gnashing Payara",
+  "name_en_slug": "gnashing_payara",
+  "name_kr": "내슁 파야라",
+  "aliases": [
+    "Gnashing Payara",
+    "gnashing payara",
+    "gnashing_payara",
+    "내슁 파야라"
+  ],
+  "tags": [
+    "dual_daggers",
+    "mod",
+    "rare",
+    "stance"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DualDaggerCmbTwoMeleeTree",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/gnashing_payara.376c7788c5604a5109534a1695b2503d.png",
+  "thumb": "items/images/en/thumbs/gnashing_payara.376c7788c5604a5109534a1695b2503d.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

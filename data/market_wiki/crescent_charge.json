@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5f498a269426ed00443bd0d9",
+  "slug": "crescent_charge",
+  "market_slug": "crescent_charge",
+  "name_en": "Crescent Charge",
+  "name_en_slug": "crescent_charge",
+  "name_kr": "크레센트 차지",
+  "aliases": [
+    "Crescent Charge",
+    "crescent charge",
+    "crescent_charge",
+    "크레센트 차지"
+  ],
+  "tags": [
+    "crescent_vulpaphyla",
+    "kavat",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/InfestedCatbrowGoreTossPrecept",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/crescent_charge.02500a57b52395eb60b85825b0b93b06.png",
+  "thumb": "items/images/en/thumbs/crescent_charge.02500a57b52395eb60b85825b0b93b06.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

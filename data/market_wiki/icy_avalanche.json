@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "58446fc72c2ada0064aca003",
+  "slug": "icy_avalanche",
+  "market_slug": "icy_avalanche",
+  "name_en": "Icy Avalanche",
+  "name_en_slug": "icy_avalanche",
+  "name_kr": "아이시 아발란체",
+  "aliases": [
+    "Icy Avalanche",
+    "icy avalanche",
+    "icy_avalanche",
+    "아이시 아발란체"
+  ],
+  "tags": [
+    "augment",
+    "frost",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Frost/AvalancheAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/icy_avalanche.ee531a2d69a5c482eca8f264fbeaf103.png",
+  "thumb": "items/images/en/thumbs/icy_avalanche.ee531a2d69a5c482eca8f264fbeaf103.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

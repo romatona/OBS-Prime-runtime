@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "61bb64fd3132ff00482b5fc7",
+  "slug": "boreals_hatred",
+  "market_slug": "boreals_hatred",
+  "name_en": "Boreal's Hatred",
+  "name_en_slug": "boreals_hatred",
+  "name_kr": "보리얼 헤이트리드",
+  "aliases": [
+    "Boreal's Hatred",
+    "boreals hatred",
+    "boreals_hatred",
+    "보리얼 헤이트리드"
+  ],
+  "tags": [
+    "mod",
+    "uncommon",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sets/Boreal/BorealWarframeMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/boreals_hatred.de83eb54e55037ec026c099b9ad00d89.png",
+  "thumb": "items/images/en/thumbs/boreals_hatred.de83eb54e55037ec026c099b9ad00d89.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

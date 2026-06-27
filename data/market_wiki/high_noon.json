@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54ca4260e7798919a4e9b429",
+  "slug": "high_noon",
+  "market_slug": "high_noon",
+  "name_en": "High Noon",
+  "name_en_slug": "high_noon",
+  "name_kr": "하이 눈",
+  "aliases": [
+    "High Noon",
+    "high noon",
+    "high_noon",
+    "하이 눈"
+  ],
+  "tags": [
+    "gunblade",
+    "mod",
+    "rare",
+    "stance"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/GunbladeCmbOneMeleeTree",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/high_noon.57ee38d1714bbf3095c9b82605a6a483.png",
+  "thumb": "items/images/en/thumbs/high_noon.57ee38d1714bbf3095c9b82605a6a483.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

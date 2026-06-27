@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156aa",
+  "slug": "smite_infusion",
+  "market_slug": "smite_infusion",
+  "name_en": "Smite Infusion",
+  "name_en_slug": "smite_infusion",
+  "name_kr": "스마이트 인퓨전",
+  "aliases": [
+    "Smite Infusion",
+    "smite infusion",
+    "smite_infusion",
+    "스마이트 인퓨전"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "oberon",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Paladin/SmiteAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/smite_infusion.924b32e9b01f426767218887c9b9bd73.png",
+  "thumb": "items/images/en/thumbs/smite_infusion.924b32e9b01f426767218887c9b9bd73.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "55e797d2e7798924849dd9f0",
+  "slug": "telos_boltor",
+  "market_slug": "telos_boltor",
+  "name_en": "Telos Boltor",
+  "name_en_slug": "telos_boltor",
+  "name_kr": "텔로스 볼터",
+  "aliases": [
+    "Telos Boltor",
+    "telos boltor",
+    "telos_boltor",
+    "텔로스 볼터"
+  ],
+  "tags": [
+    "primary",
+    "syndicate",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Syndicates/ArbitersOfHexis/LongGuns/AHBoltor",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/telos_boltor.9a109e6b666017c81b2402e7031243b5.png",
+  "thumb": "items/images/en/thumbs/telos_boltor.9a109e6b666017c81b2402e7031243b5.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

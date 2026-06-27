@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "63886517e7c988007b5bd50e",
+  "slug": "perigale_stock",
+  "market_slug": "perigale_stock",
+  "name_en": "Perigale Stock",
+  "name_en_slug": "perigale_stock",
+  "name_kr": "페리게일 스톡",
+  "aliases": [
+    "Perigale Stock",
+    "perigale stock",
+    "perigale_stock",
+    "페리게일 스톡"
+  ],
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnQuadSniperRifleStock",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/perigale_stock.679b0e40d7651d8a117e07d1c7039886.png",
+  "thumb": "items/images/en/thumbs/perigale_stock.679b0e40d7651d8a117e07d1c7039886.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

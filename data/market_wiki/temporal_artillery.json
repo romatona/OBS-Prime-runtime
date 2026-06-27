@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "667238bc8ba7c81b70d02cbc",
+  "slug": "temporal_artillery",
+  "market_slug": "temporal_artillery",
+  "name_en": "Temporal Artillery",
+  "name_en_slug": "temporal_artillery",
+  "name_kr": "템포럴 아틸러리",
+  "aliases": [
+    "Temporal Artillery",
+    "temporal artillery",
+    "temporal_artillery",
+    "템포럴 아틸러리"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "protea",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Odalisk/OdaliskBFGAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/temporal_artillery.7119a48e5579f9f73016c98e123f1d81.webp",
+  "thumb": "items/images/en/thumbs/temporal_artillery.7119a48e5579f9f73016c98e123f1d81.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

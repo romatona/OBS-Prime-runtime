@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "58446f9e2c2ada004feb21c4",
+  "slug": "enduring_affliction",
+  "market_slug": "enduring_affliction",
+  "name_en": "Enduring Affliction",
+  "name_en_slug": "enduring_affliction",
+  "name_kr": "엔듀어링 어플릭션",
+  "aliases": [
+    "Enduring Affliction",
+    "enduring affliction",
+    "enduring_affliction",
+    "엔듀어링 어플릭션"
+  ],
+  "tags": [
+    "melee",
+    "mod",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Melee/Channel/ChannelProcTimeExtendOnHitMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/enduring_affliction.65de25321ebf94dc05833a8e57239202.png",
+  "thumb": "items/images/en/thumbs/enduring_affliction.65de25321ebf94dc05833a8e57239202.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

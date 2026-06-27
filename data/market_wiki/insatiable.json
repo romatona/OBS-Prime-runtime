@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5b50a3ac3a84fd02a782324b",
+  "slug": "insatiable",
+  "market_slug": "insatiable",
+  "name_en": "Insatiable",
+  "name_en_slug": "insatiable",
+  "name_kr": "인새셔블",
+  "aliases": [
+    "Insatiable",
+    "insatiable",
+    "인새셔블"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "nidus",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Infestation/InfestPodsAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/insatiable.8bb5b675d8f3bbae956d3abb47b4a170.png",
+  "thumb": "items/images/en/thumbs/insatiable.8bb5b675d8f3bbae956d3abb47b4a170.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

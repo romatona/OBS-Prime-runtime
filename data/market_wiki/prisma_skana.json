@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "55e76cf1e779890d4a67ee18",
+  "slug": "prisma_skana",
+  "market_slug": "prisma_skana",
+  "name_en": "Prisma Skana",
+  "name_en_slug": "prisma_skana",
+  "name_kr": "프리즈마 스카나",
+  "aliases": [
+    "Prisma Skana",
+    "prisma skana",
+    "prisma_skana",
+    "프리즈마 스카나"
+  ],
+  "tags": [
+    "melee",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/VoidTrader/PrismaSkana",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/prisma_skana.84da73ea0e4ee4e1d75c9e2f4763d8bf.png",
+  "thumb": "items/images/en/thumbs/prisma_skana.84da73ea0e4ee4e1d75c9e2f4763d8bf.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5c93e3b9fc2db20121591321",
+  "slug": "bursting_mass",
+  "market_slug": "bursting_mass",
+  "name_en": "Bursting Mass",
+  "name_en_slug": "bursting_mass",
+  "name_kr": "버스팅 매스",
+  "aliases": [
+    "Bursting Mass",
+    "bursting mass",
+    "bursting_mass",
+    "버스팅 매스"
+  ],
+  "tags": [
+    "mod",
+    "mutalist_quanta",
+    "primary",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/Event/Arbitration/InfCrpShockSwarmRifleArbitrationMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/bursting_mass.bc9acd34c247247b7618f62148882b41.png",
+  "thumb": "items/images/en/thumbs/bursting_mass.bc9acd34c247247b7618f62148882b41.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

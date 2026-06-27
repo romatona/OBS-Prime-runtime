@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5d21ce43f4604c012d1e0c0d",
+  "slug": "zhuge_prime_barrel",
+  "market_slug": "zhuge_prime_barrel",
+  "name_en": "Zhuge Prime Barrel",
+  "name_en_slug": "zhuge_prime_barrel",
+  "name_kr": "제갈 프라임 배럴",
+  "aliases": [
+    "Zhuge Prime Barrel",
+    "zhuge prime barrel",
+    "zhuge_prime_barrel",
+    "제갈 프라임 배럴"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/ZhugePrimeBarrel",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/zhuge_prime_barrel.38e0e6189f1a333b382507a117b194a9.png",
+  "thumb": "items/images/en/thumbs/zhuge_prime_barrel.38e0e6189f1a333b382507a117b194a9.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

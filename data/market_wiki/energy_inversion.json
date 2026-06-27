@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e5155a3",
+  "slug": "energy_inversion",
+  "market_slug": "energy_inversion",
+  "name_en": "Energy Inversion",
+  "name_en_slug": "energy_inversion",
+  "name_kr": "에너지 인버젼",
+  "aliases": [
+    "Energy Inversion",
+    "energy inversion",
+    "energy_inversion",
+    "에너지 인버젼"
+  ],
+  "tags": [
+    "archwing",
+    "common",
+    "mod"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Archwing/Suit/ArchwingSuitShieldMaxMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/energy_inversion.7d740ef630c6614d7ae0d72789a69c7f.png",
+  "thumb": "items/images/en/thumbs/energy_inversion.7d740ef630c6614d7ae0d72789a69c7f.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

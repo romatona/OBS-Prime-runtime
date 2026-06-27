@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5be5f5a13ffcc7038857f10d",
+  "slug": "marquise_thyst",
+  "market_slug": "marquise_thyst",
+  "name_en": "Marquise Thyst",
+  "name_en_slug": "marquise_thyst",
+  "name_kr": "마르퀴즈 타이스트",
+  "aliases": [
+    "Marquise Thyst",
+    "marquise thyst",
+    "marquise_thyst",
+    "마르퀴즈 타이스트"
+  ],
+  "tags": [
+    "gem"
+  ],
+  "game_ref": "/Lotus/Types/Items/Gems/Solaris/SolarisEidolonGemBCutItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/marquise_thyst.6c9d411ba3dc55d44e7bc1299d44bd4a.png",
+  "thumb": "items/images/en/thumbs/marquise_thyst.6c9d411ba3dc55d44e7bc1299d44bd4a.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

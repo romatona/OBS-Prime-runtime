@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "592dd262011e88f094afec84",
+  "slug": "sybaris_prime_receiver",
+  "market_slug": "sybaris_prime_receiver",
+  "name_en": "Sybaris Prime Receiver",
+  "name_en_slug": "sybaris_prime_receiver",
+  "name_kr": "시바리스 프라임 리시버",
+  "aliases": [
+    "Sybaris Prime Receiver",
+    "sybaris prime receiver",
+    "sybaris_prime_receiver",
+    "시바리스 프라임 리시버"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/SybarisPrimeReceiver",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/sybaris_prime_receiver.39d7dc4a904f7db7e7c78901976aa5fa.png",
+  "thumb": "items/images/en/thumbs/sybaris_prime_receiver.39d7dc4a904f7db7e7c78901976aa5fa.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

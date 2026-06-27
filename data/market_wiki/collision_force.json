@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "554d3f0ce779894445a848ff",
+  "slug": "collision_force",
+  "market_slug": "collision_force",
+  "name_en": "Collision Force",
+  "name_en_slug": "collision_force",
+  "name_kr": "콜리전 포스",
+  "aliases": [
+    "Collision Force",
+    "collision force",
+    "collision_force",
+    "콜리전 포스"
+  ],
+  "tags": [
+    "melee",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Melee/WeaponEventMeleeImpactDamageMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/collision_force.2f14bb6f9c6d9e152d5e836124c8c4b0.png",
+  "thumb": "items/images/en/thumbs/collision_force.2f14bb6f9c6d9e152d5e836124c8c4b0.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

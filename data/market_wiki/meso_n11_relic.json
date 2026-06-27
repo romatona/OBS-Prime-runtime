@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6054dde55221e30057500fe2",
+  "slug": "meso_n11_relic",
+  "market_slug": "meso_n11_relic",
+  "name_en": "Meso N11 Relic",
+  "name_en_slug": "meso_n11_relic",
+  "name_kr": "메소 N11 성유물",
+  "aliases": [
+    "Meso N11 Relic",
+    "meso n11 relic",
+    "meso_n11_relic",
+    "메소 N11 성유물"
+  ],
+  "tags": [
+    "meso",
+    "relic"
+  ],
+  "game_ref": "/Lotus/Types/Game/Projections/T2VoidProjectionNyxValkyrRailjackA",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/meso_n11_relic.32eb1e727be665c175084b03829b8015.png",
+  "thumb": "items/images/en/thumbs/meso_n11_relic.32eb1e727be665c175084b03829b8015.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

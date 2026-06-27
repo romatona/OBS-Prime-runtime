@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6054dd3d5221e30057500f42",
+  "slug": "axi_l3_relic",
+  "market_slug": "axi_l3_relic",
+  "name_en": "Axi L3 Relic",
+  "name_en_slug": "axi_l3_relic",
+  "name_kr": "액시 L3 성유물",
+  "aliases": [
+    "Axi L3 Relic",
+    "axi l3 relic",
+    "axi_l3_relic",
+    "액시 L3 성유물"
+  ],
+  "tags": [
+    "axi",
+    "relic"
+  ],
+  "game_ref": "/Lotus/Types/Game/Projections/T4VoidProjectionMesaPrimeC",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/axi_l3_relic.a74c06f0cae21bdb8933685c867385f8.png",
+  "thumb": "items/images/en/thumbs/axi_l3_relic.a74c06f0cae21bdb8933685c867385f8.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

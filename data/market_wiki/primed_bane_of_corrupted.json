@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5992f2fa6a92654847b8df2a",
+  "slug": "primed_bane_of_corrupted",
+  "market_slug": "primed_bane_of_corrupted",
+  "name_en": "Primed Bane Of Orokin",
+  "name_en_slug": "primed_bane_of_corrupted",
+  "name_kr": "프라임드 베인 오브 오로킨",
+  "aliases": [
+    "Primed Bane Of Orokin",
+    "primed bane of corrupted",
+    "primed_bane_of_corrupted",
+    "프라임드 베인 오브 오로킨"
+  ],
+  "tags": [
+    "legendary",
+    "mod",
+    "primary",
+    "rifle"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/Expert/PrimedWeaponFactionDamageCorrupted",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/primed_bane_of_corrupted.b273d5d38532bdb777d830ce87a84d9e.png",
+  "thumb": "items/images/en/thumbs/primed_bane_of_corrupted.b273d5d38532bdb777d830ce87a84d9e.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

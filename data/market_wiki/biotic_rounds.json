@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "67c84007646a0f91834334ff",
+  "slug": "biotic_rounds",
+  "market_slug": "biotic_rounds",
+  "name_en": "Biotic Rounds",
+  "name_en_slug": "biotic_rounds",
+  "name_kr": "바이오틱 라운즈",
+  "aliases": [
+    "Biotic Rounds",
+    "biotic rounds",
+    "biotic_rounds",
+    "바이오틱 라운즈"
+  ],
+  "tags": [
+    "ax_52",
+    "mod",
+    "primary",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Nightwave/NightwaveTC2024AK47AugmentMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/biotic_rounds.bff2b53e80e11cd1378cc71e1ba4f814.webp",
+  "thumb": "items/images/en/thumbs/biotic_rounds.bff2b53e80e11cd1378cc71e1ba4f814.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

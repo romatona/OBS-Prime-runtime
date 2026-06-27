@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5ce7fd88d23a3b00908c4211",
+  "slug": "shockwave_actuators",
+  "market_slug": "shockwave_actuators",
+  "name_en": "Shockwave Actuators",
+  "name_en_slug": "shockwave_actuators",
+  "name_kr": "쇼크웨이브 액츄에이터",
+  "aliases": [
+    "Shockwave Actuators",
+    "shockwave actuators",
+    "shockwave_actuators",
+    "쇼크웨이브 액츄에이터"
+  ],
+  "tags": [
+    "common",
+    "moa",
+    "mod",
+    "sentinel"
+  ],
+  "game_ref": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetPrecept/MoaShockwavePrecept",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/shockwave_actuators.b1a57a13302d02566aa2d64cce77bb7b.png",
+  "thumb": "items/images/en/thumbs/shockwave_actuators.b1a57a13302d02566aa2d64cce77bb7b.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

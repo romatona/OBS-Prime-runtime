@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "69d67851b3984cc97e241769",
+  "slug": "iron_wake_scene",
+  "market_slug": "iron_wake_scene",
+  "name_en": "Iron Wake Scene",
+  "name_en_slug": "iron_wake_scene",
+  "name_kr": "아이언 웨이크 배경",
+  "aliases": [
+    "Iron Wake Scene",
+    "iron wake scene",
+    "iron_wake_scene",
+    "아이언 웨이크 배경"
+  ],
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/MiscItems/PhotoboothTileIronwakeHub",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/iron_wake_scene.3b5d8b097dd521f75eccd19d5e4f4548.webp",
+  "thumb": "items/images/en/thumbs/iron_wake_scene.3b5d8b097dd521f75eccd19d5e4f4548.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

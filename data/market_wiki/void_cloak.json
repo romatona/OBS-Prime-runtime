@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5dff6e1014569703166749e6",
+  "slug": "void_cloak",
+  "market_slug": "void_cloak",
+  "name_en": "Void Cloak",
+  "name_en_slug": "void_cloak",
+  "name_kr": "보이드 클록",
+  "aliases": [
+    "Void Cloak",
+    "void cloak",
+    "void_cloak",
+    "보이드 클록"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "railjack"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Railjack/Tactical/VoidCloak",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/void_cloak.f6d99679c6cbed946e0a4cdaaf04bd33.png",
+  "thumb": "items/images/en/thumbs/void_cloak.f6d99679c6cbed946e0a4cdaaf04bd33.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

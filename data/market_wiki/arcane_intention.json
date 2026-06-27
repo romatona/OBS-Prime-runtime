@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "644b00227ec1900044b97723",
+  "slug": "arcane_intention",
+  "market_slug": "arcane_intention",
+  "name_en": "Arcane Intention",
+  "name_en_slug": "arcane_intention",
+  "name_kr": "아케인 인텐션",
+  "aliases": [
+    "Arcane Intention",
+    "arcane intention",
+    "arcane_intention",
+    "아케인 인텐션"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Utility/HealthWhileUsingChanneledAbilities",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/arcane_intention.2d412880c8134b5078de0b9debf2a9e7.png",
+  "thumb": "items/images/en/thumbs/arcane_intention.2d412880c8134b5078de0b9debf2a9e7.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

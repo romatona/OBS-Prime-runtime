@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5bb7658f92ea46005b6d386e",
+  "slug": "primed_expel_corpus",
+  "market_slug": "primed_expel_corpus",
+  "name_en": "Primed Expel Corpus",
+  "name_en_slug": "primed_expel_corpus",
+  "name_kr": "프라임드 익스펠 코퍼스",
+  "aliases": [
+    "Primed Expel Corpus",
+    "primed expel corpus",
+    "primed_expel_corpus",
+    "프라임드 익스펠 코퍼스"
+  ],
+  "tags": [
+    "legendary",
+    "mod",
+    "pistol",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponPistolFactionDamageCorpusExpert",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/primed_expel_corpus.a7084d32e9f304849b28b8a1b680671c.png",
+  "thumb": "items/images/en/thumbs/primed_expel_corpus.a7084d32e9f304849b28b8a1b680671c.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

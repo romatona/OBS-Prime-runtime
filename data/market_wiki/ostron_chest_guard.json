@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60e70f7b479445008f272582",
+  "slug": "ostron_chest_guard",
+  "market_slug": "ostron_chest_guard",
+  "name_en": "Ostron Chest Guard",
+  "name_en_slug": "ostron_chest_guard",
+  "name_kr": "오스트론 체스트 가드",
+  "aliases": [
+    "Ostron Chest Guard",
+    "ostron chest guard",
+    "ostron_chest_guard",
+    "오스트론 체스트 가드"
+  ],
+  "tags": [
+    "skin"
+  ],
+  "game_ref": "/Lotus/Upgrades/Skins/Armor/OstronCrewArmor/OstronCrewArmorC",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/ostron_chest_guard.aa95b7acc34aa43b0bd0c43fba0336c9.png",
+  "thumb": "items/images/en/thumbs/ostron_chest_guard.aa95b7acc34aa43b0bd0c43fba0336c9.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

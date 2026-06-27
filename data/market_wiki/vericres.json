@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "636d085bd6e304004d0be569",
+  "slug": "vericres",
+  "market_slug": "vericres",
+  "name_en": "Vericres",
+  "name_en_slug": "vericres",
+  "name_kr": "베리크레스",
+  "aliases": [
+    "Vericres",
+    "vericres",
+    "베리크레스"
+  ],
+  "tags": [
+    "melee",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/Warfan/TnMoonWarfan/MoonWarfanWeapon",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/vericres.78fa72dfb0e8a5060eba19ebdf2f3a5b.png",
+  "thumb": "items/images/en/thumbs/vericres.78fa72dfb0e8a5060eba19ebdf2f3a5b.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

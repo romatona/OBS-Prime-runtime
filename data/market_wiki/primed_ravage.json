@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54c685c4e77989137eb0f9be",
+  "slug": "primed_ravage",
+  "market_slug": "primed_ravage",
+  "name_en": "Primed Ravage",
+  "name_en_slug": "primed_ravage",
+  "name_kr": "프라임드 래비지",
+  "aliases": [
+    "Primed Ravage",
+    "primed ravage",
+    "primed_ravage",
+    "프라임드 래비지"
+  ],
+  "tags": [
+    "legendary",
+    "mod",
+    "primary",
+    "shotgun"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponCritDamageModExpert",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/primed_ravage.a0c43849bce0a4b4b68b54a3d799d314.png",
+  "thumb": "items/images/en/thumbs/primed_ravage.a0c43849bce0a4b4b68b54a3d799d314.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

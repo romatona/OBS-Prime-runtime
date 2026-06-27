@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "690148eff88bae2d5b1f539c",
+  "slug": "the_teacher_reactor_scene",
+  "market_slug": "the_teacher_reactor_scene",
+  "name_en": "The Teacher Reactor Scene",
+  "name_en_slug": "the_teacher_reactor_scene",
+  "name_kr": "스승 리액터 배경",
+  "aliases": [
+    "The Teacher Reactor Scene",
+    "the teacher reactor scene",
+    "the_teacher_reactor_scene",
+    "스승 리액터 배경"
+  ],
+  "tags": [
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/PhotoBooth/2025FallUpdate/PhotoboothTheTeacherReactor",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/the_teacher_reactor_scene.9205f172a01588547feb333a8830347d.webp",
+  "thumb": "items/images/en/thumbs/the_teacher_reactor_scene.9205f172a01588547feb333a8830347d.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "55c153afe779895d6f802d7a",
+  "slug": "mobilize",
+  "market_slug": "mobilize",
+  "name_en": "Mobilize",
+  "name_en_slug": "mobilize",
+  "name_kr": "모빌라이즈",
+  "aliases": [
+    "Mobilize",
+    "mobilize",
+    "모빌라이즈"
+  ],
+  "tags": [
+    "mod",
+    "uncommon",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Warframe/ParkourTwoMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/mobilize.05d2e152abd6ac55ee0939b7ab932e96.png",
+  "thumb": "items/images/en/thumbs/mobilize.05d2e152abd6ac55ee0939b7ab932e96.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

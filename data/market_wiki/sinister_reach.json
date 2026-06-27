@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "55a46912e77989020f0a68d9",
+  "slug": "sinister_reach",
+  "market_slug": "sinister_reach",
+  "name_en": "Sinister Reach",
+  "name_en_slug": "sinister_reach",
+  "name_kr": "시니스터 리치",
+  "aliases": [
+    "Sinister Reach",
+    "sinister reach",
+    "sinister_reach",
+    "시니스터 리치"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/WeaponBeamDistanceMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/sinister_reach.00fe6e847ea514728bf3c7ce6c6fe673.png",
+  "thumb": "items/images/en/thumbs/sinister_reach.00fe6e847ea514728bf3c7ce6c6fe673.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

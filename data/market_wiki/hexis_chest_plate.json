@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60e70f7c479445008f272585",
+  "slug": "hexis_chest_plate",
+  "market_slug": "hexis_chest_plate",
+  "name_en": "Hexis Chest Plate",
+  "name_en_slug": "hexis_chest_plate",
+  "name_kr": "헥시스 체스트 플레이트",
+  "aliases": [
+    "Hexis Chest Plate",
+    "hexis chest plate",
+    "hexis_chest_plate",
+    "헥시스 체스트 플레이트"
+  ],
+  "tags": [
+    "skin"
+  ],
+  "game_ref": "/Lotus/Upgrades/Skins/Armor/ArbiterOfHexisArmor/ArbiterOfHexisArmorC",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/hexis_chest_plate.91ded728996ed7166d3578801fff614d.png",
+  "thumb": "items/images/en/thumbs/hexis_chest_plate.91ded728996ed7166d3578801fff614d.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

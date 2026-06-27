@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "693e63a903903ae8993ffae0",
+  "slug": "boro_overlook_scene",
+  "market_slug": "boro_overlook_scene",
+  "name_en": "Boro Overlook Scene",
+  "name_en_slug": "boro_overlook_scene",
+  "name_kr": "보로 고지대 배경",
+  "aliases": [
+    "Boro Overlook Scene",
+    "boro overlook scene",
+    "boro_overlook_scene",
+    "보로 고지대 배경"
+  ],
+  "tags": [
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/PhotoBooth/TauOldPeace/PhotoboothTileTauOldPeaceIntBoroOverlook",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/boro_overlook_scene.6a8ee793913560578298787065094ecd.webp",
+  "thumb": "items/images/en/thumbs/boro_overlook_scene.6a8ee793913560578298787065094ecd.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

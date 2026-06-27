@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6055de865221e30083f6f109",
+  "slug": "auto_omni",
+  "market_slug": "auto_omni",
+  "name_en": "Auto Omni",
+  "name_en_slug": "auto_omni",
+  "name_kr": "오토 옴니",
+  "aliases": [
+    "Auto Omni",
+    "auto omni",
+    "auto_omni",
+    "오토 옴니"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "nautilus",
+    "sentinel"
+  ],
+  "game_ref": "/Lotus/Types/Sentinels/SentinelPrecepts/RepairShip",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/auto_omni.87bf9b3a39e78d394edbebe9ccd3f6e9.png",
+  "thumb": "items/images/en/thumbs/auto_omni.87bf9b3a39e78d394edbebe9ccd3f6e9.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54e644ffe779897594fa68ce",
+  "slug": "mind_freak",
+  "market_slug": "mind_freak",
+  "name_en": "Mind Freak",
+  "name_en_slug": "mind_freak",
+  "name_kr": "마인드 프리크",
+  "aliases": [
+    "Mind Freak",
+    "mind freak",
+    "mind_freak",
+    "마인드 프리크"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "nyx",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Jade/MindControlAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/mind_freak.9fa9ad270ea0f0f491a1c49b20e621a6.png",
+  "thumb": "items/images/en/thumbs/mind_freak.9fa9ad270ea0f0f491a1c49b20e621a6.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

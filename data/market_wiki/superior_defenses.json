@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e5155d8",
+  "slug": "superior_defenses",
+  "market_slug": "superior_defenses",
+  "name_en": "Superior Defenses",
+  "name_en_slug": "superior_defenses",
+  "name_kr": "슈페리어 디펜스",
+  "aliases": [
+    "Superior Defenses",
+    "superior defenses",
+    "superior_defenses",
+    "슈페리어 디펜스"
+  ],
+  "tags": [
+    "archwing",
+    "mod",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Archwing/Suit/ArchwingSuitShieldRechargeRateMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/superior_defenses.055772f100d75f2395844ad6685c78e2.png",
+  "thumb": "items/images/en/thumbs/superior_defenses.055772f100d75f2395844ad6685c78e2.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

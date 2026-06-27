@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5df955141456970150510f28",
+  "slug": "aksomati_prime_blueprint",
+  "market_slug": "aksomati_prime_blueprint",
+  "name_en": "Aksomati Prime Blueprint",
+  "name_en_slug": "aksomati_prime_blueprint",
+  "name_kr": "아크소마티 프라임 설계도",
+  "aliases": [
+    "Aksomati Prime",
+    "Aksomati Prime Blueprint",
+    "aksomati prime blueprint",
+    "aksomati_prime_blueprint",
+    "아크소마티 프라임",
+    "아크소마티 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "prime",
+    "secondary",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/AksomatiPrimeBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/aksomati_prime_blueprint.617fca3e38e6696ec87a6c28bd6bbebf.png",
+  "thumb": "items/images/en/thumbs/aksomati_prime_blueprint.617fca3e38e6696ec87a6c28bd6bbebf.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

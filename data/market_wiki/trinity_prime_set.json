@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56783f24cbfa8f0432dd89af",
+  "slug": "trinity_prime_set",
+  "market_slug": "trinity_prime_set",
+  "name_en": "Trinity Prime Set",
+  "name_en_slug": "trinity_prime_set",
+  "name_kr": "트리니티 프라임 세트",
+  "aliases": [
+    "Trinity Prime Set",
+    "trinity prime set",
+    "trinity_prime_set",
+    "트리니티 프라임 세트"
+  ],
+  "tags": [
+    "prime",
+    "set",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Trinity/TrinityPrime",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/trinity_prime_set.4115dba418ab8ee70197a7fdaee8da76.png",
+  "thumb": "items/images/en/thumbs/trinity_prime_set.4115dba418ab8ee70197a7fdaee8da76.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

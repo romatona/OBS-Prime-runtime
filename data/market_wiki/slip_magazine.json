@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e5155b1",
+  "slug": "slip_magazine",
+  "market_slug": "slip_magazine",
+  "name_en": "Slip Magazine",
+  "name_en_slug": "slip_magazine",
+  "name_kr": "슬립 매거진",
+  "aliases": [
+    "Slip Magazine",
+    "slip magazine",
+    "slip_magazine",
+    "슬립 매거진"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "pistol",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Pistol/WeaponClipMaxMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/slip_magazine.c72bb3d9a2f6bd363c43f32dc1f81572.png",
+  "thumb": "items/images/en/thumbs/slip_magazine.c72bb3d9a2f6bd363c43f32dc1f81572.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

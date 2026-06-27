@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515634",
+  "slug": "master_thief",
+  "market_slug": "master_thief",
+  "name_en": "Master Thief",
+  "name_en_slug": "master_thief",
+  "name_kr": "마스터 시프",
+  "aliases": [
+    "Master Thief",
+    "master thief",
+    "master_thief",
+    "마스터 시프"
+  ],
+  "tags": [
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Warframe/AvatarChanceToLoot",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/master_thief.5baf4d4ff0f669f514245a4b30f9b867.png",
+  "thumb": "items/images/en/thumbs/master_thief.5baf4d4ff0f669f514245a4b30f9b867.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

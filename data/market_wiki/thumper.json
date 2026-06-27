@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515607",
+  "slug": "thumper",
+  "market_slug": "thumper",
+  "name_en": "Thumper",
+  "name_en_slug": "thumper",
+  "name_kr": "썸퍼",
+  "aliases": [
+    "Thumper",
+    "thumper",
+    "썸퍼"
+  ],
+  "tags": [
+    "common",
+    "djinn",
+    "mod",
+    "sentinel"
+  ],
+  "game_ref": "/Lotus/Types/Sentinels/SentinelPrecepts/Thumper",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/thumper.e357cdd92fb471cd5743fafdee3fa63b.png",
+  "thumb": "items/images/en/thumbs/thumper.e357cdd92fb471cd5743fafdee3fa63b.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56dac58b5cc639de0a45c521",
+  "slug": "discharge_strike",
+  "market_slug": "discharge_strike",
+  "name_en": "Discharge Strike",
+  "name_en_slug": "discharge_strike",
+  "name_kr": "디스차지 스트라이크",
+  "aliases": [
+    "Discharge Strike",
+    "discharge strike",
+    "discharge_strike",
+    "디스차지 스트라이크"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "nekros",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Necro/SoulPunchPvPAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/discharge_strike.11efeba0f37f6436bad4160e0d60ec15.png",
+  "thumb": "items/images/en/thumbs/discharge_strike.11efeba0f37f6436bad4160e0d60ec15.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

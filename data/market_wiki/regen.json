@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e51561f",
+  "slug": "regen",
+  "market_slug": "regen",
+  "name_en": "Regen",
+  "name_en_slug": "regen",
+  "name_kr": "리젠",
+  "aliases": [
+    "Regen",
+    "regen",
+    "리젠"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "sentinel"
+  ],
+  "game_ref": "/Lotus/Types/Sentinels/SentinelPrecepts/Regen",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/regen.5c9ce2616c97c6f6acd55023ca7974f7.png",
+  "thumb": "items/images/en/thumbs/regen.5c9ce2616c97c6f6acd55023ca7974f7.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

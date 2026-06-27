@@ -1,0 +1,27 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6054de655221e3005750106f",
+  "slug": "ostimyr",
+  "market_slug": "ostimyr",
+  "name_en": "Ostimyr",
+  "name_en_slug": "ostimyr",
+  "name_kr": "오스티미르",
+  "aliases": [
+    "Ostimyr",
+    "ostimyr",
+    "오스티미르"
+  ],
+  "tags": [
+    "fish"
+  ],
+  "game_ref": "/Lotus/Types/Items/Fish/Deimos/HybridUncommonAFishItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/ostimyr.cad7b700633006fd0feb87ffec1825d2.png",
+  "thumb": "items/images/en/thumbs/ostimyr.cad7b700633006fd0feb87ffec1825d2.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

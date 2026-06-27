@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5dbe9b0b7ea27b0ffe3ca26f",
+  "slug": "blood_for_ammo",
+  "market_slug": "blood_for_ammo",
+  "name_en": "Blood For Ammo",
+  "name_en_slug": "blood_for_ammo",
+  "name_kr": "블러드 포 애모",
+  "aliases": [
+    "Blood For Ammo",
+    "blood for ammo",
+    "blood_for_ammo",
+    "블러드 포 애모"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "parazon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/DataSpike/Assassin/OnExecutionAmmoMod",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/blood_for_ammo.f06e780d82b900677e1d866ff661410f.png",
+  "thumb": "items/images/en/thumbs/blood_for_ammo.f06e780d82b900677e1d866ff661410f.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

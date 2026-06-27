@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60ad4a1bf1904300d012c6f9",
+  "slug": "volnus_prime_handle",
+  "market_slug": "volnus_prime_handle",
+  "name_en": "Volnus Prime Handle",
+  "name_en_slug": "volnus_prime_handle",
+  "name_kr": "볼누스 프라임 핸들",
+  "aliases": [
+    "Volnus Prime Handle",
+    "volnus prime handle",
+    "volnus_prime_handle",
+    "볼누스 프라임 핸들"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/VolnusPrimeHandle",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/volnus_prime_handle.61e00a9ff67ea0fb1ce0be39e6263ea2.png",
+  "thumb": "items/images/en/thumbs/volnus_prime_handle.61e00a9ff67ea0fb1ce0be39e6263ea2.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

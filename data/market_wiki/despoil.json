@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54e644ffe779897594fa68cd",
+  "slug": "despoil",
+  "market_slug": "despoil",
+  "name_en": "Despoil",
+  "name_en_slug": "despoil",
+  "name_kr": "디스포일",
+  "aliases": [
+    "Despoil",
+    "despoil",
+    "디스포일"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "nekros",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Necro/SearchTheDeadAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/despoil.2633a2c7793d85b21d22cb4c4a0b70cf.png",
+  "thumb": "items/images/en/thumbs/despoil.2633a2c7793d85b21d22cb4c4a0b70cf.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60e5b8fe4794450053e9994e",
+  "slug": "garmr_core_blueprint",
+  "market_slug": "garmr_core_blueprint",
+  "name_en": "Garmr Core Blueprint",
+  "name_en_slug": "garmr_core_blueprint",
+  "name_kr": "가름 코어 설계도",
+  "aliases": [
+    "Garmr Core",
+    "Garmr Core Blueprint",
+    "garmr core blueprint",
+    "garmr_core_blueprint",
+    "가름 코어",
+    "가름 코어 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "hound",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartBodyBBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/garmr_core_blueprint.fe6c29c36cade7c41919bcfd5d32557a.png",
+  "thumb": "items/images/en/thumbs/garmr_core_blueprint.fe6c29c36cade7c41919bcfd5d32557a.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

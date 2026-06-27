@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54e644ffe779897594fa68cb",
+  "slug": "regenerative_molt",
+  "market_slug": "regenerative_molt",
+  "name_en": "Regenerative Molt",
+  "name_en_slug": "regenerative_molt",
+  "name_kr": "리제네레이티브 몰트",
+  "aliases": [
+    "Regenerative Molt",
+    "regenerative molt",
+    "regenerative_molt",
+    "리제네레이티브 몰트"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "rare",
+    "saryn",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Saryn/ShedAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/regenerative_molt.7ebf17142decc24b7b754dd49af560c5.png",
+  "thumb": "items/images/en/thumbs/regenerative_molt.7ebf17142decc24b7b754dd49af560c5.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

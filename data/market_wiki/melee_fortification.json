@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "657f2efd8820fb8f3c5f4664",
+  "slug": "melee_fortification",
+  "market_slug": "melee_fortification",
+  "name_en": "Melee Fortification",
+  "name_en_slug": "melee_fortification",
+  "name_kr": "Melee Fortification",
+  "aliases": [
+    "Melee Fortification",
+    "melee fortification",
+    "melee_fortification"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "common"
+  ],
+  "game_ref": "",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/melee_fortification.546e560aff6676bf550b0de38f14f280.webp",
+  "thumb": "items/images/en/thumbs/melee_fortification.546e560aff6676bf550b0de38f14f280.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

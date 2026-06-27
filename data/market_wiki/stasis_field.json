@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5ce7fd87d23a3b00908c420f",
+  "slug": "stasis_field",
+  "market_slug": "stasis_field",
+  "name_en": "Stasis Field",
+  "name_en_slug": "stasis_field",
+  "name_kr": "스테이시스 필드",
+  "aliases": [
+    "Stasis Field",
+    "stasis field",
+    "stasis_field",
+    "스테이시스 필드"
+  ],
+  "tags": [
+    "common",
+    "moa",
+    "mod",
+    "sentinel"
+  ],
+  "game_ref": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetPrecept/MoaStasisFieldPrecept",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/stasis_field.103c8611cc2434079a94b65c9796606a.png",
+  "thumb": "items/images/en/thumbs/stasis_field.103c8611cc2434079a94b65c9796606a.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5615432bb66f8371035bfa2d",
+  "slug": "electro_pulse",
+  "market_slug": "electro_pulse",
+  "name_en": "Electro Pulse",
+  "name_en_slug": "electro_pulse",
+  "name_kr": "일렉트로 펄스",
+  "aliases": [
+    "Electro Pulse",
+    "electro pulse",
+    "electro_pulse",
+    "일렉트로 펄스"
+  ],
+  "tags": [
+    "common",
+    "diriga",
+    "mod",
+    "sentinel"
+  ],
+  "game_ref": "/Lotus/Types/Sentinels/SentinelPrecepts/TaserStun",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/electro_pulse.f4bd69a3149985b72299f5da28a01306.png",
+  "thumb": "items/images/en/thumbs/electro_pulse.f4bd69a3149985b72299f5da28a01306.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

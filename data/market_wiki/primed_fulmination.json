@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5fca4b457bfda40043597ee9",
+  "slug": "primed_fulmination",
+  "market_slug": "primed_fulmination",
+  "name_en": "Primed Fulmination",
+  "name_en_slug": "primed_fulmination",
+  "name_kr": "프라임드 펄미네이션",
+  "aliases": [
+    "Primed Fulmination",
+    "primed fulmination",
+    "primed_fulmination",
+    "프라임드 펄미네이션"
+  ],
+  "tags": [
+    "legendary",
+    "mod",
+    "pistol",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Pistol/Event/AmbulasEvent/Expert/SecondaryExplosionRadiusModExpert",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/primed_fulmination.fc3edbbe1b507a08c07859846921d94e.png",
+  "thumb": "items/images/en/thumbs/primed_fulmination.fc3edbbe1b507a08c07859846921d94e.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

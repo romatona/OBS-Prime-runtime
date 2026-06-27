@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "57c05949d0d9ef638234e4ae",
+  "slug": "stand_united",
+  "market_slug": "stand_united",
+  "name_en": "Stand United",
+  "name_en_slug": "stand_united",
+  "name_kr": "스탠드 유나이티드",
+  "aliases": [
+    "Stand United",
+    "stand united",
+    "stand_united",
+    "스탠드 유나이티드"
+  ],
+  "tags": [
+    "aura",
+    "mod",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Aura/FairyQuest/FairyQuestThornsAuraMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/stand_united.1cd80c0f109a360e30d4a69c4e0a99f0.png",
+  "thumb": "items/images/en/thumbs/stand_united.1cd80c0f109a360e30d4a69c4e0a99f0.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

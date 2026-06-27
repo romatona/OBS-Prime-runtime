@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "693e6b6b03903ae8993ffb0e",
+  "slug": "vik_anam",
+  "market_slug": "vik_anam",
+  "name_en": "Vik-Anam",
+  "name_en_slug": "vik_anam",
+  "name_kr": "비크-아남",
+  "aliases": [
+    "Vik-Anam",
+    "vik anam",
+    "vik_anam",
+    "비크-아남"
+  ],
+  "tags": [
+    "any",
+    "mod",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Antiques/AmmoSchool",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/ko/vik_anam.f113ff1b65dce57cf4663a0c9e2f0aca.webp",
+  "thumb": "items/images/ko/thumbs/vik_anam.f113ff1b65dce57cf4663a0c9e2f0aca.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60e70f7a479445008f27257c",
+  "slug": "steel_meridian_piloting_emote",
+  "market_slug": "steel_meridian_piloting_emote",
+  "name_en": "Steel Meridian Piloting Emote",
+  "name_en_slug": "steel_meridian_piloting_emote",
+  "name_kr": "스틸 메리디안 조종 감정 표현",
+  "aliases": [
+    "Steel Meridian Piloting Emote",
+    "steel meridian piloting emote",
+    "steel_meridian_piloting_emote",
+    "스틸 메리디안 조종 감정 표현"
+  ],
+  "tags": [
+    "emote",
+    "syndicate"
+  ],
+  "game_ref": "/Lotus/Types/Items/Emotes/Syndicate/SMPilotingEmote",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/steel_meridian_piloting_emote.e044b94c8dac6e9e34e464bf3ec2de07.png",
+  "thumb": "items/images/en/thumbs/steel_meridian_piloting_emote.e044b94c8dac6e9e34e464bf3ec2de07.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

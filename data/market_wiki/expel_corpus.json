@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e51569f",
+  "slug": "expel_corpus",
+  "market_slug": "expel_corpus",
+  "name_en": "Expel Corpus",
+  "name_en_slug": "expel_corpus",
+  "name_kr": "익스펠 코퍼스",
+  "aliases": [
+    "Expel Corpus",
+    "expel corpus",
+    "expel_corpus",
+    "익스펠 코퍼스"
+  ],
+  "tags": [
+    "mod",
+    "pistol",
+    "secondary",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Pistol/WeaponPistolFactionDamageCorpus",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/expel_corpus.a5014be781ec3ac619fd3d7260e8fa36.png",
+  "thumb": "items/images/en/thumbs/expel_corpus.a5014be781ec3ac619fd3d7260e8fa36.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

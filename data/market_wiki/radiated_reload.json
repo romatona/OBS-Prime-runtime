@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "657af5ab21646e595134f5bd",
+  "slug": "radiated_reload",
+  "market_slug": "radiated_reload",
+  "name_en": "Radiated Reload",
+  "name_en_slug": "radiated_reload",
+  "name_kr": "라디에이티드 리로드",
+  "aliases": [
+    "Radiated Reload",
+    "radiated reload",
+    "radiated_reload",
+    "라디에이티드 리로드"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "rifle"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/DualStat/RadiationReloadRifleMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/radiated_reload.ef138cd14950f035cce6a1000b129594.png",
+  "thumb": "items/images/en/thumbs/radiated_reload.ef138cd14950f035cce6a1000b129594.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5526aec1e779896af9418264",
+  "slug": "rising_storm",
+  "market_slug": "rising_storm",
+  "name_en": "Rising Storm",
+  "name_en_slug": "rising_storm",
+  "name_kr": "라이징 스톰",
+  "aliases": [
+    "Rising Storm",
+    "rising storm",
+    "rising_storm",
+    "라이징 스톰"
+  ],
+  "tags": [
+    "ash",
+    "augment",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Ninja/NinjaStormAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/rising_storm.7cf0510c35a5252a084c304666e6e779.png",
+  "thumb": "items/images/en/thumbs/rising_storm.7cf0510c35a5252a084c304666e6e779.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

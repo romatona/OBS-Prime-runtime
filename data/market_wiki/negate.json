@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5b00231bac0f7e006fd6f7b4",
+  "slug": "negate",
+  "market_slug": "negate",
+  "name_en": "Negate",
+  "name_en_slug": "negate",
+  "name_kr": "니게이트",
+  "aliases": [
+    "Negate",
+    "negate",
+    "니게이트"
+  ],
+  "tags": [
+    "mod",
+    "rare",
+    "sentinel",
+    "wyrm"
+  ],
+  "game_ref": "/Lotus/Types/Sentinels/SentinelPrecepts/ProcAbsorb",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/negate.9797e761f012ebd126009f3c45c55027.png",
+  "thumb": "items/images/en/thumbs/negate.9797e761f012ebd126009f3c45c55027.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

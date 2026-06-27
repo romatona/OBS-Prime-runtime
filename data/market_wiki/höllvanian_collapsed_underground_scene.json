@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "683070cbce567bcd85d673d2",
+  "slug": "höllvanian_collapsed_underground_scene",
+  "market_slug": "höllvanian_collapsed_underground_scene",
+  "name_en": "Höllvanian Collapsed Underground Scene",
+  "name_en_slug": "höllvanian_collapsed_underground_scene",
+  "name_kr": "홀바니아 붕괴된 지하 배경",
+  "aliases": [
+    "Höllvanian Collapsed Underground Scene",
+    "höllvanian collapsed underground scene",
+    "höllvanian_collapsed_underground_scene",
+    "홀바니아 붕괴된 지하 배경"
+  ],
+  "tags": [
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaConMallEftwel",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/höllvanian_collapsed_underground_scene.5dd05494b4e62037b753976868628606.webp",
+  "thumb": "items/images/en/thumbs/höllvanian_collapsed_underground_scene.5dd05494b4e62037b753976868628606.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

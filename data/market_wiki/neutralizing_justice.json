@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5911f11d97a0add8e9d5da4d",
+  "slug": "neutralizing_justice",
+  "market_slug": "neutralizing_justice",
+  "name_en": "Neutralizing Justice",
+  "name_en_slug": "neutralizing_justice",
+  "name_kr": "뉴트럴라이징 저스티스",
+  "aliases": [
+    "Neutralizing Justice",
+    "neutralizing justice",
+    "neutralizing_justice",
+    "뉴트럴라이징 저스티스"
+  ],
+  "tags": [
+    "miter",
+    "mod",
+    "primary",
+    "rare",
+    "syndicate"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Syndicate/MiterMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/neutralizing_justice.07728fc8496c758312e086bb788ad1ea.png",
+  "thumb": "items/images/en/thumbs/neutralizing_justice.07728fc8496c758312e086bb788ad1ea.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

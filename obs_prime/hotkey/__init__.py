@@ -1,0 +1,1 @@
+"""Hotkey parsing and registration."""

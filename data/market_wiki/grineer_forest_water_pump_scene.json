@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "59ecb5d2195d2301e654749b",
+  "slug": "grineer_forest_water_pump_scene",
+  "market_slug": "grineer_forest_water_pump_scene",
+  "name_en": "Grineer Forest Water Pump Scene",
+  "name_en_slug": "grineer_forest_water_pump_scene",
+  "name_kr": "그리니어 숲 물 펌프 배경",
+  "aliases": [
+    "Grineer Forest Water Pump Scene",
+    "grineer forest water pump scene",
+    "grineer_forest_water_pump_scene",
+    "그리니어 숲 물 펌프 배경"
+  ],
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/MiscItems/PhotoboothTileGrineerForestCaveIntermediateA",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/grineer_forest_water_pump_scene.c07de36b4524d5758e6fbb1f14f637c2.png",
+  "thumb": "items/images/en/thumbs/grineer_forest_water_pump_scene.c07de36b4524d5758e6fbb1f14f637c2.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

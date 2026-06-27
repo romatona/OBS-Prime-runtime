@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56783f24cbfa8f0432dd899a",
+  "slug": "ember_prime_set",
+  "market_slug": "ember_prime_set",
+  "name_en": "Ember Prime Set",
+  "name_en_slug": "ember_prime_set",
+  "name_kr": "엠버 프라임 세트",
+  "aliases": [
+    "Ember Prime Set",
+    "ember prime set",
+    "ember_prime_set",
+    "엠버 프라임 세트"
+  ],
+  "tags": [
+    "prime",
+    "set",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Ember/EmberPrime",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/ember_prime_set.971255acc3f1ad8a374d236c6af1c816.png",
+  "thumb": "items/images/en/thumbs/ember_prime_set.971255acc3f1ad8a374d236c6af1c816.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a4d7",
+  "slug": "follow_through",
+  "market_slug": "follow_through",
+  "name_en": "Follow Through",
+  "name_en_slug": "follow_through",
+  "name_kr": "팔로우 쓰루",
+  "aliases": [
+    "Follow Through",
+    "follow through",
+    "follow_through",
+    "팔로우 쓰루"
+  ],
+  "tags": [
+    "mod",
+    "pvp",
+    "uncommon",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Warframe/EnergyOnKill",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/follow_through.a1544cb860ea4175e3dea411582f3d34.png",
+  "thumb": "items/images/en/thumbs/follow_through.a1544cb860ea4175e3dea411582f3d34.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

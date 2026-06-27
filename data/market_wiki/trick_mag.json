@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e5155f0",
+  "slug": "trick_mag",
+  "market_slug": "trick_mag",
+  "name_en": "Trick Mag",
+  "name_en_slug": "trick_mag",
+  "name_kr": "트릭 매거진",
+  "aliases": [
+    "Trick Mag",
+    "trick mag",
+    "trick_mag",
+    "트릭 매거진"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "pistol",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Pistol/WeaponAmmoMaxMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/trick_mag.17992c866f1b256de786611bb2e8c7b2.png",
+  "thumb": "items/images/en/thumbs/trick_mag.17992c866f1b256de786611bb2e8c7b2.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

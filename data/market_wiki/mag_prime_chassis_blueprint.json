@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a73e65e779893a797fff83",
+  "slug": "mag_prime_chassis_blueprint",
+  "market_slug": "mag_prime_chassis_blueprint",
+  "name_en": "Mag Prime Chassis Blueprint",
+  "name_en_slug": "mag_prime_chassis_blueprint",
+  "name_kr": "매그 프라임 섀시 설계도",
+  "aliases": [
+    "Mag Prime Chassis",
+    "Mag Prime Chassis Blueprint",
+    "mag prime chassis blueprint",
+    "mag_prime_chassis_blueprint",
+    "매그 프라임 섀시",
+    "매그 프라임 섀시 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/MagPrimeChassisBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/mag_prime_chassis.2afb45373319b966737bd91cf05a813c.png",
+  "thumb": "items/images/en/thumbs/mag_prime_chassis.2afb45373319b966737bd91cf05a813c.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

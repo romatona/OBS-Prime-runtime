@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156e7",
+  "slug": "ice_storm",
+  "market_slug": "ice_storm",
+  "name_en": "Ice Storm",
+  "name_en_slug": "ice_storm",
+  "name_kr": "아이스 스톰",
+  "aliases": [
+    "Ice Storm",
+    "ice storm",
+    "ice_storm",
+    "아이스 스톰"
+  ],
+  "tags": [
+    "mod",
+    "pistol",
+    "rare",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Pistol/DualStat/IceStormMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/ice_storm.83c9d29c3e761c17f72130e383b4febc.png",
+  "thumb": "items/images/en/thumbs/ice_storm.83c9d29c3e761c17f72130e383b4febc.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

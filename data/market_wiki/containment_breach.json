@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "657af5ac21646e595134f5d0",
+  "slug": "containment_breach",
+  "market_slug": "containment_breach",
+  "name_en": "Containment Breach",
+  "name_en_slug": "containment_breach",
+  "name_kr": "컨테인먼트 브리치",
+  "aliases": [
+    "Containment Breach",
+    "containment breach",
+    "containment_breach",
+    "컨테인먼트 브리치"
+  ],
+  "tags": [
+    "archgun",
+    "archwing",
+    "mod",
+    "primary",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingEventRadiationFireIterationRifleMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/containment_breach.2fda17b7ca344b0a5a33570e769141c6.png",
+  "thumb": "items/images/en/thumbs/containment_breach.2fda17b7ca344b0a5a33570e769141c6.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

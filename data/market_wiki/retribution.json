@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e51569e",
+  "slug": "retribution",
+  "market_slug": "retribution",
+  "name_en": "Retribution",
+  "name_en_slug": "retribution",
+  "name_kr": "레트리뷰션",
+  "aliases": [
+    "Retribution",
+    "retribution",
+    "레트리뷰션"
+  ],
+  "tags": [
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Warframe/AvatarRevengeDamageMelee",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/retribution.2830651404639a9119f19d51d8454de2.png",
+  "thumb": "items/images/en/thumbs/retribution.2830651404639a9119f19d51d8454de2.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

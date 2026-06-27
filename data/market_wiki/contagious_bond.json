@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "65316954f31453d36319c570",
+  "slug": "contagious_bond",
+  "market_slug": "contagious_bond",
+  "name_en": "Contagious Bond",
+  "name_en_slug": "contagious_bond",
+  "name_kr": "컨테이저스 본드",
+  "aliases": [
+    "Contagious Bond",
+    "contagious bond",
+    "contagious_bond",
+    "컨테이저스 본드"
+  ],
+  "tags": [
+    "companion",
+    "mod",
+    "rare",
+    "sentinel"
+  ],
+  "game_ref": "/Lotus/Types/Sentinels/SentinelPrecepts/VoidBond/Proliferation",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/contagious_bond.e53995366b358c77eca1480c779f6383.png",
+  "thumb": "items/images/en/thumbs/contagious_bond.e53995366b358c77eca1480c779f6383.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

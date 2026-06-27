@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56153f21b66f83707a67c0b4",
+  "slug": "prisma_tetra",
+  "market_slug": "prisma_tetra",
+  "name_en": "Prisma Tetra",
+  "name_en_slug": "prisma_tetra",
+  "name_kr": "프리즈마 테트라",
+  "aliases": [
+    "Prisma Tetra",
+    "prisma tetra",
+    "prisma_tetra",
+    "프리즈마 테트라"
+  ],
+  "tags": [
+    "primary",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Corpus/LongGuns/CorpusUMP/PrismaCorpusUMP",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/prisma_tetra.e1e516760ccd856f2a66a1992d7e98e1.png",
+  "thumb": "items/images/en/thumbs/prisma_tetra.e1e516760ccd856f2a66a1992d7e98e1.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

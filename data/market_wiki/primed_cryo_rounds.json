@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "581d0c4ed5f9e290fa2e959f",
+  "slug": "primed_cryo_rounds",
+  "market_slug": "primed_cryo_rounds",
+  "name_en": "Primed Cryo Rounds",
+  "name_en_slug": "primed_cryo_rounds",
+  "name_kr": "프라임드 크라이오 라운즈",
+  "aliases": [
+    "Primed Cryo Rounds",
+    "primed cryo rounds",
+    "primed_cryo_rounds",
+    "프라임드 크라이오 라운즈"
+  ],
+  "tags": [
+    "legendary",
+    "mod",
+    "primary",
+    "rifle"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/Expert/WeaponFreezeDamageModExpert",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/primed_cryo_rounds.6f4f3f7dd369e80de462cac282f21d63.png",
+  "thumb": "items/images/en/thumbs/primed_cryo_rounds.6f4f3f7dd369e80de462cac282f21d63.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "65a7fc7eed5b0d2e3eb462bb",
+  "slug": "neo_a11_relic",
+  "market_slug": "neo_a11_relic",
+  "name_en": "Neo A11 Relic",
+  "name_en_slug": "neo_a11_relic",
+  "name_kr": "네오 A11 성유물",
+  "aliases": [
+    "Neo A11 Relic",
+    "neo a11 relic",
+    "neo_a11_relic",
+    "네오 A11 성유물"
+  ],
+  "tags": [
+    "neo",
+    "relic"
+  ],
+  "game_ref": "/Lotus/Types/Game/Projections/T3VoidProjectionGaussPrimeC",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/neo_a11_relic.224e87d2d7e5a4e52109429468c8d379.png",
+  "thumb": "items/images/en/thumbs/neo_a11_relic.224e87d2d7e5a4e52109429468c8d379.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

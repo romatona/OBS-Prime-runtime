@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56a7b25f1133f656cb085d88",
+  "slug": "maiming_strike",
+  "market_slug": "maiming_strike",
+  "name_en": "Maiming Strike",
+  "name_en_slug": "maiming_strike",
+  "name_kr": "메이밍 스트라이크",
+  "aliases": [
+    "Maiming Strike",
+    "maiming strike",
+    "maiming_strike",
+    "메이밍 스트라이크"
+  ],
+  "tags": [
+    "melee",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Melee/Event/SlideAttackCritChanceMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/maiming_strike.5f1cac479fe228788be880a41cfe11b7.png",
+  "thumb": "items/images/en/thumbs/maiming_strike.5f1cac479fe228788be880a41cfe11b7.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,32 @@
+﻿{
+    "schema":  "obs_prime.item_wiki_entry.v1",
+    "slug":  "revenant_prime_systems_blueprint",
+    "market_slug":  "revenant_prime_systems_blueprint",
+    "name_en":  "Revenant Prime Systems Blueprint",
+    "name_en_slug":  "revenant_prime_systems_blueprint",
+    "name_kr":  "레버넌트 프라임 시스템 설계도",
+    "aliases":  [
+                    "Revenant Prime Systems",
+                    "Revenant Prime Systems Blueprint",
+                    "revenant_prime_systems_blueprint",
+                    "레버넌트 프라임 시스템",
+                    "레버넌트 프라임 시스템 설계도"
+                ],
+    "ducats":  45,
+    "ducats_display":  "45 d",
+    "ducats_source":  "warframe_market_v2_items",
+    "rarities":  [
+                     "Uncommon"
+                 ],
+    "plat":  null,
+    "plat_display":  "-",
+    "plat_date":  "",
+    "source":  {
+                   "wfcd_relics":  "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Relics.json",
+                   "warframe_market_items":  "https://api.warframe.market/v2/items",
+                   "price_cache":  "data/market_cache/warframe_market_prices.json"
+               },
+    "updated_at":  "2026-06-26T02:05:14Z",
+    "version":  "26-06-26",
+    "relic_reward_count":  28
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a50e",
+  "slug": "gorgon_frenzy",
+  "market_slug": "gorgon_frenzy",
+  "name_en": "Gorgon Frenzy",
+  "name_en_slug": "gorgon_frenzy",
+  "name_kr": "고르곤 프렌지",
+  "aliases": [
+    "Gorgon Frenzy",
+    "gorgon frenzy",
+    "gorgon_frenzy",
+    "고르곤 프렌지"
+  ],
+  "tags": [
+    "gorgon",
+    "mod",
+    "primary",
+    "pvp",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Rifle/FasterRoFonKillGorgonMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/gorgon_frenzy.0993e71e3c052de71d6bfe993c4076f7.png",
+  "thumb": "items/images/en/thumbs/gorgon_frenzy.0993e71e3c052de71d6bfe993c4076f7.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6054ddfe5221e30057501000",
+  "slug": "meso_s1_relic",
+  "market_slug": "meso_s1_relic",
+  "name_en": "Meso S1 Relic",
+  "name_en_slug": "meso_s1_relic",
+  "name_kr": "메소 S1 성유물",
+  "aliases": [
+    "Meso S1 Relic",
+    "meso s1 relic",
+    "meso_s1_relic",
+    "메소 S1 성유물"
+  ],
+  "tags": [
+    "meso",
+    "relic"
+  ],
+  "game_ref": "/Lotus/Types/Game/Projections/T2VoidProjectionI",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/meso_s1_relic.32eb1e727be665c175084b03829b8015.png",
+  "thumb": "items/images/en/thumbs/meso_s1_relic.32eb1e727be665c175084b03829b8015.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5f498a209426ed00443bd0a4",
+  "slug": "damaged_necramech_engine",
+  "market_slug": "damaged_necramech_engine",
+  "name_en": "Damaged Necramech Engine",
+  "name_en_slug": "damaged_necramech_engine",
+  "name_kr": "손상된 네크라메크 엔진",
+  "aliases": [
+    "Damaged Necramech Engine",
+    "damaged necramech engine",
+    "damaged_necramech_engine",
+    "손상된 네크라메크 엔진"
+  ],
+  "tags": [
+    "component",
+    "damaged",
+    "necramech"
+  ],
+  "game_ref": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartEngineItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/damaged_necramech_engine.f3362d44d24c273f8799f229983e53d6.png",
+  "thumb": "items/images/en/thumbs/damaged_necramech_engine.f3362d44d24c273f8799f229983e53d6.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

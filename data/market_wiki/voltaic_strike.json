@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156b5",
+  "slug": "voltaic_strike",
+  "market_slug": "voltaic_strike",
+  "name_en": "Voltaic Strike",
+  "name_en_slug": "voltaic_strike",
+  "name_kr": "볼택 스트라이크",
+  "aliases": [
+    "Voltaic Strike",
+    "voltaic strike",
+    "voltaic_strike",
+    "볼택 스트라이크"
+  ],
+  "tags": [
+    "melee",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Melee/DualStat/ElectEventMeleeMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/voltaic_strike.20c6b446182f406f4d6df6f4844db7fb.png",
+  "thumb": "items/images/en/thumbs/voltaic_strike.20c6b446182f406f4d6df6f4844db7fb.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

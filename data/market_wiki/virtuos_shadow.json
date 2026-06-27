@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5a04750a6c4655012038ddc5",
+  "slug": "virtuos_shadow",
+  "market_slug": "virtuos_shadow",
+  "name_en": "Virtuos Shadow",
+  "name_en_slug": "virtuos_shadow",
+  "name_kr": "버츄오스 섀도우",
+  "aliases": [
+    "Virtuos Shadow",
+    "virtuos shadow",
+    "virtuos_shadow",
+    "버츄오스 섀도우"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "operator",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/CriticalChanceOnHeadshot",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/virtuos_shadow.b6be77f2f40f28d66c86674233faea4d.png",
+  "thumb": "items/images/en/thumbs/virtuos_shadow.b6be77f2f40f28d66c86674233faea4d.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54e644ffe779897594fa68cf",
+  "slug": "antimatter_absorb",
+  "market_slug": "antimatter_absorb",
+  "name_en": "Antimatter Absorb",
+  "name_en_slug": "antimatter_absorb",
+  "name_kr": "안티매터 업소브",
+  "aliases": [
+    "Antimatter Absorb",
+    "antimatter absorb",
+    "antimatter_absorb",
+    "안티매터 업소브"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "nova",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/AntiMatter/AntiMatterDropAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/antimatter_absorb.1402d671df9b6f5ae2504d6abec4d4fd.png",
+  "thumb": "items/images/en/thumbs/antimatter_absorb.1402d671df9b6f5ae2504d6abec4d4fd.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

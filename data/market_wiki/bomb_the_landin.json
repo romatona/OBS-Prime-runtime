@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5f498a209426ed00443bd0a5",
+  "slug": "bomb_the_landin",
+  "market_slug": "bomb_the_landin",
+  "name_en": "Bomb The Landin'",
+  "name_en_slug": "bomb_the_landin",
+  "name_kr": "밤 더 랜딩",
+  "aliases": [
+    "Bomb The Landin'",
+    "bomb the landin",
+    "bomb_the_landin",
+    "밤 더 랜딩"
+  ],
+  "tags": [
+    "k_drive",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Hoverboard/HBGrindSlamMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/bomb_the_landin.76b97b09964cf235756634c86322d66d.png",
+  "thumb": "items/images/en/thumbs/bomb_the_landin.76b97b09964cf235756634c86322d66d.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5dfea1441456970294aff38b",
+  "slug": "vasca_kavat_imprint",
+  "market_slug": "vasca_kavat_imprint",
+  "name_en": "Vasca Kavat Imprint",
+  "name_en_slug": "vasca_kavat_imprint",
+  "name_kr": "바스카 카밧 임프린트",
+  "aliases": [
+    "Vasca Kavat Imprint",
+    "vasca kavat imprint",
+    "vasca_kavat_imprint",
+    "바스카 카밧 임프린트"
+  ],
+  "tags": [
+    "imprint",
+    "kubrow",
+    "pet"
+  ],
+  "game_ref": "/Lotus/Types/Game/CatbrowPet/VampireCatbrowPetPowerSuit",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/vasca_kavat_imprint.b8980e37ef61c2e997a8d93bdea8ceb7.png",
+  "thumb": "items/images/en/thumbs/vasca_kavat_imprint.b8980e37ef61c2e997a8d93bdea8ceb7.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

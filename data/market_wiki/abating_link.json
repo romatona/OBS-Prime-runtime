@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54e644ffe779897594fa68d2",
+  "slug": "abating_link",
+  "market_slug": "abating_link",
+  "name_en": "Abating Link",
+  "name_en_slug": "abating_link",
+  "name_kr": "어베이팅 링크",
+  "aliases": [
+    "Abating Link",
+    "abating link",
+    "abating_link",
+    "어베이팅 링크"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "rare",
+    "trinity",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Trinity/LinkAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/abating_link.c547fa09315093a5ba6c609a9b195580.png",
+  "thumb": "items/images/en/thumbs/abating_link.c547fa09315093a5ba6c609a9b195580.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

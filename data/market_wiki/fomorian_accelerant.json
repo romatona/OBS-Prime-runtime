@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5729bd18cb59ed5a9b484e92",
+  "slug": "fomorian_accelerant",
+  "market_slug": "fomorian_accelerant",
+  "name_en": "Fomorian Accelerant",
+  "name_en_slug": "fomorian_accelerant",
+  "name_kr": "포모리안 액셀러런트",
+  "aliases": [
+    "Fomorian Accelerant",
+    "fomorian accelerant",
+    "fomorian_accelerant",
+    "포모리안 액셀러런트"
+  ],
+  "tags": [
+    "drakgoon",
+    "mod",
+    "primary",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Shotgun/Event/ProjectNightwatch/DrakgoonNightwatchMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/fomorian_accelerant.703cc26fdc88d12f834c157eae51704e.png",
+  "thumb": "items/images/en/thumbs/fomorian_accelerant.703cc26fdc88d12f834c157eae51704e.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

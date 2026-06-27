@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515661",
+  "slug": "rime_rounds",
+  "market_slug": "rime_rounds",
+  "name_en": "Rime Rounds",
+  "name_en_slug": "rime_rounds",
+  "name_kr": "라임 라운즈",
+  "aliases": [
+    "Rime Rounds",
+    "rime rounds",
+    "rime_rounds",
+    "라임 라운즈"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "rifle"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/DualStat/IceEventRifleMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/rime_rounds.68c847363e800165a0a585da13f20ce7.png",
+  "thumb": "items/images/en/thumbs/rime_rounds.68c847363e800165a0a585da13f20ce7.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

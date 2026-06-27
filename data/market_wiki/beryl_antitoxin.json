@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5d6ea67a7ea27b05d929cbfd",
+  "slug": "beryl_antitoxin",
+  "market_slug": "beryl_antitoxin",
+  "name_en": "Beryl Antitoxin",
+  "name_en_slug": "beryl_antitoxin",
+  "name_kr": "베릴 안티톡신",
+  "aliases": [
+    "Beryl Antitoxin",
+    "beryl antitoxin",
+    "beryl_antitoxin",
+    "베릴 안티톡신"
+  ],
+  "tags": [
+    "consumable"
+  ],
+  "game_ref": "/Lotus/Types/Restoratives/Consumable/Toxins/DayCommonAntitoxin",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/beryl_antitoxin.d47e1fee3d4febb10914272694be914b.png",
+  "thumb": "items/images/en/thumbs/beryl_antitoxin.d47e1fee3d4febb10914272694be914b.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

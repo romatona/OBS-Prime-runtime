@@ -1,0 +1,32 @@
+﻿{
+    "schema":  "obs_prime.item_wiki_entry.v1",
+    "slug":  "saryn_prime_chassis_blueprint",
+    "market_slug":  "saryn_prime_chassis_blueprint",
+    "name_en":  "Saryn Prime Chassis Blueprint",
+    "name_en_slug":  "saryn_prime_chassis_blueprint",
+    "name_kr":  "새린 프라임 섀시 설계도",
+    "aliases":  [
+                    "Saryn Prime Chassis",
+                    "Saryn Prime Chassis Blueprint",
+                    "saryn_prime_chassis_blueprint",
+                    "새린 프라임 섀시",
+                    "새린 프라임 섀시 설계도"
+                ],
+    "ducats":  100,
+    "ducats_display":  "100 d",
+    "ducats_source":  "warframe_market_v2_items",
+    "rarities":  [
+                     "Rare"
+                 ],
+    "plat":  null,
+    "plat_display":  "-",
+    "plat_date":  "",
+    "source":  {
+                   "wfcd_relics":  "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Relics.json",
+                   "warframe_market_items":  "https://api.warframe.market/v2/items",
+                   "price_cache":  "data/market_cache/warframe_market_prices.json"
+               },
+    "updated_at":  "2026-06-26T02:05:14Z",
+    "version":  "26-06-26",
+    "relic_reward_count":  20
+}

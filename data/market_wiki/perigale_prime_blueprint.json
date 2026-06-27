@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "69d6770ab3984cc97e241753",
+  "slug": "perigale_prime_blueprint",
+  "market_slug": "perigale_prime_blueprint",
+  "name_en": "Perigale Prime Blueprint",
+  "name_en_slug": "perigale_prime_blueprint",
+  "name_kr": "페리게일 프라임 설계도",
+  "aliases": [
+    "Perigale Prime",
+    "Perigale Prime Blueprint",
+    "perigale prime blueprint",
+    "perigale_prime_blueprint",
+    "페리게일 프라임",
+    "페리게일 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "primary",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/PerigalePrimeBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/perigale_prime_blueprint.9168f4020497799e8dd44b130c899c5d.webp",
+  "thumb": "items/images/en/thumbs/perigale_prime_blueprint.9168f4020497799e8dd44b130c899c5d.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

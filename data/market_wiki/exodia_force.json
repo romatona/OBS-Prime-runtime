@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5a04750b6c4655012038ddc9",
+  "slug": "exodia_force",
+  "market_slug": "exodia_force",
+  "name_en": "Exodia Force",
+  "name_en_slug": "exodia_force",
+  "name_kr": "엑소디아 포스",
+  "aliases": [
+    "Exodia Force",
+    "exodia force",
+    "exodia_force",
+    "엑소디아 포스"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/StatusTriggerRadialDamage",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/exodia_force.3777cf3132503f972624ac56c1731743.png",
+  "thumb": "items/images/en/thumbs/exodia_force.3777cf3132503f972624ac56c1731743.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

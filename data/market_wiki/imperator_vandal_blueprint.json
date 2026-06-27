@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5740c1679d238d4a03d28514",
+  "slug": "imperator_vandal_blueprint",
+  "market_slug": "imperator_vandal_blueprint",
+  "name_en": "Imperator Vandal Blueprint",
+  "name_en_slug": "imperator_vandal_blueprint",
+  "name_kr": "임페라토르 반달 설계도",
+  "aliases": [
+    "Imperator Vandal",
+    "Imperator Vandal Blueprint",
+    "imperator vandal blueprint",
+    "imperator_vandal_blueprint",
+    "임페라토르 반달",
+    "임페라토르 반달 설계도"
+  ],
+  "tags": [
+    "archwing",
+    "blueprint",
+    "primary",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/ImperatorVandalBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/imperator_vandal_blueprint.a7802d291f16f9dcd97afb2e69c879b6.png",
+  "thumb": "items/images/en/thumbs/imperator_vandal_blueprint.a7802d291f16f9dcd97afb2e69c879b6.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

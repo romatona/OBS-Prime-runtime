@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6a330f9f58b60af8cd1a0d14",
+  "slug": "athodai_prime_blueprint",
+  "market_slug": "athodai_prime_blueprint",
+  "name_en": "Athodai Prime Blueprint",
+  "name_en_slug": "athodai_prime_blueprint",
+  "name_kr": "아쏘다이 프라임 설계도",
+  "aliases": [
+    "Athodai Prime",
+    "Athodai Prime Blueprint",
+    "athodai prime blueprint",
+    "athodai_prime_blueprint",
+    "아쏘다이 프라임",
+    "아쏘다이 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "prime",
+    "secondary",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/AthodaiPrimeBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/athodai_prime_blueprint.481c252cb75a8c0c0ff351c65688a3e4.webp",
+  "thumb": "items/images/en/thumbs/athodai_prime_blueprint.481c252cb75a8c0c0ff351c65688a3e4.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

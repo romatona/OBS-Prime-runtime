@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6604a6e6dbdd5c1673781dc5",
+  "slug": "valence_formation",
+  "market_slug": "valence_formation",
+  "name_en": "Valence Formation",
+  "name_en_slug": "valence_formation",
+  "name_kr": "베일런스 포메이션",
+  "aliases": [
+    "Valence Formation",
+    "valence formation",
+    "valence_formation",
+    "베일런스 포메이션"
+  ],
+  "tags": [
+    "augment",
+    "lavos",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Alchemist/AlchemistPassiveAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/valence_formation.ebdf9672f4fecc7f83d193e48cc475eb.png",
+  "thumb": "items/images/en/thumbs/valence_formation.ebdf9672f4fecc7f83d193e48cc475eb.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

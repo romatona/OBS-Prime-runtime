@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5526aec1e779896af9418260",
+  "slug": "hushed_invisibility",
+  "market_slug": "hushed_invisibility",
+  "name_en": "Hushed Invisibility",
+  "name_en_slug": "hushed_invisibility",
+  "name_kr": "허쉬드 인비지빌리티",
+  "aliases": [
+    "Hushed Invisibility",
+    "hushed invisibility",
+    "hushed_invisibility",
+    "허쉬드 인비지빌리티"
+  ],
+  "tags": [
+    "augment",
+    "loki",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Loki/InvisibilityAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/hushed_invisibility.d13d04f2ee52db1b892c0246cbbe8a80.png",
+  "thumb": "items/images/en/thumbs/hushed_invisibility.d13d04f2ee52db1b892c0246cbbe8a80.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

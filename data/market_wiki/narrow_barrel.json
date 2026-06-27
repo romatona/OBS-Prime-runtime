@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56a7b2ae1133f656cb085d95",
+  "slug": "narrow_barrel",
+  "market_slug": "narrow_barrel",
+  "name_en": "Narrow Barrel",
+  "name_en_slug": "narrow_barrel",
+  "name_kr": "내로우 배럴",
+  "aliases": [
+    "Narrow Barrel",
+    "narrow barrel",
+    "narrow_barrel",
+    "내로우 배럴"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "shotgun"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Shotgun/Event/AccuracyWhileAimingShotgunMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/narrow_barrel.9be35f0e7b42e6ae5f014d807306b96c.png",
+  "thumb": "items/images/en/thumbs/narrow_barrel.9be35f0e7b42e6ae5f014d807306b96c.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

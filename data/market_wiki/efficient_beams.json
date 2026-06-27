@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5d6ea6777ea27b05d929cbfb",
+  "slug": "efficient_beams",
+  "market_slug": "efficient_beams",
+  "name_en": "Efficient Beams",
+  "name_en_slug": "efficient_beams",
+  "name_kr": "이피션트 빔즈",
+  "aliases": [
+    "Efficient Beams",
+    "efficient beams",
+    "efficient_beams",
+    "이피션트 빔즈"
+  ],
+  "tags": [
+    "convectrix",
+    "mod",
+    "primary",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Shotgun/Event/Arbitration/CrpSplitLaserArbitrationMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/efficient_beams.e15144b22799ed8045a25ff71dd9a9a3.png",
+  "thumb": "items/images/en/thumbs/efficient_beams.e15144b22799ed8045a25ff71dd9a9a3.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

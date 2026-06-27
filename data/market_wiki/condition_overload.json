@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "58446f192c2ada003b4d4ffc",
+  "slug": "condition_overload",
+  "market_slug": "condition_overload",
+  "name_en": "Condition Overload",
+  "name_en_slug": "condition_overload",
+  "name_kr": "컨디션 오버로드",
+  "aliases": [
+    "Condition Overload",
+    "condition overload",
+    "condition_overload",
+    "컨디션 오버로드"
+  ],
+  "tags": [
+    "melee",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Melee/WeaponDamageIfVictimProcActive",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/condition_overload.fe7962221a25bc6305bbad0dc925e38b.png",
+  "thumb": "items/images/en/thumbs/condition_overload.fe7962221a25bc6305bbad0dc925e38b.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

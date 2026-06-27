@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "675c59347b18977f6e6453ec",
+  "slug": "primary_crux",
+  "market_slug": "primary_crux",
+  "name_en": "Primary Crux",
+  "name_en_slug": "primary_crux",
+  "name_kr": "프라이머리 크럭스",
+  "aliases": [
+    "Primary Crux",
+    "primary crux",
+    "primary_crux",
+    "프라이머리 크럭스"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/StatusAndAmmoEfficiencyOnWeakpointHit",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/primary_crux.be6cbbeead671dca1aa908113441d814.webp",
+  "thumb": "items/images/en/thumbs/primary_crux.be6cbbeead671dca1aa908113441d814.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

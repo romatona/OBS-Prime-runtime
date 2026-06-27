@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5526aec1e779896af9418261",
+  "slug": "pilfering_swarm",
+  "market_slug": "pilfering_swarm",
+  "name_en": "Pilfering Swarm",
+  "name_en_slug": "pilfering_swarm",
+  "name_kr": "필퍼링 스웜",
+  "aliases": [
+    "Pilfering Swarm",
+    "pilfering swarm",
+    "pilfering_swarm",
+    "필퍼링 스웜"
+  ],
+  "tags": [
+    "augment",
+    "hydroid",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Pirate/KrakenAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/pilfering_swarm.eddeebdc39966986118eac7ab1e0de81.png",
+  "thumb": "items/images/en/thumbs/pilfering_swarm.eddeebdc39966986118eac7ab1e0de81.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

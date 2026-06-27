@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5c1bda0814a8e4006b1dad63",
+  "slug": "magus_overload",
+  "market_slug": "magus_overload",
+  "name_en": "Magus Overload",
+  "name_en_slug": "magus_overload",
+  "name_kr": "마구스 오버로드",
+  "aliases": [
+    "Magus Overload",
+    "magus overload",
+    "magus_overload",
+    "마구스 오버로드"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "common"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/RobotStunOnBlast",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/magus_overload.c575b29c15d999083923ee609dcda264.png",
+  "thumb": "items/images/en/thumbs/magus_overload.c575b29c15d999083923ee609dcda264.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

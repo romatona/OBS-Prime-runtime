@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515678",
+  "slug": "rejuvenation",
+  "market_slug": "rejuvenation",
+  "name_en": "Rejuvenation",
+  "name_en_slug": "rejuvenation",
+  "name_kr": "리쥬버네이션",
+  "aliases": [
+    "Rejuvenation",
+    "rejuvenation",
+    "리쥬버네이션"
+  ],
+  "tags": [
+    "aura",
+    "mod",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Aura/PlayerHealthRegenAuraMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/rejuvenation.8679cf8d206d54986ff11d22983cd191.png",
+  "thumb": "items/images/en/thumbs/rejuvenation.8679cf8d206d54986ff11d22983cd191.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

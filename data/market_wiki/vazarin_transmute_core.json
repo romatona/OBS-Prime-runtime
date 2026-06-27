@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5678722e9906166591f69a9c",
+  "slug": "vazarin_transmute_core",
+  "market_slug": "vazarin_transmute_core",
+  "name_en": "Vazarin Transmute Core",
+  "name_en_slug": "vazarin_transmute_core",
+  "name_kr": "바자린 트랜스뮤트 코어",
+  "aliases": [
+    "Vazarin Transmute Core",
+    "vazarin transmute core",
+    "vazarin_transmute_core",
+    "바자린 트랜스뮤트 코어"
+  ],
+  "tags": [
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/TransmuteCores/DefenseTransmuteCore",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/vazarin_transmute_core.6ffe9f46821c5f74f31505452e02f314.png",
+  "thumb": "items/images/en/thumbs/vazarin_transmute_core.6ffe9f46821c5f74f31505452e02f314.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

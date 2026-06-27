@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a4f1",
+  "slug": "serrated_edges",
+  "market_slug": "serrated_edges",
+  "name_en": "Serrated Edges",
+  "name_en_slug": "serrated_edges",
+  "name_kr": "서레이티드 엣지즈",
+  "aliases": [
+    "Serrated Edges",
+    "serrated edges",
+    "serrated_edges",
+    "서레이티드 엣지즈"
+  ],
+  "tags": [
+    "melee",
+    "mod",
+    "pvp",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Melee/DamageBiasPunctureMeleeMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/serrated_edges.7734d4b5eca3d49886694329157f1d74.png",
+  "thumb": "items/images/en/thumbs/serrated_edges.7734d4b5eca3d49886694329157f1d74.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

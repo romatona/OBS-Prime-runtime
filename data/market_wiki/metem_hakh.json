@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "693e69a403903ae8993ffafe",
+  "slug": "metem_hakh",
+  "market_slug": "metem_hakh",
+  "name_en": "Metem-Hakh",
+  "name_en_slug": "metem_hakh",
+  "name_kr": "메템-하크",
+  "aliases": [
+    "Metem-Hakh",
+    "metem hakh",
+    "metem_hakh",
+    "메템-하크"
+  ],
+  "tags": [
+    "any",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Antiques/HealthAndShieldSchools",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/ko/metem_hakh.bbd9b909754ecd964c2165bb8a71080b.webp",
+  "thumb": "items/images/ko/thumbs/metem_hakh.bbd9b909754ecd964c2165bb8a71080b.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

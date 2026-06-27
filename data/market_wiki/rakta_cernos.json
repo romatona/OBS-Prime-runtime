@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "55e797f3e77989249d164946",
+  "slug": "rakta_cernos",
+  "market_slug": "rakta_cernos",
+  "name_en": "Rakta Cernos",
+  "name_en_slug": "rakta_cernos",
+  "name_kr": "락타 세르노스",
+  "aliases": [
+    "Rakta Cernos",
+    "rakta cernos",
+    "rakta_cernos",
+    "락타 세르노스"
+  ],
+  "tags": [
+    "primary",
+    "syndicate",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Syndicates/RedVeil/Bows/RVCernos",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/rakta_cernos.3ca06a77423c5b28b8d7a9f9d860a92c.png",
+  "thumb": "items/images/en/thumbs/rakta_cernos.3ca06a77423c5b28b8d7a9f9d860a92c.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

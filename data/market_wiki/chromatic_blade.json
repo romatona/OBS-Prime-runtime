@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "59385f6716efa3a742b15f60",
+  "slug": "chromatic_blade",
+  "market_slug": "chromatic_blade",
+  "name_en": "Chromatic Blade",
+  "name_en_slug": "chromatic_blade",
+  "name_kr": "크로마틱 블레이드",
+  "aliases": [
+    "Chromatic Blade",
+    "chromatic blade",
+    "chromatic_blade",
+    "크로마틱 블레이드"
+  ],
+  "tags": [
+    "augment",
+    "excalibur",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Excalibur/SwordOfDoomAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/chromatic_blade.2d72fee7f3deddd7450241dca62bfd47.png",
+  "thumb": "items/images/en/thumbs/chromatic_blade.2d72fee7f3deddd7450241dca62bfd47.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

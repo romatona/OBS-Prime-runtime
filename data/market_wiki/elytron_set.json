@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "57dbdc745e334907aa8edb62",
+  "slug": "elytron_set",
+  "market_slug": "elytron_set",
+  "name_en": "Elytron Set",
+  "name_en_slug": "elytron_set",
+  "name_kr": "엘리트론 세트",
+  "aliases": [
+    "Elytron Set",
+    "elytron set",
+    "elytron_set",
+    "엘리트론 세트"
+  ],
+  "tags": [
+    "archwing",
+    "set"
+  ],
+  "game_ref": "/Lotus/Powersuits/Archwing/DemolitionJetPack/DemolitionJetPack",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/elytron_set.971d1e23ad3033ff3af37147302efb8b.png",
+  "thumb": "items/images/en/thumbs/elytron_set.971d1e23ad3033ff3af37147302efb8b.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

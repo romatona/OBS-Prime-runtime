@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5fb84767c34da3004797d542",
+  "slug": "volatile_quick_return",
+  "market_slug": "volatile_quick_return",
+  "name_en": "Volatile Quick Return",
+  "name_en_slug": "volatile_quick_return",
+  "name_kr": "볼래틸 퀵 리턴",
+  "aliases": [
+    "Volatile Quick Return",
+    "volatile quick return",
+    "volatile_quick_return",
+    "볼래틸 퀵 리턴"
+  ],
+  "tags": [
+    "melee",
+    "mod",
+    "thrown_melee",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Melee/WeaponGlaiveExplodingReflectionDecreaseMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/volatile_quick_return.fd671126fd4051e8e3addc13ae56d1f0.png",
+  "thumb": "items/images/en/thumbs/volatile_quick_return.fd671126fd4051e8e3addc13ae56d1f0.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

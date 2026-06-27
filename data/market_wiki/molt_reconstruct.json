@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "62a2baebfbd62c00450b71d8",
+  "slug": "molt_reconstruct",
+  "market_slug": "molt_reconstruct",
+  "name_en": "Molt Reconstruct",
+  "name_en_slug": "molt_reconstruct",
+  "name_kr": "몰트 리컨스트럭트",
+  "aliases": [
+    "Molt Reconstruct",
+    "molt reconstruct",
+    "molt_reconstruct",
+    "몰트 리컨스트럭트"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Utility/HealAlliesOnEnergySpent",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/molt_reconstruct.3c470837973134be1c9db91e0bdceeb0.png",
+  "thumb": "items/images/en/thumbs/molt_reconstruct.3c470837973134be1c9db91e0bdceeb0.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

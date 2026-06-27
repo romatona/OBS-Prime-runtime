@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a4d6",
+  "slug": "flak_shot",
+  "market_slug": "flak_shot",
+  "name_en": "Flak Shot",
+  "name_en_slug": "flak_shot",
+  "name_kr": "플랙 샷",
+  "aliases": [
+    "Flak Shot",
+    "flak shot",
+    "flak_shot",
+    "플랙 샷"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "pvp",
+    "shotgun",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/DamageBiasSlashShotgunMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/flak_shot.be4117525d415460b856b5c75c0582c2.png",
+  "thumb": "items/images/en/thumbs/flak_shot.be4117525d415460b856b5c75c0582c2.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

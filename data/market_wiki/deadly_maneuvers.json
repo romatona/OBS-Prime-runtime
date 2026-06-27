@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5ecd08d904d55c0806f85354",
+  "slug": "deadly_maneuvers",
+  "market_slug": "deadly_maneuvers",
+  "name_en": "Deadly Maneuvers",
+  "name_en_slug": "deadly_maneuvers",
+  "name_kr": "데들리 메뉴버스",
+  "aliases": [
+    "Deadly Maneuvers",
+    "deadly maneuvers",
+    "deadly_maneuvers",
+    "데들리 메뉴버스"
+  ],
+  "tags": [
+    "magnus",
+    "mod",
+    "rare",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Nightwave/MagnusNightwaveMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/deadly_maneuvers.3ac5a36b89de17b9197e735ebf255671.png",
+  "thumb": "items/images/en/thumbs/deadly_maneuvers.3ac5a36b89de17b9197e735ebf255671.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

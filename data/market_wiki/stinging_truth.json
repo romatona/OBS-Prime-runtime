@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156d2",
+  "slug": "stinging_truth",
+  "market_slug": "stinging_truth",
+  "name_en": "Stinging Truth",
+  "name_en_slug": "stinging_truth",
+  "name_kr": "스팅잉 트루스",
+  "aliases": [
+    "Stinging Truth",
+    "stinging truth",
+    "stinging_truth",
+    "스팅잉 트루스"
+  ],
+  "tags": [
+    "mod",
+    "rare",
+    "secondary",
+    "syndicate",
+    "viper"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Syndicate/ViperMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/stinging_truth.90e5015f6f6f08638553b8f73b857b49.png",
+  "thumb": "items/images/en/thumbs/stinging_truth.90e5015f6f6f08638553b8f73b857b49.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

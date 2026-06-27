@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a73e65e779893a797fff63",
+  "slug": "soma_prime_receiver",
+  "market_slug": "soma_prime_receiver",
+  "name_en": "Soma Prime Receiver",
+  "name_en_slug": "soma_prime_receiver",
+  "name_kr": "소마 프라임 리시버",
+  "aliases": [
+    "Soma Prime Receiver",
+    "soma prime receiver",
+    "soma_prime_receiver",
+    "소마 프라임 리시버"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/SomaPrimeReceiver",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/soma_prime_receiver.1bf4937a6c2106c373cffeb93b1c87e0.png",
+  "thumb": "items/images/en/thumbs/soma_prime_receiver.1bf4937a6c2106c373cffeb93b1c87e0.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

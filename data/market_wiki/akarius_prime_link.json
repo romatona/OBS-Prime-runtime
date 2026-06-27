@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "65a7fca4ed5b0d2e3eb462cd",
+  "slug": "akarius_prime_link",
+  "market_slug": "akarius_prime_link",
+  "name_en": "Akarius Prime Link",
+  "name_en_slug": "akarius_prime_link",
+  "name_kr": "아카리우스 프라임 링크",
+  "aliases": [
+    "Akarius Prime Link",
+    "akarius prime link",
+    "akarius_prime_link",
+    "아카리우스 프라임 링크"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/AkariusPrimeLink",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/akarius_prime_link.9e88bceafe14482e1a01672c1c292fe1.png",
+  "thumb": "items/images/en/thumbs/akarius_prime_link.9e88bceafe14482e1a01672c1c292fe1.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

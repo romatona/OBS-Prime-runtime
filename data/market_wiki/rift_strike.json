@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5729bd11cb59ed5a9b484e90",
+  "slug": "rift_strike",
+  "market_slug": "rift_strike",
+  "name_en": "Rift Strike",
+  "name_en_slug": "rift_strike",
+  "name_kr": "리프트 스트라이크",
+  "aliases": [
+    "Rift Strike",
+    "rift strike",
+    "rift_strike",
+    "리프트 스트라이크"
+  ],
+  "tags": [
+    "melee",
+    "mod",
+    "twin_basolk",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Melee/Event/ProjectNightwatch/TwinBasolkNightwatchMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/rift_strike.37fa7334f532fe72ffd8c452c7791387.png",
+  "thumb": "items/images/en/thumbs/rift_strike.37fa7334f532fe72ffd8c452c7791387.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

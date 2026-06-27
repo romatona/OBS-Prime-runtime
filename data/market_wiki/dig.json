@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156e3",
+  "slug": "dig",
+  "market_slug": "dig",
+  "name_en": "Dig",
+  "name_en_slug": "dig",
+  "name_kr": "디그",
+  "aliases": [
+    "Dig",
+    "dig",
+    "디그"
+  ],
+  "tags": [
+    "kubrow",
+    "mod",
+    "rare",
+    "sahasa_kubrow"
+  ],
+  "game_ref": "/Lotus/Types/Friendly/Pets/KubrowPetPrecepts/KubrowDigPrecept",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/dig.32255f0064ec32dc35c1c50a4f2585c1.png",
+  "thumb": "items/images/en/thumbs/dig.32255f0064ec32dc35c1c50a4f2585c1.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

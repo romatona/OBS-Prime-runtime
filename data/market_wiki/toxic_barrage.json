@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156e8",
+  "slug": "toxic_barrage",
+  "market_slug": "toxic_barrage",
+  "name_en": "Toxic Barrage",
+  "name_en_slug": "toxic_barrage",
+  "name_kr": "톡식 배러지",
+  "aliases": [
+    "Toxic Barrage",
+    "toxic barrage",
+    "toxic_barrage",
+    "톡식 배러지"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "shotgun"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Shotgun/DualStat/PoisonEventShotgunMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/toxic_barrage.47b3693994df124d36bc7525be30b374.png",
+  "thumb": "items/images/en/thumbs/toxic_barrage.47b3693994df124d36bc7525be30b374.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

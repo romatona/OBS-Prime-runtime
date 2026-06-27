@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "639a941c74b02f008887784a",
+  "slug": "cobra_and_crane_prime_guard",
+  "market_slug": "cobra_and_crane_prime_guard",
+  "name_en": "Cobra & Crane Prime Guard",
+  "name_en_slug": "cobra_and_crane_prime_guard",
+  "name_kr": "코브라 & 크레인 프라임 가드",
+  "aliases": [
+    "Cobra & Crane Prime Guard",
+    "cobra and crane prime guard",
+    "cobra_and_crane_prime_guard",
+    "코브라 & 크레인 프라임 가드"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/CobraCranePrimeGuard",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/cobra_and_crane_prime_guard.84b2733b9f7486c23028b5a2b4e012b4.png",
+  "thumb": "items/images/en/thumbs/cobra_and_crane_prime_guard.84b2733b9f7486c23028b5a2b4e012b4.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

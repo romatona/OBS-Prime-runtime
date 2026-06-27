@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5ba9f2024567de01415f6388",
+  "slug": "chroma_prime_chassis_blueprint",
+  "market_slug": "chroma_prime_chassis_blueprint",
+  "name_en": "Chroma Prime Chassis Blueprint",
+  "name_en_slug": "chroma_prime_chassis_blueprint",
+  "name_kr": "크로마 프라임 섀시 설계도",
+  "aliases": [
+    "Chroma Prime Chassis",
+    "Chroma Prime Chassis Blueprint",
+    "chroma prime chassis blueprint",
+    "chroma_prime_chassis_blueprint",
+    "크로마 프라임 섀시",
+    "크로마 프라임 섀시 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/ChromaPrimeChassisBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/chroma_prime_chassis.746ea1c1556aa60f94f0c2399946baaf.png",
+  "thumb": "items/images/en/thumbs/chroma_prime_chassis.746ea1c1556aa60f94f0c2399946baaf.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

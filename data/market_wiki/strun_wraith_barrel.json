@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56aba2f38d6d183da42403bf",
+  "slug": "strun_wraith_barrel",
+  "market_slug": "strun_wraith_barrel",
+  "name_en": "Strun Wraith Barrel",
+  "name_en_slug": "strun_wraith_barrel",
+  "name_kr": "스트런 레이스 배럴",
+  "aliases": [
+    "Strun Wraith Barrel",
+    "strun wraith barrel",
+    "strun_wraith_barrel",
+    "스트런 레이스 배럴"
+  ],
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/StrunWraithBarrel",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/strun_wraith_barrel.0ef693321b08beb361c5a654663ecf32.png",
+  "thumb": "items/images/en/thumbs/strun_wraith_barrel.0ef693321b08beb361c5a654663ecf32.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

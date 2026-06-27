@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60cca19152f60b004dfea051",
+  "slug": "hearty_nourishment",
+  "market_slug": "hearty_nourishment",
+  "name_en": "Hearty Nourishment",
+  "name_en_slug": "hearty_nourishment",
+  "name_kr": "하티 노리쉬먼트",
+  "aliases": [
+    "Hearty Nourishment",
+    "hearty nourishment",
+    "hearty_nourishment",
+    "하티 노리쉬먼트"
+  ],
+  "tags": [
+    "augment",
+    "grendel",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Devourer/DevourerConsumeAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/hearty_nourishment.c6553554c1443c8bf0778ed714061871.png",
+  "thumb": "items/images/en/thumbs/hearty_nourishment.c6553554c1443c8bf0778ed714061871.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

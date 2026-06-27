@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5f986cf99dbdce024971b0b7",
+  "slug": "nezha_prime_blueprint",
+  "market_slug": "nezha_prime_blueprint",
+  "name_en": "Nezha Prime Blueprint",
+  "name_en_slug": "nezha_prime_blueprint",
+  "name_kr": "나타 프라임 설계도",
+  "aliases": [
+    "Nezha Prime",
+    "Nezha Prime Blueprint",
+    "nezha prime blueprint",
+    "nezha_prime_blueprint",
+    "나타 프라임",
+    "나타 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/NezhaPrimeBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/nezha_prime_blueprint.462f17d4752cca5cea3988ecb9786467.png",
+  "thumb": "items/images/en/thumbs/nezha_prime_blueprint.462f17d4752cca5cea3988ecb9786467.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

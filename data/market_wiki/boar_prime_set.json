@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56783f24cbfa8f0432dd8991",
+  "slug": "boar_prime_set",
+  "market_slug": "boar_prime_set",
+  "name_en": "Boar Prime Set",
+  "name_en_slug": "boar_prime_set",
+  "name_kr": "보어 프라임 세트",
+  "aliases": [
+    "Boar Prime Set",
+    "boar prime set",
+    "boar_prime_set",
+    "보어 프라임 세트"
+  ],
+  "tags": [
+    "primary",
+    "prime",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Shotgun/PrimeBoar",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/boar_prime_set.5e8a5ba1520169c7a99c738624328d26.png",
+  "thumb": "items/images/en/thumbs/boar_prime_set.5e8a5ba1520169c7a99c738624328d26.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

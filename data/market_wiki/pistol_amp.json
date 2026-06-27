@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "57c05949d0d9ef638234e4aa",
+  "slug": "pistol_amp",
+  "market_slug": "pistol_amp",
+  "name_en": "Pistol Amp",
+  "name_en_slug": "pistol_amp",
+  "name_kr": "피스톨 앰프",
+  "aliases": [
+    "Pistol Amp",
+    "pistol amp",
+    "pistol_amp",
+    "피스톨 앰프"
+  ],
+  "tags": [
+    "aura",
+    "mod",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Aura/PlayerPistolDamageAuraMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/pistol_amp.b6659bfe332db6d87dbf43951229caa8.png",
+  "thumb": "items/images/en/thumbs/pistol_amp.b6659bfe332db6d87dbf43951229caa8.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "63ee00fe10125411da49e6f2",
+  "slug": "corufell_handle",
+  "market_slug": "corufell_handle",
+  "name_en": "Corufell Handle",
+  "name_en_slug": "corufell_handle",
+  "name_kr": "코루펠 핸들",
+  "aliases": [
+    "Corufell Handle",
+    "corufell handle",
+    "corufell_handle",
+    "코루펠 핸들"
+  ],
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/GunScytheHandle",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/corufell_handle.1361201225387534bc5dd7896424974c.png",
+  "thumb": "items/images/en/thumbs/corufell_handle.1361201225387534bc5dd7896424974c.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

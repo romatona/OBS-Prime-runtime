@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5cb04868fc2db2068006980d",
+  "slug": "dread_ward",
+  "market_slug": "dread_ward",
+  "name_en": "Dread Ward",
+  "name_en_slug": "dread_ward",
+  "name_kr": "드레드 와드",
+  "aliases": [
+    "Dread Ward",
+    "dread ward",
+    "dread_ward",
+    "드레드 와드"
+  ],
+  "tags": [
+    "augment",
+    "garuda",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Garuda/GarudaShieldAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/dread_ward.4b98492ea6c4f8665ffeab29f180e535.png",
+  "thumb": "items/images/en/thumbs/dread_ward.4b98492ea6c4f8665ffeab29f180e535.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

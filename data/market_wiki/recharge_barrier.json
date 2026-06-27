@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "554d3f0ce779894445a848f4",
+  "slug": "recharge_barrier",
+  "market_slug": "recharge_barrier",
+  "name_en": "Recharge Barrier",
+  "name_en_slug": "recharge_barrier",
+  "name_kr": "리차지 배리어",
+  "aliases": [
+    "Recharge Barrier",
+    "recharge barrier",
+    "recharge_barrier",
+    "리차지 배리어"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "rare",
+    "volt",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Volt/ShieldPvPAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/recharge_barrier.80e4da5d8308bf138ef9f78e5c19cd70.png",
+  "thumb": "items/images/en/thumbs/recharge_barrier.80e4da5d8308bf138ef9f78e5c19cd70.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

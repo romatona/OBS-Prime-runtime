@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5eb5e49904d55c04e80d6a7f",
+  "slug": "ordnance_velocity",
+  "market_slug": "ordnance_velocity",
+  "name_en": "Ordnance Velocity",
+  "name_en_slug": "ordnance_velocity",
+  "name_kr": "오드넌스 벨로시티",
+  "aliases": [
+    "Ordnance Velocity",
+    "ordnance velocity",
+    "ordnance_velocity",
+    "오드넌스 벨로시티"
+  ],
+  "tags": [
+    "mod",
+    "railjack",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Railjack/Gunnery/LavanOrdnanceSpeed",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/ordnance_velocity.8ea7d91c7814f39f38d25782c75b00d3.png",
+  "thumb": "items/images/en/thumbs/ordnance_velocity.8ea7d91c7814f39f38d25782c75b00d3.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

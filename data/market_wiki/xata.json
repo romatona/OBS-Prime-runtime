@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5dbe9b127ea27b0ffe3ca285",
+  "slug": "xata",
+  "market_slug": "xata",
+  "name_en": "Xata",
+  "name_en_slug": "xata",
+  "name_kr": "자타",
+  "aliases": [
+    "Xata",
+    "xata",
+    "자타"
+  ],
+  "tags": [
+    "mod",
+    "parazon",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Immortal/ImmortalTwoMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/xata.a44dcbc89f78e433f4da7ee36943904f.png",
+  "thumb": "items/images/en/thumbs/xata.a44dcbc89f78e433f4da7ee36943904f.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

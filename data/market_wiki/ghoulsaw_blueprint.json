@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "61460dcde330e600455dcea5",
+  "slug": "ghoulsaw_blueprint",
+  "market_slug": "ghoulsaw_blueprint",
+  "name_en": "Ghoulsaw Blueprint",
+  "name_en_slug": "ghoulsaw_blueprint",
+  "name_kr": "구울소우 설계도",
+  "aliases": [
+    "Ghoulsaw",
+    "Ghoulsaw Blueprint",
+    "ghoulsaw blueprint",
+    "ghoulsaw_blueprint",
+    "구울소우",
+    "구울소우 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "melee",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/GrnGhoulSawBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/ghoulsaw_blueprint.f9a355d3f35098841d346d536abd801c.png",
+  "thumb": "items/images/en/thumbs/ghoulsaw_blueprint.f9a355d3f35098841d346d536abd801c.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

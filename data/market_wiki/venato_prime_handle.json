@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "68add0fa731e63abe79a5d1e",
+  "slug": "venato_prime_handle",
+  "market_slug": "venato_prime_handle",
+  "name_en": "Venato Prime Handle",
+  "name_en_slug": "venato_prime_handle",
+  "name_kr": "베나토 프라임 핸들",
+  "aliases": [
+    "Venato Prime Handle",
+    "venato prime handle",
+    "venato_prime_handle",
+    "베나토 프라임 핸들"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/VentoPrimeHandle",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/unknown.png",
+  "thumb": "",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

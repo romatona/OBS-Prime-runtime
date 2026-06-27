@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e5155d1",
+  "slug": "rifle_ammo_mutation",
+  "market_slug": "rifle_ammo_mutation",
+  "name_en": "Rifle Ammo Mutation",
+  "name_en_slug": "rifle_ammo_mutation",
+  "name_kr": "라이플 애모 뮤테이션",
+  "aliases": [
+    "Rifle Ammo Mutation",
+    "rifle ammo mutation",
+    "rifle_ammo_mutation",
+    "라이플 애모 뮤테이션"
+  ],
+  "tags": [
+    "assault_rifle",
+    "mod",
+    "primary",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/WeaponRifleConvertAmmoMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/rifle_ammo_mutation.ceb8ace4467da7e032915e6330d9cf65.png",
+  "thumb": "items/images/en/thumbs/rifle_ammo_mutation.ceb8ace4467da7e032915e6330d9cf65.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5526aec1e779896af9418266",
+  "slug": "exothermic",
+  "market_slug": "exothermic",
+  "name_en": "Exothermic",
+  "name_en_slug": "exothermic",
+  "name_kr": "엑소써믹",
+  "aliases": [
+    "Exothermic",
+    "exothermic",
+    "엑소써믹"
+  ],
+  "tags": [
+    "augment",
+    "ember",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Ember/WorldOnFireAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/exothermic.50195eed5bedabd95f483cd244bff667.png",
+  "thumb": "items/images/en/thumbs/exothermic.50195eed5bedabd95f483cd244bff667.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

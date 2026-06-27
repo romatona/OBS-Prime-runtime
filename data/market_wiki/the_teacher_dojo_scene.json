@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "690148edf88bae2d5b1f539a",
+  "slug": "the_teacher_dojo_scene",
+  "market_slug": "the_teacher_dojo_scene",
+  "name_en": "The Teacher Dojo Scene",
+  "name_en_slug": "the_teacher_dojo_scene",
+  "name_kr": "스승 도장 배경",
+  "aliases": [
+    "The Teacher Dojo Scene",
+    "the teacher dojo scene",
+    "the_teacher_dojo_scene",
+    "스승 도장 배경"
+  ],
+  "tags": [
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/PhotoBooth/2025FallUpdate/PhotoboothTheTeacherDojo",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/the_teacher_dojo_scene.8df0044abc25f14bfa2da7e09d8c4089.webp",
+  "thumb": "items/images/en/thumbs/the_teacher_dojo_scene.8df0044abc25f14bfa2da7e09d8c4089.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

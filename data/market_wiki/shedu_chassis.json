@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5dfea1491456970294aff3a5",
+  "slug": "shedu_chassis",
+  "market_slug": "shedu_chassis",
+  "name_en": "Shedu Chassis",
+  "name_en_slug": "shedu_chassis",
+  "name_kr": "세두 섀시",
+  "aliases": [
+    "Shedu Chassis",
+    "shedu chassis",
+    "shedu_chassis",
+    "세두 섀시"
+  ],
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/SheduHeavyWeaponChassis",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/shedu_chassis.765c016812e915e1e06ceb5e3820ae48.png",
+  "thumb": "items/images/en/thumbs/shedu_chassis.765c016812e915e1e06ceb5e3820ae48.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

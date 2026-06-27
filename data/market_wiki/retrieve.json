@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5615432bb66f8371035bfa32",
+  "slug": "retrieve",
+  "market_slug": "retrieve",
+  "name_en": "Retrieve",
+  "name_en_slug": "retrieve",
+  "name_kr": "리트리브",
+  "aliases": [
+    "Retrieve",
+    "retrieve",
+    "리트리브"
+  ],
+  "tags": [
+    "chesa_kubrow",
+    "common",
+    "kubrow",
+    "mod"
+  ],
+  "game_ref": "/Lotus/Types/Friendly/Pets/KubrowPetPrecepts/KubrowLootPrecept",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/retrieve.c3364c6fe981f656c6398cdf231fd526.png",
+  "thumb": "items/images/en/thumbs/retrieve.c3364c6fe981f656c6398cdf231fd526.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

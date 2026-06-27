@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "685d4ff2f41598dddb4cc2fa",
+  "slug": "jades_judgment",
+  "market_slug": "jades_judgment",
+  "name_en": "Jade's Judgment",
+  "name_en_slug": "jades_judgment",
+  "name_kr": "제이드 저지먼트",
+  "aliases": [
+    "Jade's Judgment",
+    "jades judgment",
+    "jades_judgment",
+    "제이드 저지먼트"
+  ],
+  "tags": [
+    "augment",
+    "jade",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Choir/ChoirPoolAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/jades_judgment.3d10a68887a9d69c8f1f70d63886955e.webp",
+  "thumb": "items/images/en/thumbs/jades_judgment.3d10a68887a9d69c8f1f70d63886955e.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

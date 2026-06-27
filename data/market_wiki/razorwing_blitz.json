@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5a6b495c7f2bca025fde2b59",
+  "slug": "razorwing_blitz",
+  "market_slug": "razorwing_blitz",
+  "name_en": "Razorwing Blitz",
+  "name_en_slug": "razorwing_blitz",
+  "name_kr": "레이저윙 블릿츠",
+  "aliases": [
+    "Razorwing Blitz",
+    "razorwing blitz",
+    "razorwing_blitz",
+    "레이저윙 블릿츠"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "rare",
+    "titania",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Fairy/FairyFlightAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/razorwing_blitz.5ff2769d2bec1fe4f7e77ce8181b538a.png",
+  "thumb": "items/images/en/thumbs/razorwing_blitz.5ff2769d2bec1fe4f7e77ce8181b538a.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

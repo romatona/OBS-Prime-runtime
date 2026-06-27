@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "59385f6716efa3a742b15f5f",
+  "slug": "magnetized_discharge",
+  "market_slug": "magnetized_discharge",
+  "name_en": "Magnetized Discharge",
+  "name_en_slug": "magnetized_discharge",
+  "name_kr": "마그네타이즈드 디스차지",
+  "aliases": [
+    "Magnetized Discharge",
+    "magnetized discharge",
+    "magnetized_discharge",
+    "마그네타이즈드 디스차지"
+  ],
+  "tags": [
+    "augment",
+    "mag",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Mag/BulletAttractorAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/magnetized_discharge.2865866b4b2c0b29287f721d2386beec.png",
+  "thumb": "items/images/en/thumbs/magnetized_discharge.2865866b4b2c0b29287f721d2386beec.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

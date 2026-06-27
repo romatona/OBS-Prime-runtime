@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54c68686e7798913c1042b4b",
+  "slug": "primed_point_blank",
+  "market_slug": "primed_point_blank",
+  "name_en": "Primed Point Blank",
+  "name_en_slug": "primed_point_blank",
+  "name_kr": "프라임드 포인트 블랭크",
+  "aliases": [
+    "Primed Point Blank",
+    "primed point blank",
+    "primed_point_blank",
+    "프라임드 포인트 블랭크"
+  ],
+  "tags": [
+    "legendary",
+    "mod",
+    "primary",
+    "shotgun"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponDamageAmountModExpert",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/primed_point_blank.205167d02b8601e3d5e56dd6e8d51649.png",
+  "thumb": "items/images/en/thumbs/primed_point_blank.205167d02b8601e3d5e56dd6e8d51649.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5a04750a6c4655012038ddc6",
+  "slug": "virtuos_fury",
+  "market_slug": "virtuos_fury",
+  "name_en": "Virtuos Fury",
+  "name_en_slug": "virtuos_fury",
+  "name_kr": "버츄오스 퓨리",
+  "aliases": [
+    "Virtuos Fury",
+    "virtuos fury",
+    "virtuos_fury",
+    "버츄오스 퓨리"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "operator",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/IncreasedDamageOnStatusProc",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/virtuos_fury.f71902bf678d290ad03b625dc35834ca.png",
+  "thumb": "items/images/en/thumbs/virtuos_fury.f71902bf678d290ad03b625dc35834ca.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

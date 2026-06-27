@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a51e",
+  "slug": "mortal_conduct",
+  "market_slug": "mortal_conduct",
+  "name_en": "Mortal Conduct",
+  "name_en_slug": "mortal_conduct",
+  "name_kr": "모탈 컨덕트",
+  "aliases": [
+    "Mortal Conduct",
+    "mortal conduct",
+    "mortal_conduct",
+    "모탈 컨덕트"
+  ],
+  "tags": [
+    "melee",
+    "mod",
+    "pvp",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Melee/ChannelingEfficiencyOnLowHealth",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/mortal_conduct.1891d5e6d5e0cb468f6d0947d91bf260.png",
+  "thumb": "items/images/en/thumbs/mortal_conduct.1891d5e6d5e0cb468f6d0947d91bf260.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

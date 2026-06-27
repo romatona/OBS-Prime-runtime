@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54e64500e779897594fa68d5",
+  "slug": "iron_shrapnel",
+  "market_slug": "iron_shrapnel",
+  "name_en": "Iron Shrapnel",
+  "name_en_slug": "iron_shrapnel",
+  "name_kr": "아이언 쉬래프널",
+  "aliases": [
+    "Iron Shrapnel",
+    "iron shrapnel",
+    "iron_shrapnel",
+    "아이언 쉬래프널"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "rare",
+    "rhino",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Rhino/IronSkinAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/iron_shrapnel.cf00aa7e7a9d4d58c550467c24b54a3a.png",
+  "thumb": "items/images/en/thumbs/iron_shrapnel.cf00aa7e7a9d4d58c550467c24b54a3a.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

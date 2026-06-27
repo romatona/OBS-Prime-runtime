@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6a33106858b60af8cd1a0d1a",
+  "slug": "arcane_sculptor",
+  "market_slug": "arcane_sculptor",
+  "name_en": "Arcane Sculptor",
+  "name_en_slug": "arcane_sculptor",
+  "name_kr": "아케인 스컬프터",
+  "aliases": [
+    "Arcane Sculptor",
+    "arcane sculptor",
+    "arcane_sculptor",
+    "아케인 스컬프터"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Utility/AbilityEfficiencyOnAbilityObjectCreation",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/arcane_sculptor.c585312d90bbedba54bd156a47489c7c.webp",
+  "thumb": "items/images/en/thumbs/arcane_sculptor.c585312d90bbedba54bd156a47489c7c.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

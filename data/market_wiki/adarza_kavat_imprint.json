@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5ba9f2054567de01415f6391",
+  "slug": "adarza_kavat_imprint",
+  "market_slug": "adarza_kavat_imprint",
+  "name_en": "Adarza Kavat Imprint",
+  "name_en_slug": "adarza_kavat_imprint",
+  "name_kr": "아다르자 카밧 임프린트",
+  "aliases": [
+    "Adarza Kavat Imprint",
+    "adarza kavat imprint",
+    "adarza_kavat_imprint",
+    "아다르자 카밧 임프린트"
+  ],
+  "tags": [
+    "imprint",
+    "kubrow",
+    "pet"
+  ],
+  "game_ref": "/Lotus/Types/Game/CatbrowPet/MirrorCatbrowPetPowerSuit",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/adarza_kavat_imprint.cd718330ac1d7e42ba6eaddf777f73f0.png",
+  "thumb": "items/images/en/thumbs/adarza_kavat_imprint.cd718330ac1d7e42ba6eaddf777f73f0.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

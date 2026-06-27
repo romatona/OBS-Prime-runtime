@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60e70f7b479445008f272583",
+  "slug": "cephalon_suda_endurance_emote",
+  "market_slug": "cephalon_suda_endurance_emote",
+  "name_en": "Cephalon Suda Endurance Emote",
+  "name_en_slug": "cephalon_suda_endurance_emote",
+  "name_kr": "세팔론 수다 내구 감정 표현",
+  "aliases": [
+    "Cephalon Suda Endurance Emote",
+    "cephalon suda endurance emote",
+    "cephalon_suda_endurance_emote",
+    "세팔론 수다 내구 감정 표현"
+  ],
+  "tags": [
+    "emote",
+    "syndicate"
+  ],
+  "game_ref": "/Lotus/Types/Items/Emotes/Syndicate/CSSurvivabilityEmote",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/cephalon_suda_endurance_emote.f9853af4ccec89cdc35e4f18a442e24e.png",
+  "thumb": "items/images/en/thumbs/cephalon_suda_endurance_emote.f9853af4ccec89cdc35e4f18a442e24e.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

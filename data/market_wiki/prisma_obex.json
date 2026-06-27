@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "590e255197a0add8e9d5da4b",
+  "slug": "prisma_obex",
+  "market_slug": "prisma_obex",
+  "name_en": "Prisma Obex",
+  "name_en_slug": "prisma_obex",
+  "name_kr": "프리즈마 오벡스",
+  "aliases": [
+    "Prisma Obex",
+    "prisma obex",
+    "prisma_obex",
+    "프리즈마 오벡스"
+  ],
+  "tags": [
+    "melee",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Corpus/Melee/KickAndPunch/PrismaObex",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/prisma_obex.f75428632785a844c428f7e2fa2a9bc6.png",
+  "thumb": "items/images/en/thumbs/prisma_obex.f75428632785a844c428f7e2fa2a9bc6.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

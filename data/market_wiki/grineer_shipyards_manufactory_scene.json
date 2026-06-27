@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5a9e8669b2b6a800db67f123",
+  "slug": "grineer_shipyards_manufactory_scene",
+  "market_slug": "grineer_shipyards_manufactory_scene",
+  "name_en": "Grineer Shipyards Manufactory Scene",
+  "name_en_slug": "grineer_shipyards_manufactory_scene",
+  "name_kr": "그리니어 조선소 제조공장 배경",
+  "aliases": [
+    "Grineer Shipyards Manufactory Scene",
+    "grineer shipyards manufactory scene",
+    "grineer_shipyards_manufactory_scene",
+    "그리니어 조선소 제조공장 배경"
+  ],
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/MiscItems/PhotoboothTileSyndicateNewLokaConveyor",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/grineer_shipyards_manufactory_scene.bb08875906c694180fafaaa36a807957.png",
+  "thumb": "items/images/en/thumbs/grineer_shipyards_manufactory_scene.bb08875906c694180fafaaa36a807957.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

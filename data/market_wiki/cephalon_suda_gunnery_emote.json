@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60e70f7a479445008f272577",
+  "slug": "cephalon_suda_gunnery_emote",
+  "market_slug": "cephalon_suda_gunnery_emote",
+  "name_en": "Cephalon Suda Gunnery Emote",
+  "name_en_slug": "cephalon_suda_gunnery_emote",
+  "name_kr": "세팔론 수다 포술 감정 표현",
+  "aliases": [
+    "Cephalon Suda Gunnery Emote",
+    "cephalon suda gunnery emote",
+    "cephalon_suda_gunnery_emote",
+    "세팔론 수다 포술 감정 표현"
+  ],
+  "tags": [
+    "emote",
+    "syndicate"
+  ],
+  "game_ref": "/Lotus/Types/Items/Emotes/Syndicate/CSGunneryEmote",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/cephalon_suda_gunnery_emote.6f2addd04f36d411e4eb9ced2a22f10e.png",
+  "thumb": "items/images/en/thumbs/cephalon_suda_gunnery_emote.6f2addd04f36d411e4eb9ced2a22f10e.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

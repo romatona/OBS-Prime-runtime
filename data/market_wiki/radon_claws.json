@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "675c61ce7b18977f6e645412",
+  "slug": "radon_claws",
+  "market_slug": "radon_claws",
+  "name_en": "Radon Claws",
+  "name_en_slug": "radon_claws",
+  "name_kr": "라돈 클로",
+  "aliases": [
+    "Radon Claws",
+    "radon claws",
+    "radon_claws",
+    "라돈 클로"
+  ],
+  "tags": [
+    "claws",
+    "melee",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sentinel/Kubrow/DualStat/KubrowRadiationEventMeleeMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/radon_claws.727d39bca46d1a5304ededfcbd9f4bb2.webp",
+  "thumb": "items/images/en/thumbs/radon_claws.727d39bca46d1a5304ededfcbd9f4bb2.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

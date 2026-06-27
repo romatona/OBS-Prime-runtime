@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "62a2b833a554aa00a86de35d",
+  "slug": "dog_days_night_scene",
+  "market_slug": "dog_days_night_scene",
+  "name_en": "Dog Days Night Scene",
+  "name_en_slug": "dog_days_night_scene",
+  "name_kr": "도그 데이즈 밤 배경",
+  "aliases": [
+    "Dog Days Night Scene",
+    "dog days night scene",
+    "dog_days_night_scene",
+    "도그 데이즈 밤 배경"
+  ],
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/MiscItems/PhotoboothTileBeachNight",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/dog_days_night_scene.bd6d8351ca7fa4040eba2fe1fddcbfed.png",
+  "thumb": "items/images/en/thumbs/dog_days_night_scene.bd6d8351ca7fa4040eba2fe1fddcbfed.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

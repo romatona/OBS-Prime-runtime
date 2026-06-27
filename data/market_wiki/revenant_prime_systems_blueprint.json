@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "633e2e6af570d10793afb816",
+  "slug": "revenant_prime_systems_blueprint",
+  "market_slug": "revenant_prime_systems_blueprint",
+  "name_en": "Revenant Prime Systems Blueprint",
+  "name_en_slug": "revenant_prime_systems_blueprint",
+  "name_kr": "레버넌트 프라임 시스템 설계도",
+  "aliases": [
+    "Revenant Prime Systems",
+    "Revenant Prime Systems Blueprint",
+    "revenant prime systems blueprint",
+    "revenant_prime_systems_blueprint",
+    "레버넌트 프라임 시스템",
+    "레버넌트 프라임 시스템 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/RevenantPrimeSystemsBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/revenant_prime_systems_blueprint.469f99b4183a5dda7769b78b2cde6658.png",
+  "thumb": "items/images/en/thumbs/revenant_prime_systems_blueprint.469f99b4183a5dda7769b78b2cde6658.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

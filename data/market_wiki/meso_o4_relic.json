@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6054dde35221e30057500fe0",
+  "slug": "meso_o4_relic",
+  "market_slug": "meso_o4_relic",
+  "name_en": "Meso O4 Relic",
+  "name_en_slug": "meso_o4_relic",
+  "name_kr": "메소 O4 성유물",
+  "aliases": [
+    "Meso O4 Relic",
+    "meso o4 relic",
+    "meso_o4_relic",
+    "메소 O4 성유물"
+  ],
+  "tags": [
+    "meso",
+    "relic"
+  ],
+  "game_ref": "/Lotus/Types/Game/Projections/T2VoidProjectionOberonNekrosVaultA",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/meso_o4_relic.32eb1e727be665c175084b03829b8015.png",
+  "thumb": "items/images/en/thumbs/meso_o4_relic.32eb1e727be665c175084b03829b8015.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

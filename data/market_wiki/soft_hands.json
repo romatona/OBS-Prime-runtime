@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a4f6",
+  "slug": "soft_hands",
+  "market_slug": "soft_hands",
+  "name_en": "Soft Hands",
+  "name_en_slug": "soft_hands",
+  "name_kr": "소프트 핸즈",
+  "aliases": [
+    "Soft Hands",
+    "soft hands",
+    "soft_hands",
+    "소프트 핸즈"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "pvp",
+    "shotgun",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/HolsterSpeedBonusMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/soft_hands.c38e7bc163dea7c5c99a2213b1433ea9.png",
+  "thumb": "items/images/en/thumbs/soft_hands.c38e7bc163dea7c5c99a2213b1433ea9.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

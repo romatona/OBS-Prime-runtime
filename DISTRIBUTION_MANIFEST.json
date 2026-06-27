@@ -1,0 +1,44 @@
+﻿{
+    "name":  "OBS-Prime-runtime_26_06_27_002",
+    "created_at":  "2026-06-27 16:22:45 +09:00",
+    "source_root":  "sanitized-local-source",
+    "security_review":  {
+                            "critical_findings":  0,
+                            "notes":  [
+                                          "OBS DPAPI password payload removed from distribution config/default.json",
+                                          "Private LAN OBS host replaced with 127.0.0.1",
+                                          "User correction store reset to empty object",
+                                          "Debug captures, logs, samples, tests, config backups, market cache, runtime/tmp, git metadata excluded",
+                                          "item_wiki price_cache source paths rewritten to relative path"
+                                      ]
+                        },
+    "includes":  [
+                     "obs_prime",
+                     "presets",
+                     "runtime/tessdata",
+                     "data/item_wiki",
+                     "data/market_wiki",
+                     "data/fixtures",
+                     "sanitized config/default.json",
+                     "empty data/corrections.json",
+                     "README.md",
+                     "requirements.txt",
+                     "run.bat",
+                     "doctor.md"
+                 ],
+    "excludes":  [
+                     ".git",
+                     ".agents",
+                     ".codex",
+                     "tests",
+                     "samples",
+                     "debug",
+                     "output",
+                     "runtime/tmp",
+                     "config/*.bak",
+                     "data/market_cache",
+                     "personal corrections",
+                     "OBS password_dpapi",
+                     "private OBS LAN host"
+                 ]
+}

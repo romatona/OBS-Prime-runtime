@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "57c73be094b4b0f159ab5e14",
+  "slug": "elemental_sandstorm",
+  "market_slug": "elemental_sandstorm",
+  "name_en": "Elemental Sandstorm",
+  "name_en_slug": "elemental_sandstorm",
+  "name_kr": "엘리멘탈 샌드스톰",
+  "aliases": [
+    "Elemental Sandstorm",
+    "elemental sandstorm",
+    "elemental_sandstorm",
+    "엘리멘탈 샌드스톰"
+  ],
+  "tags": [
+    "augment",
+    "inaros",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Sandman/SandmanStormAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/elemental_sandstorm.5957557c1c7445897e7615c33d508a34.png",
+  "thumb": "items/images/en/thumbs/elemental_sandstorm.5957557c1c7445897e7615c33d508a34.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

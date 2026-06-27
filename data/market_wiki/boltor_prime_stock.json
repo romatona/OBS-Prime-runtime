@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a73e65e779893a797fff31",
+  "slug": "boltor_prime_stock",
+  "market_slug": "boltor_prime_stock",
+  "name_en": "Boltor Prime Stock",
+  "name_en_slug": "boltor_prime_stock",
+  "name_kr": "볼터 프라임 스톡",
+  "aliases": [
+    "Boltor Prime Stock",
+    "boltor prime stock",
+    "boltor_prime_stock",
+    "볼터 프라임 스톡"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/BoltorPrimeStock",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/boltor_prime_stock.a26157003dea5b1e1fe6660f46f3ea11.png",
+  "thumb": "items/images/en/thumbs/boltor_prime_stock.a26157003dea5b1e1fe6660f46f3ea11.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

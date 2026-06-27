@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "66fd6ca03a826eccf651cd86",
+  "slug": "galvanized_elementalist",
+  "market_slug": "galvanized_elementalist",
+  "name_en": "Galvanized Elementalist",
+  "name_en_slug": "galvanized_elementalist",
+  "name_kr": "갈바나이즈드 엘리멘탈리스트",
+  "aliases": [
+    "Galvanized Elementalist",
+    "galvanized elementalist",
+    "galvanized_elementalist",
+    "갈바나이즈드 엘리멘탈리스트"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "shotgun"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponMeleeStatusChanceSPSubMod",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/galvanized_elementalist.a81cadf3c1f6e67c92c188534ced77b2.webp",
+  "thumb": "items/images/en/thumbs/galvanized_elementalist.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

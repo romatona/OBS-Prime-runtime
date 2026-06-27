@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5c79229f2cc6ce0985fd3bb7",
+  "slug": "wild_frenzy",
+  "market_slug": "wild_frenzy",
+  "name_en": "Wild Frenzy",
+  "name_en_slug": "wild_frenzy",
+  "name_kr": "와일드 프렌지",
+  "aliases": [
+    "Wild Frenzy",
+    "wild frenzy",
+    "wild_frenzy",
+    "와일드 프렌지"
+  ],
+  "tags": [
+    "grakata",
+    "mod",
+    "primary",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/Event/Arbitration/GrnAssaultRifleArbitrationMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/wild_frenzy.fd671126fd4051e8e3addc13ae56d1f0.png",
+  "thumb": "items/images/en/thumbs/wild_frenzy.fd671126fd4051e8e3addc13ae56d1f0.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

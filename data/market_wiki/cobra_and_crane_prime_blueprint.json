@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "639a941d74b02f008887784e",
+  "slug": "cobra_and_crane_prime_blueprint",
+  "market_slug": "cobra_and_crane_prime_blueprint",
+  "name_en": "Cobra & Crane Prime Blueprint",
+  "name_en_slug": "cobra_and_crane_prime_blueprint",
+  "name_kr": "코브라 & 크레인 프라임 설계도",
+  "aliases": [
+    "Cobra & Crane Prime",
+    "Cobra & Crane Prime Blueprint",
+    "cobra and crane prime blueprint",
+    "cobra_and_crane_prime_blueprint",
+    "코브라 & 크레인 프라임",
+    "코브라 & 크레인 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "melee",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/CobraCranePrimeBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/cobra_and_crane_prime_blueprint.84b2733b9f7486c23028b5a2b4e012b4.png",
+  "thumb": "items/images/en/thumbs/cobra_and_crane_prime_blueprint.84b2733b9f7486c23028b5a2b4e012b4.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

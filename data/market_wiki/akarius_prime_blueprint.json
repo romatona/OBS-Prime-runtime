@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "65a7fca4ed5b0d2e3eb462ca",
+  "slug": "akarius_prime_blueprint",
+  "market_slug": "akarius_prime_blueprint",
+  "name_en": "Akarius Prime Blueprint",
+  "name_en_slug": "akarius_prime_blueprint",
+  "name_kr": "아카리우스 프라임 설계도",
+  "aliases": [
+    "Akarius Prime",
+    "Akarius Prime Blueprint",
+    "akarius prime blueprint",
+    "akarius_prime_blueprint",
+    "아카리우스 프라임",
+    "아카리우스 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "prime",
+    "secondary",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/AkariusPrimeBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/akarius_prime_blueprint.9e88bceafe14482e1a01672c1c292fe1.png",
+  "thumb": "items/images/en/thumbs/akarius_prime_blueprint.9e88bceafe14482e1a01672c1c292fe1.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

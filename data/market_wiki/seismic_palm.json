@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156a5",
+  "slug": "seismic_palm",
+  "market_slug": "seismic_palm",
+  "name_en": "Seismic Palm",
+  "name_en_slug": "seismic_palm",
+  "name_kr": "사이즈믹 팜",
+  "aliases": [
+    "Seismic Palm",
+    "seismic palm",
+    "seismic_palm",
+    "사이즈믹 팜"
+  ],
+  "tags": [
+    "fists",
+    "mod",
+    "rare",
+    "stance"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/FistCmbTwoMeleeTree",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/seismic_palm.677fc917c032bd66d51b4e7f01674943.png",
+  "thumb": "items/images/en/thumbs/seismic_palm.677fc917c032bd66d51b4e7f01674943.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

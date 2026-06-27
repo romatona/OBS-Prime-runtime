@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "693e63b703903ae8993ffae2",
+  "slug": "makvos_cannon_scene",
+  "market_slug": "makvos_cannon_scene",
+  "name_en": "Makvos Cannon Scene",
+  "name_en_slug": "makvos_cannon_scene",
+  "name_kr": "마크보스 대공포 배경",
+  "aliases": [
+    "Makvos Cannon Scene",
+    "makvos cannon scene",
+    "makvos_cannon_scene",
+    "마크보스 대공포 배경"
+  ],
+  "tags": [
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/PhotoBooth/TauOldPeace/PhotoboothTileTauOldPeaceIntMakvossCannon",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/makvos_cannon_scene.81876f69471ffa9edbc3bde009de088b.webp",
+  "thumb": "items/images/en/thumbs/makvos_cannon_scene.81876f69471ffa9edbc3bde009de088b.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

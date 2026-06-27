@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5655c48eb66f832e0427152e",
+  "slug": "defiled_snapdragon",
+  "market_slug": "defiled_snapdragon",
+  "name_en": "Defiled Snapdragon",
+  "name_en_slug": "defiled_snapdragon",
+  "name_kr": "디파일드 스냅드래곤",
+  "aliases": [
+    "Defiled Snapdragon",
+    "defiled snapdragon",
+    "defiled_snapdragon",
+    "디파일드 스냅드래곤"
+  ],
+  "tags": [
+    "blade_and_whip",
+    "mod",
+    "rare",
+    "stance"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/SwordWhipCmbOneMeleeTree",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/defiled_snapdragon.9fd00844944ef39ab71bf98118a56a55.png",
+  "thumb": "items/images/en/thumbs/defiled_snapdragon.9fd00844944ef39ab71bf98118a56a55.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

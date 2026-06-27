@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "626a109df40db6004517215e",
+  "slug": "zariman_lunaro_court_scene",
+  "market_slug": "zariman_lunaro_court_scene",
+  "name_en": "Zariman Lunaro Court Scene",
+  "name_en_slug": "zariman_lunaro_court_scene",
+  "name_kr": "자리만 루나로 코트 배경",
+  "aliases": [
+    "Zariman Lunaro Court Scene",
+    "zariman lunaro court scene",
+    "zariman_lunaro_court_scene",
+    "자리만 루나로 코트 배경"
+  ],
+  "tags": [
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/PhotoBooth/Zariman/PhotoboothTileZarLunaroCourt",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/zariman_lunaro_court_scene.c144d0beee8748fbd4ffde2fa8b6eb27.png",
+  "thumb": "items/images/en/thumbs/zariman_lunaro_court_scene.c144d0beee8748fbd4ffde2fa8b6eb27.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

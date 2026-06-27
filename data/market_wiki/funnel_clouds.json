@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "554d3f0ce779894445a848fb",
+  "slug": "funnel_clouds",
+  "market_slug": "funnel_clouds",
+  "name_en": "Funnel Clouds",
+  "name_en_slug": "funnel_clouds",
+  "name_kr": "퍼널 클라우즈",
+  "aliases": [
+    "Funnel Clouds",
+    "funnel clouds",
+    "funnel_clouds",
+    "퍼널 클라우즈"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "rare",
+    "warframe",
+    "zephyr"
+  ],
+  "game_ref": "/Lotus/Powersuits/Tengu/TornadoAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/funnel_clouds.b40582a7a46c29c0b6717a57b1bc7e4a.png",
+  "thumb": "items/images/en/thumbs/funnel_clouds.b40582a7a46c29c0b6717a57b1bc7e4a.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

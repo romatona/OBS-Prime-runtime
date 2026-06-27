@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5f498a209426ed00443bd0a3",
+  "slug": "faceted_tiametrite",
+  "market_slug": "faceted_tiametrite",
+  "name_en": "Faceted Tiametrite",
+  "name_en_slug": "faceted_tiametrite",
+  "name_kr": "패시티드 티아메트라이트",
+  "aliases": [
+    "Faceted Tiametrite",
+    "faceted tiametrite",
+    "faceted_tiametrite",
+    "패시티드 티아메트라이트"
+  ],
+  "tags": [
+    "gem"
+  ],
+  "game_ref": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonGemACutItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/faceted_tiametrite.aa463bcd1c7e977a29a8cd586a8d3e9f.png",
+  "thumb": "items/images/en/thumbs/faceted_tiametrite.aa463bcd1c7e977a29a8cd586a8d3e9f.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

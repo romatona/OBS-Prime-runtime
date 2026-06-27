@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5c196faf96037800ddadac17",
+  "slug": "redeemer_prime_set",
+  "market_slug": "redeemer_prime_set",
+  "name_en": "Redeemer Prime Set",
+  "name_en_slug": "redeemer_prime_set",
+  "name_kr": "리디머 프라임 세트",
+  "aliases": [
+    "Redeemer Prime Set",
+    "redeemer prime set",
+    "redeemer_prime_set",
+    "리디머 프라임 세트"
+  ],
+  "tags": [
+    "melee",
+    "prime",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/Gunblade/RedeemerPrime/RedeemerPrimeWep",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/redeemer_prime_set.92fcede37c1ab66d22a2287dc2334731.png",
+  "thumb": "items/images/en/thumbs/redeemer_prime_set.92fcede37c1ab66d22a2287dc2334731.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

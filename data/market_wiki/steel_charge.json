@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e51560f",
+  "slug": "steel_charge",
+  "market_slug": "steel_charge",
+  "name_en": "Steel Charge",
+  "name_en_slug": "steel_charge",
+  "name_kr": "스틸 차지",
+  "aliases": [
+    "Steel Charge",
+    "steel charge",
+    "steel_charge",
+    "스틸 차지"
+  ],
+  "tags": [
+    "aura",
+    "mod",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Aura/PlayerMeleeAuraMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/steel_charge.4cb70155e437953e8949adb7ff8d23ad.png",
+  "thumb": "items/images/en/thumbs/steel_charge.4cb70155e437953e8949adb7ff8d23ad.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

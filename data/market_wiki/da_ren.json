@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "693e664703903ae8993ffaf4",
+  "slug": "da_ren",
+  "market_slug": "da_ren",
+  "name_en": "Da-Ren",
+  "name_en_slug": "da_ren",
+  "name_kr": "다-렌",
+  "aliases": [
+    "Da-Ren",
+    "da ren",
+    "da_ren",
+    "다-렌"
+  ],
+  "tags": [
+    "any",
+    "mod",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Antiques/ShieldSchool",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/ko/da_ren.a121d25b57a66b31bcae33dde5ae453c.webp",
+  "thumb": "items/images/ko/thumbs/da_ren.a121d25b57a66b31bcae33dde5ae453c.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

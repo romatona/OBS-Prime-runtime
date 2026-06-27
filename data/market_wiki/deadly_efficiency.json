@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5c1bda1814a8e4006b1dad8a",
+  "slug": "deadly_efficiency",
+  "market_slug": "deadly_efficiency",
+  "name_en": "Deadly Efficiency",
+  "name_en_slug": "deadly_efficiency",
+  "name_kr": "데들리 이피션시",
+  "aliases": [
+    "Deadly Efficiency",
+    "deadly efficiency",
+    "deadly_efficiency",
+    "데들리 이피션시"
+  ],
+  "tags": [
+    "archgun",
+    "archwing",
+    "mod",
+    "primary",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingDamageAfterReloadMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/deadly_efficiency.302b1c7eefacaad306cc6d2fda818e90.png",
+  "thumb": "items/images/en/thumbs/deadly_efficiency.302b1c7eefacaad306cc6d2fda818e90.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

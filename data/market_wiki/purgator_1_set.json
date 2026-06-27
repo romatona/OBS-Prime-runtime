@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "67e8c6bdcedcd0be6d13594a",
+  "slug": "purgator_1_set",
+  "market_slug": "purgator_1_set",
+  "name_en": "Purgator 1 Set",
+  "name_en_slug": "purgator_1_set",
+  "name_kr": "퍼게이터 1 세트",
+  "aliases": [
+    "Purgator 1 Set",
+    "purgator 1 set",
+    "purgator_1_set",
+    "퍼게이터 1 세트"
+  ],
+  "tags": [
+    "primary",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Lasria/LasGrenadeLauncher/LasrianNoxPlayerWeapon",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/purgator_1_set.cd59243fe2d8a6cc4e29cb9adec65cb9.webp",
+  "thumb": "items/images/en/thumbs/purgator_1_set.cd59243fe2d8a6cc4e29cb9adec65cb9.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

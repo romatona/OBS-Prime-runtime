@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a504",
+  "slug": "adrenaline_boost",
+  "market_slug": "adrenaline_boost",
+  "name_en": "Adrenaline Boost",
+  "name_en_slug": "adrenaline_boost",
+  "name_kr": "아드레날린 부스트",
+  "aliases": [
+    "Adrenaline Boost",
+    "adrenaline boost",
+    "adrenaline_boost",
+    "아드레날린 부스트"
+  ],
+  "tags": [
+    "mod",
+    "pvp",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Warframe/MoreEnergyLessHealthMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/adrenaline_boost.d0b54aa1b828e5d35467055a35d357e2.png",
+  "thumb": "items/images/en/thumbs/adrenaline_boost.d0b54aa1b828e5d35467055a35d357e2.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

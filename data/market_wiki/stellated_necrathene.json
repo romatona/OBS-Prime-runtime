@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5f498a269426ed00443bd0d5",
+  "slug": "stellated_necrathene",
+  "market_slug": "stellated_necrathene",
+  "name_en": "Stellated Necrathene",
+  "name_en_slug": "stellated_necrathene",
+  "name_kr": "스텔레이티드 네크라씬",
+  "aliases": [
+    "Stellated Necrathene",
+    "stellated necrathene",
+    "stellated_necrathene",
+    "스텔레이티드 네크라씬"
+  ],
+  "tags": [
+    "gem"
+  ],
+  "game_ref": "/Lotus/Types/Items/Gems/Deimos/DeimosRareGemACutItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/stellated_necrathene.ca7d17dc4941bce561a68a2d7f93634d.png",
+  "thumb": "items/images/en/thumbs/stellated_necrathene.ca7d17dc4941bce561a68a2d7f93634d.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a4c7",
+  "slug": "agile_aim",
+  "market_slug": "agile_aim",
+  "name_en": "Agile Aim",
+  "name_en_slug": "agile_aim",
+  "name_kr": "애자일 에임",
+  "aliases": [
+    "Agile Aim",
+    "agile aim",
+    "agile_aim",
+    "애자일 에임"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "pvp",
+    "rifle",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Rifle/FasterMovementWhileAimingRifleMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/agile_aim.2c304bc0bd60d75ec6a92325f71692fb.png",
+  "thumb": "items/images/en/thumbs/agile_aim.2c304bc0bd60d75ec6a92325f71692fb.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

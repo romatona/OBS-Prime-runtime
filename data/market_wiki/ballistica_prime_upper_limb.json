@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "59a5cd4d5cd9938cfede7043",
+  "slug": "ballistica_prime_upper_limb",
+  "market_slug": "ballistica_prime_upper_limb",
+  "name_en": "Ballistica Prime Upper Limb",
+  "name_en_slug": "ballistica_prime_upper_limb",
+  "name_kr": "발리스티카 프라임 어퍼 림",
+  "aliases": [
+    "Ballistica Prime Upper Limb",
+    "ballistica prime upper limb",
+    "ballistica_prime_upper_limb",
+    "발리스티카 프라임 어퍼 림"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaUpperLimb",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/ballistica_prime_upper_limb.4ed33348008ace40406d0383f692ecac.png",
+  "thumb": "items/images/en/thumbs/ballistica_prime_upper_limb.4ed33348008ace40406d0383f692ecac.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

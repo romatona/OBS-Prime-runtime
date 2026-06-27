@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a4cd",
+  "slug": "calculated_spring",
+  "market_slug": "calculated_spring",
+  "name_en": "Calculated Spring",
+  "name_en_slug": "calculated_spring",
+  "name_kr": "칼큘레이티드 스프링",
+  "aliases": [
+    "Calculated Spring",
+    "calculated spring",
+    "calculated_spring",
+    "칼큘레이티드 스프링"
+  ],
+  "tags": [
+    "mod",
+    "pvp",
+    "uncommon",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Warframe/MoreHealthLessBulletJumpMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/calculated_spring.1b3e0f95557bd75066cd2801840dbe64.png",
+  "thumb": "items/images/en/thumbs/calculated_spring.1b3e0f95557bd75066cd2801840dbe64.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

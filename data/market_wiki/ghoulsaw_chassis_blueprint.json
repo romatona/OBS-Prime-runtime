@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "61460dcde330e600455dcea4",
+  "slug": "ghoulsaw_chassis_blueprint",
+  "market_slug": "ghoulsaw_chassis_blueprint",
+  "name_en": "Ghoulsaw Chassis",
+  "name_en_slug": "ghoulsaw_chassis_blueprint",
+  "name_kr": "구울소우 섀시",
+  "aliases": [
+    "Ghoulsaw Chassis",
+    "ghoulsaw chassis blueprint",
+    "ghoulsaw_chassis_blueprint",
+    "구울소우 섀시"
+  ],
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/GrnGhoulSawChassis",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/ghoulsaw_chassis.f9a355d3f35098841d346d536abd801c.png",
+  "thumb": "items/images/en/thumbs/ghoulsaw_chassis.f9a355d3f35098841d346d536abd801c.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

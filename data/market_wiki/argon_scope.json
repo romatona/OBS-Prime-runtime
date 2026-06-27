@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56a7b2741133f656cb085d8a",
+  "slug": "argon_scope",
+  "market_slug": "argon_scope",
+  "name_en": "Argon Scope",
+  "name_en_slug": "argon_scope",
+  "name_kr": "아르곤 스코프",
+  "aliases": [
+    "Argon Scope",
+    "argon scope",
+    "argon_scope",
+    "아르곤 스코프"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "rifle"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/Event/CritChanceWhileAimingRifleMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/argon_scope.f59f66183ee3f605c51f28d68dfa6714.png",
+  "thumb": "items/images/en/thumbs/argon_scope.f59f66183ee3f605c51f28d68dfa6714.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

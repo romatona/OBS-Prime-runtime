@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515670",
+  "slug": "rubedo_lined_barrel",
+  "market_slug": "rubedo_lined_barrel",
+  "name_en": "Rubedo-Lined Barrel",
+  "name_en_slug": "rubedo_lined_barrel",
+  "name_kr": "루비도-라인드 배럴",
+  "aliases": [
+    "Rubedo-Lined Barrel",
+    "rubedo lined barrel",
+    "rubedo_lined_barrel",
+    "루비도-라인드 배럴"
+  ],
+  "tags": [
+    "archgun",
+    "archwing",
+    "mod",
+    "primary",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleDamageAmountMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/rubedo_lined_barrel.1aaa79bd2072d87ef1401758528b0ed0.png",
+  "thumb": "items/images/en/thumbs/rubedo_lined_barrel.1aaa79bd2072d87ef1401758528b0ed0.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

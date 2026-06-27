@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "59eba86952f90ed715e1415a",
+  "slug": "heart_nyth",
+  "market_slug": "heart_nyth",
+  "name_en": "Heart Nyth",
+  "name_en_slug": "heart_nyth",
+  "name_kr": "하트 니스",
+  "aliases": [
+    "Heart Nyth",
+    "heart nyth",
+    "heart_nyth",
+    "하트 니스"
+  ],
+  "tags": [
+    "gem"
+  ],
+  "game_ref": "/Lotus/Types/Items/Gems/Eidolon/EidolonGemBCutAItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/heart_nyth.c1c509b457c7fd0ecdb6e74f82c2be1e.png",
+  "thumb": "items/images/en/thumbs/heart_nyth.c1c509b457c7fd0ecdb6e74f82c2be1e.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5c1bd9fd14a8e4006b1dad50",
+  "slug": "quick_reload",
+  "market_slug": "quick_reload",
+  "name_en": "Quick Reload",
+  "name_en_slug": "quick_reload",
+  "name_kr": "퀵 리로드",
+  "aliases": [
+    "Quick Reload",
+    "quick reload",
+    "quick_reload",
+    "퀵 리로드"
+  ],
+  "tags": [
+    "archgun",
+    "archwing",
+    "mod",
+    "primary",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleReloadSpeedMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/quick_reload.fa52a871aab9230ddcd58a85f37ad0a3.png",
+  "thumb": "items/images/en/thumbs/quick_reload.fa52a871aab9230ddcd58a85f37ad0a3.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

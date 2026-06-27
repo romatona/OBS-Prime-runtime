@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5be4b0a53ffcc703294e76b0",
+  "slug": "fetch",
+  "market_slug": "fetch",
+  "name_en": "Fetch",
+  "name_en_slug": "fetch",
+  "name_kr": "페치",
+  "aliases": [
+    "Fetch",
+    "fetch",
+    "페치"
+  ],
+  "tags": [
+    "beast",
+    "mod",
+    "sentinel",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Types/Sentinels/SentinelPrecepts/BeastUniversalVacuum",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/fetch.3029b53e4b6e53493e836cd5cd980146.png",
+  "thumb": "items/images/en/thumbs/fetch.3029b53e4b6e53493e836cd5cd980146.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

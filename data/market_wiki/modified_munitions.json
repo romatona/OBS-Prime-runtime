@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156ab",
+  "slug": "modified_munitions",
+  "market_slug": "modified_munitions",
+  "name_en": "Modified Munitions",
+  "name_en_slug": "modified_munitions",
+  "name_kr": "모디파이드 뮤니션즈",
+  "aliases": [
+    "Modified Munitions",
+    "modified munitions",
+    "modified_munitions",
+    "모디파이드 뮤니션즈"
+  ],
+  "tags": [
+    "archgun",
+    "archwing",
+    "mod",
+    "primary",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleStatusChanceMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/modified_munitions.f055ca94ece97bff9a5d5a67fd947d2c.png",
+  "thumb": "items/images/en/thumbs/modified_munitions.f055ca94ece97bff9a5d5a67fd947d2c.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

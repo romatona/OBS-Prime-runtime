@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5ca28670fc2db2035eae059f",
+  "slug": "tipedo_prime_blueprint",
+  "market_slug": "tipedo_prime_blueprint",
+  "name_en": "Tipedo Prime Blueprint",
+  "name_en_slug": "tipedo_prime_blueprint",
+  "name_kr": "티페도 프라임 설계도",
+  "aliases": [
+    "Tipedo Prime",
+    "Tipedo Prime Blueprint",
+    "tipedo prime blueprint",
+    "tipedo_prime_blueprint",
+    "티페도 프라임",
+    "티페도 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "melee",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/TipedoPrimeBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/tipedo_prime_blueprint.fd4fdcee6ab035eddce9a802ff091cfd.png",
+  "thumb": "items/images/en/thumbs/tipedo_prime_blueprint.fd4fdcee6ab035eddce9a802ff091cfd.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

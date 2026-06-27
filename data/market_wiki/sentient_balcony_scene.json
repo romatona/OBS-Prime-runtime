@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5e4145907b0275011bc5b7d0",
+  "slug": "sentient_balcony_scene",
+  "market_slug": "sentient_balcony_scene",
+  "name_en": "Sentient Balcony Scene",
+  "name_en_slug": "sentient_balcony_scene",
+  "name_kr": "센티언트 발코니 배경",
+  "aliases": [
+    "Sentient Balcony Scene",
+    "sentient balcony scene",
+    "sentient_balcony_scene",
+    "센티언트 발코니 배경"
+  ],
+  "tags": [
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/PhotoBooth/PhotoboothTileSentientConTallJunctionOne",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/sentient_balcony_scene.c4ef34e82aa7b62ad8888d1c6b38be16.png",
+  "thumb": "items/images/en/thumbs/sentient_balcony_scene.c4ef34e82aa7b62ad8888d1c6b38be16.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

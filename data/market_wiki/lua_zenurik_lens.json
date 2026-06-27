@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5d6ea6737ea27b05d929cbf7",
+  "slug": "lua_zenurik_lens",
+  "market_slug": "lua_zenurik_lens",
+  "name_en": "Lua Zenurik Lens",
+  "name_en_slug": "lua_zenurik_lens",
+  "name_kr": "루아 제누릭 렌즈",
+  "aliases": [
+    "Lua Zenurik Lens",
+    "lua zenurik lens",
+    "lua_zenurik_lens",
+    "루아 제누릭 렌즈"
+  ],
+  "tags": [
+    "focus",
+    "lens"
+  ],
+  "game_ref": "/Lotus/Upgrades/Focus/PowerLensLua",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/lua_zenurik_lens.e3b2ed7d024b138843320d13d204e020.png",
+  "thumb": "items/images/en/thumbs/lua_zenurik_lens.e3b2ed7d024b138843320d13d204e020.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

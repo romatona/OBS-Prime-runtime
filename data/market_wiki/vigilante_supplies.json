@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "59dfeb63115f1d887cfd7abd",
+  "slug": "vigilante_supplies",
+  "market_slug": "vigilante_supplies",
+  "name_en": "Vigilante Supplies",
+  "name_en_slug": "vigilante_supplies",
+  "name_kr": "비질란티 서플라이즈",
+  "aliases": [
+    "Vigilante Supplies",
+    "vigilante supplies",
+    "vigilante_supplies",
+    "비질란티 서플라이즈"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sets/Vigilante/PrimaryVigilanteSuppliesMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/vigilante_supplies.fd5606254df447e665fbda4046b0ebc6.png",
+  "thumb": "items/images/en/thumbs/vigilante_supplies.fd5606254df447e665fbda4046b0ebc6.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

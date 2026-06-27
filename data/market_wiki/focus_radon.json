@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "657af5ab21646e595134f5c1",
+  "slug": "focus_radon",
+  "market_slug": "focus_radon",
+  "name_en": "Focus Radon",
+  "name_en_slug": "focus_radon",
+  "name_kr": "포커스 라돈",
+  "aliases": [
+    "Focus Radon",
+    "focus radon",
+    "focus_radon",
+    "포커스 라돈"
+  ],
+  "tags": [
+    "melee",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Melee/DualStat/RadiationEfficiencyMeleeMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/focus_radon.5918ae83fa70351586a79dfa60fc4d6e.png",
+  "thumb": "items/images/en/thumbs/focus_radon.5918ae83fa70351586a79dfa60fc4d6e.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

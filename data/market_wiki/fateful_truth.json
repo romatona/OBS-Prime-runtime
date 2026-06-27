@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "59f38f588c202c007335ba68",
+  "slug": "fateful_truth",
+  "market_slug": "fateful_truth",
+  "name_en": "Fateful Truth",
+  "name_en_slug": "fateful_truth",
+  "name_kr": "페이트풀 트루스",
+  "aliases": [
+    "Fateful Truth",
+    "fateful truth",
+    "fateful_truth",
+    "페이트풀 트루스"
+  ],
+  "tags": [
+    "mod",
+    "nikanas",
+    "pvp",
+    "stance",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPKatanaStanceOne",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/fateful_truth.7676a4b419b615a0f254bb7324b5f206.png",
+  "thumb": "items/images/en/thumbs/fateful_truth.7676a4b419b615a0f254bb7324b5f206.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

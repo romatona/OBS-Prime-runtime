@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5be701113ffcc703e462c703",
+  "slug": "scan_lifeforms",
+  "market_slug": "scan_lifeforms",
+  "name_en": "Scan Aquatic Lifeforms",
+  "name_en_slug": "scan_lifeforms",
+  "name_kr": "스캔 라이프폼",
+  "aliases": [
+    "Scan Aquatic Lifeforms",
+    "scan lifeforms",
+    "scan_lifeforms",
+    "스캔 라이프폼"
+  ],
+  "tags": [
+    "mod"
+  ],
+  "game_ref": "",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/scan_lifeforms.092eac929df7c6f8d989e926cdab8733.webp",
+  "thumb": "items/images/en/thumbs/scan_lifeforms.092eac929df7c6f8d989e926cdab8733.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

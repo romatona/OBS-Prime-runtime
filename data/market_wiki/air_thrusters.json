@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5740c1909d238d4a03d28519",
+  "slug": "air_thrusters",
+  "market_slug": "air_thrusters",
+  "name_en": "Air Thrusters",
+  "name_en_slug": "air_thrusters",
+  "name_kr": "에어 스러스터",
+  "aliases": [
+    "Air Thrusters",
+    "air thrusters",
+    "air_thrusters",
+    "에어 스러스터"
+  ],
+  "tags": [
+    "mod",
+    "pvp",
+    "uncommon",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Warframe/AirSlideBoost",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/air_thrusters.43dba0311d632578830cd0537a965aa2.png",
+  "thumb": "items/images/en/thumbs/air_thrusters.43dba0311d632578830cd0537a965aa2.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

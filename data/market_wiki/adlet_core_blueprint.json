@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60e5b8ff4794450053e99955",
+  "slug": "adlet_core_blueprint",
+  "market_slug": "adlet_core_blueprint",
+  "name_en": "Adlet Core Blueprint",
+  "name_en_slug": "adlet_core_blueprint",
+  "name_kr": "아들렛 코어 설계도",
+  "aliases": [
+    "Adlet Core",
+    "Adlet Core Blueprint",
+    "adlet core blueprint",
+    "adlet_core_blueprint",
+    "아들렛 코어",
+    "아들렛 코어 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "hound",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartBodyABlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/adlet_core_blueprint.88651365af6eb6c11fb413c531b60b1a.png",
+  "thumb": "items/images/en/thumbs/adlet_core_blueprint.88651365af6eb6c11fb413c531b60b1a.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

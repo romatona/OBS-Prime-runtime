@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "667237708ba7c81b70d02ca0",
+  "slug": "zanuka_arena_simulacrum",
+  "market_slug": "zanuka_arena_simulacrum",
+  "name_en": "Zanuka Arena Simulacrum",
+  "name_en_slug": "zanuka_arena_simulacrum",
+  "name_kr": "자누카 아레나 시뮬라크럼",
+  "aliases": [
+    "Zanuka Arena Simulacrum",
+    "zanuka arena simulacrum",
+    "zanuka_arena_simulacrum",
+    "자누카 아레나 시뮬라크럼"
+  ],
+  "tags": [
+    "simulacrum"
+  ],
+  "game_ref": "/Lotus/Types/Items/DangerRoom/DangerRoomTileGasCityBossRoom",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/zanuka_arena_simulacrum.bc80d848785a9dda6ccd72117e69b28d.webp",
+  "thumb": "items/images/en/thumbs/zanuka_arena_simulacrum.bc80d848785a9dda6ccd72117e69b28d.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

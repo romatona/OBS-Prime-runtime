@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "657af5ab21646e595134f5c3",
+  "slug": "xata_invocation",
+  "market_slug": "xata_invocation",
+  "name_en": "Xata Invocation",
+  "name_en_slug": "xata_invocation",
+  "name_kr": "자타 인보케이션",
+  "aliases": [
+    "Xata Invocation",
+    "xata invocation",
+    "xata_invocation",
+    "자타 인보케이션"
+  ],
+  "tags": [
+    "mod",
+    "rare",
+    "secondary",
+    "tome"
+  ],
+  "game_ref": "/Lotus/Upgrades/Grimoire/XataStrikeMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/xata_invocation.edc7e969a9fbd262e3232a1de8fa097b.png",
+  "thumb": "items/images/en/thumbs/xata_invocation.edc7e969a9fbd262e3232a1de8fa097b.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

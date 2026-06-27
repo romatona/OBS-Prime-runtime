@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "675c61997b18977f6e64540c",
+  "slug": "central_mall_backroom",
+  "market_slug": "central_mall_backroom",
+  "name_en": "Central Mall Backroom Scene",
+  "name_en_slug": "central_mall_backroom",
+  "name_kr": "중앙 쇼핑몰 밀실 배경",
+  "aliases": [
+    "Central Mall Backroom Scene",
+    "central mall backroom",
+    "central_mall_backroom",
+    "중앙 쇼핑몰 밀실 배경"
+  ],
+  "tags": [
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaTailorShop",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/central_mall_backroom.856ef8eab69a55701498e02aade78ee2.webp",
+  "thumb": "items/images/en/thumbs/central_mall_backroom.856ef8eab69a55701498e02aade78ee2.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

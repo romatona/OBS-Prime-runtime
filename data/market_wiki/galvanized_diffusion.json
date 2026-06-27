@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60e5b8fc4794450053e99941",
+  "slug": "galvanized_diffusion",
+  "market_slug": "galvanized_diffusion",
+  "name_en": "Galvanized Diffusion",
+  "name_en_slug": "galvanized_diffusion",
+  "name_kr": "갈바나이즈드 디퓨젼",
+  "aliases": [
+    "Galvanized Diffusion",
+    "galvanized diffusion",
+    "galvanized_diffusion",
+    "갈바나이즈드 디퓨젼"
+  ],
+  "tags": [
+    "mod",
+    "pistol",
+    "rare",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Pistol/WeaponFireIterationsSPMod",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/galvanized_diffusion.95f3194b73e688fda9383851b7f09d63.png",
+  "thumb": "items/images/en/thumbs/galvanized_diffusion.95f3194b73e688fda9383851b7f09d63.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

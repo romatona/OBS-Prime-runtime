@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "58f0ee99aa4b70452a173070",
+  "slug": "pyroclastic_flow",
+  "market_slug": "pyroclastic_flow",
+  "name_en": "Pyroclastic Flow",
+  "name_en_slug": "pyroclastic_flow",
+  "name_kr": "파이로클라스틱 플로우",
+  "aliases": [
+    "Pyroclastic Flow",
+    "pyroclastic flow",
+    "pyroclastic_flow",
+    "파이로클라스틱 플로우"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "nezha",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Nezha/NezhaTrailAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/pyroclastic_flow.ac94de8b2515a96114dec14cc78ce907.png",
+  "thumb": "items/images/en/thumbs/pyroclastic_flow.ac94de8b2515a96114dec14cc78ce907.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "580e38faca550948410af0a7",
+  "slug": "shield_charger",
+  "market_slug": "shield_charger",
+  "name_en": "Shield Charger",
+  "name_en_slug": "shield_charger",
+  "name_kr": "실드 차저",
+  "aliases": [
+    "Shield Charger",
+    "shield charger",
+    "shield_charger",
+    "실드 차저"
+  ],
+  "tags": [
+    "mod",
+    "rare",
+    "robotic",
+    "sentinel"
+  ],
+  "game_ref": "/Lotus/Types/Sentinels/SentinelPrecepts/Events/CorpusArena/ShieldAuraPrecept",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/shield_charger.1546221ebdf55621fa89258271588896.png",
+  "thumb": "items/images/en/thumbs/shield_charger.1546221ebdf55621fa89258271588896.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

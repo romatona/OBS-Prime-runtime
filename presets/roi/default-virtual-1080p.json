@@ -1,0 +1,14 @@
+{
+  "preset_id": "default-virtual-1080p",
+  "display_name": "Default virtual 1080p ROI",
+  "capture_resolution": "1920x1080",
+  "reward_panel_rect": {"x": 211, "y": 367, "w": 1497, "h": 367},
+  "slot_name_rects": [
+    {"x": 248, "y": 458, "w": 299, "h": 154},
+    {"x": 622, "y": 458, "w": 299, "h": 154},
+    {"x": 996, "y": 458, "w": 299, "h": 154},
+    {"x": 1370, "y": 458, "w": 299, "h": 154}
+  ],
+  "slot_overlay_rects": [],
+  "notes": "Virtual/sample geometry placeholder for MVP."
+}

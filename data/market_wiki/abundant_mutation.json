@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5ecd08d704d55c0806f85348",
+  "slug": "abundant_mutation",
+  "market_slug": "abundant_mutation",
+  "name_en": "Abundant Mutation",
+  "name_en_slug": "abundant_mutation",
+  "name_kr": "어번던트 뮤테이션",
+  "aliases": [
+    "Abundant Mutation",
+    "abundant mutation",
+    "abundant_mutation",
+    "어번던트 뮤테이션"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "nidus",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Infestation/InfestPassiveAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/abundant_mutation.a7d69a73522f536dedb348626a8efdfc.png",
+  "thumb": "items/images/en/thumbs/abundant_mutation.a7d69a73522f536dedb348626a8efdfc.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

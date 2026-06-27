@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "693e655003903ae8993ffaec",
+  "slug": "sey_taph",
+  "market_slug": "sey_taph",
+  "name_en": "Sey-Taph",
+  "name_en_slug": "sey_taph",
+  "name_kr": "세이-타프",
+  "aliases": [
+    "Sey-Taph",
+    "sey taph",
+    "sey_taph",
+    "세이-타프"
+  ],
+  "tags": [
+    "any",
+    "common",
+    "mod"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Antiques/VoidSlingEfficiency",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/ko/sey_taph.ac0d3c71acb8cfe158f84f3ff5f4eac2.webp",
+  "thumb": "items/images/ko/thumbs/sey_taph.ac0d3c71acb8cfe158f84f3ff5f4eac2.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

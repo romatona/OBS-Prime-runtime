@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5dbe9b087ea27b0ffe3ca269",
+  "slug": "ayatan_zambuka_sculpture",
+  "market_slug": "ayatan_zambuka_sculpture",
+  "name_en": "Ayatan Zambuka Sculpture",
+  "name_en_slug": "ayatan_zambuka_sculpture",
+  "name_kr": "아야탄 잠부카 조각상",
+  "aliases": [
+    "Ayatan Zambuka Sculpture",
+    "ayatan zambuka sculpture",
+    "ayatan_zambuka_sculpture",
+    "아야탄 잠부카 조각상"
+  ],
+  "tags": [
+    "ayatan_sculpture"
+  ],
+  "game_ref": "/Lotus/Types/Items/FusionTreasures/OroFusexH",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/ko/ayatan_zambuka_sculpture.cfee4edb2f9ecbfef1a427dcd791847b.png",
+  "thumb": "items/images/ko/thumbs/ayatan_zambuka_sculpture.cfee4edb2f9ecbfef1a427dcd791847b.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

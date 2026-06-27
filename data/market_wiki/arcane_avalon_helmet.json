@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54aaf1d2e77989786a5f748b",
+  "slug": "arcane_avalon_helmet",
+  "market_slug": "arcane_avalon_helmet",
+  "name_en": "Arcane Avalon Helmet",
+  "name_en_slug": "arcane_avalon_helmet",
+  "name_kr": "아케인 아발론 헬멧",
+  "aliases": [
+    "Arcane Avalon Helmet",
+    "arcane avalon helmet",
+    "arcane_avalon_helmet",
+    "아케인 아발론 헬멧"
+  ],
+  "tags": [
+    "arcane_helmet",
+    "skin"
+  ],
+  "game_ref": "/Lotus/Upgrades/Skins/Excalibur/ExcaliburHelmetAlt",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/arcane_avalon_excalibur_helmet.6402c0034a70874b863f42099eb9b3a1.png",
+  "thumb": "items/images/en/thumbs/arcane_avalon_excalibur_helmet.6402c0034a70874b863f42099eb9b3a1.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

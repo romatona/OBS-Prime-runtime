@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5c1bda0c14a8e4006b1dad6a",
+  "slug": "mad_stack",
+  "market_slug": "mad_stack",
+  "name_en": "Mad Stack",
+  "name_en_slug": "mad_stack",
+  "name_kr": "매드 스택",
+  "aliases": [
+    "Mad Stack",
+    "mad stack",
+    "mad_stack",
+    "매드 스택"
+  ],
+  "tags": [
+    "k_drive",
+    "mod",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Hoverboard/HBFallVelocityMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/mad_stack.b5f5eda7bc2ea84c6ac061e8e75a9d33.png",
+  "thumb": "items/images/en/thumbs/mad_stack.b5f5eda7bc2ea84c6ac061e8e75a9d33.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

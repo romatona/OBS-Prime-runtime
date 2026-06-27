@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "67db60849cec3e52e62523f0",
+  "slug": "cataclysmic_gate",
+  "market_slug": "cataclysmic_gate",
+  "name_en": "Cataclysmic Gate",
+  "name_en_slug": "cataclysmic_gate",
+  "name_kr": "카타클리즈믹 게이트",
+  "aliases": [
+    "Cataclysmic Gate",
+    "cataclysmic gate",
+    "cataclysmic_gate",
+    "카타클리즈믹 게이트"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "rare",
+    "warframe",
+    "wisp"
+  ],
+  "game_ref": "/Lotus/Powersuits/Wisp/WispSunAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/cataclysmic_gate.d10ed0788b9090b251aaf2578c221e74.webp",
+  "thumb": "items/images/en/thumbs/cataclysmic_gate.d10ed0788b9090b251aaf2578c221e74.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

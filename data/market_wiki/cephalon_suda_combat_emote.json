@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60e70f80479445008f2725a2",
+  "slug": "cephalon_suda_combat_emote",
+  "market_slug": "cephalon_suda_combat_emote",
+  "name_en": "Cephalon Suda Combat Emote",
+  "name_en_slug": "cephalon_suda_combat_emote",
+  "name_kr": "세팔론 수다 전투 감정 표현",
+  "aliases": [
+    "Cephalon Suda Combat Emote",
+    "cephalon suda combat emote",
+    "cephalon_suda_combat_emote",
+    "세팔론 수다 전투 감정 표현"
+  ],
+  "tags": [
+    "emote",
+    "syndicate"
+  ],
+  "game_ref": "/Lotus/Types/Items/Emotes/Syndicate/CSCombatEmote",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/cephalon_suda_combat_emote.4bed116939895f9f358ef31d5f45f646.png",
+  "thumb": "items/images/en/thumbs/cephalon_suda_combat_emote.4bed116939895f9f358ef31d5f45f646.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

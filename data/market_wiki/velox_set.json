@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5ee76f4b04d55c0a81972433",
+  "slug": "velox_set",
+  "market_slug": "velox_set",
+  "name_en": "Velox Set",
+  "name_en_slug": "velox_set",
+  "name_kr": "벨록스 세트",
+  "aliases": [
+    "Velox Set",
+    "velox set",
+    "velox_set",
+    "벨록스 세트"
+  ],
+  "tags": [
+    "secondary",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Pistols/TnOdaliskSmg/TnOdaliskSmgPistol",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/velox_set.8d807d2b4f5eddf0d1b17e52adc717ac.png",
+  "thumb": "items/images/en/thumbs/velox_set.8d807d2b4f5eddf0d1b17e52adc717ac.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

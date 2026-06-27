@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "576459bc3ae92d545fd1e7b9",
+  "slug": "creeping_terrify",
+  "market_slug": "creeping_terrify",
+  "name_en": "Creeping Terrify",
+  "name_en_slug": "creeping_terrify",
+  "name_kr": "크리핑 테리파이",
+  "aliases": [
+    "Creeping Terrify",
+    "creeping terrify",
+    "creeping_terrify",
+    "크리핑 테리파이"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "nekros",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Necro/TerrorTotemAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/creeping_terrify.1e5e17ddfeb4274998f69cc73a1b398d.png",
+  "thumb": "items/images/en/thumbs/creeping_terrify.1e5e17ddfeb4274998f69cc73a1b398d.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

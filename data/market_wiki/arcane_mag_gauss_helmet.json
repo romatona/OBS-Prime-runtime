@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54aaf2f8e779892b01b42391",
+  "slug": "arcane_mag_gauss_helmet",
+  "market_slug": "arcane_mag_gauss_helmet",
+  "name_en": "Arcane Mag Gauss Helmet",
+  "name_en_slug": "arcane_mag_gauss_helmet",
+  "name_kr": "아케인 매그 가우스 헬멧",
+  "aliases": [
+    "Arcane Mag Gauss Helmet",
+    "arcane mag gauss helmet",
+    "arcane_mag_gauss_helmet",
+    "아케인 매그 가우스 헬멧"
+  ],
+  "tags": [
+    "arcane_helmet",
+    "skin"
+  ],
+  "game_ref": "/Lotus/Upgrades/Skins/Mag/MagHelmetAltB",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/arcane_gauss_mag_helmet.d3fc3ff3ef176167b43cfd7c47a3b323.png",
+  "thumb": "items/images/en/thumbs/arcane_gauss_mag_helmet.d3fc3ff3ef176167b43cfd7c47a3b323.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

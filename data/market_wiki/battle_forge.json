@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5dff6e1014569703166749f9",
+  "slug": "battle_forge",
+  "market_slug": "battle_forge",
+  "name_en": "Battle Forge",
+  "name_en_slug": "battle_forge",
+  "name_kr": "배틀 포지",
+  "aliases": [
+    "Battle Forge",
+    "battle forge",
+    "battle_forge",
+    "배틀 포지"
+  ],
+  "tags": [
+    "mod",
+    "railjack",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Railjack/Tactical/CrewShipBattleCraftingAbilityCard",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/battle_forge.b67aa889d03e039f6aae03c2010726d6.png",
+  "thumb": "items/images/en/thumbs/battle_forge.b67aa889d03e039f6aae03c2010726d6.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

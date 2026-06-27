@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a4d5",
+  "slug": "explosive_demise",
+  "market_slug": "explosive_demise",
+  "name_en": "Explosive Demise",
+  "name_en_slug": "explosive_demise",
+  "name_kr": "익스플로시브 디마이즈",
+  "aliases": [
+    "Explosive Demise",
+    "explosive demise",
+    "explosive_demise",
+    "익스플로시브 디마이즈"
+  ],
+  "tags": [
+    "melee",
+    "mod",
+    "pvp",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Melee/ExplodeOnMeleeDeath",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/explosive_demise.b10b3c3c0c794946cc6c8078c220138c.png",
+  "thumb": "items/images/en/thumbs/explosive_demise.b10b3c3c0c794946cc6c8078c220138c.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

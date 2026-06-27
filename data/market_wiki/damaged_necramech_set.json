@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5f498a259426ed00443bd0c6",
+  "slug": "damaged_necramech_set",
+  "market_slug": "damaged_necramech_set",
+  "name_en": "Damaged Necramech Set",
+  "name_en_slug": "damaged_necramech_set",
+  "name_kr": "손상된 네크라메크 세트",
+  "aliases": [
+    "Damaged Necramech Set",
+    "damaged necramech set",
+    "damaged_necramech_set",
+    "손상된 네크라메크 세트"
+  ],
+  "tags": [
+    "mech",
+    "necramech",
+    "set"
+  ],
+  "game_ref": "",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/damaged_necramech_set.e17864dfe78acafe6bec06c085f80edf.webp",
+  "thumb": "items/images/en/thumbs/damaged_necramech_set.e17864dfe78acafe6bec06c085f80edf.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

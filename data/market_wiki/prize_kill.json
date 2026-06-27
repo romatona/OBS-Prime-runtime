@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a4e6",
+  "slug": "prize_kill",
+  "market_slug": "prize_kill",
+  "name_en": "Prize Kill",
+  "name_en_slug": "prize_kill",
+  "name_kr": "프라이즈 킬",
+  "aliases": [
+    "Prize Kill",
+    "prize kill",
+    "prize_kill",
+    "프라이즈 킬"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "pvp",
+    "rare",
+    "shotgun"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/RestoreShieldsOnKillMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/prize_kill.c5cb3aebb3242b81dcc1231bb461ec92.png",
+  "thumb": "items/images/en/thumbs/prize_kill.c5cb3aebb3242b81dcc1231bb461ec92.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

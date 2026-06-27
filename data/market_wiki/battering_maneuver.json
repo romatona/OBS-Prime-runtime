@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "55c153d3e779895d8cb3df5f",
+  "slug": "battering_maneuver",
+  "market_slug": "battering_maneuver",
+  "name_en": "Battering Maneuver",
+  "name_en_slug": "battering_maneuver",
+  "name_kr": "배터링 메뉴버",
+  "aliases": [
+    "Battering Maneuver",
+    "battering maneuver",
+    "battering_maneuver",
+    "배터링 메뉴버"
+  ],
+  "tags": [
+    "mod",
+    "uncommon",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Warframe/ImpactParkourTwoMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/battering_maneuver.d33bb84231ed2212119a5cef817ba5f7.png",
+  "thumb": "items/images/en/thumbs/battering_maneuver.d33bb84231ed2212119a5cef817ba5f7.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

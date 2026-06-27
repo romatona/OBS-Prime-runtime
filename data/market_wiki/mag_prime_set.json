@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56783f24cbfa8f0432dd89a4",
+  "slug": "mag_prime_set",
+  "market_slug": "mag_prime_set",
+  "name_en": "Mag Prime Set",
+  "name_en_slug": "mag_prime_set",
+  "name_kr": "매그 프라임 세트",
+  "aliases": [
+    "Mag Prime Set",
+    "mag prime set",
+    "mag_prime_set",
+    "매그 프라임 세트"
+  ],
+  "tags": [
+    "prime",
+    "set",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Mag/MagPrime",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/mag_prime_set.2afb45373319b966737bd91cf05a813c.png",
+  "thumb": "items/images/en/thumbs/mag_prime_set.2afb45373319b966737bd91cf05a813c.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

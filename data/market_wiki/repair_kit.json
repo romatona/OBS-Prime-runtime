@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5ce7fd84d23a3b00908c4203",
+  "slug": "repair_kit",
+  "market_slug": "repair_kit",
+  "name_en": "Repair Kit",
+  "name_en_slug": "repair_kit",
+  "name_kr": "리페어 키트",
+  "aliases": [
+    "Repair Kit",
+    "repair kit",
+    "repair_kit",
+    "리페어 키트"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "sentinel"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sentinel/SentinelRepairKitMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/repair_kit.fd671126fd4051e8e3addc13ae56d1f0.png",
+  "thumb": "items/images/en/thumbs/repair_kit.fd671126fd4051e8e3addc13ae56d1f0.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

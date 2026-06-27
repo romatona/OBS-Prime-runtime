@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "657f2efd8820fb8f3c5f4661",
+  "slug": "melee_animosity",
+  "market_slug": "melee_animosity",
+  "name_en": "Melee Animosity",
+  "name_en_slug": "melee_animosity",
+  "name_kr": "밀리 애니모시티",
+  "aliases": [
+    "Melee Animosity",
+    "melee animosity",
+    "melee_animosity",
+    "밀리 애니모시티"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/HeavyCritOnRegularMelee",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/melee_animosity.f6ee3ff6153769c4686cf53940546609.webp",
+  "thumb": "items/images/en/thumbs/melee_animosity.f6ee3ff6153769c4686cf53940546609.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "592dd262011e88f094afec85",
+  "slug": "sybaris_prime_barrel",
+  "market_slug": "sybaris_prime_barrel",
+  "name_en": "Sybaris Prime Barrel",
+  "name_en_slug": "sybaris_prime_barrel",
+  "name_kr": "시바리스 프라임 배럴",
+  "aliases": [
+    "Sybaris Prime Barrel",
+    "sybaris prime barrel",
+    "sybaris_prime_barrel",
+    "시바리스 프라임 배럴"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/SybarisPrimeBarrel",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/sybaris_prime_barrel.39d7dc4a904f7db7e7c78901976aa5fa.png",
+  "thumb": "items/images/en/thumbs/sybaris_prime_barrel.39d7dc4a904f7db7e7c78901976aa5fa.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

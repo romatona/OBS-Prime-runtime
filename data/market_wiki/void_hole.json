@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5dff6e111456970316674a0e",
+  "slug": "void_hole",
+  "market_slug": "void_hole",
+  "name_en": "Void Hole",
+  "name_en_slug": "void_hole",
+  "name_kr": "보이드 홀",
+  "aliases": [
+    "Void Hole",
+    "void hole",
+    "void_hole",
+    "보이드 홀"
+  ],
+  "tags": [
+    "mod",
+    "railjack",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Railjack/Abilities/CrewShipBlackHoleAbilityCard",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/void_hole.f531223015bcb3b579c2038deff8acec.png",
+  "thumb": "items/images/en/thumbs/void_hole.f531223015bcb3b579c2038deff8acec.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

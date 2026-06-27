@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6901487df88bae2d5b1f5395",
+  "slug": "deepmines_caves_scene",
+  "market_slug": "deepmines_caves_scene",
+  "name_en": "Deepmines Caves Scene",
+  "name_en_slug": "deepmines_caves_scene",
+  "name_kr": "지하 광산 동굴 배경",
+  "aliases": [
+    "Deepmines Caves Scene",
+    "deepmines caves scene",
+    "deepmines_caves_scene",
+    "지하 광산 동굴 배경"
+  ],
+  "tags": [
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/PhotoBooth/2025FallUpdate/PhotoboothNokkoColonyEntrance",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/deepmines_caves_scene.55e63bcdfebd1b5138b16cfbdf423d12.webp",
+  "thumb": "items/images/en/thumbs/deepmines_caves_scene.55e63bcdfebd1b5138b16cfbdf423d12.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

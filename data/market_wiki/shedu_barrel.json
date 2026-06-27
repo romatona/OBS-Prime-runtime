@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5dfea13d1456970294aff363",
+  "slug": "shedu_barrel",
+  "market_slug": "shedu_barrel",
+  "name_en": "Shedu Barrel",
+  "name_en_slug": "shedu_barrel",
+  "name_kr": "세두 배럴",
+  "aliases": [
+    "Shedu Barrel",
+    "shedu barrel",
+    "shedu_barrel",
+    "세두 배럴"
+  ],
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/SheduHeavyWeaponBarrel",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/shedu_barrel.765c016812e915e1e06ceb5e3820ae48.png",
+  "thumb": "items/images/en/thumbs/shedu_barrel.765c016812e915e1e06ceb5e3820ae48.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

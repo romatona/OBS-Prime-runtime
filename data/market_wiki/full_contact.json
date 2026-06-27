@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "554d3f0ce779894445a848f0",
+  "slug": "full_contact",
+  "market_slug": "full_contact",
+  "name_en": "Full Contact",
+  "name_en_slug": "full_contact",
+  "name_kr": "풀 컨택트",
+  "aliases": [
+    "Full Contact",
+    "full contact",
+    "full_contact",
+    "풀 컨택트"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "shotgun"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Shotgun/WeaponEventShotgunImpactDamageMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/full_contact.1cead3f23fdf3edb28589758f25d73d6.png",
+  "thumb": "items/images/en/thumbs/full_contact.1cead3f23fdf3edb28589758f25d73d6.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

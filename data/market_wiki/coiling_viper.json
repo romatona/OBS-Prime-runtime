@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515643",
+  "slug": "coiling_viper",
+  "market_slug": "coiling_viper",
+  "name_en": "Coiling Viper",
+  "name_en_slug": "coiling_viper",
+  "name_kr": "코일링 바이퍼",
+  "aliases": [
+    "Coiling Viper",
+    "coiling viper",
+    "coiling_viper",
+    "코일링 바이퍼"
+  ],
+  "tags": [
+    "mod",
+    "rare",
+    "stance",
+    "whips"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/WhipCmbTwoMeleeTree",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/coiling_viper.aa153941b8afd949e633825037789622.png",
+  "thumb": "items/images/en/thumbs/coiling_viper.aa153941b8afd949e633825037789622.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

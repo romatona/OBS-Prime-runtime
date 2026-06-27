@@ -1,0 +1,27 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6054de675221e30057501072",
+  "slug": "barbisteo",
+  "market_slug": "barbisteo",
+  "name_en": "Barbisteo",
+  "name_en_slug": "barbisteo",
+  "name_kr": "바르비스테오",
+  "aliases": [
+    "Barbisteo",
+    "barbisteo",
+    "바르비스테오"
+  ],
+  "tags": [
+    "fish"
+  ],
+  "game_ref": "/Lotus/Types/Items/Fish/Deimos/InfestedCommonBFishItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/barbisteo.84f1b278faa86c27bee4bbf1c66b8299.png",
+  "thumb": "items/images/en/thumbs/barbisteo.84f1b278faa86c27bee4bbf1c66b8299.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

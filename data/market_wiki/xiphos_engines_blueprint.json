@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5719557e4445c3e28b80fc7a",
+  "slug": "xiphos_engines_blueprint",
+  "market_slug": "xiphos_engines_blueprint",
+  "name_en": "Xiphos Engines Blueprint",
+  "name_en_slug": "xiphos_engines_blueprint",
+  "name_kr": "자이포스 엔진 설계도",
+  "aliases": [
+    "Xiphos Engines",
+    "Xiphos Engines Blueprint",
+    "xiphos engines blueprint",
+    "xiphos_engines_blueprint",
+    "자이포스 엔진",
+    "자이포스 엔진 설계도"
+  ],
+  "tags": [
+    "blueprint"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/LandingCraftRecipes/Gyroscope/GyroscopeEnginesBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/xiphos_engines.452dba7ad34799a24d7d72d8f5e206eb.png",
+  "thumb": "items/images/en/thumbs/xiphos_engines.452dba7ad34799a24d7d72d8f5e206eb.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

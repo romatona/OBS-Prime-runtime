@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e5155f6",
+  "slug": "vile_precision",
+  "market_slug": "vile_precision",
+  "name_en": "Vile Precision",
+  "name_en_slug": "vile_precision",
+  "name_kr": "바일 프리시젼",
+  "aliases": [
+    "Vile Precision",
+    "vile precision",
+    "vile_precision",
+    "바일 프리시젼"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "rifle"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/DualStat/CorruptedRecoilFireRateRifle",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/vile_precision.8b4bb8b7e4906de9e2c199af1a4407d5.png",
+  "thumb": "items/images/en/thumbs/vile_precision.8b4bb8b7e4906de9e2c199af1a4407d5.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

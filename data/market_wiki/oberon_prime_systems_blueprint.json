@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "592dd262011e88f094afec80",
+  "slug": "oberon_prime_systems_blueprint",
+  "market_slug": "oberon_prime_systems_blueprint",
+  "name_en": "Oberon Prime Systems Blueprint",
+  "name_en_slug": "oberon_prime_systems_blueprint",
+  "name_kr": "오베론 프라임 시스템 설계도",
+  "aliases": [
+    "Oberon Prime Systems",
+    "Oberon Prime Systems Blueprint",
+    "oberon prime systems blueprint",
+    "oberon_prime_systems_blueprint",
+    "오베론 프라임 시스템",
+    "오베론 프라임 시스템 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/OberonPrimeSystemsBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/oberon_prime_systems.d7f1623552bce11f166b715679e27022.png",
+  "thumb": "items/images/en/thumbs/oberon_prime_systems.d7f1623552bce11f166b715679e27022.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

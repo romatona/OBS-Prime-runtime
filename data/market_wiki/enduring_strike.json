@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "554d3f0ce779894445a848f1",
+  "slug": "enduring_strike",
+  "market_slug": "enduring_strike",
+  "name_en": "Enduring Strike",
+  "name_en_slug": "enduring_strike",
+  "name_kr": "엔듀어링 스트라이크",
+  "aliases": [
+    "Enduring Strike",
+    "enduring strike",
+    "enduring_strike",
+    "엔듀어링 스트라이크"
+  ],
+  "tags": [
+    "common",
+    "melee",
+    "mod"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Melee/Channel/ChannelStatusMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/enduring_strike.93c48a0ddaea440dc1801facbec301a5.png",
+  "thumb": "items/images/en/thumbs/enduring_strike.93c48a0ddaea440dc1801facbec301a5.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

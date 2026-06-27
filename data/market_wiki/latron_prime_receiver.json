@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a73e65e779893a797fff4b",
+  "slug": "latron_prime_receiver",
+  "market_slug": "latron_prime_receiver",
+  "name_en": "Latron Prime Receiver",
+  "name_en_slug": "latron_prime_receiver",
+  "name_kr": "래트론 프라임 리시버",
+  "aliases": [
+    "Latron Prime Receiver",
+    "latron prime receiver",
+    "latron_prime_receiver",
+    "래트론 프라임 리시버"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/LatronPrimeReceiver",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/latron_prime_receiver.5c8b8009acbdb97fd49177ba155ecfbe.png",
+  "thumb": "items/images/en/thumbs/latron_prime_receiver.5c8b8009acbdb97fd49177ba155ecfbe.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

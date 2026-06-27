@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515642",
+  "slug": "continuity",
+  "market_slug": "continuity",
+  "name_en": "Continuity",
+  "name_en_slug": "continuity",
+  "name_kr": "컨티뉴어티",
+  "aliases": [
+    "Continuity",
+    "continuity",
+    "컨티뉴어티"
+  ],
+  "tags": [
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Warframe/AvatarAbilityDurationMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/continuity.c8f4628b5ad77db5bee66f587e6a1b96.png",
+  "thumb": "items/images/en/thumbs/continuity.c8f4628b5ad77db5bee66f587e6a1b96.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

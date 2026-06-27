@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a51f",
+  "slug": "plan_b",
+  "market_slug": "plan_b",
+  "name_en": "Plan B",
+  "name_en_slug": "plan_b",
+  "name_kr": "플랜 B",
+  "aliases": [
+    "Plan B",
+    "plan b",
+    "plan_b",
+    "플랜 B"
+  ],
+  "tags": [
+    "bow",
+    "mod",
+    "primary",
+    "pvp",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Rifle/FasterPistolRoFOnHitBowMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/plan_b.987847916d518013b6d23ea79367e65c.png",
+  "thumb": "items/images/en/thumbs/plan_b.987847916d518013b6d23ea79367e65c.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

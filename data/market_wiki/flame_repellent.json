@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515591",
+  "slug": "flame_repellent",
+  "market_slug": "flame_repellent",
+  "name_en": "Flame Repellent",
+  "name_en_slug": "flame_repellent",
+  "name_kr": "플레임 리펠런트",
+  "aliases": [
+    "Flame Repellent",
+    "flame repellent",
+    "flame_repellent",
+    "플레임 리펠런트"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Warframe/AvatarDamageResistanceFire",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/flame_repellent.ea1ecc4cf2065e160fa39486a43e1d7e.png",
+  "thumb": "items/images/en/thumbs/flame_repellent.ea1ecc4cf2065e160fa39486a43e1d7e.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

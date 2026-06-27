@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a514",
+  "slug": "hydraulic_chamber",
+  "market_slug": "hydraulic_chamber",
+  "name_en": "Hydraulic Chamber",
+  "name_en_slug": "hydraulic_chamber",
+  "name_kr": "하이드롤릭 체임버",
+  "aliases": [
+    "Hydraulic Chamber",
+    "hydraulic chamber",
+    "hydraulic_chamber",
+    "하이드롤릭 체임버"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "pvp",
+    "rare",
+    "shotgun"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/LessRecoilSmallerMagShotgunMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/hydraulic_chamber.7da4fc38106cfacf117579b3605e02a6.png",
+  "thumb": "items/images/en/thumbs/hydraulic_chamber.7da4fc38106cfacf117579b3605e02a6.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "58358e1b2c2ada00655a4ef5",
+  "slug": "venka_prime_gauntlet",
+  "market_slug": "venka_prime_gauntlet",
+  "name_en": "Venka Prime Gauntlet",
+  "name_en_slug": "venka_prime_gauntlet",
+  "name_kr": "벤카 프라임 건틀렛",
+  "aliases": [
+    "Venka Prime Gauntlet",
+    "venka prime gauntlet",
+    "venka_prime_gauntlet",
+    "벤카 프라임 건틀렛"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeVenkaClawsGauntlet",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/venka_prime_gauntlet.123cb62ab1e8a4edd78997a256cf1e7f.png",
+  "thumb": "items/images/en/thumbs/venka_prime_gauntlet.123cb62ab1e8a4edd78997a256cf1e7f.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "667238a28ba7c81b70d02cba",
+  "slug": "dark_propagation",
+  "market_slug": "dark_propagation",
+  "name_en": "Dark Propagation",
+  "name_en_slug": "dark_propagation",
+  "name_kr": "다크 프로파게이션",
+  "aliases": [
+    "Dark Propagation",
+    "dark propagation",
+    "dark_propagation",
+    "다크 프로파게이션"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "rare",
+    "sevagoth",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Wraith/WraithSowAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/dark_propagation.481e35a50554c8c5e7366c8bdaf576e3.webp",
+  "thumb": "items/images/en/thumbs/dark_propagation.481e35a50554c8c5e7366c8bdaf576e3.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

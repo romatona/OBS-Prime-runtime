@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "693e639803903ae8993ffade",
+  "slug": "la_cathédrale_scene",
+  "market_slug": "la_cathédrale_scene",
+  "name_en": "La Cathédrale Scene",
+  "name_en_slug": "la_cathédrale_scene",
+  "name_kr": "La Cathédrale 배경",
+  "aliases": [
+    "La Cathédrale Scene",
+    "La Cathédrale 배경",
+    "la cathédrale scene",
+    "la_cathédrale_scene"
+  ],
+  "tags": [
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/PhotoBooth/TauOldPeace/PhotoboothTileTauOldPeaceCathedral1799ProtoframeRoom",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/la_cathédrale_scene.bbbae686c3cf0214278a845af1636ceb.webp",
+  "thumb": "items/images/en/thumbs/la_cathédrale_scene.bbbae686c3cf0214278a845af1636ceb.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5ada1ab4b2b6a80bb33793f5",
+  "slug": "concentrated_arrow",
+  "market_slug": "concentrated_arrow",
+  "name_en": "Concentrated Arrow",
+  "name_en_slug": "concentrated_arrow",
+  "name_kr": "컨센트레이티드 애로우",
+  "aliases": [
+    "Concentrated Arrow",
+    "concentrated arrow",
+    "concentrated_arrow",
+    "컨센트레이티드 애로우"
+  ],
+  "tags": [
+    "augment",
+    "ivara",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Ranger/RangerBowAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/concentrated_arrow.85c0266f9521db62d11d6f5c95aeebc2.png",
+  "thumb": "items/images/en/thumbs/concentrated_arrow.85c0266f9521db62d11d6f5c95aeebc2.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

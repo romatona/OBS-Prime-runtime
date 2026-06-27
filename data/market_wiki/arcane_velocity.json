@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "566751d35dcbc186f0536bd6",
+  "slug": "arcane_velocity",
+  "market_slug": "arcane_velocity",
+  "name_en": "Arcane Velocity",
+  "name_en_slug": "arcane_velocity",
+  "name_kr": "아케인 벨로시티",
+  "aliases": [
+    "Arcane Velocity",
+    "arcane velocity",
+    "arcane_velocity",
+    "아케인 벨로시티"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcanePistolSpeedOnCrit",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/arcane_velocity.ea37edd24f8212ce4bb283205658829b.png",
+  "thumb": "items/images/en/thumbs/arcane_velocity.ea37edd24f8212ce4bb283205658829b.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e51560e",
+  "slug": "barrel_diffusion",
+  "market_slug": "barrel_diffusion",
+  "name_en": "Barrel Diffusion",
+  "name_en_slug": "barrel_diffusion",
+  "name_kr": "배럴 디퓨젼",
+  "aliases": [
+    "Barrel Diffusion",
+    "barrel diffusion",
+    "barrel_diffusion",
+    "배럴 디퓨젼"
+  ],
+  "tags": [
+    "mod",
+    "pistol",
+    "rare",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Pistol/WeaponFireIterationsMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/barrel_diffusion.3c2fbabc91cc911e56dc43b046b9ecdb.png",
+  "thumb": "items/images/en/thumbs/barrel_diffusion.3c2fbabc91cc911e56dc43b046b9ecdb.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

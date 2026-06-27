@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60e70f7a479445008f272578",
+  "slug": "solaris_leg_spurs",
+  "market_slug": "solaris_leg_spurs",
+  "name_en": "Solaris Leg Spurs",
+  "name_en_slug": "solaris_leg_spurs",
+  "name_kr": "솔라리스 레그 스퍼",
+  "aliases": [
+    "Solaris Leg Spurs",
+    "solaris leg spurs",
+    "solaris_leg_spurs",
+    "솔라리스 레그 스퍼"
+  ],
+  "tags": [
+    "skin"
+  ],
+  "game_ref": "/Lotus/Upgrades/Skins/Armor/SolarisUnitedArmor/SolarisUnitedLArmor",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/solaris_leg_spurs.c966ea8e3ab6554916129ac0cb540964.png",
+  "thumb": "items/images/en/thumbs/solaris_leg_spurs.c966ea8e3ab6554916129ac0cb540964.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5bebf1713ffcc704caf38cf8",
+  "slug": "onkkos_command_post_scene",
+  "market_slug": "onkkos_command_post_scene",
+  "name_en": "Onkko's Command Post Scene",
+  "name_en_slug": "onkkos_command_post_scene",
+  "name_kr": "온코의 전투 사령부 배경",
+  "aliases": [
+    "Onkko's Command Post Scene",
+    "onkkos command post scene",
+    "onkkos_command_post_scene",
+    "온코의 전투 사령부 배경"
+  ],
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/MiscItems/PhotoboothTileOnkosCave",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/onkkos_command_post_scene.f3696ad7d670f8228acf03032758f902.png",
+  "thumb": "items/images/en/thumbs/onkkos_command_post_scene.f3696ad7d670f8228acf03032758f902.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

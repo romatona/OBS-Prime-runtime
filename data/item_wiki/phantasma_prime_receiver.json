@@ -1,0 +1,30 @@
+﻿{
+    "schema":  "obs_prime.item_wiki_entry.v1",
+    "slug":  "phantasma_prime_receiver",
+    "market_slug":  "phantasma_prime_receiver",
+    "name_en":  "Phantasma Prime Receiver",
+    "name_en_slug":  "phantasma_prime_receiver",
+    "name_kr":  "판타즈마 프라임 리시버",
+    "aliases":  [
+                    "Phantasma Prime Receiver",
+                    "phantasma_prime_receiver",
+                    "판타즈마 프라임 리시버"
+                ],
+    "ducats":  15,
+    "ducats_display":  "15 d",
+    "ducats_source":  "warframe_market_v2_items",
+    "rarities":  [
+                     "Uncommon"
+                 ],
+    "plat":  null,
+    "plat_display":  "-",
+    "plat_date":  "",
+    "source":  {
+                   "wfcd_relics":  "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Relics.json",
+                   "warframe_market_items":  "https://api.warframe.market/v2/items",
+                   "price_cache":  "data/market_cache/warframe_market_prices.json"
+               },
+    "updated_at":  "2026-06-26T02:05:14Z",
+    "version":  "26-06-26",
+    "relic_reward_count":  36
+}

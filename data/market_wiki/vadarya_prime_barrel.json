@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "68add07d731e63abe79a5d17",
+  "slug": "vadarya_prime_barrel",
+  "market_slug": "vadarya_prime_barrel",
+  "name_en": "Vadarya Prime Barrel",
+  "name_en_slug": "vadarya_prime_barrel",
+  "name_kr": "바다르야 프라임 배럴",
+  "aliases": [
+    "Vadarya Prime Barrel",
+    "vadarya prime barrel",
+    "vadarya_prime_barrel",
+    "바다르야 프라임 배럴"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeLightningGunBarrel",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/unknown.png",
+  "thumb": "",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

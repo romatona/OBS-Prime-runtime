@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5ab167b8b2b6a80475780fc0",
+  "slug": "tiberon_prime_set",
+  "market_slug": "tiberon_prime_set",
+  "name_en": "Tiberon Prime Set",
+  "name_en_slug": "tiberon_prime_set",
+  "name_kr": "티버론 프라임 세트",
+  "aliases": [
+    "Tiberon Prime Set",
+    "tiberon prime set",
+    "tiberon_prime_set",
+    "티버론 프라임 세트"
+  ],
+  "tags": [
+    "primary",
+    "prime",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/LongGuns/PrimeTiberon/PrimeTiberonRifle",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/tiberon_prime_set.53f3cf1c68314c0555fbb7020d01f001.png",
+  "thumb": "items/images/en/thumbs/tiberon_prime_set.53f3cf1c68314c0555fbb7020d01f001.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

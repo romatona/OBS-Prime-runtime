@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "61460dcde330e600455dcea3",
+  "slug": "ghoulsaw_set",
+  "market_slug": "ghoulsaw_set",
+  "name_en": "Ghoulsaw Set",
+  "name_en_slug": "ghoulsaw_set",
+  "name_kr": "구울소우 세트",
+  "aliases": [
+    "Ghoulsaw Set",
+    "ghoulsaw set",
+    "ghoulsaw_set",
+    "구울소우 세트"
+  ],
+  "tags": [
+    "melee",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Grineer/Melee/GrnGhoulSaw/GrnGhoulSawPlayer",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/ghoulsaw_set.f9a355d3f35098841d346d536abd801c.png",
+  "thumb": "items/images/en/thumbs/ghoulsaw_set.f9a355d3f35098841d346d536abd801c.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

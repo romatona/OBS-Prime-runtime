@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6139101a30dd5b004b7f90a1",
+  "slug": "butchers_revelry",
+  "market_slug": "butchers_revelry",
+  "name_en": "Butcher's Revelry",
+  "name_en_slug": "butchers_revelry",
+  "name_kr": "부쳐즈 레벌리",
+  "aliases": [
+    "Butcher's Revelry",
+    "butchers revelry",
+    "butchers_revelry",
+    "부쳐즈 레벌리"
+  ],
+  "tags": [
+    "assault_saw",
+    "mod",
+    "rare",
+    "stance"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/SawBladeCmbOneMeleeTree",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/butchers_revelry.24aab9b17deb8cbf91c5918edeb2345c.png",
+  "thumb": "items/images/en/thumbs/butchers_revelry.24aab9b17deb8cbf91c5918edeb2345c.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

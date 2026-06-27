@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "59e203ce115f1d887cfd7ac5",
+  "slug": "molecular_conversion",
+  "market_slug": "molecular_conversion",
+  "name_en": "Molecular Conversion",
+  "name_en_slug": "molecular_conversion",
+  "name_kr": "몰레큘러 컨버전",
+  "aliases": [
+    "Molecular Conversion",
+    "molecular conversion",
+    "molecular_conversion",
+    "몰레큘러 컨버전"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "sentinel",
+    "taxon"
+  ],
+  "game_ref": "/Lotus/Types/Sentinels/SentinelPrecepts/ShieldVampire",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/molecular_conversion.9ba5d2c2358be8dcca85241556980eff.png",
+  "thumb": "items/images/en/thumbs/molecular_conversion.9ba5d2c2358be8dcca85241556980eff.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

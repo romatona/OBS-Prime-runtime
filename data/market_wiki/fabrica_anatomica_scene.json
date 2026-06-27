@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "657af5aa21646e595134f5b5",
+  "slug": "fabrica_anatomica_scene",
+  "market_slug": "fabrica_anatomica_scene",
+  "name_en": "Fabrica Anatomica Scene",
+  "name_en_slug": "fabrica_anatomica_scene",
+  "name_kr": "장치의 성역 배경",
+  "aliases": [
+    "Fabrica Anatomica Scene",
+    "fabrica anatomica scene",
+    "fabrica_anatomica_scene",
+    "장치의 성역 배경"
+  ],
+  "tags": [
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/PhotoBooth/Entrati/PhotoboothTileTriExperiment",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/fabrica_anatomica_scene.4d3dead09b81e08cc67cd839331be8bd.png",
+  "thumb": "items/images/en/thumbs/fabrica_anatomica_scene.4d3dead09b81e08cc67cd839331be8bd.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

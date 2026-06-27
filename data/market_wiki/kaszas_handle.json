@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5783bea1d9b6753790c89e86",
+  "slug": "kaszas_handle",
+  "market_slug": "kaszas_handle",
+  "name_en": "Kaszas Handle",
+  "name_en_slug": "kaszas_handle",
+  "name_kr": "카스자스 핸들",
+  "aliases": [
+    "Kaszas Handle",
+    "kaszas handle",
+    "kaszas_handle",
+    "카스자스 핸들"
+  ],
+  "tags": [
+    "archwing",
+    "component",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchScytheHandle",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/kaszas_handle.11baea8229af2d3500c79b829f9dfcee.png",
+  "thumb": "items/images/en/thumbs/kaszas_handle.11baea8229af2d3500c79b829f9dfcee.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

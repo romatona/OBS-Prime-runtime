@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a50c",
+  "slug": "focused_acceleration",
+  "market_slug": "focused_acceleration",
+  "name_en": "Focused Acceleration",
+  "name_en_slug": "focused_acceleration",
+  "name_kr": "포커스드 액셀러레이션",
+  "aliases": [
+    "Focused Acceleration",
+    "focused acceleration",
+    "focused_acceleration",
+    "포커스드 액셀러레이션"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "pvp",
+    "rare",
+    "tetra"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Rifle/TetraFasterProjAiming",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/focused_acceleration.57d5093216cb556eaa9275e6f8b69eb7.png",
+  "thumb": "items/images/en/thumbs/focused_acceleration.57d5093216cb556eaa9275e6f8b69eb7.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

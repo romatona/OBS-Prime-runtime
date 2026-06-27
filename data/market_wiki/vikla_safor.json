@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "693e6a9603903ae8993ffb02",
+  "slug": "vikla_safor",
+  "market_slug": "vikla_safor",
+  "name_en": "Vikla-Safor",
+  "name_en_slug": "vikla_safor",
+  "name_kr": "비클라-사포르",
+  "aliases": [
+    "Vikla-Safor",
+    "vikla safor",
+    "vikla_safor",
+    "비클라-사포르"
+  ],
+  "tags": [
+    "any",
+    "common",
+    "mod"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Antiques/FireRateAndEfficiency",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/ko/vikla_safor.a131b9480ee05baaf7fbe413ff9063cb.webp",
+  "thumb": "items/images/ko/thumbs/vikla_safor.a131b9480ee05baaf7fbe413ff9063cb.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

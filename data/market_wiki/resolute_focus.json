@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5c1bd9f914a8e4006b1dad49",
+  "slug": "resolute_focus",
+  "market_slug": "resolute_focus",
+  "name_en": "Resolute Focus",
+  "name_en_slug": "resolute_focus",
+  "name_kr": "레졸루트 포커스",
+  "aliases": [
+    "Resolute Focus",
+    "resolute focus",
+    "resolute_focus",
+    "레졸루트 포커스"
+  ],
+  "tags": [
+    "archgun",
+    "archwing",
+    "mod",
+    "primary",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingCCImmunityIfAimingMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/resolute_focus.a25bb4ed2565504baa073dd60019ecec.png",
+  "thumb": "items/images/en/thumbs/resolute_focus.a25bb4ed2565504baa073dd60019ecec.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

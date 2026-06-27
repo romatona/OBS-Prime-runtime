@@ -1,0 +1,13 @@
+{
+  "preset_id": "default-virtual-1080p",
+  "display_name": "Default virtual 1080p reward panel",
+  "supported_resolution": "1920x1080",
+  "ui_scale_hint": 1.0,
+  "template_paths": [],
+  "thresholds": {
+    "confidence": 0.86
+  },
+  "anchor_rules": ["virtual_sample_geometry"],
+  "expected_reward_panel_rect": {"x": 211, "y": 367, "w": 1497, "h": 367},
+  "expected_slot_rects": []
+}

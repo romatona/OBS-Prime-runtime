@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60e70f7e479445008f272597",
+  "slug": "hexis_spurs",
+  "market_slug": "hexis_spurs",
+  "name_en": "Hexis Spurs",
+  "name_en_slug": "hexis_spurs",
+  "name_kr": "헥시스 스퍼",
+  "aliases": [
+    "Hexis Spurs",
+    "hexis spurs",
+    "hexis_spurs",
+    "헥시스 스퍼"
+  ],
+  "tags": [
+    "skin"
+  ],
+  "game_ref": "/Lotus/Upgrades/Skins/Armor/ArbiterOfHexisArmor/ArbiterOfHexisArmorL",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/hexis_spurs.052d37e05fd10c42e1f684aa4a082c42.png",
+  "thumb": "items/images/en/thumbs/hexis_spurs.052d37e05fd10c42e1f684aa4a082c42.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

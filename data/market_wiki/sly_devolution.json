@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5f498a279426ed00443bd0dd",
+  "slug": "sly_devolution",
+  "market_slug": "sly_devolution",
+  "name_en": "Sly Devolution",
+  "name_en_slug": "sly_devolution",
+  "name_kr": "슬라이 디볼루션",
+  "aliases": [
+    "Sly Devolution",
+    "sly devolution",
+    "sly_devolution",
+    "슬라이 디볼루션"
+  ],
+  "tags": [
+    "kavat",
+    "mod",
+    "rare",
+    "sly_vulpaphyla"
+  ],
+  "game_ref": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/VulpineInfestedCatbrowRespawn",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/sly_devolution.3a840211142eef77bb06189bf5415f17.png",
+  "thumb": "items/images/en/thumbs/sly_devolution.3a840211142eef77bb06189bf5415f17.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5f498a219426ed00443bd0aa",
+  "slug": "infectious_bite",
+  "market_slug": "infectious_bite",
+  "name_en": "Infectious Bite",
+  "name_en_slug": "infectious_bite",
+  "name_kr": "인펙셔스 바이트",
+  "aliases": [
+    "Infectious Bite",
+    "infectious bite",
+    "infectious_bite",
+    "인펙셔스 바이트"
+  ],
+  "tags": [
+    "kubrow",
+    "medjay_predasite",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/InfestedPredatorInfectiousBitePrecept",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/infectious_bite.ac34b12fe1e906cab5394254ddb5ee46.png",
+  "thumb": "items/images/en/thumbs/infectious_bite.ac34b12fe1e906cab5394254ddb5ee46.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

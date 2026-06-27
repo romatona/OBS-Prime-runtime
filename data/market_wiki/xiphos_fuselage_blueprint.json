@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "571955784445c3e28b80fc79",
+  "slug": "xiphos_fuselage_blueprint",
+  "market_slug": "xiphos_fuselage_blueprint",
+  "name_en": "Xiphos Fuselage Blueprint",
+  "name_en_slug": "xiphos_fuselage_blueprint",
+  "name_kr": "자이포스 동체 설계도",
+  "aliases": [
+    "Xiphos Fuselage",
+    "Xiphos Fuselage Blueprint",
+    "xiphos fuselage blueprint",
+    "xiphos_fuselage_blueprint",
+    "자이포스 동체",
+    "자이포스 동체 설계도"
+  ],
+  "tags": [
+    "blueprint"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/LandingCraftRecipes/Gyroscope/GyroscopeFuselageBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/xiphos_fuselage.452dba7ad34799a24d7d72d8f5e206eb.png",
+  "thumb": "items/images/en/thumbs/xiphos_fuselage.452dba7ad34799a24d7d72d8f5e206eb.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

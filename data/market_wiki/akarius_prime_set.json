@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "65a7fca4ed5b0d2e3eb462c9",
+  "slug": "akarius_prime_set",
+  "market_slug": "akarius_prime_set",
+  "name_en": "Akarius Prime Set",
+  "name_en_slug": "akarius_prime_set",
+  "name_kr": "아카리우스 프라임 세트",
+  "aliases": [
+    "Akarius Prime Set",
+    "akarius prime set",
+    "akarius_prime_set",
+    "아카리우스 프라임 세트"
+  ],
+  "tags": [
+    "prime",
+    "secondary",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Pistols/PrimeAkarius/PrimeAkariusWeapon",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/akarius_prime_set.9e88bceafe14482e1a01672c1c292fe1.png",
+  "thumb": "items/images/en/thumbs/akarius_prime_set.9e88bceafe14482e1a01672c1c292fe1.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5a0ef3fc10bc40007cce1c8e",
+  "slug": "hunter_munitions",
+  "market_slug": "hunter_munitions",
+  "name_en": "Hunter Munitions",
+  "name_en_slug": "hunter_munitions",
+  "name_kr": "헌터 뮤니션즈",
+  "aliases": [
+    "Hunter Munitions",
+    "hunter munitions",
+    "hunter_munitions",
+    "헌터 뮤니션즈"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sets/Hunter/PrimaryHunterMunitionsMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/hunter_munitions.1c7942f9b55cb2f49605aa4037d98dfd.png",
+  "thumb": "items/images/en/thumbs/hunter_munitions.1c7942f9b55cb2f49605aa4037d98dfd.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

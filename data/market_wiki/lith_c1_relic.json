@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6054de455221e3005750104d",
+  "slug": "lith_c1_relic",
+  "market_slug": "lith_c1_relic",
+  "name_en": "Lith C1 Relic",
+  "name_en_slug": "lith_c1_relic",
+  "name_kr": "리스 C1 성유물",
+  "aliases": [
+    "Lith C1 Relic",
+    "lith c1 relic",
+    "lith_c1_relic",
+    "리스 C1 성유물"
+  ],
+  "tags": [
+    "lith",
+    "relic"
+  ],
+  "game_ref": "/Lotus/Types/Game/Projections/T1VoidProjectionJ",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/lith_c1_relic.4c2cd55afd4007566866d226c86e0fdd.png",
+  "thumb": "items/images/en/thumbs/lith_c1_relic.4c2cd55afd4007566866d226c86e0fdd.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

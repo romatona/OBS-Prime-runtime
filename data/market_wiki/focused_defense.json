@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56a7b2b21133f656cb085d96",
+  "slug": "focused_defense",
+  "market_slug": "focused_defense",
+  "name_en": "Focused Defense",
+  "name_en_slug": "focused_defense",
+  "name_kr": "포커스드 디펜스",
+  "aliases": [
+    "Focused Defense",
+    "focused defense",
+    "focused_defense",
+    "포커스드 디펜스"
+  ],
+  "tags": [
+    "common",
+    "melee",
+    "mod"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Melee/Channel/ChannelArmourMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/focused_defense.1afc7dee960645e6988770142ddf3cdd.png",
+  "thumb": "items/images/en/thumbs/focused_defense.1afc7dee960645e6988770142ddf3cdd.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

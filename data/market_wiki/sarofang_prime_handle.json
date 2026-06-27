@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "69d67752b3984cc97e24175b",
+  "slug": "sarofang_prime_handle",
+  "market_slug": "sarofang_prime_handle",
+  "name_en": "Sarofang Prime Handle",
+  "name_en_slug": "sarofang_prime_handle",
+  "name_kr": "사로팡 프라임 핸들",
+  "aliases": [
+    "Sarofang Prime Handle",
+    "sarofang prime handle",
+    "sarofang_prime_handle",
+    "사로팡 프라임 핸들"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/SarofangPrimeHandle",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/sarofang_prime_handle.fbbab9117b49d01d099fd937219c9749.webp",
+  "thumb": "items/images/en/thumbs/sarofang_prime_handle.fbbab9117b49d01d099fd937219c9749.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

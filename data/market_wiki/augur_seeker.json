@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "59dfeb6c115f1d887cfd7ac4",
+  "slug": "augur_seeker",
+  "market_slug": "augur_seeker",
+  "name_en": "Augur Seeker",
+  "name_en_slug": "augur_seeker",
+  "name_kr": "어거 시커",
+  "aliases": [
+    "Augur Seeker",
+    "augur seeker",
+    "augur_seeker",
+    "어거 시커"
+  ],
+  "tags": [
+    "mod",
+    "pistol",
+    "rare",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sets/Augur/SecondaryAugurSeekerMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/augur_seeker.9cc7cb7ec4aed2ca892a94166260f6da.png",
+  "thumb": "items/images/en/thumbs/augur_seeker.9cc7cb7ec4aed2ca892a94166260f6da.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

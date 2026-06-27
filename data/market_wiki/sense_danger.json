@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "57b4e5486f6b2fda8ea6caa4",
+  "slug": "sense_danger",
+  "market_slug": "sense_danger",
+  "name_en": "Fear Sense",
+  "name_en_slug": "sense_danger",
+  "name_kr": "피어 센스",
+  "aliases": [
+    "Fear Sense",
+    "sense danger",
+    "sense_danger",
+    "피어 센스"
+  ],
+  "tags": [
+    "kavat",
+    "mod",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Types/Friendly/Pets/CatbrowPetPrecepts/CatbrowTremorSensePrecept",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/sense_danger.03bc6b34f166a4aa51c6e69fe8bf4348.png",
+  "thumb": "items/images/en/thumbs/sense_danger.03bc6b34f166a4aa51c6e69fe8bf4348.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

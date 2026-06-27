@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5dff6e1014569703166749dd",
+  "slug": "shatter_burst",
+  "market_slug": "shatter_burst",
+  "name_en": "Shatter Burst",
+  "name_en_slug": "shatter_burst",
+  "name_kr": "섀터 버스트",
+  "aliases": [
+    "Shatter Burst",
+    "shatter burst",
+    "shatter_burst",
+    "섀터 버스트"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "railjack"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Railjack/Abilities/CrewShipThumperAbilityCard",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/shatter_burst.65f146cd0258dd404603fc13d2f0b3dc.png",
+  "thumb": "items/images/en/thumbs/shatter_burst.65f146cd0258dd404603fc13d2f0b3dc.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

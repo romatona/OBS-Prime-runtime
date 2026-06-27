@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5be5f59f3ffcc7038857f0fe",
+  "slug": "crashing_timber",
+  "market_slug": "crashing_timber",
+  "name_en": "Crashing Timber",
+  "name_en_slug": "crashing_timber",
+  "name_kr": "크래슁 팀버",
+  "aliases": [
+    "Crashing Timber",
+    "crashing timber",
+    "crashing_timber",
+    "크래슁 팀버"
+  ],
+  "tags": [
+    "mod",
+    "pvp",
+    "stance",
+    "staves",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPStavesStanceOne",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/crashing_timber.78bf7c1c0cc21be71bee559092289015.png",
+  "thumb": "items/images/en/thumbs/crashing_timber.78bf7c1c0cc21be71bee559092289015.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

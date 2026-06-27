@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "571955b94445c3e28b80fc80",
+  "slug": "scimitar_engines_blueprint",
+  "market_slug": "scimitar_engines_blueprint",
+  "name_en": "Scimitar Engines Blueprint",
+  "name_en_slug": "scimitar_engines_blueprint",
+  "name_kr": "시미터 엔진 설계도",
+  "aliases": [
+    "Scimitar Engines",
+    "Scimitar Engines Blueprint",
+    "scimitar engines blueprint",
+    "scimitar_engines_blueprint",
+    "시미터 엔진",
+    "시미터 엔진 설계도"
+  ],
+  "tags": [
+    "blueprint"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/LandingCraftRecipes/BlueSky/BlueSkyEnginesBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/scimitar_engines.c8644ada3c4381efbe9a11b55c58b0a7.png",
+  "thumb": "items/images/en/thumbs/scimitar_engines.c8644ada3c4381efbe9a11b55c58b0a7.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

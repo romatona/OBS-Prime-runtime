@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5783909ed9b6753790c89e83",
+  "slug": "comet_blast",
+  "market_slug": "comet_blast",
+  "name_en": "Comet Blast",
+  "name_en_slug": "comet_blast",
+  "name_kr": "코멧 블래스트",
+  "aliases": [
+    "Comet Blast",
+    "comet blast",
+    "comet_blast",
+    "코멧 블래스트"
+  ],
+  "tags": [
+    "archgun",
+    "archwing",
+    "mod",
+    "primary",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingDualStatImpactStatusMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/comet_blast.887ff3540f0524b94f2066e6ed3ac7a9.png",
+  "thumb": "items/images/en/thumbs/comet_blast.887ff3540f0524b94f2066e6ed3ac7a9.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "63886518e7c988007b5bd517",
+  "slug": "perigale_receiver",
+  "market_slug": "perigale_receiver",
+  "name_en": "Perigale Receiver",
+  "name_en_slug": "perigale_receiver",
+  "name_kr": "페리게일 리시버",
+  "aliases": [
+    "Perigale Receiver",
+    "perigale receiver",
+    "perigale_receiver",
+    "페리게일 리시버"
+  ],
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnQuadSniperRifleReceiver",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/perigale_receiver.679b0e40d7651d8a117e07d1c7039886.png",
+  "thumb": "items/images/en/thumbs/perigale_receiver.679b0e40d7651d8a117e07d1c7039886.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

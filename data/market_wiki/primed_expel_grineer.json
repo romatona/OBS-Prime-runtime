@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5bb7658e92ea46005b6d386d",
+  "slug": "primed_expel_grineer",
+  "market_slug": "primed_expel_grineer",
+  "name_en": "Primed Expel Grineer",
+  "name_en_slug": "primed_expel_grineer",
+  "name_kr": "프라임드 익스펠 그리니어",
+  "aliases": [
+    "Primed Expel Grineer",
+    "primed expel grineer",
+    "primed_expel_grineer",
+    "프라임드 익스펠 그리니어"
+  ],
+  "tags": [
+    "legendary",
+    "mod",
+    "pistol",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponPistolFactionDamageGrineerExpert",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/primed_expel_grineer.e26c831370183283cb8d2fa1ec4aed6a.png",
+  "thumb": "items/images/en/thumbs/primed_expel_grineer.e26c831370183283cb8d2fa1ec4aed6a.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6054dd325221e30057500f36",
+  "slug": "axi_a13_relic",
+  "market_slug": "axi_a13_relic",
+  "name_en": "Axi A13 Relic",
+  "name_en_slug": "axi_a13_relic",
+  "name_kr": "액시 A13 성유물",
+  "aliases": [
+    "Axi A13 Relic",
+    "axi a13 relic",
+    "axi_a13_relic",
+    "액시 A13 성유물"
+  ],
+  "tags": [
+    "axi",
+    "relic"
+  ],
+  "game_ref": "/Lotus/Types/Game/Projections/T4VoidProjectionOctaviaPrimeB",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/axi_a13_relic.a74c06f0cae21bdb8933685c867385f8.png",
+  "thumb": "items/images/en/thumbs/axi_a13_relic.a74c06f0cae21bdb8933685c867385f8.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5800c6c9c021d9dc0a9f8916",
+  "slug": "the_perrin_sequence_augment_mod",
+  "market_slug": "the_perrin_sequence_augment_mod",
+  "name_en": "The Perrin Sequence Augment Mod",
+  "name_en_slug": "the_perrin_sequence_augment_mod",
+  "name_kr": "더 페린 시퀀스 개조 모드",
+  "aliases": [
+    "The Perrin Sequence Augment Mod",
+    "the perrin sequence augment mod",
+    "the_perrin_sequence_augment_mod",
+    "더 페린 시퀀스 개조 모드"
+  ],
+  "tags": [
+    "mod",
+    "rare",
+    "syndicate"
+  ],
+  "game_ref": "",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/the_perrin_sequence_augment_mod.c4b984d8cc314def94439a70bf22df7a.webp",
+  "thumb": "items/images/en/thumbs/the_perrin_sequence_augment_mod.c4b984d8cc314def94439a70bf22df7a.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

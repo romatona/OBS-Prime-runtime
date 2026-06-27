@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5fde10c66db57b0185b39084",
+  "slug": "cortege_set",
+  "market_slug": "cortege_set",
+  "name_en": "Cortege Set",
+  "name_en_slug": "cortege_set",
+  "name_kr": "코르테지 세트",
+  "aliases": [
+    "Cortege Set",
+    "cortege set",
+    "cortege_set",
+    "코르테지 세트"
+  ],
+  "tags": [
+    "archwing",
+    "primary",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Archwing/Primary/ThanoTechArchGun/ThanoTechArchGun",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/cortege_set.5ceaf430bceccb606feb14dd9cf7316d.png",
+  "thumb": "items/images/en/thumbs/cortege_set.5ceaf430bceccb606feb14dd9cf7316d.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

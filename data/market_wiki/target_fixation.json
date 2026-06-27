@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e5155cd",
+  "slug": "target_fixation",
+  "market_slug": "target_fixation",
+  "name_en": "Target Fixation",
+  "name_en_slug": "target_fixation",
+  "name_kr": "타겟 픽세이션",
+  "aliases": [
+    "Target Fixation",
+    "target fixation",
+    "target_fixation",
+    "타겟 픽세이션"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "rare",
+    "warframe",
+    "zephyr"
+  ],
+  "game_ref": "/Lotus/Powersuits/Tengu/DiveBombAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/target_fixation.864aac356d2748f71e0eec733e78d6f4.png",
+  "thumb": "items/images/en/thumbs/target_fixation.864aac356d2748f71e0eec733e78d6f4.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

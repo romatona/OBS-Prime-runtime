@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5fde10c66db57b0185b39083",
+  "slug": "bonewidow_engine",
+  "market_slug": "bonewidow_engine",
+  "name_en": "Bonewidow Engine",
+  "name_en_slug": "bonewidow_engine",
+  "name_kr": "본위도우 엔진",
+  "aliases": [
+    "Bonewidow Engine",
+    "bonewidow engine",
+    "bonewidow_engine",
+    "본위도우 엔진"
+  ],
+  "tags": [
+    "component",
+    "necramech"
+  ],
+  "game_ref": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartEngineItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/ko/bonewidow_engine.8644e648e796b8b8db590ee5de986cca.png",
+  "thumb": "items/images/ko/thumbs/bonewidow_engine.8644e648e796b8b8db590ee5de986cca.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

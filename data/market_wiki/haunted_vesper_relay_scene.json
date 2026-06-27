@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "69d1bf747e9d0a1afb371589",
+  "slug": "haunted_vesper_relay_scene",
+  "market_slug": "haunted_vesper_relay_scene",
+  "name_en": "Haunted Vesper Relay Scene",
+  "name_en_slug": "haunted_vesper_relay_scene",
+  "name_kr": "으스스한 베스퍼 릴레이 배경",
+  "aliases": [
+    "Haunted Vesper Relay Scene",
+    "haunted vesper relay scene",
+    "haunted_vesper_relay_scene",
+    "으스스한 베스퍼 릴레이 배경"
+  ],
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/MiscItems/PhotoboothTileMuseHub",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/haunted_vesper_relay_scene.725de2f122b226a8e7955f8eed7c4d73.webp",
+  "thumb": "items/images/en/thumbs/haunted_vesper_relay_scene.725de2f122b226a8e7955f8eed7c4d73.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

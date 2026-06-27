@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "63886516e7c988007b5bd50a",
+  "slug": "primary_frostbite",
+  "market_slug": "primary_frostbite",
+  "name_en": "Primary Frostbite",
+  "name_en_slug": "primary_frostbite",
+  "name_kr": "프라이머리 프로스트바이트",
+  "aliases": [
+    "Primary Frostbite",
+    "primary frostbite",
+    "primary_frostbite",
+    "프라이머리 프로스트바이트"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PrimaryCritDmgAndMultishotOnColdProc",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/primary_frostbite.3aba98f1779bfc69c3139e83dbda1463.png",
+  "thumb": "items/images/en/thumbs/primary_frostbite.3aba98f1779bfc69c3139e83dbda1463.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

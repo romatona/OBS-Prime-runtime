@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5bc1ab93b919f200c18c10f1",
+  "slug": "power_donation",
+  "market_slug": "power_donation",
+  "name_en": "Power Donation",
+  "name_en_slug": "power_donation",
+  "name_kr": "파워 도네이션",
+  "aliases": [
+    "Power Donation",
+    "power donation",
+    "power_donation",
+    "파워 도네이션"
+  ],
+  "tags": [
+    "aura",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Aura/AvatarAuraPowerMaxMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/power_donation.22caa7911fc0c4ffd7cc69ca9327ce72.png",
+  "thumb": "items/images/en/thumbs/power_donation.22caa7911fc0c4ffd7cc69ca9327ce72.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

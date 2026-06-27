@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5c1bd9fd14a8e4006b1dad51",
+  "slug": "virtuos_trojan",
+  "market_slug": "virtuos_trojan",
+  "name_en": "Virtuos Trojan",
+  "name_en_slug": "virtuos_trojan",
+  "name_kr": "버츄오스 트로잔",
+  "aliases": [
+    "Virtuos Trojan",
+    "virtuos trojan",
+    "virtuos_trojan",
+    "버츄오스 트로잔"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "operator",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/OperatorAmps/VoidToViralDamage",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/virtuos_trojan.9273040f27641c3064a2ad5933bbfe75.png",
+  "thumb": "items/images/en/thumbs/virtuos_trojan.9273040f27641c3064a2ad5933bbfe75.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

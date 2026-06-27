@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a4ce",
+  "slug": "calculated_victory",
+  "market_slug": "calculated_victory",
+  "name_en": "Calculated Victory",
+  "name_en_slug": "calculated_victory",
+  "name_kr": "칼큘레이티드 빅토리",
+  "aliases": [
+    "Calculated Victory",
+    "calculated victory",
+    "calculated_victory",
+    "칼큘레이티드 빅토리"
+  ],
+  "tags": [
+    "mod",
+    "pistol",
+    "pvp",
+    "rare",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Pistol/RestoreShieldsOnKillMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/calculated_victory.81ed757051bacbeae81aab2e70e1a65a.png",
+  "thumb": "items/images/en/thumbs/calculated_victory.81ed757051bacbeae81aab2e70e1a65a.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

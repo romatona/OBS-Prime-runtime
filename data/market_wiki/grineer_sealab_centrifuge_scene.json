@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5afdd5bc1a862a05ad817cf2",
+  "slug": "grineer_sealab_centrifuge_scene",
+  "market_slug": "grineer_sealab_centrifuge_scene",
+  "name_en": "Grineer Sealab Centrifuge Scene",
+  "name_en_slug": "grineer_sealab_centrifuge_scene",
+  "name_kr": "그리니어 수중 연구소 원심 분리기 배경",
+  "aliases": [
+    "Grineer Sealab Centrifuge Scene",
+    "grineer sealab centrifuge scene",
+    "grineer_sealab_centrifuge_scene",
+    "그리니어 수중 연구소 원심 분리기 배경"
+  ],
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/MiscItems/PhotoboothTileGrineerOceanCentrifuge",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/grineer_sealab_centrifuge_scene.f3696ad7d670f8228acf03032758f902.png",
+  "thumb": "items/images/en/thumbs/grineer_sealab_centrifuge_scene.f3696ad7d670f8228acf03032758f902.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

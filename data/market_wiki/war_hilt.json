@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56fdbd5d2e26966de716e432",
+  "slug": "war_hilt",
+  "market_slug": "war_hilt",
+  "name_en": "War Hilt",
+  "name_en_slug": "war_hilt",
+  "name_kr": "워 힐트",
+  "aliases": [
+    "War Hilt",
+    "war hilt",
+    "war_hilt",
+    "워 힐트"
+  ],
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/WarHilt",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/war_hilt.79aea5cde8a32f0cdb77bc19b5d1e9a5.png",
+  "thumb": "items/images/en/thumbs/war_hilt.79aea5cde8a32f0cdb77bc19b5d1e9a5.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e51567e",
+  "slug": "cleaving_whirlwind",
+  "market_slug": "cleaving_whirlwind",
+  "name_en": "Cleaving Whirlwind",
+  "name_en_slug": "cleaving_whirlwind",
+  "name_kr": "클리빙 훨윈드",
+  "aliases": [
+    "Cleaving Whirlwind",
+    "cleaving whirlwind",
+    "cleaving_whirlwind",
+    "클리빙 훨윈드"
+  ],
+  "tags": [
+    "heavy_blade",
+    "mod",
+    "rare",
+    "stance"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/AxeCmbTwoMeleeTree",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/cleaving_whirlwind.8a59807c69c368ffe0b459a4f3d0dc08.png",
+  "thumb": "items/images/en/thumbs/cleaving_whirlwind.8a59807c69c368ffe0b459a4f3d0dc08.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

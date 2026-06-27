@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "682df3d135715d4f3e9c64c3",
+  "slug": "lith_z4_relic",
+  "market_slug": "lith_z4_relic",
+  "name_en": "Lith Z4 Relic",
+  "name_en_slug": "lith_z4_relic",
+  "name_kr": "리스 Z4 성유물",
+  "aliases": [
+    "Lith Z4 Relic",
+    "lith z4 relic",
+    "lith_z4_relic",
+    "리스 Z4 성유물"
+  ],
+  "tags": [
+    "lith",
+    "relic"
+  ],
+  "game_ref": "/Lotus/Types/Game/Projections/T1VoidProjectionYareliPrimeB",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/unknown.png",
+  "thumb": "items/unknown.thumb.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "66c6098966bbb2aedca6959d",
+  "slug": "lith_n15_relic",
+  "market_slug": "lith_n15_relic",
+  "name_en": "Lith N15 Relic",
+  "name_en_slug": "lith_n15_relic",
+  "name_kr": "리스 N15 성유물",
+  "aliases": [
+    "Lith N15 Relic",
+    "lith n15 relic",
+    "lith_n15_relic",
+    "리스 N15 성유물"
+  ],
+  "tags": [
+    "lith",
+    "relic"
+  ],
+  "game_ref": "/Lotus/Types/Game/Projections/T1VoidProjectionSevagothPrimeC",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/unknown.png",
+  "thumb": "items/unknown.thumb.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

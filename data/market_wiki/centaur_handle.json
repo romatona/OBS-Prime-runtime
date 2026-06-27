@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5783bf4ad9b6753790c89e95",
+  "slug": "centaur_handle",
+  "market_slug": "centaur_handle",
+  "name_en": "Centaur Handle",
+  "name_en_slug": "centaur_handle",
+  "name_kr": "센타우르 핸들",
+  "aliases": [
+    "Centaur Handle",
+    "centaur handle",
+    "centaur_handle",
+    "센타우르 핸들"
+  ],
+  "tags": [
+    "archwing",
+    "component",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchSwordShieldHandle",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/centaur_handle.7365135b7b3831714b657721d6b1df22.png",
+  "thumb": "items/images/en/thumbs/centaur_handle.7365135b7b3831714b657721d6b1df22.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

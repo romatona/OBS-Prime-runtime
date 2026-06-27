@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6a330f5858b60af8cd1a0d0d",
+  "slug": "afentis_prime_set",
+  "market_slug": "afentis_prime_set",
+  "name_en": "Afentis Prime Set",
+  "name_en_slug": "afentis_prime_set",
+  "name_kr": "아펜티스 프라임 세트",
+  "aliases": [
+    "Afentis Prime Set",
+    "afentis prime set",
+    "afentis_prime_set",
+    "아펜티스 프라임 세트"
+  ],
+  "tags": [
+    "primary",
+    "prime",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/LongGuns/PrimeAfentis/PrimeAfentisWeapon",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/afentis_prime_set.280c16ef2890301844a36006cb1dd723.webp",
+  "thumb": "items/images/en/thumbs/afentis_prime_set.280c16ef2890301844a36006cb1dd723.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

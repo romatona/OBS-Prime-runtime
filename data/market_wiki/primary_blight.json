@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "649322af7ec190215a693092",
+  "slug": "primary_blight",
+  "market_slug": "primary_blight",
+  "name_en": "Primary Blight",
+  "name_en_slug": "primary_blight",
+  "name_kr": "프라이머리 블라이트",
+  "aliases": [
+    "Primary Blight",
+    "primary blight",
+    "primary_blight",
+    "프라이머리 블라이트"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/PrimaryHeadshotCritMultOnHeadshot",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/primary_blight.7dc9243c44441b2b46f7e1dc55eae1d0.png",
+  "thumb": "items/images/en/thumbs/primary_blight.7dc9243c44441b2b46f7e1dc55eae1d0.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

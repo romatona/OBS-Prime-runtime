@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515600",
+  "slug": "polar_magazine",
+  "market_slug": "polar_magazine",
+  "name_en": "Polar Magazine",
+  "name_en_slug": "polar_magazine",
+  "name_kr": "폴라 매거진",
+  "aliases": [
+    "Polar Magazine",
+    "polar magazine",
+    "polar_magazine",
+    "폴라 매거진"
+  ],
+  "tags": [
+    "archgun",
+    "archwing",
+    "mod",
+    "primary",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingWeaponFreezeDamageMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/polar_magazine.b1ff9ac7249fcc44429a6fa9153236fb.png",
+  "thumb": "items/images/en/thumbs/polar_magazine.b1ff9ac7249fcc44429a6fa9153236fb.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

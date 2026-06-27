@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "66c60c9066bbb2aedca695aa",
+  "slug": "nautilus_prime_cerebrum",
+  "market_slug": "nautilus_prime_cerebrum",
+  "name_en": "Nautilus Prime Cerebrum",
+  "name_en_slug": "nautilus_prime_cerebrum",
+  "name_kr": "노틸러스 프라임 세러브럼",
+  "aliases": [
+    "Nautilus Prime Cerebrum",
+    "nautilus prime cerebrum",
+    "nautilus_prime_cerebrum",
+    "노틸러스 프라임 세러브럼"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/NautilusPrimeCerebrum",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/nautilus_prime_cerebrum.a81cadf3c1f6e67c92c188534ced77b2.webp",
+  "thumb": "items/images/en/thumbs/nautilus_prime_cerebrum.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

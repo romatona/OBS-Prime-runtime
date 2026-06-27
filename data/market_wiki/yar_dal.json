@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "693e697303903ae8993ffafc",
+  "slug": "yar_dal",
+  "market_slug": "yar_dal",
+  "name_en": "Yar Dal",
+  "name_en_slug": "yar_dal",
+  "name_kr": "야르 달",
+  "aliases": [
+    "Yar Dal",
+    "yar dal",
+    "yar_dal",
+    "야르 달"
+  ],
+  "tags": [
+    "any",
+    "common",
+    "mod"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Antiques/HealthMax",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/ko/yar_dal.4f50dd56b4a3e6deffb6aed4de17f218.webp",
+  "thumb": "items/images/ko/thumbs/yar_dal.4f50dd56b4a3e6deffb6aed4de17f218.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

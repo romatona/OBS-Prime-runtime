@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54aaf231e77989307d9accb2",
+  "slug": "arcane_esprit_helmet",
+  "market_slug": "arcane_esprit_helmet",
+  "name_en": "Arcane Esprit Helmet",
+  "name_en_slug": "arcane_esprit_helmet",
+  "name_kr": "아케인 에스피릿 헬멧",
+  "aliases": [
+    "Arcane Esprit Helmet",
+    "arcane esprit helmet",
+    "arcane_esprit_helmet",
+    "아케인 에스피릿 헬멧"
+  ],
+  "tags": [
+    "arcane_helmet",
+    "skin"
+  ],
+  "game_ref": "/Lotus/Upgrades/Skins/Trapper/TrapperHelmetAlt",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/arcane_esprit_vauban_helmet.7705daeedc343eb44487a0e1f3af360e.png",
+  "thumb": "items/images/en/thumbs/arcane_esprit_vauban_helmet.7705daeedc343eb44487a0e1f3af360e.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

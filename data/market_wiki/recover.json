@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a4e9",
+  "slug": "recover",
+  "market_slug": "recover",
+  "name_en": "Recover",
+  "name_en_slug": "recover",
+  "name_kr": "리커버",
+  "aliases": [
+    "Recover",
+    "recover",
+    "리커버"
+  ],
+  "tags": [
+    "assault_rifle",
+    "mod",
+    "primary",
+    "pvp",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Rifle/RestoreHealthOnKillMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/recover.c9a08b3ae365a5dd429a2ea357cb8c91.png",
+  "thumb": "items/images/en/thumbs/recover.c9a08b3ae365a5dd429a2ea357cb8c91.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

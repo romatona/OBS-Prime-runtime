@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a517",
+  "slug": "loaded_capacity",
+  "market_slug": "loaded_capacity",
+  "name_en": "Loaded Capacity",
+  "name_en_slug": "loaded_capacity",
+  "name_kr": "로디드 커패시티",
+  "aliases": [
+    "Loaded Capacity",
+    "loaded capacity",
+    "loaded_capacity",
+    "로디드 커패시티"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "primary",
+    "pvp",
+    "shotgun"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Shotgun/LargerMagLongerReloadShotgunMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/loaded_capacity.9a437854153a40b04909bd36b19dc036.png",
+  "thumb": "items/images/en/thumbs/loaded_capacity.9a437854153a40b04909bd36b19dc036.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

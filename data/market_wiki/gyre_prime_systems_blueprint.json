@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6939aa455d9ebda239125d29",
+  "slug": "gyre_prime_systems_blueprint",
+  "market_slug": "gyre_prime_systems_blueprint",
+  "name_en": "Gyre Prime Systems Blueprint",
+  "name_en_slug": "gyre_prime_systems_blueprint",
+  "name_kr": "자이어 프라임 시스템 설계도",
+  "aliases": [
+    "Gyre Prime Systems",
+    "Gyre Prime Systems Blueprint",
+    "gyre prime systems blueprint",
+    "gyre_prime_systems_blueprint",
+    "자이어 프라임 시스템",
+    "자이어 프라임 시스템 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/GyrePrimeSystemsBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/gyre_prime_systems_blueprint.fd52e994eb0d81e21e28b7b7a98ad960.webp",
+  "thumb": "items/images/en/thumbs/gyre_prime_systems_blueprint.fd52e994eb0d81e21e28b7b7a98ad960.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "69d6766fb3984cc97e24174d",
+  "slug": "voruna_prime_blueprint",
+  "market_slug": "voruna_prime_blueprint",
+  "name_en": "Voruna Prime Blueprint",
+  "name_en_slug": "voruna_prime_blueprint",
+  "name_kr": "보루나 프라임 설계도",
+  "aliases": [
+    "Voruna Prime",
+    "Voruna Prime Blueprint",
+    "voruna prime blueprint",
+    "voruna_prime_blueprint",
+    "보루나 프라임",
+    "보루나 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/VorunaPrimeBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/voruna_prime_blueprint.6a82ab2971991cfa9ff8b92df7ed8547.webp",
+  "thumb": "items/images/en/thumbs/voruna_prime_blueprint.6a82ab2971991cfa9ff8b92df7ed8547.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

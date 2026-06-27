@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "59e3afcd115f1d887cfd7ac8",
+  "slug": "carving_mantis",
+  "market_slug": "carving_mantis",
+  "name_en": "Carving Mantis",
+  "name_en_slug": "carving_mantis",
+  "name_kr": "카빙 맨티스",
+  "aliases": [
+    "Carving Mantis",
+    "carving mantis",
+    "carving_mantis",
+    "카빙 맨티스"
+  ],
+  "tags": [
+    "dual_swords",
+    "mod",
+    "rare",
+    "stance"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/DualSwordCmbThreeMeleeTree",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/carving_mantis.3536f840864456911b4003a33fc522fd.png",
+  "thumb": "items/images/en/thumbs/carving_mantis.3536f840864456911b4003a33fc522fd.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

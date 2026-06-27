@@ -1,0 +1,9 @@
+{
+  "preset_id": "default-korean-ui",
+  "display_name": "Default Korean Warframe UI OCR",
+  "provider": "tesseract",
+  "language": "kor+eng",
+  "preprocessing_preset": "default-korean-ui",
+  "timeout_ms": 2500,
+  "min_confidence": 0.7
+}

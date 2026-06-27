@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6604a600dbdd5c1673781db3",
+  "slug": "wrath_of_ukko",
+  "market_slug": "wrath_of_ukko",
+  "name_en": "Wrath Of Ukko",
+  "name_en_slug": "wrath_of_ukko",
+  "name_kr": "라스 오브 우코",
+  "aliases": [
+    "Wrath Of Ukko",
+    "wrath of ukko",
+    "wrath_of_ukko",
+    "라스 오브 우코"
+  ],
+  "tags": [
+    "augment",
+    "kullervo",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/PaxDuviricus/PaxFieldAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/wrath_of_ukko.5579ab2019b8b5a40fa55e6ba28e9cc8.png",
+  "thumb": "items/images/en/thumbs/wrath_of_ukko.5579ab2019b8b5a40fa55e6ba28e9cc8.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

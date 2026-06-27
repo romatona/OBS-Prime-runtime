@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56783f24cbfa8f0432dd89b3",
+  "slug": "wyrm_prime_set",
+  "market_slug": "wyrm_prime_set",
+  "name_en": "Wyrm Prime Set",
+  "name_en_slug": "wyrm_prime_set",
+  "name_kr": "웜 프라임 세트",
+  "aliases": [
+    "Wyrm Prime Set",
+    "wyrm prime set",
+    "wyrm_prime_set",
+    "웜 프라임 세트"
+  ],
+  "tags": [
+    "prime",
+    "sentinel",
+    "set"
+  ],
+  "game_ref": "/Lotus/Types/Sentinels/SentinelPowersuits/PrimeWyrmPowerSuit",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/wyrm_prime_set.4da3da5cc8eeef554dc3208bbb5a8f26.png",
+  "thumb": "items/images/en/thumbs/wyrm_prime_set.4da3da5cc8eeef554dc3208bbb5a8f26.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

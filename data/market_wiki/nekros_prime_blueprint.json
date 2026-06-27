@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "57bcb14ce506eb45ea25145e",
+  "slug": "nekros_prime_blueprint",
+  "market_slug": "nekros_prime_blueprint",
+  "name_en": "Nekros Prime Blueprint",
+  "name_en_slug": "nekros_prime_blueprint",
+  "name_kr": "네크로스 프라임 설계도",
+  "aliases": [
+    "Nekros Prime",
+    "Nekros Prime Blueprint",
+    "nekros prime blueprint",
+    "nekros_prime_blueprint",
+    "네크로스 프라임",
+    "네크로스 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/NekrosPrimeBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/nekros_prime_blueprint.523943a15c82985ebe7cf14eac98966d.png",
+  "thumb": "items/images/en/thumbs/nekros_prime_blueprint.523943a15c82985ebe7cf14eac98966d.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

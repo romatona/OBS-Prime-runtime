@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e51568d",
+  "slug": "quick_thinking",
+  "market_slug": "quick_thinking",
+  "name_en": "Quick Thinking",
+  "name_en_slug": "quick_thinking",
+  "name_kr": "퀵 싱킹",
+  "aliases": [
+    "Quick Thinking",
+    "quick thinking",
+    "quick_thinking",
+    "퀵 싱킹"
+  ],
+  "tags": [
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Warframe/AvatarPowerToHealthOnDeathMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/quick_thinking.062fbe5be0dfb26fa2f268b338cae078.png",
+  "thumb": "items/images/en/thumbs/quick_thinking.062fbe5be0dfb26fa2f268b338cae078.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

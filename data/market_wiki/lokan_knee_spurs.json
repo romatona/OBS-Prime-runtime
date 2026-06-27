@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60e70f7a479445008f272579",
+  "slug": "lokan_knee_spurs",
+  "market_slug": "lokan_knee_spurs",
+  "name_en": "Lokan Knee Spurs",
+  "name_en_slug": "lokan_knee_spurs",
+  "name_kr": "로칸 니 스퍼",
+  "aliases": [
+    "Lokan Knee Spurs",
+    "lokan knee spurs",
+    "lokan_knee_spurs",
+    "로칸 니 스퍼"
+  ],
+  "tags": [
+    "skin"
+  ],
+  "game_ref": "/Lotus/Upgrades/Skins/Armor/NLokaArmor/NLokaLArmor",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/lokan_knee_spurs.8a7c25d472af612432b65790c6fec05a.png",
+  "thumb": "items/images/en/thumbs/lokan_knee_spurs.8a7c25d472af612432b65790c6fec05a.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

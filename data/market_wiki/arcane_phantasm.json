@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "551085d6e7798972bcb28132",
+  "slug": "arcane_phantasm",
+  "market_slug": "arcane_phantasm",
+  "name_en": "Arcane Phantasm",
+  "name_en_slug": "arcane_phantasm",
+  "name_kr": "아케인 판타즘",
+  "aliases": [
+    "Arcane Phantasm",
+    "arcane phantasm",
+    "arcane_phantasm",
+    "아케인 판타즘"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Defensive/SpeedOnParry",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/arcane_phantasm.78366e4d487988a78d128a4822b4f824.png",
+  "thumb": "items/images/en/thumbs/arcane_phantasm.78366e4d487988a78d128a4822b4f824.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

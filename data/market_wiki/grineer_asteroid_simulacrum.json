@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "667237748ba7c81b70d02ca2",
+  "slug": "grineer_asteroid_simulacrum",
+  "market_slug": "grineer_asteroid_simulacrum",
+  "name_en": "Grineer Asteroid Simulacrum",
+  "name_en_slug": "grineer_asteroid_simulacrum",
+  "name_kr": "그리니어 소행성 시뮬라크럼",
+  "aliases": [
+    "Grineer Asteroid Simulacrum",
+    "grineer asteroid simulacrum",
+    "grineer_asteroid_simulacrum",
+    "그리니어 소행성 시뮬라크럼"
+  ],
+  "tags": [
+    "simulacrum"
+  ],
+  "game_ref": "/Lotus/Types/Items/DangerRoom/DangerRoomTileGrineerBossRoom",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/grineer_asteroid_simulacrum.046fd5cfa19b660727fda451b76c2063.webp",
+  "thumb": "items/images/en/thumbs/grineer_asteroid_simulacrum.046fd5cfa19b660727fda451b76c2063.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

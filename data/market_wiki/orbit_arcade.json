@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "675c618a7b18977f6e64540a",
+  "slug": "orbit_arcade",
+  "market_slug": "orbit_arcade",
+  "name_en": "Orbit Arcade Scene",
+  "name_en_slug": "orbit_arcade",
+  "name_kr": "오빗 오락실 배경",
+  "aliases": [
+    "Orbit Arcade Scene",
+    "orbit arcade",
+    "orbit_arcade",
+    "오빗 오락실 배경"
+  ],
+  "tags": [
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaIntMallArcade",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/orbit_arcade.b9552290336892435f45eb3fea8a7d75.webp",
+  "thumb": "items/images/en/thumbs/orbit_arcade.b9552290336892435f45eb3fea8a7d75.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

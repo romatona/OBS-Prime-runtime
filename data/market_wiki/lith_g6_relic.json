@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "639a8d9274b02f003889eb6d",
+  "slug": "lith_g6_relic",
+  "market_slug": "lith_g6_relic",
+  "name_en": "Lith G6 Relic",
+  "name_en_slug": "lith_g6_relic",
+  "name_kr": "리스 G6 성유물",
+  "aliases": [
+    "Lith G6 Relic",
+    "lith g6 relic",
+    "lith_g6_relic",
+    "리스 G6 성유물"
+  ],
+  "tags": [
+    "lith",
+    "relic"
+  ],
+  "game_ref": "/Lotus/Types/Game/Projections/T1VoidProjectionBaruukPrimeA",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/lith_g6_relic.b9883727b21e25d81bc115605254460a.png",
+  "thumb": "items/images/en/thumbs/lith_g6_relic.b9883727b21e25d81bc115605254460a.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

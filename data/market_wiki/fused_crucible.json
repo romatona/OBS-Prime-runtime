@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "67db60859cec3e52e62523f3",
+  "slug": "fused_crucible",
+  "market_slug": "fused_crucible",
+  "name_en": "Fused Crucible",
+  "name_en_slug": "fused_crucible",
+  "name_kr": "퓨즈드 크루시블",
+  "aliases": [
+    "Fused Crucible",
+    "fused crucible",
+    "fused_crucible",
+    "퓨즈드 크루시블"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "qorvex",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/ConcreteFrame/ConcreteLaserAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/fused_crucible.5034790b46d86f81e5459d0d034f18f3.webp",
+  "thumb": "items/images/en/thumbs/fused_crucible.5034790b46d86f81e5459d0d034f18f3.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "58358a062c2ada0047b386f7",
+  "slug": "valkyr_prime_neuroptics_blueprint",
+  "market_slug": "valkyr_prime_neuroptics_blueprint",
+  "name_en": "Valkyr Prime Neuroptics Blueprint",
+  "name_en_slug": "valkyr_prime_neuroptics_blueprint",
+  "name_kr": "발키르 프라임 뉴로옵틱스 설계도",
+  "aliases": [
+    "Valkyr Prime Neuroptics",
+    "Valkyr Prime Neuroptics Blueprint",
+    "valkyr prime neuroptics blueprint",
+    "valkyr_prime_neuroptics_blueprint",
+    "발키르 프라임 뉴로옵틱스",
+    "발키르 프라임 뉴로옵틱스 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/ValkyrPrimeHelmetBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/valkyr_prime_neuroptics.a5c906d66a11ff70158f0ffad0c628e8.png",
+  "thumb": "items/images/en/thumbs/valkyr_prime_neuroptics.a5c906d66a11ff70158f0ffad0c628e8.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

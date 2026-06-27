@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6056348590a69e004e862882",
+  "slug": "nautilus_carapace",
+  "market_slug": "nautilus_carapace",
+  "name_en": "Nautilus Carapace",
+  "name_en_slug": "nautilus_carapace",
+  "name_kr": "노틸러스 카라페이스",
+  "aliases": [
+    "Nautilus Carapace",
+    "nautilus carapace",
+    "nautilus_carapace",
+    "노틸러스 카라페이스"
+  ],
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/EmpyreanSentinelCarapace",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/nautilus_carapace.4d2546740e4772a35db251115721c6b7.png",
+  "thumb": "items/images/en/thumbs/nautilus_carapace.4d2546740e4772a35db251115721c6b7.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

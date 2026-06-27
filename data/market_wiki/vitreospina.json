@@ -1,0 +1,27 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6054de665221e30057501070",
+  "slug": "vitreospina",
+  "market_slug": "vitreospina",
+  "name_en": "Vitreospina",
+  "name_en_slug": "vitreospina",
+  "name_kr": "비트리오스피나",
+  "aliases": [
+    "Vitreospina",
+    "vitreospina",
+    "비트리오스피나"
+  ],
+  "tags": [
+    "fish"
+  ],
+  "game_ref": "/Lotus/Types/Items/Fish/Deimos/HybridUncommonBFishItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/vitreospina.80a20c278dacce4cd8b2c9f938f129e9.png",
+  "thumb": "items/images/en/thumbs/vitreospina.80a20c278dacce4cd8b2c9f938f129e9.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

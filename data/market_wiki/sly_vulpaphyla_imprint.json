@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "62d3078580f54c00b5ddf5cd",
+  "slug": "sly_vulpaphyla_imprint",
+  "market_slug": "sly_vulpaphyla_imprint",
+  "name_en": "Sly Vulpaphyla Imprint",
+  "name_en_slug": "sly_vulpaphyla_imprint",
+  "name_kr": "슬라이 불파파일라 임프린트",
+  "aliases": [
+    "Sly Vulpaphyla Imprint",
+    "sly vulpaphyla imprint",
+    "sly_vulpaphyla_imprint",
+    "슬라이 불파파일라 임프린트"
+  ],
+  "tags": [
+    "imprint",
+    "kubrow",
+    "pet"
+  ],
+  "game_ref": "/Lotus/Types/Friendly/Pets/CreaturePets/VulpineInfestedCatbrowPetPowerSuit",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/sly_vulpaphyla_imprint.34f6989d4510346445a34ddd2d6bdb84.png",
+  "thumb": "items/images/en/thumbs/sly_vulpaphyla_imprint.34f6989d4510346445a34ddd2d6bdb84.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

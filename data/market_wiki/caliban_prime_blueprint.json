@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "68adcffe731e63abe79a5d10",
+  "slug": "caliban_prime_blueprint",
+  "market_slug": "caliban_prime_blueprint",
+  "name_en": "Caliban Prime Blueprint",
+  "name_en_slug": "caliban_prime_blueprint",
+  "name_kr": "칼리반 프라임 설계도",
+  "aliases": [
+    "Caliban Prime",
+    "Caliban Prime Blueprint",
+    "caliban prime blueprint",
+    "caliban_prime_blueprint",
+    "칼리반 프라임",
+    "칼리반 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/CalibanPrimeBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/unknown.png",
+  "thumb": "",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

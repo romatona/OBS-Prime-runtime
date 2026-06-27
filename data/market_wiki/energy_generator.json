@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5bc24accb919f2010f7d579b",
+  "slug": "energy_generator",
+  "market_slug": "energy_generator",
+  "name_en": "Energy Generator",
+  "name_en_slug": "energy_generator",
+  "name_kr": "에너지 제너레이터",
+  "aliases": [
+    "Energy Generator",
+    "energy generator",
+    "energy_generator",
+    "에너지 제너레이터"
+  ],
+  "tags": [
+    "dethcube",
+    "mod",
+    "rare",
+    "sentinel"
+  ],
+  "game_ref": "/Lotus/Types/Sentinels/SentinelPrecepts/ItemDropOnAssist",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/energy_generator.8957d37464221bed882c611f37c46e68.png",
+  "thumb": "items/images/en/thumbs/energy_generator.8957d37464221bed882c611f37c46e68.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

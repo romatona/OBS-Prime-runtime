@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "57222f1092cc365777a61c0d",
+  "slug": "scimitar_set",
+  "market_slug": "scimitar_set",
+  "name_en": "Scimitar Set",
+  "name_en_slug": "scimitar_set",
+  "name_kr": "시미터 세트",
+  "aliases": [
+    "Scimitar Set",
+    "scimitar set",
+    "scimitar_set",
+    "시미터 세트"
+  ],
+  "tags": [
+    "set"
+  ],
+  "game_ref": "/Lotus/Types/Items/Ships/BlueSkyShip",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/scimitar_set.c8644ada3c4381efbe9a11b55c58b0a7.png",
+  "thumb": "items/images/en/thumbs/scimitar_set.c8644ada3c4381efbe9a11b55c58b0a7.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

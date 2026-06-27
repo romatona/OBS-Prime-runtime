@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5b50a3aa3a84fd02a7823246",
+  "slug": "empowered_quiver",
+  "market_slug": "empowered_quiver",
+  "name_en": "Empowered Quiver",
+  "name_en_slug": "empowered_quiver",
+  "name_kr": "임파워드 퀴버",
+  "aliases": [
+    "Empowered Quiver",
+    "empowered quiver",
+    "empowered_quiver",
+    "임파워드 퀴버"
+  ],
+  "tags": [
+    "augment",
+    "ivara",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Ranger/RangerQuiverAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/empowered_quiver.1443fd96a1641e97a75f6db5e40d8b15.png",
+  "thumb": "items/images/en/thumbs/empowered_quiver.1443fd96a1641e97a75f6db5e40d8b15.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

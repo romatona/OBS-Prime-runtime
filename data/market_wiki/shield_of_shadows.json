@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "554d3d13e77989430b114cb1",
+  "slug": "shield_of_shadows",
+  "market_slug": "shield_of_shadows",
+  "name_en": "Shield Of Shadows",
+  "name_en_slug": "shield_of_shadows",
+  "name_kr": "실드 오브 섀도우즈",
+  "aliases": [
+    "Shield Of Shadows",
+    "shield of shadows",
+    "shield_of_shadows",
+    "실드 오브 섀도우즈"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "nekros",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Necro/CloneTheDeadAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/shield_of_shadows.877c5c3618e4f49db59674559c69f807.png",
+  "thumb": "items/images/en/thumbs/shield_of_shadows.877c5c3618e4f49db59674559c69f807.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

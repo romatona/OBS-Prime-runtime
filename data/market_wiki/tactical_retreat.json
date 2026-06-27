@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a523",
+  "slug": "tactical_retreat",
+  "market_slug": "tactical_retreat",
+  "name_en": "Tactical Retreat",
+  "name_en_slug": "tactical_retreat",
+  "name_kr": "택티컬 리트릿",
+  "aliases": [
+    "Tactical Retreat",
+    "tactical retreat",
+    "tactical_retreat",
+    "택티컬 리트릿"
+  ],
+  "tags": [
+    "mod",
+    "pvp",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Warframe/IncreasedMobilityOnLowHealth",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/tactical_retreat.90f93980f8da9a73157f4a6bca59e78f.png",
+  "thumb": "items/images/en/thumbs/tactical_retreat.90f93980f8da9a73157f4a6bca59e78f.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

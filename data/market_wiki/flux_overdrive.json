@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5870156c937cde2c9d378ac0",
+  "slug": "flux_overdrive",
+  "market_slug": "flux_overdrive",
+  "name_en": "Flux Overdrive",
+  "name_en_slug": "flux_overdrive",
+  "name_kr": "플럭스 오버드라이브",
+  "aliases": [
+    "Flux Overdrive",
+    "flux overdrive",
+    "flux_overdrive",
+    "플럭스 오버드라이브"
+  ],
+  "tags": [
+    "flux_rifle",
+    "mod",
+    "primary",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/Event/CorpusArena/FluxRifleCorpusArenaMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/flux_overdrive.9376e8165c3348b000ea5079648ce948.png",
+  "thumb": "items/images/en/thumbs/flux_overdrive.9376e8165c3348b000ea5079648ce948.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

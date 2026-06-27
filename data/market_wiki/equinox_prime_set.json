@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5ca28670fc2db2035eae059e",
+  "slug": "equinox_prime_set",
+  "market_slug": "equinox_prime_set",
+  "name_en": "Equinox Prime Set",
+  "name_en_slug": "equinox_prime_set",
+  "name_kr": "이쿼녹스 프라임 세트",
+  "aliases": [
+    "Equinox Prime Set",
+    "equinox prime set",
+    "equinox_prime_set",
+    "이쿼녹스 프라임 세트"
+  ],
+  "tags": [
+    "prime",
+    "set",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/YinYang/EquinoxPrime",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/equinox_prime_set.1163c3dad7a8ffce02af7d475fc0ccd4.png",
+  "thumb": "items/images/en/thumbs/equinox_prime_set.1163c3dad7a8ffce02af7d475fc0ccd4.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

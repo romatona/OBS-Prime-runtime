@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515681",
+  "slug": "efficient_transferral",
+  "market_slug": "efficient_transferral",
+  "name_en": "Efficient Transferral",
+  "name_en_slug": "efficient_transferral",
+  "name_kr": "이피션트 트랜스퍼럴",
+  "aliases": [
+    "Efficient Transferral",
+    "efficient transferral",
+    "efficient_transferral",
+    "이피션트 트랜스퍼럴"
+  ],
+  "tags": [
+    "archwing",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Archwing/Suit/ArchwingSuitAbilityDurationMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/efficient_transferral.e195ab0ac5476bfb2666870ce833a462.png",
+  "thumb": "items/images/en/thumbs/efficient_transferral.e195ab0ac5476bfb2666870ce833a462.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

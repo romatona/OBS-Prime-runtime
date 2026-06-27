@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156d0",
+  "slug": "tainted_shell",
+  "market_slug": "tainted_shell",
+  "name_en": "Tainted Shell",
+  "name_en_slug": "tainted_shell",
+  "name_kr": "테인티드 쉘",
+  "aliases": [
+    "Tainted Shell",
+    "tainted shell",
+    "tainted_shell",
+    "테인티드 쉘"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "shotgun"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Shotgun/DualStat/CorruptedAccuracyFireRateShotgun",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/tainted_shell.ead13d95b9f2da054c3bf69f799d4028.png",
+  "thumb": "items/images/en/thumbs/tainted_shell.ead13d95b9f2da054c3bf69f799d4028.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

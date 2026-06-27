@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5f498a229426ed00443bd0af",
+  "slug": "panzer_devolution",
+  "market_slug": "panzer_devolution",
+  "name_en": "Panzer Devolution",
+  "name_en_slug": "panzer_devolution",
+  "name_kr": "팬저 디볼루션",
+  "aliases": [
+    "Panzer Devolution",
+    "panzer devolution",
+    "panzer_devolution",
+    "팬저 디볼루션"
+  ],
+  "tags": [
+    "kavat",
+    "mod",
+    "panzer_vulpaphyla",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePrecepts/ArmoredInfestedCatbrowRespawn",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/panzer_devolution.385beb2af22639cca19541091841393a.png",
+  "thumb": "items/images/en/thumbs/panzer_devolution.385beb2af22639cca19541091841393a.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

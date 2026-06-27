@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5e839494267539077b0dd6b8",
+  "slug": "titania_prime_neuroptics_blueprint",
+  "market_slug": "titania_prime_neuroptics_blueprint",
+  "name_en": "Titania Prime Neuroptics Blueprint",
+  "name_en_slug": "titania_prime_neuroptics_blueprint",
+  "name_kr": "티타니아 프라임 뉴로옵틱스 설계도",
+  "aliases": [
+    "Titania Prime Neuroptics",
+    "Titania Prime Neuroptics Blueprint",
+    "titania prime neuroptics blueprint",
+    "titania_prime_neuroptics_blueprint",
+    "티타니아 프라임 뉴로옵틱스",
+    "티타니아 프라임 뉴로옵틱스 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/TitaniaPrimeHelmetBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/titania_prime_neuroptics.d783da2b4926bc3760d50bba21eff7db.png",
+  "thumb": "items/images/en/thumbs/titania_prime_neuroptics.d783da2b4926bc3760d50bba21eff7db.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

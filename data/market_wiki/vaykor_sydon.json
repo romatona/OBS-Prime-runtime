@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "57dbdc525e334907aa8edb55",
+  "slug": "vaykor_sydon",
+  "market_slug": "vaykor_sydon",
+  "name_en": "Vaykor Sydon",
+  "name_en_slug": "vaykor_sydon",
+  "name_kr": "베이코어 사이돈",
+  "aliases": [
+    "Vaykor Sydon",
+    "vaykor sydon",
+    "vaykor_sydon",
+    "베이코어 사이돈"
+  ],
+  "tags": [
+    "melee",
+    "syndicate",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Syndicates/SteelMeridian/Melee/SMSydon",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/vaykor_sydon.d83d27c1e7742988b0d4aeb9c39985bd.png",
+  "thumb": "items/images/en/thumbs/vaykor_sydon.d83d27c1e7742988b0d4aeb9c39985bd.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

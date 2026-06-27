@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "626a197af40db600660a1d86",
+  "slug": "zariman_albrecht_park_scene",
+  "market_slug": "zariman_albrecht_park_scene",
+  "name_en": "Zariman Albrecht Park Scene",
+  "name_en_slug": "zariman_albrecht_park_scene",
+  "name_kr": "자리만 알브레히트 공원 배경",
+  "aliases": [
+    "Zariman Albrecht Park Scene",
+    "zariman albrecht park scene",
+    "zariman_albrecht_park_scene",
+    "자리만 알브레히트 공원 배경"
+  ],
+  "tags": [
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/PhotoBooth/Zariman/PhotoboothTileZarParkA",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/zariman_albrecht_park_scene.0360a82d8604ff94f3611d88708d1b11.png",
+  "thumb": "items/images/en/thumbs/zariman_albrecht_park_scene.0360a82d8604ff94f3611d88708d1b11.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

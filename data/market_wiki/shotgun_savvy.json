@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e5155de",
+  "slug": "shotgun_savvy",
+  "market_slug": "shotgun_savvy",
+  "name_en": "Shotgun Savvy",
+  "name_en_slug": "shotgun_savvy",
+  "name_kr": "샷건 새비",
+  "aliases": [
+    "Shotgun Savvy",
+    "shotgun savvy",
+    "shotgun_savvy",
+    "샷건 새비"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "shotgun",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Shotgun/WeaponStunChanceMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/shotgun_savvy.ab720d50e1f812fdd35cd695701e31b6.png",
+  "thumb": "items/images/en/thumbs/shotgun_savvy.ab720d50e1f812fdd35cd695701e31b6.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

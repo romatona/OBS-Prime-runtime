@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5df955131456970150510f25",
+  "slug": "baza_prime_stock",
+  "market_slug": "baza_prime_stock",
+  "name_en": "Baza Prime Stock",
+  "name_en_slug": "baza_prime_stock",
+  "name_kr": "바자 프라임 스톡",
+  "aliases": [
+    "Baza Prime Stock",
+    "baza prime stock",
+    "baza_prime_stock",
+    "바자 프라임 스톡"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/BazaPrimeStock",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/baza_prime_stock.a5f9c94cee410a5af7726ee6b2fca2b5.png",
+  "thumb": "items/images/en/thumbs/baza_prime_stock.a5f9c94cee410a5af7726ee6b2fca2b5.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

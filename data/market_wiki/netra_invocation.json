@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "657af5ab21646e595134f5c6",
+  "slug": "netra_invocation",
+  "market_slug": "netra_invocation",
+  "name_en": "Netra Invocation",
+  "name_en_slug": "netra_invocation",
+  "name_kr": "네트라 인보케이션",
+  "aliases": [
+    "Netra Invocation",
+    "netra invocation",
+    "netra_invocation",
+    "네트라 인보케이션"
+  ],
+  "tags": [
+    "mod",
+    "rare",
+    "secondary",
+    "tome"
+  ],
+  "game_ref": "/Lotus/Upgrades/Grimoire/NetraStrikeMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/netra_invocation.78dd3227c7f247d4deed683f0045b02c.png",
+  "thumb": "items/images/en/thumbs/netra_invocation.78dd3227c7f247d4deed683f0045b02c.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

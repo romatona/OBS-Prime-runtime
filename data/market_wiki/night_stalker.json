@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a4e2",
+  "slug": "night_stalker",
+  "market_slug": "night_stalker",
+  "name_en": "Night Stalker",
+  "name_en_slug": "night_stalker",
+  "name_kr": "나이트 스토커",
+  "aliases": [
+    "Night Stalker",
+    "night stalker",
+    "night_stalker",
+    "나이트 스토커"
+  ],
+  "tags": [
+    "mod",
+    "pistol",
+    "pvp",
+    "secondary",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Pistol/MarkTargetPistolMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/night_stalker.e3f83458b9a79243df2613bf3d334861.png",
+  "thumb": "items/images/en/thumbs/night_stalker.e3f83458b9a79243df2613bf3d334861.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

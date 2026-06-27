@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5c1bda1b14a8e4006b1dad91",
+  "slug": "poppin_vert",
+  "market_slug": "poppin_vert",
+  "name_en": "Poppin' Vert",
+  "name_en_slug": "poppin_vert",
+  "name_kr": "팝핀 버트",
+  "aliases": [
+    "Poppin' Vert",
+    "poppin vert",
+    "poppin_vert",
+    "팝핀 버트"
+  ],
+  "tags": [
+    "k_drive",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Hoverboard/HBDoubleJumpHeightMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/poppin_vert.db243b0661f0728060eaaa4b8deb2ff7.png",
+  "thumb": "items/images/en/thumbs/poppin_vert.db243b0661f0728060eaaa4b8deb2ff7.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

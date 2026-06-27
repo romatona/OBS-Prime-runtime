@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60e5b8fe4794450053e99951",
+  "slug": "hard_reset",
+  "market_slug": "hard_reset",
+  "name_en": "Hard Reset",
+  "name_en_slug": "hard_reset",
+  "name_kr": "하드 리셋",
+  "aliases": [
+    "Hard Reset",
+    "hard reset",
+    "hard_reset",
+    "하드 리셋"
+  ],
+  "tags": [
+    "mod",
+    "parazon",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/DataSpike/Assassin/OnExecutionReviveCompanionMod",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/hard_reset.b0d53f38119f05a0b6f7e4cb3723bad8.png",
+  "thumb": "items/images/en/thumbs/hard_reset.b0d53f38119f05a0b6f7e4cb3723bad8.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

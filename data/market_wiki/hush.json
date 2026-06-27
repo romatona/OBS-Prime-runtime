@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515621",
+  "slug": "hush",
+  "market_slug": "hush",
+  "name_en": "Hush",
+  "name_en_slug": "hush",
+  "name_kr": "허쉬",
+  "aliases": [
+    "Hush",
+    "hush",
+    "허쉬"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "primary",
+    "rifle"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/WeaponNoiseReductionMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/hush.59b2133ac35cd53a445a9fe50fd7b164.png",
+  "thumb": "items/images/en/thumbs/hush.59b2133ac35cd53a445a9fe50fd7b164.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

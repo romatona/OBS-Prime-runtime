@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "57c05949d0d9ef638234e4af",
+  "slug": "brief_respite",
+  "market_slug": "brief_respite",
+  "name_en": "Brief Respite",
+  "name_en_slug": "brief_respite",
+  "name_kr": "브리프 리스파이트",
+  "aliases": [
+    "Brief Respite",
+    "brief respite",
+    "brief_respite",
+    "브리프 리스파이트"
+  ],
+  "tags": [
+    "aura",
+    "mod",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Aura/FairyQuest/FairyQuestAbilityToShieldsAuraMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/brief_respite.716172347813d137cc5d9d0cbe249d6c.png",
+  "thumb": "items/images/en/thumbs/brief_respite.716172347813d137cc5d9d0cbe249d6c.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

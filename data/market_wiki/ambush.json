@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5bc24accb919f2010f7d579a",
+  "slug": "ambush",
+  "market_slug": "ambush",
+  "name_en": "Ambush",
+  "name_en_slug": "ambush",
+  "name_kr": "앰부쉬",
+  "aliases": [
+    "Ambush",
+    "ambush",
+    "앰부쉬"
+  ],
+  "tags": [
+    "mod",
+    "rare",
+    "sentinel",
+    "shade"
+  ],
+  "game_ref": "/Lotus/Types/Sentinels/SentinelPrecepts/GhostAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/ambush.bd6ac0ce71315652d5a7bdd9a80d0218.png",
+  "thumb": "items/images/en/thumbs/ambush.bd6ac0ce71315652d5a7bdd9a80d0218.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

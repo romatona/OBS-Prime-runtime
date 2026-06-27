@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6939aa885d9ebda239125d2b",
+  "slug": "alternox_prime_set",
+  "market_slug": "alternox_prime_set",
+  "name_en": "Alternox Prime Set",
+  "name_en_slug": "alternox_prime_set",
+  "name_kr": "알터녹스 프라임 세트",
+  "aliases": [
+    "Alternox Prime Set",
+    "alternox prime set",
+    "alternox_prime_set",
+    "알터녹스 프라임 세트"
+  ],
+  "tags": [
+    "primary",
+    "prime",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/LongGuns/PrimeAlternox/PrimeAlternoxWeapon",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/alternox_prime_set.ca0e1c78e73fbc6edd38586b28ef82d1.webp",
+  "thumb": "items/images/en/thumbs/alternox_prime_set.ca0e1c78e73fbc6edd38586b28ef82d1.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

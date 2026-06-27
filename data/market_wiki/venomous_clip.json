@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156da",
+  "slug": "venomous_clip",
+  "market_slug": "venomous_clip",
+  "name_en": "Venomous Clip",
+  "name_en_slug": "venomous_clip",
+  "name_kr": "베노머스 클립",
+  "aliases": [
+    "Venomous Clip",
+    "venomous clip",
+    "venomous_clip",
+    "베노머스 클립"
+  ],
+  "tags": [
+    "archgun",
+    "archwing",
+    "mod",
+    "primary",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingWeaponToxinDamageMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/venomous_clip.9fc8ea3b71afd7b9d9392cb04519f805.png",
+  "thumb": "items/images/en/thumbs/venomous_clip.9fc8ea3b71afd7b9d9392cb04519f805.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

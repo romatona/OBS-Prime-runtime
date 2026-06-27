@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5a0ef77010bc4000b8a7c12a",
+  "slug": "primed_fever_strike",
+  "market_slug": "primed_fever_strike",
+  "name_en": "Primed Fever Strike",
+  "name_en_slug": "primed_fever_strike",
+  "name_kr": "프라임드 피버 스트라이크",
+  "aliases": [
+    "Primed Fever Strike",
+    "primed fever strike",
+    "primed_fever_strike",
+    "프라임드 피버 스트라이크"
+  ],
+  "tags": [
+    "legendary",
+    "melee",
+    "mod"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponToxinDamageModExpert",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/primed_fever_strike.a0dc6eb9fbb4c6648aed7793ca40286b.png",
+  "thumb": "items/images/en/thumbs/primed_fever_strike.a0dc6eb9fbb4c6648aed7793ca40286b.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

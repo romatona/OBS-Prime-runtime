@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5f498a209426ed00443bd0a6",
+  "slug": "necramech_redirection",
+  "market_slug": "necramech_redirection",
+  "name_en": "Necramech Redirection",
+  "name_en_slug": "necramech_redirection",
+  "name_kr": "네크라메크 리다이렉션",
+  "aliases": [
+    "Necramech Redirection",
+    "necramech redirection",
+    "necramech_redirection",
+    "네크라메크 리다이렉션"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "necramech"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Necromech/NecromechShieldMaxMod",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/necramech_redirection.2b8d7d243fd2af120ab54fa8f123691e.png",
+  "thumb": "items/images/en/thumbs/necramech_redirection.2b8d7d243fd2af120ab54fa8f123691e.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

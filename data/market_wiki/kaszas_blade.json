@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5783bee2d9b6753790c89e87",
+  "slug": "kaszas_blade",
+  "market_slug": "kaszas_blade",
+  "name_en": "Kaszas Blade",
+  "name_en_slug": "kaszas_blade",
+  "name_kr": "카스자스 블레이드",
+  "aliases": [
+    "Kaszas Blade",
+    "kaszas blade",
+    "kaszas_blade",
+    "카스자스 블레이드"
+  ],
+  "tags": [
+    "archwing",
+    "component",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchScytheBlade",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/kaszas_blade.11baea8229af2d3500c79b829f9dfcee.png",
+  "thumb": "items/images/en/thumbs/kaszas_blade.11baea8229af2d3500c79b829f9dfcee.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

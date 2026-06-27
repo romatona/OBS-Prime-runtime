@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5800c901c021d9dc0a9f891b",
+  "slug": "cunning_aspect",
+  "market_slug": "cunning_aspect",
+  "name_en": "Cunning Aspect",
+  "name_en_slug": "cunning_aspect",
+  "name_kr": "커닝 아스펙트",
+  "aliases": [
+    "Cunning Aspect",
+    "cunning aspect",
+    "cunning_aspect",
+    "커닝 아스펙트"
+  ],
+  "tags": [
+    "mod",
+    "pvp",
+    "rapiers",
+    "stance",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Stances/PvPRapierStanceOne",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/cunning_aspect.e96626645e49485235fb748ede495988.png",
+  "thumb": "items/images/en/thumbs/cunning_aspect.e96626645e49485235fb748ede495988.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

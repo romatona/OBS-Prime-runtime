@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6056348390a69e004e86287c",
+  "slug": "indomitable_matrix",
+  "market_slug": "indomitable_matrix",
+  "name_en": "Indomitable Matrix",
+  "name_en_slug": "indomitable_matrix",
+  "name_kr": "인도미터블 매트릭스",
+  "aliases": [
+    "Indomitable Matrix",
+    "indomitable matrix",
+    "indomitable_matrix",
+    "인도미터블 매트릭스"
+  ],
+  "tags": [
+    "mod",
+    "railjack",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Railjack/Piloting/ZektiSiegeMatrixAura",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/indomitable_matrix.af23e4f4a5eee388d846aa018d14fcbc.png",
+  "thumb": "items/images/en/thumbs/indomitable_matrix.af23e4f4a5eee388d846aa018d14fcbc.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

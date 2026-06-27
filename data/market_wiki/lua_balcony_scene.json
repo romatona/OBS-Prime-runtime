@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5afdd5bd1a862a05ad817cf4",
+  "slug": "lua_balcony_scene",
+  "market_slug": "lua_balcony_scene",
+  "name_en": "Lua Balcony Scene",
+  "name_en_slug": "lua_balcony_scene",
+  "name_kr": "루아 발코니 배경",
+  "aliases": [
+    "Lua Balcony Scene",
+    "lua balcony scene",
+    "lua_balcony_scene",
+    "루아 발코니 배경"
+  ],
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/MiscItems/PhotoboothTileOrokinMoonPiaza",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/lua_balcony_scene.f3696ad7d670f8228acf03032758f902.png",
+  "thumb": "items/images/en/thumbs/lua_balcony_scene.f3696ad7d670f8228acf03032758f902.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,30 @@
+﻿{
+    "schema":  "obs_prime.item_wiki_entry.v1",
+    "slug":  "shade_prime_systems",
+    "market_slug":  "shade_prime_systems",
+    "name_en":  "Shade Prime Systems",
+    "name_en_slug":  "shade_prime_systems",
+    "name_kr":  "셰이드 프라임 시스템",
+    "aliases":  [
+                    "Shade Prime Systems",
+                    "shade_prime_systems",
+                    "셰이드 프라임 시스템"
+                ],
+    "ducats":  45,
+    "ducats_display":  "45 d",
+    "ducats_source":  "warframe_market_v2_items",
+    "rarities":  [
+                     "Uncommon"
+                 ],
+    "plat":  null,
+    "plat_display":  "-",
+    "plat_date":  "",
+    "source":  {
+                   "wfcd_relics":  "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Relics.json",
+                   "warframe_market_items":  "https://api.warframe.market/v2/items",
+                   "price_cache":  "data/market_cache/warframe_market_prices.json"
+               },
+    "updated_at":  "2026-06-26T02:05:14Z",
+    "version":  "26-06-26",
+    "relic_reward_count":  24
+}

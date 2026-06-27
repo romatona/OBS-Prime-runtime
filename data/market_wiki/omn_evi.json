@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "693e6b2403903ae8993ffb0a",
+  "slug": "omn_evi",
+  "market_slug": "omn_evi",
+  "name_en": "Omn-Evi",
+  "name_en_slug": "omn_evi",
+  "name_kr": "옴-에비",
+  "aliases": [
+    "Omn-Evi",
+    "omn evi",
+    "omn_evi",
+    "옴-에비"
+  ],
+  "tags": [
+    "any",
+    "mod",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Antiques/CritChanceSchool",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/ko/omn_evi.2aae58fcd1fe73cc88dbef84828dd96e.webp",
+  "thumb": "items/images/ko/thumbs/omn_evi.2aae58fcd1fe73cc88dbef84828dd96e.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

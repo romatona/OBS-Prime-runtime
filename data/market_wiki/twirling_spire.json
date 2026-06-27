@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "59eb9b0952f90ed715e14143",
+  "slug": "twirling_spire",
+  "market_slug": "twirling_spire",
+  "name_en": "Twirling Spire",
+  "name_en_slug": "twirling_spire",
+  "name_kr": "트월링 스파이어",
+  "aliases": [
+    "Twirling Spire",
+    "twirling spire",
+    "twirling_spire",
+    "트월링 스파이어"
+  ],
+  "tags": [
+    "mod",
+    "polearms",
+    "rare",
+    "stance"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/PolearmCmbThreeMeleeTree",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/twirling_spire.67fe342c880bda80d815f6eae1eec325.png",
+  "thumb": "items/images/en/thumbs/twirling_spire.67fe342c880bda80d815f6eae1eec325.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

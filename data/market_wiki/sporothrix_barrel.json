@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5fb84768c34da3004797d552",
+  "slug": "sporothrix_barrel",
+  "market_slug": "sporothrix_barrel",
+  "name_en": "Sporothrix Barrel",
+  "name_en_slug": "sporothrix_barrel",
+  "name_kr": "스포로트릭스 배럴",
+  "aliases": [
+    "Sporothrix Barrel",
+    "sporothrix barrel",
+    "sporothrix_barrel",
+    "스포로트릭스 배럴"
+  ],
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/InfSniperRifleBarrel",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/sporothrix_barrel.d9a3fe663f9fee156958a698e597a6bb.png",
+  "thumb": "items/images/en/thumbs/sporothrix_barrel.d9a3fe663f9fee156958a698e597a6bb.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

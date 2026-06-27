@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e5155b9",
+  "slug": "magazine_extension",
+  "market_slug": "magazine_extension",
+  "name_en": "Magazine Extension",
+  "name_en_slug": "magazine_extension",
+  "name_kr": "매거진 익스텐션",
+  "aliases": [
+    "Magazine Extension",
+    "magazine extension",
+    "magazine_extension",
+    "매거진 익스텐션"
+  ],
+  "tags": [
+    "archgun",
+    "archwing",
+    "common",
+    "mod",
+    "primary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Archwing/Rifle/ArchwingRifleClipMaxMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/magazine_extension.29c617cc777be81858f3dee8a905a199.png",
+  "thumb": "items/images/en/thumbs/magazine_extension.29c617cc777be81858f3dee8a905a199.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56dac54b5cc639de0a45c516",
+  "slug": "sheev_blade",
+  "market_slug": "sheev_blade",
+  "name_en": "Sheev Blade",
+  "name_en_slug": "sheev_blade",
+  "name_kr": "쉬브 블레이드",
+  "aliases": [
+    "Sheev Blade",
+    "sheev blade",
+    "sheev_blade",
+    "쉬브 블레이드"
+  ],
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/GrineerCombatKnifeBlade",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/sheev_blade.96c63b432f3d71f2bf5918e9f8d721fa.png",
+  "thumb": "items/images/en/thumbs/sheev_blade.96c63b432f3d71f2bf5918e9f8d721fa.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

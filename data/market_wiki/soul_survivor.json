@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515604",
+  "slug": "soul_survivor",
+  "market_slug": "soul_survivor",
+  "name_en": "Soul Survivor",
+  "name_en_slug": "soul_survivor",
+  "name_kr": "소울 서바이버",
+  "aliases": [
+    "Soul Survivor",
+    "soul survivor",
+    "soul_survivor",
+    "소울 서바이버"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "nekros",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Necro/SoulPunchAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/soul_survivor.624cc099e5f256c381bd6d024d6d1270.png",
+  "thumb": "items/images/en/thumbs/soul_survivor.624cc099e5f256c381bd6d024d6d1270.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

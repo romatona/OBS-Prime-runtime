@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60e5b9004794450053e9995e",
+  "slug": "oull",
+  "market_slug": "oull",
+  "name_en": "Oull",
+  "name_en_slug": "oull",
+  "name_kr": "오울",
+  "aliases": [
+    "Oull",
+    "oull",
+    "오울"
+  ],
+  "tags": [
+    "mod",
+    "parazon",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Immortal/ImmortalWildcardMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/oull.5e6a9b7cd07dfa6cd299006523c3f802.png",
+  "thumb": "items/images/en/thumbs/oull.5e6a9b7cd07dfa6cd299006523c3f802.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

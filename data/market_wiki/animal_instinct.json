@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "559dacd3e779897ba8819969",
+  "slug": "animal_instinct",
+  "market_slug": "animal_instinct",
+  "name_en": "Animal Instinct",
+  "name_en_slug": "animal_instinct",
+  "name_kr": "애니멀 인스팅트",
+  "aliases": [
+    "Animal Instinct",
+    "animal instinct",
+    "animal_instinct",
+    "애니멀 인스팅트"
+  ],
+  "tags": [
+    "companion",
+    "mod",
+    "rare",
+    "sentinel"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sentinel/SentinelLootRadarEnemyRadarMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/animal_instinct.934c4722d6e4f4013aa14bc75a2d84b0.png",
+  "thumb": "items/images/en/thumbs/animal_instinct.934c4722d6e4f4013aa14bc75a2d84b0.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

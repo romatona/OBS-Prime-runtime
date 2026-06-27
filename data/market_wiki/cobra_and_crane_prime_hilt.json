@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "639a941d74b02f0088877851",
+  "slug": "cobra_and_crane_prime_hilt",
+  "market_slug": "cobra_and_crane_prime_hilt",
+  "name_en": "Cobra & Crane Prime Hilt",
+  "name_en_slug": "cobra_and_crane_prime_hilt",
+  "name_kr": "코브라 & 크레인 프라임 힐트",
+  "aliases": [
+    "Cobra & Crane Prime Hilt",
+    "cobra and crane prime hilt",
+    "cobra_and_crane_prime_hilt",
+    "코브라 & 크레인 프라임 힐트"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/CobraCranePrimeHandle",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/cobra_and_crane_prime_hilt.84b2733b9f7486c23028b5a2b4e012b4.png",
+  "thumb": "items/images/en/thumbs/cobra_and_crane_prime_hilt.84b2733b9f7486c23028b5a2b4e012b4.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

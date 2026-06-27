@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5a0475096c4655012038ddc2",
+  "slug": "exodia_hunt",
+  "market_slug": "exodia_hunt",
+  "name_en": "Exodia Hunt",
+  "name_en_slug": "exodia_hunt",
+  "name_kr": "엑소디아 헌트",
+  "aliases": [
+    "Exodia Hunt",
+    "exodia hunt",
+    "exodia_hunt",
+    "엑소디아 헌트"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GroundSlamPull",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/exodia_hunt.991da5e49a00e69755b5c7948f5448f6.png",
+  "thumb": "items/images/en/thumbs/exodia_hunt.991da5e49a00e69755b5c7948f5448f6.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

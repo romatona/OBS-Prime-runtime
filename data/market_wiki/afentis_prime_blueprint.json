@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6a330f5958b60af8cd1a0d0e",
+  "slug": "afentis_prime_blueprint",
+  "market_slug": "afentis_prime_blueprint",
+  "name_en": "Afentis Prime Blueprint",
+  "name_en_slug": "afentis_prime_blueprint",
+  "name_kr": "아펜티스 프라임 설계도",
+  "aliases": [
+    "Afentis Prime",
+    "Afentis Prime Blueprint",
+    "afentis prime blueprint",
+    "afentis_prime_blueprint",
+    "아펜티스 프라임",
+    "아펜티스 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "primary",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/AfentisPrimeBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/afentis_prime_blueprint.280c16ef2890301844a36006cb1dd723.webp",
+  "thumb": "items/images/en/thumbs/afentis_prime_blueprint.280c16ef2890301844a36006cb1dd723.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

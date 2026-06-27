@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156e1",
+  "slug": "gemini_cross",
+  "market_slug": "gemini_cross",
+  "name_en": "Gemini Cross",
+  "name_en_slug": "gemini_cross",
+  "name_kr": "제미니 크로스",
+  "aliases": [
+    "Gemini Cross",
+    "gemini cross",
+    "gemini_cross",
+    "제미니 크로스"
+  ],
+  "tags": [
+    "mod",
+    "stance",
+    "tonfas",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/TonfaCmbOneMeleeTree",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/gemini_cross.e2d704efafe48796ded6c796e11db6ed.png",
+  "thumb": "items/images/en/thumbs/gemini_cross.e2d704efafe48796ded6c796e11db6ed.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

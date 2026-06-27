@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5f498a1f9426ed00443bd098",
+  "slug": "draining_bite",
+  "market_slug": "draining_bite",
+  "name_en": "Draining Bite",
+  "name_en_slug": "draining_bite",
+  "name_kr": "드레이닝 바이트",
+  "aliases": [
+    "Draining Bite",
+    "draining bite",
+    "draining_bite",
+    "드레이닝 바이트"
+  ],
+  "tags": [
+    "kavat",
+    "mod",
+    "rare",
+    "vasca_kavat"
+  ],
+  "game_ref": "/Lotus/Types/Friendly/Pets/CatbrowPetPrecepts/CatbrowVampireBitePrecept",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/draining_bite.4b56d382edcac59da94f7163bbf4efd4.png",
+  "thumb": "items/images/en/thumbs/draining_bite.4b56d382edcac59da94f7163bbf4efd4.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

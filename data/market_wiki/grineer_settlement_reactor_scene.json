@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5a9e8670b2b6a800db67f127",
+  "slug": "grineer_settlement_reactor_scene",
+  "market_slug": "grineer_settlement_reactor_scene",
+  "name_en": "Grineer Settlement Reactor Scene",
+  "name_en_slug": "grineer_settlement_reactor_scene",
+  "name_kr": "그리니어 주둔지 리액터 배경",
+  "aliases": [
+    "Grineer Settlement Reactor Scene",
+    "grineer settlement reactor scene",
+    "grineer_settlement_reactor_scene",
+    "그리니어 주둔지 리액터 배경"
+  ],
+  "tags": [
+    "misc",
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/MiscItems/PhotoboothTileSyndicateSteelMeridianCave",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/grineer_settlement_reactor_scene.f3696ad7d670f8228acf03032758f902.png",
+  "thumb": "items/images/en/thumbs/grineer_settlement_reactor_scene.f3696ad7d670f8228acf03032758f902.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

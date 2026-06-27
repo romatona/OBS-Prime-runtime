@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5f0e0fdc9f527b0285718f18",
+  "slug": "karyst_prime_handle",
+  "market_slug": "karyst_prime_handle",
+  "name_en": "Karyst Prime Handle",
+  "name_en_slug": "karyst_prime_handle",
+  "name_kr": "캐리스트 프라임 핸들",
+  "aliases": [
+    "Karyst Prime Handle",
+    "karyst prime handle",
+    "karyst_prime_handle",
+    "캐리스트 프라임 핸들"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/KarystPrimeHandle",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/karyst_prime_handle.4ac2616227b5e4e2e42e44473acf9a91.png",
+  "thumb": "items/images/en/thumbs/karyst_prime_handle.4ac2616227b5e4e2e42e44473acf9a91.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

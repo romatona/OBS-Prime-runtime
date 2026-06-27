@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5740c1879d238d4a03d28518",
+  "slug": "looter",
+  "market_slug": "looter",
+  "name_en": "Looter",
+  "name_en_slug": "looter",
+  "name_kr": "루터",
+  "aliases": [
+    "Looter",
+    "looter",
+    "루터"
+  ],
+  "tags": [
+    "carrier",
+    "mod",
+    "rare",
+    "sentinel"
+  ],
+  "game_ref": "/Lotus/Types/Sentinels/SentinelPrecepts/Looter",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/looter.eb87275b07df115d778c0b4540e62bca.png",
+  "thumb": "items/images/en/thumbs/looter.eb87275b07df115d778c0b4540e62bca.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

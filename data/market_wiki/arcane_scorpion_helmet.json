@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54aaf259e7798948f1b718c7",
+  "slug": "arcane_scorpion_helmet",
+  "market_slug": "arcane_scorpion_helmet",
+  "name_en": "Arcane Scorpion Helmet",
+  "name_en_slug": "arcane_scorpion_helmet",
+  "name_kr": "아케인 스콜피온 헬멧",
+  "aliases": [
+    "Arcane Scorpion Helmet",
+    "arcane scorpion helmet",
+    "arcane_scorpion_helmet",
+    "아케인 스콜피온 헬멧"
+  ],
+  "tags": [
+    "arcane_helmet",
+    "skin"
+  ],
+  "game_ref": "/Lotus/Upgrades/Skins/Ninja/NinjaHelmetAlt",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/arcane_scorpion_ash_helmet.0a0e5b3e904af873aaefa4b876a343b9.png",
+  "thumb": "items/images/en/thumbs/arcane_scorpion_ash_helmet.0a0e5b3e904af873aaefa4b876a343b9.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

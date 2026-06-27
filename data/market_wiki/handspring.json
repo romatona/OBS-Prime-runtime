@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e5155ea",
+  "slug": "handspring",
+  "market_slug": "handspring",
+  "name_en": "Handspring",
+  "name_en_slug": "handspring",
+  "name_kr": "핸드스프링",
+  "aliases": [
+    "Handspring",
+    "handspring",
+    "핸드스프링"
+  ],
+  "tags": [
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Warframe/AvatarKnockdownRecoveryMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/handspring.7f0d92568cc658d57fd8a30090f4d6ea.png",
+  "thumb": "items/images/en/thumbs/handspring.7f0d92568cc658d57fd8a30090f4d6ea.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

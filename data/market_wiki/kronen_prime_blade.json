@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5ab167b9b2b6a80475780fd1",
+  "slug": "kronen_prime_blade",
+  "market_slug": "kronen_prime_blade",
+  "name_en": "Kronen Prime Blade",
+  "name_en_slug": "kronen_prime_blade",
+  "name_kr": "크로넨 프라임 블레이드",
+  "aliases": [
+    "Kronen Prime Blade",
+    "kronen prime blade",
+    "kronen_prime_blade",
+    "크로넨 프라임 블레이드"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/KronenPrimeBlade",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/kronen_prime_blade.09023145e06199878b94a9c664e95ce7.png",
+  "thumb": "items/images/en/thumbs/kronen_prime_blade.09023145e06199878b94a9c664e95ce7.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

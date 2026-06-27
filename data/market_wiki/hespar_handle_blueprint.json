@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "626ca573f40db600829c9d0b",
+  "slug": "hespar_handle_blueprint",
+  "market_slug": "hespar_handle_blueprint",
+  "name_en": "Hespar Handle Blueprint",
+  "name_en_slug": "hespar_handle_blueprint",
+  "name_kr": "헤스파르 핸들 설계도",
+  "aliases": [
+    "Hespar Handle",
+    "Hespar Handle Blueprint",
+    "hespar handle blueprint",
+    "hespar_handle_blueprint",
+    "헤스파르 핸들",
+    "헤스파르 핸들 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/DuviriHeavyScytheHandleBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/hespar_handle.58bd4fbd6ed4930402342b2662d68ac4.png",
+  "thumb": "items/images/en/thumbs/hespar_handle.58bd4fbd6ed4930402342b2662d68ac4.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

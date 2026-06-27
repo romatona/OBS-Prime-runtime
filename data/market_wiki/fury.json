@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e515687",
+  "slug": "fury",
+  "market_slug": "fury",
+  "name_en": "Fury",
+  "name_en_slug": "fury",
+  "name_kr": "퓨리",
+  "aliases": [
+    "Fury",
+    "fury",
+    "퓨리"
+  ],
+  "tags": [
+    "melee",
+    "mod",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Melee/WeaponFireRateMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/fury.fdef4a03033eabf258a320e8df18fc62.png",
+  "thumb": "items/images/en/thumbs/fury.fdef4a03033eabf258a320e8df18fc62.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

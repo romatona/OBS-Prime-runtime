@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5c182b739603780081b09a53",
+  "slug": "mesa_prime_set",
+  "market_slug": "mesa_prime_set",
+  "name_en": "Mesa Prime Set",
+  "name_en_slug": "mesa_prime_set",
+  "name_kr": "메사 프라임 세트",
+  "aliases": [
+    "Mesa Prime Set",
+    "mesa prime set",
+    "mesa_prime_set",
+    "메사 프라임 세트"
+  ],
+  "tags": [
+    "prime",
+    "set",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Cowgirl/MesaPrime",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/mesa_prime_set.34d67af54de052f6de1d5ae64ed40197.png",
+  "thumb": "items/images/en/thumbs/mesa_prime_set.34d67af54de052f6de1d5ae64ed40197.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

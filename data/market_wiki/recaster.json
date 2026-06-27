@@ -1,0 +1,27 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6054dea35221e30057501093",
+  "slug": "recaster",
+  "market_slug": "recaster",
+  "name_en": "Recaster",
+  "name_en_slug": "recaster",
+  "name_kr": "리캐스터",
+  "aliases": [
+    "Recaster",
+    "recaster",
+    "리캐스터"
+  ],
+  "tags": [
+    "fish"
+  ],
+  "game_ref": "/Lotus/Types/Items/Fish/Solaris/SolarisCoolUncommonFishAItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/recaster.d3e1f9906910aa1149bce2194b6e8607.png",
+  "thumb": "items/images/en/thumbs/recaster.d3e1f9906910aa1149bce2194b6e8607.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

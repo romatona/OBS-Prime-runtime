@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "693e6bb103903ae8993ffb10",
+  "slug": "hayan_dabor",
+  "market_slug": "hayan_dabor",
+  "name_en": "Hayan-Dabor",
+  "name_en_slug": "hayan_dabor",
+  "name_kr": "하얀-다보르",
+  "aliases": [
+    "Hayan-Dabor",
+    "hayan dabor",
+    "hayan_dabor",
+    "하얀-다보르"
+  ],
+  "tags": [
+    "any",
+    "common",
+    "mod"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Antiques/Multishot",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/ko/hayan_dabor.c8d9b26d24e795190c6e44964fee7045.webp",
+  "thumb": "items/images/ko/thumbs/hayan_dabor.c8d9b26d24e795190c6e44964fee7045.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "66fd68073a826eccf651cd55",
+  "slug": "amanata_pressure",
+  "market_slug": "amanata_pressure",
+  "name_en": "Amanata Pressure",
+  "name_en_slug": "amanata_pressure",
+  "name_kr": "아마나타 프레셔",
+  "aliases": [
+    "Amanata Pressure",
+    "amanata pressure",
+    "amanata_pressure",
+    "아마나타 프레셔"
+  ],
+  "tags": [
+    "amanata",
+    "melee",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/Polearms/Naginata/ShrineMaidenNaginataAugment",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/amanata_pressure.a81cadf3c1f6e67c92c188534ced77b2.webp",
+  "thumb": "items/images/en/thumbs/amanata_pressure.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

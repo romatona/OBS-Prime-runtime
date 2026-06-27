@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5a0ef3fb10bc40007cce1c8b",
+  "slug": "hunter_recovery",
+  "market_slug": "hunter_recovery",
+  "name_en": "Hunter Recovery",
+  "name_en_slug": "hunter_recovery",
+  "name_kr": "헌터 리커버리",
+  "aliases": [
+    "Hunter Recovery",
+    "hunter recovery",
+    "hunter_recovery",
+    "헌터 리커버리"
+  ],
+  "tags": [
+    "beast",
+    "common",
+    "mod",
+    "sentinel"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sets/Hunter/CompanionHunterRecoveryMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/hunter_recovery.4767ea657fe1c65c7a7a7805957c9b24.png",
+  "thumb": "items/images/en/thumbs/hunter_recovery.4767ea657fe1c65c7a7a7805957c9b24.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

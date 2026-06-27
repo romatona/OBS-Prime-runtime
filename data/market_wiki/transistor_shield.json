@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "59385f6716efa3a742b15f62",
+  "slug": "transistor_shield",
+  "market_slug": "transistor_shield",
+  "name_en": "Transistor Shield",
+  "name_en_slug": "transistor_shield",
+  "name_kr": "트랜지스터 실드",
+  "aliases": [
+    "Transistor Shield",
+    "transistor shield",
+    "transistor_shield",
+    "트랜지스터 실드"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "rare",
+    "volt",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Volt/ShieldAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/transistor_shield.1a661aae669816c05a1e4e34cdcf8c2b.png",
+  "thumb": "items/images/en/thumbs/transistor_shield.1a661aae669816c05a1e4e34cdcf8c2b.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

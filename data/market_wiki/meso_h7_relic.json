@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "66c6098666bbb2aedca69597",
+  "slug": "meso_h7_relic",
+  "market_slug": "meso_h7_relic",
+  "name_en": "Meso H7 Relic",
+  "name_en_slug": "meso_h7_relic",
+  "name_kr": "메소 H7 성유물",
+  "aliases": [
+    "Meso H7 Relic",
+    "meso h7 relic",
+    "meso_h7_relic",
+    "메소 H7 성유물"
+  ],
+  "tags": [
+    "meso",
+    "relic"
+  ],
+  "game_ref": "/Lotus/Types/Game/Projections/T2VoidProjectionSevagothPrimeB",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/unknown.png",
+  "thumb": "items/unknown.thumb.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

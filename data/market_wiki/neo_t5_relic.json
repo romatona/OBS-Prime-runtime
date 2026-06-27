@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6139101a30dd5b004b7f90a6",
+  "slug": "neo_t5_relic",
+  "market_slug": "neo_t5_relic",
+  "name_en": "Neo T5 Relic",
+  "name_en_slug": "neo_t5_relic",
+  "name_kr": "네오 T5 성유물",
+  "aliases": [
+    "Neo T5 Relic",
+    "neo t5 relic",
+    "neo_t5_relic",
+    "네오 T5 성유물"
+  ],
+  "tags": [
+    "neo",
+    "relic"
+  ],
+  "game_ref": "/Lotus/Types/Game/Projections/T3VoidProjectionNidusPrimeB",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/neo_t5_relic.404dc9ef087cc16ca255f5b5fd17fff0.png",
+  "thumb": "items/images/en/thumbs/neo_t5_relic.404dc9ef087cc16ca255f5b5fd17fff0.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

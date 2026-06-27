@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6a330f5c58b60af8cd1a0d11",
+  "slug": "afentis_prime_handle",
+  "market_slug": "afentis_prime_handle",
+  "name_en": "Afentis Prime Handle",
+  "name_en_slug": "afentis_prime_handle",
+  "name_kr": "아펜티스 프라임 핸들",
+  "aliases": [
+    "Afentis Prime Handle",
+    "afentis prime handle",
+    "afentis_prime_handle",
+    "아펜티스 프라임 핸들"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/AfentisPrimeHandle",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/afentis_prime_handle.280c16ef2890301844a36006cb1dd723.webp",
+  "thumb": "items/images/en/thumbs/afentis_prime_handle.280c16ef2890301844a36006cb1dd723.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "68adcffe731e63abe79a5d12",
+  "slug": "caliban_prime_chassis_blueprint",
+  "market_slug": "caliban_prime_chassis_blueprint",
+  "name_en": "Caliban Prime Chassis Blueprint",
+  "name_en_slug": "caliban_prime_chassis_blueprint",
+  "name_kr": "칼리반 프라임 섀시 설계도",
+  "aliases": [
+    "Caliban Prime Chassis",
+    "Caliban Prime Chassis Blueprint",
+    "caliban prime chassis blueprint",
+    "caliban_prime_chassis_blueprint",
+    "칼리반 프라임 섀시",
+    "칼리반 프라임 섀시 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/CalibanPrimeChassisBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/unknown.png",
+  "thumb": "",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

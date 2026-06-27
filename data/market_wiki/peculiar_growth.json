@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5b00231cac0f7e006fd6f7b5",
+  "slug": "peculiar_growth",
+  "market_slug": "peculiar_growth",
+  "name_en": "Peculiar Growth",
+  "name_en_slug": "peculiar_growth",
+  "name_kr": "페큘리어 그로스",
+  "aliases": [
+    "Peculiar Growth",
+    "peculiar growth",
+    "peculiar_growth",
+    "페큘리어 그로스"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "mod",
+    "peculiar",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Peculiars/InflationMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/peculiar_growth.5300b360bad6d7c97e3700baa3451a51.png",
+  "thumb": "items/images/en/thumbs/peculiar_growth.5300b360bad6d7c97e3700baa3451a51.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

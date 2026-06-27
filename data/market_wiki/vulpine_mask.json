@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5696e4e06629907e30c394f8",
+  "slug": "vulpine_mask",
+  "market_slug": "vulpine_mask",
+  "name_en": "Vulpine Mask",
+  "name_en_slug": "vulpine_mask",
+  "name_kr": "불파인 마스크",
+  "aliases": [
+    "Vulpine Mask",
+    "vulpine mask",
+    "vulpine_mask",
+    "불파인 마스크"
+  ],
+  "tags": [
+    "mod",
+    "rapiers",
+    "rare",
+    "stance"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/RapierCmbOneMeleeTree",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/vulpine_mask.8f91c81fa49c6e9d430b354d01fd3cbf.png",
+  "thumb": "items/images/en/thumbs/vulpine_mask.8f91c81fa49c6e9d430b354d01fd3cbf.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

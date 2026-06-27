@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54dd276ee7798934e7afad13",
+  "slug": "primed_pistol_ammo_mutation",
+  "market_slug": "primed_pistol_ammo_mutation",
+  "name_en": "Primed Pistol Ammo Mutation",
+  "name_en_slug": "primed_pistol_ammo_mutation",
+  "name_kr": "프라임드 피스톨 애모 뮤테이션",
+  "aliases": [
+    "Primed Pistol Ammo Mutation",
+    "primed pistol ammo mutation",
+    "primed_pistol_ammo_mutation",
+    "프라임드 피스톨 애모 뮤테이션"
+  ],
+  "tags": [
+    "legendary",
+    "mod",
+    "pistol",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponPistolConvertAmmoModExpert",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/primed_pistol_ammo_mutation.3a6c03643ec114f30da4f486b9a30a59.png",
+  "thumb": "items/images/en/thumbs/primed_pistol_ammo_mutation.3a6c03643ec114f30da4f486b9a30a59.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

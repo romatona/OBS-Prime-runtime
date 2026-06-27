@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5ce7fd87d23a3b00908c4210",
+  "slug": "tractor_beam",
+  "market_slug": "tractor_beam",
+  "name_en": "Tractor Beam",
+  "name_en_slug": "tractor_beam",
+  "name_kr": "트랙터 빔",
+  "aliases": [
+    "Tractor Beam",
+    "tractor beam",
+    "tractor_beam",
+    "트랙터 빔"
+  ],
+  "tags": [
+    "common",
+    "moa",
+    "mod",
+    "sentinel"
+  ],
+  "game_ref": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetPrecept/MoaTractorBeamPrecept",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/tractor_beam.aa9e1edd8948345a31e745b39e583040.png",
+  "thumb": "items/images/en/thumbs/tractor_beam.aa9e1edd8948345a31e745b39e583040.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

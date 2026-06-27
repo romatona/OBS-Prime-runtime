@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "61bb64fb3132ff00482b5fb4",
+  "slug": "niras_anguish",
+  "market_slug": "niras_anguish",
+  "name_en": "Nira's Anguish",
+  "name_en_slug": "niras_anguish",
+  "name_kr": "나이라 앵귀시",
+  "aliases": [
+    "Nira's Anguish",
+    "niras anguish",
+    "niras_anguish",
+    "나이라 앵귀시"
+  ],
+  "tags": [
+    "common",
+    "mod",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sets/Nira/NiraExilusMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/niras_anguish.823c093e41268b5481548e919b708d60.png",
+  "thumb": "items/images/en/thumbs/niras_anguish.823c093e41268b5481548e919b708d60.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

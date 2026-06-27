@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "667237778ba7c81b70d02ca4",
+  "slug": "orokin_derelict_simulacrum",
+  "market_slug": "orokin_derelict_simulacrum",
+  "name_en": "Orokin Derelict Simulacrum",
+  "name_en_slug": "orokin_derelict_simulacrum",
+  "name_kr": "오로킨 폐함선 시뮬라크럼",
+  "aliases": [
+    "Orokin Derelict Simulacrum",
+    "orokin derelict simulacrum",
+    "orokin_derelict_simulacrum",
+    "오로킨 폐함선 시뮬라크럼"
+  ],
+  "tags": [
+    "simulacrum"
+  ],
+  "game_ref": "/Lotus/Types/Items/DangerRoom/DangerRoomTileOrokinDerelictArtifactRoom",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/orokin_derelict_simulacrum.affcd8740b649be488900433ed055705.webp",
+  "thumb": "items/images/en/thumbs/orokin_derelict_simulacrum.affcd8740b649be488900433ed055705.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

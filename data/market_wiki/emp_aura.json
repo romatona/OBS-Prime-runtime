@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5758ad3042ba8659dde2f56f",
+  "slug": "emp_aura",
+  "market_slug": "emp_aura",
+  "name_en": "EMP Aura",
+  "name_en_slug": "emp_aura",
+  "name_kr": "Emp 오라",
+  "aliases": [
+    "EMP Aura",
+    "Emp 오라",
+    "emp aura",
+    "emp_aura"
+  ],
+  "tags": [
+    "aura",
+    "mod",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Aura/RobotPoorAimAuraMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/emp_aura.aa7efec658337661aafa36bb82d83ac4.png",
+  "thumb": "items/images/en/thumbs/emp_aura.aa7efec658337661aafa36bb82d83ac4.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

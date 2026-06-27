@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54c686c9e7798913d9e63fff",
+  "slug": "primed_heavy_trauma",
+  "market_slug": "primed_heavy_trauma",
+  "name_en": "Primed Heavy Trauma",
+  "name_en_slug": "primed_heavy_trauma",
+  "name_kr": "프라임드 헤비 트라우마",
+  "aliases": [
+    "Primed Heavy Trauma",
+    "primed heavy trauma",
+    "primed_heavy_trauma",
+    "프라임드 헤비 트라우마"
+  ],
+  "tags": [
+    "legendary",
+    "melee",
+    "mod"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponImpactDamageModExpert",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/primed_heavy_trauma.bac389152dab880e42a72ef919212844.png",
+  "thumb": "items/images/en/thumbs/primed_heavy_trauma.bac389152dab880e42a72ef919212844.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

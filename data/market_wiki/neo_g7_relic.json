@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "66c6098366bbb2aedca6958d",
+  "slug": "neo_g7_relic",
+  "market_slug": "neo_g7_relic",
+  "name_en": "Neo G7 Relic",
+  "name_en_slug": "neo_g7_relic",
+  "name_kr": "네오 G7 성유물",
+  "aliases": [
+    "Neo G7 Relic",
+    "neo g7 relic",
+    "neo_g7_relic",
+    "네오 G7 성유물"
+  ],
+  "tags": [
+    "neo",
+    "relic"
+  ],
+  "game_ref": "/Lotus/Types/Game/Projections/T3VoidProjectionSevagothPrimeC",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/unknown.png",
+  "thumb": "items/unknown.thumb.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

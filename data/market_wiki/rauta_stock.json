@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6493d52b7ec1902281122e75",
+  "slug": "rauta_stock",
+  "market_slug": "rauta_stock",
+  "name_en": "Rauta Stock",
+  "name_en_slug": "rauta_stock",
+  "name_kr": "라우타 스톡",
+  "aliases": [
+    "Rauta Stock",
+    "rauta stock",
+    "rauta_stock",
+    "라우타 스톡"
+  ],
+  "tags": [
+    "component",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/PaxDuviricusShotgunStock",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/rauta_stock.cbe84e8e7131f82a5af0e4964dbbde79.png",
+  "thumb": "items/images/en/thumbs/rauta_stock.cbe84e8e7131f82a5af0e4964dbbde79.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

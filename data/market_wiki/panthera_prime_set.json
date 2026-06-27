@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5f0e0fdc9f527b0285718f1a",
+  "slug": "panthera_prime_set",
+  "market_slug": "panthera_prime_set",
+  "name_en": "Panthera Prime Set",
+  "name_en_slug": "panthera_prime_set",
+  "name_kr": "팬서라 프라임 세트",
+  "aliases": [
+    "Panthera Prime Set",
+    "panthera prime set",
+    "panthera_prime_set",
+    "팬서라 프라임 세트"
+  ],
+  "tags": [
+    "primary",
+    "prime",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/LongGuns/PrimePanthera/PrimePanthera",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/panthera_prime_set.7a4ebdc3f85ef877a6ffce8790660e30.png",
+  "thumb": "items/images/en/thumbs/panthera_prime_set.7a4ebdc3f85ef877a6ffce8790660e30.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56dac5945cc639de0a45c523",
+  "slug": "power_of_three",
+  "market_slug": "power_of_three",
+  "name_en": "Power Of Three",
+  "name_en_slug": "power_of_three",
+  "name_kr": "파워 오브 쓰리",
+  "aliases": [
+    "Power Of Three",
+    "power of three",
+    "power_of_three",
+    "파워 오브 쓰리"
+  ],
+  "tags": [
+    "augment",
+    "ivara",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Ranger/RangerQuiverPvPAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/power_of_three.f147d10eef80bc05208279a4d0d44a06.png",
+  "thumb": "items/images/en/thumbs/power_of_three.f147d10eef80bc05208279a4d0d44a06.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

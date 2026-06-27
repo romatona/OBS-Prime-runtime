@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54e644ffe779897594fa68cc",
+  "slug": "repelling_bastille",
+  "market_slug": "repelling_bastille",
+  "name_en": "Enduring Bastille",
+  "name_en_slug": "repelling_bastille",
+  "name_kr": "엔듀어링 바스티유",
+  "aliases": [
+    "Enduring Bastille",
+    "repelling bastille",
+    "repelling_bastille",
+    "엔듀어링 바스티유"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "rare",
+    "vauban",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Trapper/LevTrapAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/repelling_bastille.342178f3f8cdb716c8545e5d4fa03227.png",
+  "thumb": "items/images/en/thumbs/repelling_bastille.342178f3f8cdb716c8545e5d4fa03227.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

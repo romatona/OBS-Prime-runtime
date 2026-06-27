@@ -1,0 +1,27 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6054de8d5221e30057501087",
+  "slug": "cuthol",
+  "market_slug": "cuthol",
+  "name_en": "Cuthol",
+  "name_en_slug": "cuthol",
+  "name_kr": "컷홀",
+  "aliases": [
+    "Cuthol",
+    "cuthol",
+    "컷홀"
+  ],
+  "tags": [
+    "fish"
+  ],
+  "game_ref": "/Lotus/Types/Items/Fish/Eidolon/NightRareFishBItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/cuthol.f8c5a1e7678b2010c9850660a7404cb8.png",
+  "thumb": "items/images/en/thumbs/cuthol.f8c5a1e7678b2010c9850660a7404cb8.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

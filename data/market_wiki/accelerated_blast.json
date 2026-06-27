@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156bd",
+  "slug": "accelerated_blast",
+  "market_slug": "accelerated_blast",
+  "name_en": "Accelerated Blast",
+  "name_en_slug": "accelerated_blast",
+  "name_kr": "액셀러레이티드 블래스트",
+  "aliases": [
+    "Accelerated Blast",
+    "accelerated blast",
+    "accelerated_blast",
+    "액셀러레이티드 블래스트"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "shotgun"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Shotgun/DualStat/AcceleratedBlastMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/accelerated_blast.11868e0d3de7aa13ec22647b3d0d3230.png",
+  "thumb": "items/images/en/thumbs/accelerated_blast.11868e0d3de7aa13ec22647b3d0d3230.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

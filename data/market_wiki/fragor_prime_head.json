@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "573b80280ec44a47787a6913",
+  "slug": "fragor_prime_head",
+  "market_slug": "fragor_prime_head",
+  "name_en": "Fragor Prime Head",
+  "name_en_slug": "fragor_prime_head",
+  "name_kr": "프레거 프라임 헤드",
+  "aliases": [
+    "Fragor Prime Head",
+    "fragor prime head",
+    "fragor_prime_head",
+    "프레거 프라임 헤드"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/FragorPrimeHead",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/fragor_prime_head.2b917b8a12f0981ff0a9a48c6c24edb1.png",
+  "thumb": "items/images/en/thumbs/fragor_prime_head.2b917b8a12f0981ff0a9a48c6c24edb1.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

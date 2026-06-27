@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5526aec0e779896af941825a",
+  "slug": "escape_velocity",
+  "market_slug": "escape_velocity",
+  "name_en": "Escape Velocity",
+  "name_en_slug": "escape_velocity",
+  "name_kr": "이스케이프 벨로시티",
+  "aliases": [
+    "Escape Velocity",
+    "escape velocity",
+    "escape_velocity",
+    "이스케이프 벨로시티"
+  ],
+  "tags": [
+    "augment",
+    "mod",
+    "nova",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/AntiMatter/WormHoleAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/escape_velocity.dc54d3abdd73262e04e7c0752bbc0980.png",
+  "thumb": "items/images/en/thumbs/escape_velocity.dc54d3abdd73262e04e7c0752bbc0980.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

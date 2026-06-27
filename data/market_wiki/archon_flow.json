@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "63229386dd457f0096113c42",
+  "slug": "archon_flow",
+  "market_slug": "archon_flow",
+  "name_en": "Archon Flow",
+  "name_en_slug": "archon_flow",
+  "name_kr": "아콘 플로우",
+  "aliases": [
+    "Archon Flow",
+    "archon flow",
+    "archon_flow",
+    "아콘 플로우"
+  ],
+  "tags": [
+    "archon",
+    "mod",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Warframe/Kahl/KahlAvatarPowerMaxMod",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/archon_flow.9f720d15c3cf1d9fbd3506e7bee5bd67.png",
+  "thumb": "items/images/en/thumbs/archon_flow.9f720d15c3cf1d9fbd3506e7bee5bd67.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

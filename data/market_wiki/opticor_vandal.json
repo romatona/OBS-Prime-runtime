@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60df162816999300b9dd13c1",
+  "slug": "opticor_vandal",
+  "market_slug": "opticor_vandal",
+  "name_en": "Opticor Vandal",
+  "name_en_slug": "opticor_vandal",
+  "name_kr": "옵티코어 반달",
+  "aliases": [
+    "Opticor Vandal",
+    "opticor vandal",
+    "opticor_vandal",
+    "옵티코어 반달"
+  ],
+  "tags": [
+    "primary",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Corpus/LongGuns/CrpBFG/Vandal/VandalCrpBFG",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/opticor_vandal.c01ce09e43ba41dae7478179ee3c229d.png",
+  "thumb": "items/images/en/thumbs/opticor_vandal.c01ce09e43ba41dae7478179ee3c229d.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

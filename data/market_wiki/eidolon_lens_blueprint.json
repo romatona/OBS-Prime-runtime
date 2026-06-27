@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "59e4532740c3ee1a65541c45",
+  "slug": "eidolon_lens_blueprint",
+  "market_slug": "eidolon_lens_blueprint",
+  "name_en": "Eidolon Lens Blueprint",
+  "name_en_slug": "eidolon_lens_blueprint",
+  "name_kr": "아이돌론 렌즈 설계도",
+  "aliases": [
+    "Eidolon Lens",
+    "Eidolon Lens Blueprint",
+    "eidolon lens blueprint",
+    "eidolon_lens_blueprint",
+    "아이돌론 렌즈",
+    "아이돌론 렌즈 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "misc"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Lens/GenericLensOstronBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/eidolon_lens_blueprint.26bc0ab4820bbfb6d633e479007807e3.png",
+  "thumb": "items/images/en/thumbs/eidolon_lens_blueprint.26bc0ab4820bbfb6d633e479007807e3.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

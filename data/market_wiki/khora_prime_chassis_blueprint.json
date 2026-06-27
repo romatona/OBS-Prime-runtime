@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "62d3493f75156700ce450ded",
+  "slug": "khora_prime_chassis_blueprint",
+  "market_slug": "khora_prime_chassis_blueprint",
+  "name_en": "Khora Prime Chassis Blueprint",
+  "name_en_slug": "khora_prime_chassis_blueprint",
+  "name_kr": "코라 프라임 섀시 설계도",
+  "aliases": [
+    "Khora Prime Chassis",
+    "Khora Prime Chassis Blueprint",
+    "khora prime chassis blueprint",
+    "khora_prime_chassis_blueprint",
+    "코라 프라임 섀시",
+    "코라 프라임 섀시 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/KhoraPrimeChassisBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/khora_prime_chassis_blueprint.12b9da415ed4f659296947b5c7157dc0.png",
+  "thumb": "items/images/en/thumbs/khora_prime_chassis_blueprint.12b9da415ed4f659296947b5c7157dc0.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

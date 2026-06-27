@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "68efbab189984fb97a33aa37",
+  "slug": "reverse_rotorswell",
+  "market_slug": "reverse_rotorswell",
+  "name_en": "Reverse Rotorswell",
+  "name_en_slug": "reverse_rotorswell",
+  "name_kr": "리버스 로터스웰",
+  "aliases": [
+    "Reverse Rotorswell",
+    "reverse rotorswell",
+    "reverse_rotorswell",
+    "리버스 로터스웰"
+  ],
+  "tags": [
+    "augment",
+    "gyre",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Gyre/GyreOverchargedAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/unknown.png",
+  "thumb": "",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

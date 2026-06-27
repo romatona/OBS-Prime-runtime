@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "667237638ba7c81b70d02c98",
+  "slug": "the_ballroom_simulacrum",
+  "market_slug": "the_ballroom_simulacrum",
+  "name_en": "The Ballroom Simulacrum",
+  "name_en_slug": "the_ballroom_simulacrum",
+  "name_kr": "연회장 시뮬라크럼",
+  "aliases": [
+    "The Ballroom Simulacrum",
+    "the ballroom simulacrum",
+    "the_ballroom_simulacrum",
+    "연회장 시뮬라크럼"
+  ],
+  "tags": [
+    "simulacrum"
+  ],
+  "game_ref": "/Lotus/Types/Items/DangerRoom/DangerRoomTileArena",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/the_ballroom_simulacrum.cca043d892013c1f63c3860cada48266.webp",
+  "thumb": "items/images/en/thumbs/the_ballroom_simulacrum.cca043d892013c1f63c3860cada48266.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

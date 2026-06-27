@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "603621500a372600fd5614da",
+  "slug": "octavia_prime_systems_blueprint",
+  "market_slug": "octavia_prime_systems_blueprint",
+  "name_en": "Octavia Prime Systems Blueprint",
+  "name_en_slug": "octavia_prime_systems_blueprint",
+  "name_kr": "옥타비아 프라임 시스템 설계도",
+  "aliases": [
+    "Octavia Prime Systems",
+    "Octavia Prime Systems Blueprint",
+    "octavia prime systems blueprint",
+    "octavia_prime_systems_blueprint",
+    "옥타비아 프라임 시스템",
+    "옥타비아 프라임 시스템 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/OctaviaPrimeSystemsBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/octavia_prime_systems.4e24ab1ec9ff333596952d391e69b397.png",
+  "thumb": "items/images/en/thumbs/octavia_prime_systems.4e24ab1ec9ff333596952d391e69b397.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

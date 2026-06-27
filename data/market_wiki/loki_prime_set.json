@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56783f24cbfa8f0432dd89a3",
+  "slug": "loki_prime_set",
+  "market_slug": "loki_prime_set",
+  "name_en": "Loki Prime Set",
+  "name_en_slug": "loki_prime_set",
+  "name_kr": "로키 프라임 세트",
+  "aliases": [
+    "Loki Prime Set",
+    "loki prime set",
+    "loki_prime_set",
+    "로키 프라임 세트"
+  ],
+  "tags": [
+    "prime",
+    "set",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Loki/LokiPrime",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/loki_prime_set.abc05c280f92196bcb688643873fbf95.png",
+  "thumb": "items/images/en/thumbs/loki_prime_set.abc05c280f92196bcb688643873fbf95.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

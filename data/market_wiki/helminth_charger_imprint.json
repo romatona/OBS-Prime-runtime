@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "68baeafbe800bed01fa3482c",
+  "slug": "helminth_charger_imprint",
+  "market_slug": "helminth_charger_imprint",
+  "name_en": "Helminth Charger Imprint",
+  "name_en_slug": "helminth_charger_imprint",
+  "name_kr": "헬민스 차저 임프린트",
+  "aliases": [
+    "Helminth Charger Imprint",
+    "helminth charger imprint",
+    "helminth_charger_imprint",
+    "헬민스 차저 임프린트"
+  ],
+  "tags": [
+    "imprint",
+    "kubrow",
+    "pet"
+  ],
+  "game_ref": "/Lotus/Types/Game/KubrowPet/ChargerKubrowPetPowerSuit",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/helminth_charger_imprint.4bcf08ca92ad0ce66c3331319a84c5d6.webp",
+  "thumb": "items/images/en/thumbs/helminth_charger_imprint.4bcf08ca92ad0ce66c3331319a84c5d6.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

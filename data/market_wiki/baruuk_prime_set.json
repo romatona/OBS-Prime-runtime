@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "639a8d9474b02f003889eb84",
+  "slug": "baruuk_prime_set",
+  "market_slug": "baruuk_prime_set",
+  "name_en": "Baruuk Prime Set",
+  "name_en_slug": "baruuk_prime_set",
+  "name_kr": "바루크 프라임 세트",
+  "aliases": [
+    "Baruuk Prime Set",
+    "baruuk prime set",
+    "baruuk_prime_set",
+    "바루크 프라임 세트"
+  ],
+  "tags": [
+    "prime",
+    "set",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Pacifist/BaruukPrime",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/baruuk_prime_set.90bcb486d7a5defe4a74c94acfebf6d0.png",
+  "thumb": "items/images/en/thumbs/baruuk_prime_set.90bcb486d7a5defe4a74c94acfebf6d0.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

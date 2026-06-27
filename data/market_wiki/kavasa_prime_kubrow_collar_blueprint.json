@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56153727b66f836f91a8e849",
+  "slug": "kavasa_prime_kubrow_collar_blueprint",
+  "market_slug": "kavasa_prime_kubrow_collar_blueprint",
+  "name_en": "Kavasa Prime Kubrow Collar Blueprint",
+  "name_en_slug": "kavasa_prime_kubrow_collar_blueprint",
+  "name_kr": "카바사 프라임 쿠브로 칼라 설계도",
+  "aliases": [
+    "Kavasa Prime Kubrow Collar",
+    "Kavasa Prime Kubrow Collar Blueprint",
+    "kavasa prime kubrow collar blueprint",
+    "kavasa_prime_kubrow_collar_blueprint",
+    "카바사 프라임 쿠브로 칼라",
+    "카바사 프라임 쿠브로 칼라 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "prime",
+    "skin"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Kubrow/Collars/PrimeKubrowCollarABlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/kavasa_prime_kubrow_collar_blueprint.cc1bafee4156c05ebaa812d39cd559ba.png",
+  "thumb": "items/images/en/thumbs/kavasa_prime_kubrow_collar_blueprint.cc1bafee4156c05ebaa812d39cd559ba.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

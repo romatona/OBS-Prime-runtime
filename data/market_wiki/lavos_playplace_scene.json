@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "683070d2ce567bcd85d673d4",
+  "slug": "lavos_playplace_scene",
+  "market_slug": "lavos_playplace_scene",
+  "name_en": "Lavo's Playplace Scene",
+  "name_en_slug": "lavos_playplace_scene",
+  "name_kr": "라보의 놀이터 배경",
+  "aliases": [
+    "Lavo's Playplace Scene",
+    "lavos playplace scene",
+    "lavos_playplace_scene",
+    "라보의 놀이터 배경"
+  ],
+  "tags": [
+    "scene"
+  ],
+  "game_ref": "/Lotus/Types/Items/PhotoBooth/Vania/PhotoboothTileVaniaIntMallReptilia",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/lavos_playplace_scene.3a65bd593d057b5c6961905af3904594.webp",
+  "thumb": "items/images/en/thumbs/lavos_playplace_scene.3a65bd593d057b5c6961905af3904594.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

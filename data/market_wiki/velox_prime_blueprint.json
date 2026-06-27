@@ -1,0 +1,33 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "663267c4e85cac3856c86db5",
+  "slug": "velox_prime_blueprint",
+  "market_slug": "velox_prime_blueprint",
+  "name_en": "Velox Prime Blueprint",
+  "name_en_slug": "velox_prime_blueprint",
+  "name_kr": "벨록스 프라임 설계도",
+  "aliases": [
+    "Velox Prime",
+    "Velox Prime Blueprint",
+    "velox prime blueprint",
+    "velox_prime_blueprint",
+    "벨록스 프라임",
+    "벨록스 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "prime",
+    "secondary",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/VeloxPrimeBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/velox_prime_blueprint.bc5a5e03386043e26ec2a69b90cc0cad.png",
+  "thumb": "items/images/en/thumbs/velox_prime_blueprint.bc5a5e03386043e26ec2a69b90cc0cad.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56783f24cbfa8f0432dd89ae",
+  "slug": "soma_prime_set",
+  "market_slug": "soma_prime_set",
+  "name_en": "Soma Prime Set",
+  "name_en_slug": "soma_prime_set",
+  "name_kr": "소마 프라임 세트",
+  "aliases": [
+    "Soma Prime Set",
+    "soma prime set",
+    "soma_prime_set",
+    "소마 프라임 세트"
+  ],
+  "tags": [
+    "primary",
+    "prime",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/LongGuns/PrimeSoma/PrimeSomaRifle",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/soma_prime_set.1bf4937a6c2106c373cffeb93b1c87e0.png",
+  "thumb": "items/images/en/thumbs/soma_prime_set.1bf4937a6c2106c373cffeb93b1c87e0.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

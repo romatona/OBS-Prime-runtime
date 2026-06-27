@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e5155a8",
+  "slug": "jolt",
+  "market_slug": "jolt",
+  "name_en": "Jolt",
+  "name_en_slug": "jolt",
+  "name_kr": "졸트",
+  "aliases": [
+    "Jolt",
+    "jolt",
+    "졸트"
+  ],
+  "tags": [
+    "mod",
+    "pistol",
+    "rare",
+    "secondary"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Pistol/DualStat/ElectEventPistolMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/jolt.3f5c65020bd76023e1636555496c91c6.png",
+  "thumb": "items/images/en/thumbs/jolt.3f5c65020bd76023e1636555496c91c6.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

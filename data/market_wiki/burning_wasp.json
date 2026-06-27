@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156ee",
+  "slug": "burning_wasp",
+  "market_slug": "burning_wasp",
+  "name_en": "Burning Wasp",
+  "name_en_slug": "burning_wasp",
+  "name_kr": "버닝 와스프",
+  "aliases": [
+    "Burning Wasp",
+    "burning wasp",
+    "burning_wasp",
+    "버닝 와스프"
+  ],
+  "tags": [
+    "mod",
+    "stance",
+    "uncommon",
+    "whips"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/WhipCmbOneMeleeTree",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/burning_wasp.27724a9e8be0d882e6190dc13ea814ab.png",
+  "thumb": "items/images/en/thumbs/burning_wasp.27724a9e8be0d882e6190dc13ea814ab.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

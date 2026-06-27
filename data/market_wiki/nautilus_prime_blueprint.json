@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "66c60c9066bbb2aedca695a9",
+  "slug": "nautilus_prime_blueprint",
+  "market_slug": "nautilus_prime_blueprint",
+  "name_en": "Nautilus Prime Blueprint",
+  "name_en_slug": "nautilus_prime_blueprint",
+  "name_kr": "노틸러스 프라임 설계도",
+  "aliases": [
+    "Nautilus Prime",
+    "Nautilus Prime Blueprint",
+    "nautilus prime blueprint",
+    "nautilus_prime_blueprint",
+    "노틸러스 프라임",
+    "노틸러스 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "prime",
+    "sentinel"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/SentinelRecipes/NautilusPrimeSentinelBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/nautilus_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.webp",
+  "thumb": "items/images/en/thumbs/nautilus_prime_blueprint.a81cadf3c1f6e67c92c188534ced77b2.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

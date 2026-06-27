@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "60e5b8fd4794450053e9994a",
+  "slug": "counterbalance",
+  "market_slug": "counterbalance",
+  "name_en": "Counterbalance",
+  "name_en_slug": "counterbalance",
+  "name_kr": "카운터밸런스",
+  "aliases": [
+    "Counterbalance",
+    "counterbalance",
+    "카운터밸런스"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "shotgun"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Shotgun/WeaponRecoilReductionMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/counterbalance.d6eea5cf44dc7f219e1ae1af20563510.png",
+  "thumb": "items/images/en/thumbs/counterbalance.d6eea5cf44dc7f219e1ae1af20563510.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

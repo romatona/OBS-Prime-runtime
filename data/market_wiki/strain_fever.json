@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5c1bda0714a8e4006b1dad61",
+  "slug": "strain_fever",
+  "market_slug": "strain_fever",
+  "name_en": "Strain Fever",
+  "name_en_slug": "strain_fever",
+  "name_kr": "스트레인 피버",
+  "aliases": [
+    "Strain Fever",
+    "strain fever",
+    "strain_fever",
+    "스트레인 피버"
+  ],
+  "tags": [
+    "helminth_claws",
+    "melee",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Sets/Strain/HelminthStrainFeverMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/strain_fever.61ccbf01a8906c7747cf0d3269c94e2d.png",
+  "thumb": "items/images/en/thumbs/strain_fever.61ccbf01a8906c7747cf0d3269c94e2d.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

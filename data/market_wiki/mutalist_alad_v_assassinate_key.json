@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54d4c727e77989281cc7d753",
+  "slug": "mutalist_alad_v_assassinate_key",
+  "market_slug": "mutalist_alad_v_assassinate_key",
+  "name_en": "Mutalist Alad V Assassinate (Key)",
+  "name_en_slug": "mutalist_alad_v_assassinate_key",
+  "name_kr": "뮤탈리스트 알라드 V 암살 (키)",
+  "aliases": [
+    "Mutalist Alad V Assassinate (Key)",
+    "mutalist alad v assassinate key",
+    "mutalist_alad_v_assassinate_key",
+    "뮤탈리스트 알라드 V 암살 (키)"
+  ],
+  "tags": [
+    "key"
+  ],
+  "game_ref": "/Lotus/Types/Keys/InfestedAladVQuest/AssassinateInfestedAladVKey",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/mutalist_alad_v_assassinate_key.7540fb6d7ef2b2843352e32c9ff64e73.png",
+  "thumb": "items/images/en/thumbs/mutalist_alad_v_assassinate_key.7540fb6d7ef2b2843352e32c9ff64e73.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

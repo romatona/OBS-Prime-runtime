@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "554d3c0ce7798942793d7e8a",
+  "slug": "shield_overload",
+  "market_slug": "shield_overload",
+  "name_en": "Shield Overload",
+  "name_en_slug": "shield_overload",
+  "name_kr": "실드 오버로드",
+  "aliases": [
+    "Shield Overload",
+    "shield overload",
+    "shield_overload",
+    "실드 오버로드"
+  ],
+  "tags": [
+    "augment",
+    "mag",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Mag/ShieldRegenPvPAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/shield_overload.e2751dfa85b7b91e170d549cd1f6b574.png",
+  "thumb": "items/images/en/thumbs/shield_overload.e2751dfa85b7b91e170d549cd1f6b574.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

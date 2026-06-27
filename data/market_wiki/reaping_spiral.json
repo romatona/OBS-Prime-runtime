@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156f0",
+  "slug": "reaping_spiral",
+  "market_slug": "reaping_spiral",
+  "name_en": "Reaping Spiral",
+  "name_en_slug": "reaping_spiral",
+  "name_kr": "리핑 스파이럴",
+  "aliases": [
+    "Reaping Spiral",
+    "reaping spiral",
+    "reaping_spiral",
+    "리핑 스파이럴"
+  ],
+  "tags": [
+    "mod",
+    "rare",
+    "scythes",
+    "stance"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/ScytheCmbOneMeleeTree",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/reaping_spiral.77e9198edff9f980f9afba221e5431dc.png",
+  "thumb": "items/images/en/thumbs/reaping_spiral.77e9198edff9f980f9afba221e5431dc.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

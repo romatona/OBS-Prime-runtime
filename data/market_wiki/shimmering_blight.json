@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74455e779892d5e5156b7",
+  "slug": "shimmering_blight",
+  "market_slug": "shimmering_blight",
+  "name_en": "Shimmering Blight",
+  "name_en_slug": "shimmering_blight",
+  "name_kr": "쉬머링 블라이트",
+  "aliases": [
+    "Shimmering Blight",
+    "shimmering blight",
+    "shimmering_blight",
+    "쉬머링 블라이트"
+  ],
+  "tags": [
+    "mod",
+    "polearms",
+    "stance",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/MeleeTrees/PolearmCmbOneMeleeTree",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/shimmering_blight.4a5333fbc806d24aaba48ed9c62360e0.png",
+  "thumb": "items/images/en/thumbs/shimmering_blight.4a5333fbc806d24aaba48ed9c62360e0.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

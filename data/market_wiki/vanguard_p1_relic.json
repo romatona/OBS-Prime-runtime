@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6944ca352366b4663960aaa6",
+  "slug": "vanguard_p1_relic",
+  "market_slug": "vanguard_p1_relic",
+  "name_en": "Vanguard P1 Relic",
+  "name_en_slug": "vanguard_p1_relic",
+  "name_kr": "선발대 P1 성유물",
+  "aliases": [
+    "Vanguard P1 Relic",
+    "vanguard p1 relic",
+    "vanguard_p1_relic",
+    "선발대 P1 성유물"
+  ],
+  "tags": [
+    "axi",
+    "relic",
+    "vanguard"
+  ],
+  "game_ref": "/Lotus/Types/Game/Projections/T4VanguardVaultB",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/vanguard_p1_relic.b8c2d9953c66e2c69dde9d0e8f88ab09.webp",
+  "thumb": "items/images/en/thumbs/vanguard_p1_relic.b8c2d9953c66e2c69dde9d0e8f88ab09.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

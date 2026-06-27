@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "693e6b4603903ae8993ffb0c",
+  "slug": "lorun_tash",
+  "market_slug": "lorun_tash",
+  "name_en": "Lorun-Tash",
+  "name_en_slug": "lorun_tash",
+  "name_kr": "로룬-타쉬",
+  "aliases": [
+    "Lorun-Tash",
+    "lorun tash",
+    "lorun_tash",
+    "로룬-타쉬"
+  ],
+  "tags": [
+    "any",
+    "common",
+    "mod"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Antiques/AntiqueArmour",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/ko/lorun_tash.29fb2f3c9414e46ceab49fd5988a00da.webp",
+  "thumb": "items/images/ko/thumbs/lorun_tash.29fb2f3c9414e46ceab49fd5988a00da.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

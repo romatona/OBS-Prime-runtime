@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "693e6ab703903ae8993ffb04",
+  "slug": "talsek_an",
+  "market_slug": "talsek_an",
+  "name_en": "Talsek-An",
+  "name_en_slug": "talsek_an",
+  "name_kr": "탈세크-안",
+  "aliases": [
+    "Talsek-An",
+    "talsek an",
+    "talsek_an",
+    "탈세크-안"
+  ],
+  "tags": [
+    "any",
+    "common",
+    "mod"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Antiques/EnterVoidModeOnKnockdown",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/ko/talsek_an.201cf9e8369742a62fffaaf707ecbc1f.webp",
+  "thumb": "items/images/ko/thumbs/talsek_an.201cf9e8369742a62fffaaf707ecbc1f.128x128.webp",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5667519a5dcbc186f0536bd4",
+  "slug": "arcane_tempo",
+  "market_slug": "arcane_tempo",
+  "name_en": "Arcane Tempo",
+  "name_en_slug": "arcane_tempo",
+  "name_kr": "아케인 템포",
+  "aliases": [
+    "Arcane Tempo",
+    "arcane tempo",
+    "arcane_tempo",
+    "아케인 템포"
+  ],
+  "tags": [
+    "arcane_enhancement"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/Offensive/GolemArcaneShotgunSpeedOnCrit",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/arcane_tempo.8e5a0c4378df14ffdb5597ff8da8b828.png",
+  "thumb": "items/images/en/thumbs/arcane_tempo.8e5a0c4378df14ffdb5597ff8da8b828.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

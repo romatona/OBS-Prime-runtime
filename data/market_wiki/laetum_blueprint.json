@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "626ca573f40db600829c9d09",
+  "slug": "laetum_blueprint",
+  "market_slug": "laetum_blueprint",
+  "name_en": "Laetum Blueprint",
+  "name_en_slug": "laetum_blueprint",
+  "name_kr": "레이텀 설계도",
+  "aliases": [
+    "Laetum",
+    "Laetum Blueprint",
+    "laetum blueprint",
+    "laetum_blueprint",
+    "레이텀",
+    "레이텀 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "secondary",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/Evolving/ZarimanHeavyPistolBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/laetum_blueprint.7d096a802a809499e0ce83f41f712f78.png",
+  "thumb": "items/images/en/thumbs/laetum_blueprint.7d096a802a809499e0ce83f41f712f78.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

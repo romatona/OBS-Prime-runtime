@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5d8f65b17ea27b0968b6e577",
+  "slug": "pathocyst_blueprint",
+  "market_slug": "pathocyst_blueprint",
+  "name_en": "Pathocyst Blueprint",
+  "name_en_slug": "pathocyst_blueprint",
+  "name_kr": "패소시스트 설계도",
+  "aliases": [
+    "Pathocyst",
+    "Pathocyst Blueprint",
+    "pathocyst blueprint",
+    "pathocyst_blueprint",
+    "패소시스트",
+    "패소시스트 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "melee",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/InfBoomerangBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/pathocyst_blueprint.f423b7a6a78d2e4780c1007f0f0fb464.png",
+  "thumb": "items/images/en/thumbs/pathocyst_blueprint.f423b7a6a78d2e4780c1007f0f0fb464.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

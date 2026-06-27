@@ -1,0 +1,27 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6054dea55221e30057501094",
+  "slug": "longwinder",
+  "market_slug": "longwinder",
+  "name_en": "Longwinder",
+  "name_en_slug": "longwinder",
+  "name_kr": "롱와인더",
+  "aliases": [
+    "Longwinder",
+    "longwinder",
+    "롱와인더"
+  ],
+  "tags": [
+    "fish"
+  ],
+  "game_ref": "/Lotus/Types/Items/Fish/Solaris/SolarisWarmRareFishAItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/longwinder.4c808577089eadb98dcb9dddd73445da.png",
+  "thumb": "items/images/en/thumbs/longwinder.4c808577089eadb98dcb9dddd73445da.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

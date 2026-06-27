@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5a04750e6c4655012038ddcf",
+  "slug": "magus_cloud",
+  "market_slug": "magus_cloud",
+  "name_en": "Magus Cloud",
+  "name_en_slug": "magus_cloud",
+  "name_kr": "마구스 클라우드",
+  "aliases": [
+    "Magus Cloud",
+    "magus cloud",
+    "magus_cloud",
+    "마구스 클라우드"
+  ],
+  "tags": [
+    "arcane_enhancement",
+    "uncommon"
+  ],
+  "game_ref": "/Lotus/Upgrades/CosmeticEnhancers/OperatorArmour/ImmunityFallDamageOnVoidDash",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/magus_cloud.911f21546c5c95ceb5e23bb5127fd9e4.png",
+  "thumb": "items/images/en/thumbs/magus_cloud.911f21546c5c95ceb5e23bb5127fd9e4.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

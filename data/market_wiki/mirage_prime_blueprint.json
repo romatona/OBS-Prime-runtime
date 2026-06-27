@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5a2feeb2c2c9e90cbdaa23d4",
+  "slug": "mirage_prime_blueprint",
+  "market_slug": "mirage_prime_blueprint",
+  "name_en": "Mirage Prime Blueprint",
+  "name_en_slug": "mirage_prime_blueprint",
+  "name_kr": "미라지 프라임 설계도",
+  "aliases": [
+    "Mirage Prime",
+    "Mirage Prime Blueprint",
+    "mirage prime blueprint",
+    "mirage_prime_blueprint",
+    "미라지 프라임",
+    "미라지 프라임 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "prime",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/WarframeRecipes/MiragePrimeBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/mirage_prime_blueprint.e7f8f484dd6ae6c35f0767fff35a5109.png",
+  "thumb": "items/images/en/thumbs/mirage_prime_blueprint.e7f8f484dd6ae6c35f0767fff35a5109.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

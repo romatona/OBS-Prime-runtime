@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56c3bbfc5d2f0202da32e943",
+  "slug": "nikana_prime_set",
+  "market_slug": "nikana_prime_set",
+  "name_en": "Nikana Prime Set",
+  "name_en_slug": "nikana_prime_set",
+  "name_kr": "니카나 프라임 세트",
+  "aliases": [
+    "Nikana Prime Set",
+    "nikana prime set",
+    "nikana_prime_set",
+    "니카나 프라임 세트"
+  ],
+  "tags": [
+    "melee",
+    "prime",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Melee/Swords/PrimeKatana/PrimeNikana",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/nikana_prime_set.2daac0807a52385bfcf62f71075f2221.png",
+  "thumb": "items/images/en/thumbs/nikana_prime_set.2daac0807a52385bfcf62f71075f2221.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

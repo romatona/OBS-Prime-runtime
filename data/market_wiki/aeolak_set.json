@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "626ca573f40db600829c9d0e",
+  "slug": "aeolak_set",
+  "market_slug": "aeolak_set",
+  "name_en": "Aeolak Set",
+  "name_en_slug": "aeolak_set",
+  "name_kr": "아이올락 세트",
+  "aliases": [
+    "Aeolak Set",
+    "aeolak set",
+    "aeolak_set",
+    "아이올락 세트"
+  ],
+  "tags": [
+    "primary",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/LongGuns/TnRifleErsatz/TnRifleErsatzWeapon",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/aeolak_set.6bea718eeee31f702d625029e035b646.png",
+  "thumb": "items/images/en/thumbs/aeolak_set.6bea718eeee31f702d625029e035b646.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

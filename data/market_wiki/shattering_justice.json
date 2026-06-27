@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e5155a6",
+  "slug": "shattering_justice",
+  "market_slug": "shattering_justice",
+  "name_en": "Shattering Justice",
+  "name_en_slug": "shattering_justice",
+  "name_kr": "섀터링 저스티스",
+  "aliases": [
+    "Shattering Justice",
+    "shattering justice",
+    "shattering_justice",
+    "섀터링 저스티스"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "sobek",
+    "syndicate"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Syndicate/SobekMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/shattering_justice.12be7d056cf4cd66d202b72eb1ca480e.png",
+  "thumb": "items/images/en/thumbs/shattering_justice.12be7d056cf4cd66d202b72eb1ca480e.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

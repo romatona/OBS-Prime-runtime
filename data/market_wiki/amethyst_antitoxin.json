@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5d6ea67d7ea27b05d929cc02",
+  "slug": "amethyst_antitoxin",
+  "market_slug": "amethyst_antitoxin",
+  "name_en": "Amethyst Antitoxin",
+  "name_en_slug": "amethyst_antitoxin",
+  "name_kr": "애미시스트 안티톡신",
+  "aliases": [
+    "Amethyst Antitoxin",
+    "amethyst antitoxin",
+    "amethyst_antitoxin",
+    "애미시스트 안티톡신"
+  ],
+  "tags": [
+    "consumable"
+  ],
+  "game_ref": "/Lotus/Types/Restoratives/Consumable/Toxins/NightCommonAntitoxin",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/amethyst_antitoxin.98127374f471b7184779047fefa9d105.png",
+  "thumb": "items/images/en/thumbs/amethyst_antitoxin.98127374f471b7184779047fefa9d105.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

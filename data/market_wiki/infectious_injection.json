@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5c4050e32cc6ce023b79c0f1",
+  "slug": "infectious_injection",
+  "market_slug": "infectious_injection",
+  "name_en": "Infectious Injection",
+  "name_en_slug": "infectious_injection",
+  "name_kr": "인펙셔스 인젝션",
+  "aliases": [
+    "Infectious Injection",
+    "infectious injection",
+    "infectious_injection",
+    "인펙셔스 인젝션"
+  ],
+  "tags": [
+    "archmelee",
+    "archwing",
+    "melee",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingEventToxinStatusMeleeMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/infectious_injection.5074db2c7f631857ed2f38ce7b3fc85c.png",
+  "thumb": "items/images/en/thumbs/infectious_injection.5074db2c7f631857ed2f38ce7b3fc85c.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

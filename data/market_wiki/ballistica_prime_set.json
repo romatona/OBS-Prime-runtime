@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "59a5c2565cd9938cfede703e",
+  "slug": "ballistica_prime_set",
+  "market_slug": "ballistica_prime_set",
+  "name_en": "Ballistica Prime Set",
+  "name_en_slug": "ballistica_prime_set",
+  "name_kr": "발리스티카 프라임 세트",
+  "aliases": [
+    "Ballistica Prime Set",
+    "ballistica prime set",
+    "ballistica_prime_set",
+    "발리스티카 프라임 세트"
+  ],
+  "tags": [
+    "prime",
+    "secondary",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Tenno/Pistols/PrimeBallistica/PrimeBallistica",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/ballistica_prime_set.4ed33348008ace40406d0383f692ecac.png",
+  "thumb": "items/images/en/thumbs/ballistica_prime_set.4ed33348008ace40406d0383f692ecac.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

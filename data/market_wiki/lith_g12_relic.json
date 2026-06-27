@@ -1,0 +1,29 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "66c6098866bbb2aedca6959b",
+  "slug": "lith_g12_relic",
+  "market_slug": "lith_g12_relic",
+  "name_en": "Lith G12 Relic",
+  "name_en_slug": "lith_g12_relic",
+  "name_kr": "리스 G12 성유물",
+  "aliases": [
+    "Lith G12 Relic",
+    "lith g12 relic",
+    "lith_g12_relic",
+    "리스 G12 성유물"
+  ],
+  "tags": [
+    "lith",
+    "relic"
+  ],
+  "game_ref": "/Lotus/Types/Game/Projections/T1VoidProjectionSevagothPrimeD",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/unknown.png",
+  "thumb": "items/unknown.thumb.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

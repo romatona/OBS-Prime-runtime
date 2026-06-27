@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54a74454e779892d5e5155db",
+  "slug": "vile_acceleration",
+  "market_slug": "vile_acceleration",
+  "name_en": "Vile Acceleration",
+  "name_en_slug": "vile_acceleration",
+  "name_kr": "바일 액셀러레이션",
+  "aliases": [
+    "Vile Acceleration",
+    "vile acceleration",
+    "vile_acceleration",
+    "바일 액셀러레이션"
+  ],
+  "tags": [
+    "mod",
+    "primary",
+    "rare",
+    "rifle"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/DualStat/CorruptedFireRateDamageRifle",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/vile_acceleration.099e12a749ebb259d6cf079c8608297f.png",
+  "thumb": "items/images/en/thumbs/vile_acceleration.099e12a749ebb259d6cf079c8608297f.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

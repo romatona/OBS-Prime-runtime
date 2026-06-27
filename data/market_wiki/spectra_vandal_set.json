@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5dfea13c1456970294aff35d",
+  "slug": "spectra_vandal_set",
+  "market_slug": "spectra_vandal_set",
+  "name_en": "Spectra Vandal Set",
+  "name_en_slug": "spectra_vandal_set",
+  "name_kr": "스펙트라 반달 세트",
+  "aliases": [
+    "Spectra Vandal Set",
+    "spectra vandal set",
+    "spectra_vandal_set",
+    "스펙트라 반달 세트"
+  ],
+  "tags": [
+    "modular",
+    "secondary",
+    "set",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Corpus/Pistols/CorpusModularPistol/Vandal/CrpLaserPistolVandal",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/spectra_vandal_set.fe39f6aee4576d50c445d4203ee91db2.png",
+  "thumb": "items/images/en/thumbs/spectra_vandal_set.fe39f6aee4576d50c445d4203ee91db2.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

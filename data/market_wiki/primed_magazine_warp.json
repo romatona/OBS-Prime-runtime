@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6139101930dd5b004b7f909c",
+  "slug": "primed_magazine_warp",
+  "market_slug": "primed_magazine_warp",
+  "name_en": "Primed Magazine Warp",
+  "name_en_slug": "primed_magazine_warp",
+  "name_kr": "프라임드 매거진 워프",
+  "aliases": [
+    "Primed Magazine Warp",
+    "primed magazine warp",
+    "primed_magazine_warp",
+    "프라임드 매거진 워프"
+  ],
+  "tags": [
+    "legendary",
+    "mod",
+    "primary",
+    "rifle"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Rifle/Expert/WeaponClipMaxModExpert",
+  "max_rank": 10,
+  "tradable": true,
+  "icon": "items/images/en/primed_magazine_warp.3633879e6484d0e271c64b1b04752966.png",
+  "thumb": "items/images/en/thumbs/primed_magazine_warp.3633879e6484d0e271c64b1b04752966.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

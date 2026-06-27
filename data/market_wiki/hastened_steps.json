@@ -1,0 +1,31 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "567af35fcbfa8f05d076a510",
+  "slug": "hastened_steps",
+  "market_slug": "hastened_steps",
+  "name_en": "Hastened Steps",
+  "name_en_slug": "hastened_steps",
+  "name_kr": "헤이스튼드 스텝스",
+  "aliases": [
+    "Hastened Steps",
+    "hastened steps",
+    "hastened_steps",
+    "헤이스튼드 스텝스"
+  ],
+  "tags": [
+    "mod",
+    "pvp",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/PvPMods/Warframe/FasterSprintLessShield",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/hastened_steps.c981a49b2097a6a207d3623dd8a09b91.png",
+  "thumb": "items/images/en/thumbs/hastened_steps.c981a49b2097a6a207d3623dd8a09b91.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

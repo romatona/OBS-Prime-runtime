@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "59f38f568c202c007335ba67",
+  "slug": "kinetic_diversion",
+  "market_slug": "kinetic_diversion",
+  "name_en": "Kinetic Diversion",
+  "name_en_slug": "kinetic_diversion",
+  "name_kr": "키네틱 다이버전",
+  "aliases": [
+    "Kinetic Diversion",
+    "kinetic diversion",
+    "kinetic_diversion",
+    "키네틱 다이버전"
+  ],
+  "tags": [
+    "archwing",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Archwing/Suit/ArchwingDamageToEnergyMod",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/kinetic_diversion.ceeab7b8bfb93395c6ded1223e730aba.png",
+  "thumb": "items/images/en/thumbs/kinetic_diversion.ceeab7b8bfb93395c6ded1223e730aba.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

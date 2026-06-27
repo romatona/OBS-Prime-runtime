@@ -1,0 +1,27 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6054de665221e30057501071",
+  "slug": "cryptosuctus",
+  "market_slug": "cryptosuctus",
+  "name_en": "Cryptosuctus",
+  "name_en_slug": "cryptosuctus",
+  "name_kr": "크립토석터스",
+  "aliases": [
+    "Cryptosuctus",
+    "cryptosuctus",
+    "크립토석터스"
+  ],
+  "tags": [
+    "fish"
+  ],
+  "game_ref": "/Lotus/Types/Items/Fish/Deimos/InfestedCommonAFishItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/cryptosuctus.4022e55bcff5b4fcfe01d3408b4b01f9.png",
+  "thumb": "items/images/en/thumbs/cryptosuctus.4022e55bcff5b4fcfe01d3408b4b01f9.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

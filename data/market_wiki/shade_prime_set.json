@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "641263e07d179f02100c6d49",
+  "slug": "shade_prime_set",
+  "market_slug": "shade_prime_set",
+  "name_en": "Shade Prime Set",
+  "name_en_slug": "shade_prime_set",
+  "name_kr": "셰이드 프라임 세트",
+  "aliases": [
+    "Shade Prime Set",
+    "shade prime set",
+    "shade_prime_set",
+    "셰이드 프라임 세트"
+  ],
+  "tags": [
+    "prime",
+    "sentinel",
+    "set"
+  ],
+  "game_ref": "/Lotus/Types/Sentinels/SentinelPowersuits/PrimeShadePowerSuit",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/shade_prime_set.d4376af3d68e873e85f81f456c83b261.png",
+  "thumb": "items/images/en/thumbs/shade_prime_set.d4376af3d68e873e85f81f456c83b261.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

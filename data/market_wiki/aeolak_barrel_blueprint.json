@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "626ca573f40db600829c9d0d",
+  "slug": "aeolak_barrel_blueprint",
+  "market_slug": "aeolak_barrel_blueprint",
+  "name_en": "Aeolak Barrel Blueprint",
+  "name_en_slug": "aeolak_barrel_blueprint",
+  "name_kr": "아이올락 배럴 설계도",
+  "aliases": [
+    "Aeolak Barrel",
+    "Aeolak Barrel Blueprint",
+    "aeolak barrel blueprint",
+    "aeolak_barrel_blueprint",
+    "아이올락 배럴",
+    "아이올락 배럴 설계도"
+  ],
+  "tags": [
+    "blueprint",
+    "component",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/DuviriRifleBarrelBlueprint",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/aeolak_barrel.6bea718eeee31f702d625029e035b646.png",
+  "thumb": "items/images/en/thumbs/aeolak_barrel.6bea718eeee31f702d625029e035b646.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

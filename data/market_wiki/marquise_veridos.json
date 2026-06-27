@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "59eba86952f90ed715e14157",
+  "slug": "marquise_veridos",
+  "market_slug": "marquise_veridos",
+  "name_en": "Marquise Veridos",
+  "name_en_slug": "marquise_veridos",
+  "name_kr": "마르퀴즈 비리도스",
+  "aliases": [
+    "Marquise Veridos",
+    "marquise veridos",
+    "marquise_veridos",
+    "마르퀴즈 비리도스"
+  ],
+  "tags": [
+    "gem"
+  ],
+  "game_ref": "/Lotus/Types/Items/Gems/Eidolon/UncommonGemACutAItem",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/marquise_veridos.0ff6080823e396fc6d3d5946dc192d9b.png",
+  "thumb": "items/images/en/thumbs/marquise_veridos.0ff6080823e396fc6d3d5946dc192d9b.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

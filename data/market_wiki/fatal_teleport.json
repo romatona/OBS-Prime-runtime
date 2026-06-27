@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5740c1999d238d4a03d2851a",
+  "slug": "fatal_teleport",
+  "market_slug": "fatal_teleport",
+  "name_en": "Teleport Rush",
+  "name_en_slug": "fatal_teleport",
+  "name_kr": "텔레포트 러쉬",
+  "aliases": [
+    "Teleport Rush",
+    "fatal teleport",
+    "fatal_teleport",
+    "텔레포트 러쉬"
+  ],
+  "tags": [
+    "ash",
+    "augment",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Ninja/TeleportToAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/fatal_teleport.88b75d1675894c1efec4b62c74cd0ce9.png",
+  "thumb": "items/images/en/thumbs/fatal_teleport.88b75d1675894c1efec4b62c74cd0ce9.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

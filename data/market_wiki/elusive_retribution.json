@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "6604a640dbdd5c1673781db5",
+  "slug": "elusive_retribution",
+  "market_slug": "elusive_retribution",
+  "name_en": "Elusive Retribution",
+  "name_en_slug": "elusive_retribution",
+  "name_kr": "일루시브 레트리뷰션",
+  "aliases": [
+    "Elusive Retribution",
+    "elusive retribution",
+    "elusive_retribution",
+    "일루시브 레트리뷰션"
+  ],
+  "tags": [
+    "augment",
+    "baruuk",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Pacifist/PacifistDodgeAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/elusive_retribution.93a4b9b33a04f46986376491691085db.png",
+  "thumb": "items/images/en/thumbs/elusive_retribution.93a4b9b33a04f46986376491691085db.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

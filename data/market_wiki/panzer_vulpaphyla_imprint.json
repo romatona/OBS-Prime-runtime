@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "62d3078680f54c00b5ddf5d0",
+  "slug": "panzer_vulpaphyla_imprint",
+  "market_slug": "panzer_vulpaphyla_imprint",
+  "name_en": "Panzer Vulpaphyla Imprint",
+  "name_en_slug": "panzer_vulpaphyla_imprint",
+  "name_kr": "팬저 불파파일라 임프린트",
+  "aliases": [
+    "Panzer Vulpaphyla Imprint",
+    "panzer vulpaphyla imprint",
+    "panzer_vulpaphyla_imprint",
+    "팬저 불파파일라 임프린트"
+  ],
+  "tags": [
+    "imprint",
+    "kubrow",
+    "pet"
+  ],
+  "game_ref": "/Lotus/Types/Friendly/Pets/CreaturePets/ArmoredInfestedCatbrowPetPowerSuit",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/panzer_vulpaphyla_imprint.4619c7c40efcd74ec4b8c29ff9f52b4a.png",
+  "thumb": "items/images/en/thumbs/panzer_vulpaphyla_imprint.4619c7c40efcd74ec4b8c29ff9f52b4a.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "578390a9d9b6753790c89e85",
+  "slug": "meteor_crash",
+  "market_slug": "meteor_crash",
+  "name_en": "Meteor Crash",
+  "name_en_slug": "meteor_crash",
+  "name_kr": "미티어 크래쉬",
+  "aliases": [
+    "Meteor Crash",
+    "meteor crash",
+    "meteor_crash",
+    "미티어 크래쉬"
+  ],
+  "tags": [
+    "archmelee",
+    "archwing",
+    "melee",
+    "mod",
+    "rare"
+  ],
+  "game_ref": "/Lotus/Upgrades/Mods/Archwing/Melee/ArchwingDualStatImpactStatusMeleeMod",
+  "max_rank": 5,
+  "tradable": true,
+  "icon": "items/images/en/meteor_crash.bf691cde5cfcf6f77f9e915775821c92.png",
+  "thumb": "items/images/en/thumbs/meteor_crash.bf691cde5cfcf6f77f9e915775821c92.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

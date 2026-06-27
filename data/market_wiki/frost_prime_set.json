@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56783f24cbfa8f0432dd899c",
+  "slug": "frost_prime_set",
+  "market_slug": "frost_prime_set",
+  "name_en": "Frost Prime Set",
+  "name_en_slug": "frost_prime_set",
+  "name_kr": "프로스트 프라임 세트",
+  "aliases": [
+    "Frost Prime Set",
+    "frost prime set",
+    "frost_prime_set",
+    "프로스트 프라임 세트"
+  ],
+  "tags": [
+    "prime",
+    "set",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Frost/FrostPrime",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/frost_prime_set.4f8ff8605be1afaab9a0e5cc3c67cb21.png",
+  "thumb": "items/images/en/thumbs/frost_prime_set.4f8ff8605be1afaab9a0e5cc3c67cb21.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

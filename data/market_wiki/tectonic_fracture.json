@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "56b656d1ef0390c7e4006381",
+  "slug": "tectonic_fracture",
+  "market_slug": "tectonic_fracture",
+  "name_en": "Tectonic Fracture",
+  "name_en_slug": "tectonic_fracture",
+  "name_kr": "텍토닉 프랙쳐",
+  "aliases": [
+    "Tectonic Fracture",
+    "tectonic fracture",
+    "tectonic_fracture",
+    "텍토닉 프랙쳐"
+  ],
+  "tags": [
+    "atlas",
+    "augment",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Brawler/BrawlerBarrierAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/tectonic_fracture.7c38025ee84d0e86175625030dd0a712.png",
+  "thumb": "items/images/en/thumbs/tectonic_fracture.7c38025ee84d0e86175625030dd0a712.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

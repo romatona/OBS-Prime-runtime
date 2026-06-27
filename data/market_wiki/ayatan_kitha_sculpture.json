@@ -1,0 +1,28 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5fb84769c34da3004797d553",
+  "slug": "ayatan_kitha_sculpture",
+  "market_slug": "ayatan_kitha_sculpture",
+  "name_en": "Ayatan Kitha Sculpture",
+  "name_en_slug": "ayatan_kitha_sculpture",
+  "name_kr": "아야탄 키타 조각상",
+  "aliases": [
+    "Ayatan Kitha Sculpture",
+    "ayatan kitha sculpture",
+    "ayatan_kitha_sculpture",
+    "아야탄 키타 조각상"
+  ],
+  "tags": [
+    "ayatan_sculpture"
+  ],
+  "game_ref": "/Lotus/Types/Items/FusionTreasures/OroFusexEntrati",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/ko/ayatan_kitha_sculpture.8ad5567866f41a56d876ad37ab27fbe9.png",
+  "thumb": "items/images/ko/thumbs/ayatan_kitha_sculpture.8ad5567866f41a56d876ad37ab27fbe9.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

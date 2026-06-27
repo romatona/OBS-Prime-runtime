@@ -1,0 +1,32 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "5b50a3ad3a84fd02a782324c",
+  "slug": "warding_thurible",
+  "market_slug": "warding_thurible",
+  "name_en": "Warding Thurible",
+  "name_en_slug": "warding_thurible",
+  "name_kr": "워딩 튜러블",
+  "aliases": [
+    "Warding Thurible",
+    "warding thurible",
+    "warding_thurible",
+    "워딩 튜러블"
+  ],
+  "tags": [
+    "augment",
+    "harrow",
+    "mod",
+    "rare",
+    "warframe"
+  ],
+  "game_ref": "/Lotus/Powersuits/Priest/PriestRavageAugmentCard",
+  "max_rank": 3,
+  "tradable": true,
+  "icon": "items/images/en/warding_thurible.73ca05e0681f7517d599fbcd874f7124.png",
+  "thumb": "items/images/en/thumbs/warding_thurible.73ca05e0681f7517d599fbcd874f7124.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

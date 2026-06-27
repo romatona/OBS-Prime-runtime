@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "62d3494075156700ce450df7",
+  "slug": "hystrix_prime_receiver",
+  "market_slug": "hystrix_prime_receiver",
+  "name_en": "Hystrix Prime Receiver",
+  "name_en_slug": "hystrix_prime_receiver",
+  "name_kr": "히스트릭스 프라임 리시버",
+  "aliases": [
+    "Hystrix Prime Receiver",
+    "hystrix prime receiver",
+    "hystrix_prime_receiver",
+    "히스트릭스 프라임 리시버"
+  ],
+  "tags": [
+    "component",
+    "prime",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Types/Recipes/Weapons/WeaponParts/HystrixPrimeReceiver",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/hystrix_prime_receiver.1ac7d440197ca107e3df6646cb58a43d.png",
+  "thumb": "items/images/en/thumbs/hystrix_prime_receiver.1ac7d440197ca107e3df6646cb58a43d.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}

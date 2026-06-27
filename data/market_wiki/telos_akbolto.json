@@ -1,0 +1,30 @@
+{
+  "schema": "obs_prime.market_wiki_entry.v1",
+  "market_id": "54aae272e7798975bbba5f07",
+  "slug": "telos_akbolto",
+  "market_slug": "telos_akbolto",
+  "name_en": "Telos Akbolto",
+  "name_en_slug": "telos_akbolto",
+  "name_kr": "텔로스 아크볼토",
+  "aliases": [
+    "Telos Akbolto",
+    "telos akbolto",
+    "telos_akbolto",
+    "텔로스 아크볼토"
+  ],
+  "tags": [
+    "secondary",
+    "syndicate",
+    "weapon"
+  ],
+  "game_ref": "/Lotus/Weapons/Syndicates/ArbitersOfHexis/Pistols/AHAkbolto",
+  "max_rank": null,
+  "tradable": true,
+  "icon": "items/images/en/telos_akbolto.5ff5d38fdf6d7a931cd907ffae3d9e7d.png",
+  "thumb": "items/images/en/thumbs/telos_akbolto.5ff5d38fdf6d7a931cd907ffae3d9e7d.128x128.png",
+  "source": {
+    "warframe_market_items": "https://api.warframe.market/v2/items"
+  },
+  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-27"
+}
