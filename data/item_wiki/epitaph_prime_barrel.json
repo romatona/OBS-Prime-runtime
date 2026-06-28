@@ -1,30 +1,30 @@
-﻿{
-    "schema":  "obs_prime.item_wiki_entry.v1",
-    "slug":  "epitaph_prime_barrel",
-    "market_slug":  "epitaph_prime_barrel",
-    "name_en":  "Epitaph Prime Barrel",
-    "name_en_slug":  "epitaph_prime_barrel",
-    "name_kr":  "에피타프 프라임 배럴",
-    "aliases":  [
-                    "Epitaph Prime Barrel",
-                    "epitaph_prime_barrel",
-                    "에피타프 프라임 배럴"
-                ],
-    "ducats":  45,
-    "ducats_display":  "45 d",
-    "ducats_source":  "warframe_market_v2_items",
-    "rarities":  [
-                     "Uncommon"
-                 ],
-    "plat":  null,
-    "plat_display":  "-",
-    "plat_date":  "",
-    "source":  {
-                   "wfcd_relics":  "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Relics.json",
-                   "warframe_market_items":  "https://api.warframe.market/v2/items",
-                   "price_cache":  "data/market_cache/warframe_market_prices.json"
-               },
-    "updated_at":  "2026-06-26T02:05:14Z",
-    "version":  "26-06-26",
-    "relic_reward_count":  24
+{
+  "schema": "obs_prime.item_wiki_entry.v1",
+  "slug": "epitaph_prime_barrel",
+  "market_slug": "epitaph_prime_barrel",
+  "name_en": "Epitaph Prime Barrel",
+  "name_en_slug": "epitaph_prime_barrel",
+  "name_kr": "에피타프 프라임 배럴",
+  "aliases": [
+    "Epitaph Prime Barrel",
+    "epitaph_prime_barrel",
+    "에피타프 프라임 배럴"
+  ],
+  "ducats": 45,
+  "ducats_display": "45 d",
+  "ducats_source": "warframe_market_v2_items",
+  "rarities": [
+    "Uncommon"
+  ],
+  "plat": null,
+  "plat_display": "-",
+  "plat_date": "",
+  "source": {
+    "wfcd_relics": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Relics.json",
+    "warframe_market_items": "https://api.warframe.market/v2/items",
+    "price_cache": "E:\\VS code\\OBS prime\\data\\market_cache\\warframe_market_prices.json"
+  },
+  "updated_at": "2026-06-28T15:19:25Z",
+  "version": "26-06-29",
+  "relic_reward_count": 24
 }

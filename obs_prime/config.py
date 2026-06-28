@@ -47,14 +47,14 @@ DEFAULT_CONFIG: dict[str, Any] = {
         "last_registration_error": "",
     },
     "ocr": {
-        "provider": "tesseract",
+        "provider": "paddleocr_v5",
         "language": "kor+eng",
-        "timeout_ms": 2500,
-        "min_confidence": 0.70,
+        "timeout_ms": 1000,
+        "min_confidence": 0.8,
         "preprocessing_preset": "default-korean-ui",
-        "obs_name_band_enabled": True,
-        "obs_name_band_top_ratio": 0.58,
-        "obs_name_band_height_ratio": 0.38,
+        "obs_name_band_enabled": False,
+        "obs_name_band_top_ratio": 0.46,
+        "obs_name_band_height_ratio": 0.52,
     },
     "overlay": {
         "enabled": True,
@@ -74,7 +74,7 @@ DEFAULT_CONFIG: dict[str, Any] = {
         "enabled": False,
         "host": "127.0.0.1",
         "port": 4455,
-        "connect_timeout_ms": 5000,
+        "connect_timeout_ms": 3000,
         "password_dpapi": "",
         "ocr_source_name": "이미지",
         "browser_sources": ["B1", "B2", "B3", "B4"],
@@ -91,6 +91,7 @@ DEFAULT_CONFIG: dict[str, Any] = {
         "platform": "pc",
         "item_db_path": "",
         "price_db_path": "data/market_cache/warframe_market_prices.json",
+        "reward_history_path": "data/reward_results.json",
         "item_wiki_dir": "data/item_wiki",
         "market_wiki_dir": "data/market_wiki",
         "market_live_enabled": True,
@@ -188,7 +189,7 @@ def _write_redacted_config_backup(source: Path, backup: Path) -> None:
 
 
 def _redact_sensitive_values(value: Any) -> None:
-    sensitive_names = {"password", "password_dpapi", "api_key", "apikey", "token", "secret"}
+    sensitive_names = {"password", "api_key", "apikey", "token", "secret"}
     if isinstance(value, dict):
         for key, child in value.items():
             if key.lower() in sensitive_names:

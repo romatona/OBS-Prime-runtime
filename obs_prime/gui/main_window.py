@@ -21,6 +21,7 @@ from ..config import AppConfig
 from ..data.fixtures import fixture_path
 from ..data.item_wiki import item_wiki_version
 from ..data.item_wiki_store import MAX_ITEM_WIKI_ENTRY_BYTES, MAX_ITEM_WIKI_INDEX_BYTES, _safe_item_wiki_entry_path
+from ..data.reward_ledger import RewardLedger
 from ..data.warframe_market import WarframeMarketClient, fetch_market_prices_for_items
 from ..diagnostics.artifacts import ArtifactWriter
 from ..hotkey.manager import HotkeyManager
@@ -34,6 +35,7 @@ from ..obs.websocket_client import (
     fetch_obs_source_rects,
     update_obs_text_sources,
 )
+from ..obs.text_format import format_item_wiki_reward_text, format_obs_reward_text
 from ..ocr.providers import build_ocr_provider
 from ..ocr.name_band import apply_name_band_to_dicts
 from ..ocr.reward_screen import RewardScreenOcr
@@ -61,8 +63,10 @@ CAPTURE_MODE_LABELS = {
 }
 OCR_PROVIDER_LABELS = {
     "tesseract": "Tesseract",
+    "paddleocr_v5": "PaddleOCR v5 Korean",
     "windows_ocr": "Windows OCR",
 }
+OCR_PROVIDER_OPTIONS = list(OCR_PROVIDER_LABELS.keys())
 OVERLAY_MODE_LABELS = {
     "console": "콘솔(디버그)",
     "window": "창 오버레이",
@@ -109,17 +113,33 @@ FLAG_LABELS = {
     "UNMATCHED": "미매칭",
     "STALE_PRICE": "가격 오래됨",
 }
+RESULT_OUTPUT_AUTO_SAFEGUARD_MS = 10000
+
+
+def home_toggle_text(label: str, enabled: bool) -> str:
+    return f"{label} : {'on' if enabled else 'off'}"
+
+
+def is_result_memo_value_valid(value: str) -> bool:
+    return isinstance(value, str)
 
 
 class MainWindow:
     def __init__(self, controller: PipelineController | None = None) -> None:
         self.controller = controller or PipelineController()
         self.config = self.controller.config
+        self.reward_ledger = RewardLedger(
+            resolve_project_path(str(self.config.section("data").get("reward_history_path", "data/reward_results.json")))
+        )
         self.events: queue.Queue[tuple[str, object]] = queue.Queue()
         self.auto_running = False
         self.auto_detect_busy = False
         self.last_auto_trigger_ms = 0
         self.last_auto_idle_log_ms = 0
+        self.result_output_block_until_ms = 0
+        self.last_auto_output_block_log_ms = 0
+        self.result_overlay_output_active = False
+        self.result_obs_text_output_active = False
         self.last_detector_payload: dict[str, object] | None = None
         self.last_db_summary = "?"
         self.last_ocr_summary = "?"
@@ -141,8 +161,12 @@ class MainWindow:
         self.obs_text_clear_after_id: str | None = None
         self.home_auto_toggle_button: tk.Button | None = None
         self.home_overlay_toggle_button: tk.Button | None = None
+        self.home_one_pc_toggle_button: tk.Button | None = None
+        self.one_pc_mode_active = False
+        self.one_pc_mode_snapshot: dict[str, object] | None = None
         self.last_hotkey_status = ""
         self._loaded_obs_password = ""
+        self._obs_password_decrypt_error = ""
         self._mapped_display_vars: list[tk.StringVar] = []
         self.market_autocomplete_after_id: str | None = None
         self.market_autocomplete_cache_key: tuple[object, ...] | None = None
@@ -170,6 +194,7 @@ class MainWindow:
         self.root.after(120, self._restore_main_window)
         self.root.after(800, self._restore_main_window)
         self.root.after(350, self._startup_obs_bootstrap)
+        self.root.after(900, self._startup_ocr_prewarm)
 
     def run(self) -> None:
         self.root.mainloop()
@@ -426,11 +451,10 @@ class MainWindow:
         g = self._group(page, "OCR 엔진")
         ocr_options, ocr_warning = preserve_current_option(
             str(self.config.section("ocr").get("provider", "")),
-            ["tesseract"],
+            OCR_PROVIDER_OPTIONS,
             "OCR 엔진",
         )
         self.ocr_provider_combo = self._mapped_combo_row(g, "엔진", self.ocr_provider, OCR_PROVIDER_LABELS, fallback_values=ocr_options)
-        self.ocr_provider_combo.configure(state="disabled")
         if ocr_warning:
             self.controller.log.add("OCR", "WARNING", ocr_warning)
         self._entry_row(g, "언어", self.ocr_language)
@@ -561,16 +585,19 @@ class MainWindow:
         )
         overlay_tools = ttk.Frame(g)
         overlay_tools.pack(fill="x", pady=(6, 2))
-        for column in range(3):
+        for column in range(4):
             overlay_tools.columnconfigure(column, weight=1)
         ttk.Button(overlay_tools, textvariable=self.overlay_adjust_button_text, command=self._toggle_overlay_adjust_window).grid(
             row=0, column=0, sticky="ew", padx=2, pady=2
         )
-        ttk.Button(overlay_tools, text="오버레이 가로모드", command=lambda: self._set_overlay_layout("horizontal")).grid(
+        ttk.Button(overlay_tools, text="오버레이 창 위치 초기화", command=self._reset_overlay_window_position).grid(
             row=0, column=1, sticky="ew", padx=2, pady=2
         )
-        ttk.Button(overlay_tools, text="오버레이 세로모드", command=lambda: self._set_overlay_layout("vertical")).grid(
+        ttk.Button(overlay_tools, text="오버레이 가로모드", command=lambda: self._set_overlay_layout("horizontal")).grid(
             row=0, column=2, sticky="ew", padx=2, pady=2
+        )
+        ttk.Button(overlay_tools, text="오버레이 세로모드", command=lambda: self._set_overlay_layout("vertical")).grid(
+            row=0, column=3, sticky="ew", padx=2, pady=2
         )
 
         self.obs_enabled = tk.BooleanVar()
@@ -634,7 +661,7 @@ class MainWindow:
             home_right.rowconfigure(row, weight=0, minsize=10)
 
         self.home_obs_status = tk.StringVar(value="WebSocket: Off")
-        self.home_ocr_status = tk.StringVar(value="엔진: Tesseract")
+        self.home_ocr_status = tk.StringVar(value="엔진: PaddleOCR v5 Korean")
         self.home_input_status = tk.StringVar(value="B1~B4 좌표 미동기화")
         self.home_output_status = tk.StringVar(value="T1~T4 출력 대기")
         self.home_hotkey_status = tk.StringVar(value="현재 기기의 핫키는 확인 중입니다")
@@ -736,14 +763,30 @@ class MainWindow:
             "모드/아케인은 0랭크와 최대 랭크 가격이 다를 수 있으므로 랭크 옵션을 확인하세요.",
         )
 
+        self.result_filter_received = tk.BooleanVar(value=False)
+        self.result_filter_sell = tk.BooleanVar(value=False)
+        self.result_filter_use = tk.BooleanVar(value=False)
         result_page = self._plain_page(parent, "results", "보상 결과")
-        result_group = ttk.LabelFrame(result_page, text="보상 결과: 4칸")
+        result_group = ttk.LabelFrame(result_page, text="보상 결과")
         result_group.grid(row=0, column=0, sticky="nsew", padx=4, pady=4)
         result_page.rowconfigure(0, weight=1)
         result_page.columnconfigure(0, weight=1)
-        columns = ("number", "date", "item", "ducats", "plat", "sell", "use")
+        filter_row = ttk.Frame(result_group)
+        filter_row.grid(row=0, column=0, columnspan=2, sticky="ew", padx=6, pady=(6, 2))
+        ttk.Checkbutton(filter_row, text="수령 입력만", variable=self.result_filter_received, command=self._refresh_result_table).pack(
+            side="left", padx=(0, 10)
+        )
+        ttk.Checkbutton(filter_row, text="판매 입력만", variable=self.result_filter_sell, command=self._refresh_result_table).pack(
+            side="left", padx=(0, 10)
+        )
+        ttk.Checkbutton(filter_row, text="사용 입력만", variable=self.result_filter_use, command=self._refresh_result_table).pack(
+            side="left", padx=(0, 10)
+        )
+        ttk.Button(filter_row, text="전체 보기", command=self._clear_result_filters).pack(side="left", padx=(4, 0))
+        columns = ("number", "received", "date", "item", "ducats", "plat", "sell", "use")
         headings = {
             "number": "#",
+            "received": "수령",
             "date": "날짜(mm_dd_yy)",
             "item": "아이템 이름",
             "ducats": "두캇 가격",
@@ -752,7 +795,7 @@ class MainWindow:
             "use": "사용",
         }
         self.result_table = ttk.Treeview(result_group, columns=columns, show="headings", height=8)
-        result_group.rowconfigure(0, weight=1)
+        result_group.rowconfigure(1, weight=1)
         result_group.columnconfigure(0, weight=1)
         yscroll = ttk.Scrollbar(result_group, orient="vertical", command=self.result_table.yview)
         xscroll = ttk.Scrollbar(result_group, orient="horizontal", command=self.result_table.xview)
@@ -761,6 +804,7 @@ class MainWindow:
             self.result_table.heading(col, text=headings[col])
             width = {
                 "number": 54,
+                "received": 150,
                 "date": 110,
                 "item": 260,
                 "ducats": 90,
@@ -769,12 +813,13 @@ class MainWindow:
                 "use": 130,
             }.get(col, 90)
             self.result_table.column(col, width=width, minwidth=60, stretch=True)
-        self.result_table.grid(row=0, column=0, sticky="nsew")
+        self.result_table.grid(row=1, column=0, sticky="nsew")
         self.result_table.bind("<Button-3>", self._on_result_right_click)
         self.result_table.bind("<Delete>", lambda _event: self._delete_selected_result_row())
         self.result_table.bind("<Double-1>", self._on_result_double_click)
-        yscroll.grid(row=0, column=1, sticky="ns")
-        xscroll.grid(row=1, column=0, sticky="ew")
+        yscroll.grid(row=1, column=1, sticky="ns")
+        xscroll.grid(row=2, column=0, sticky="ew")
+        self._refresh_result_table()
 
         details_page = self._plain_page(parent, "details", "OCR / 매칭 상세")
         details = ttk.LabelFrame(details_page, text="OCR 원문 / 매칭 상세")
@@ -865,12 +910,13 @@ class MainWindow:
         for column in range(3):
             row.columnconfigure(column, weight=1)
         actions: list[tuple[str, object]] = [
-            ("1회 작동", lambda: self._run_pipeline_async("gui_button")),
             ("전체 재연결", self._auto_connect_obs_websocket),
-            ("자동 감지", self._toggle_auto_detect),
-            ("오버레이 리모컨", self._toggle_overlay_remote),
             ("웹소켓 설정", lambda: self._select_page("obs")),
             ("좌표입력", lambda: self._select_page("roi")),
+            ("자동 감지", self._toggle_auto_detect),
+            ("오버레이", self._toggle_overlay_remote),
+            ("1PC 모드", self._toggle_one_pc_mode),
+            ("1회 작동", lambda: self._run_pipeline_async("gui_button")),
         ]
         for index, (label, command) in enumerate(actions):
             grid_row, grid_column = divmod(index, 3)
@@ -878,15 +924,20 @@ class MainWindow:
             button.grid(row=grid_row, column=grid_column, sticky="ew", padx=2, pady=2)
             if label == "자동 감지":
                 self.home_auto_toggle_button = button
-            elif label == "오버레이 리모컨":
+            elif label == "1PC 모드":
+                self.home_one_pc_toggle_button = button
+            elif label == "오버레이":
                 self.home_overlay_toggle_button = button
         self._refresh_home_toggle_buttons()
 
     def _refresh_home_toggle_buttons(self) -> None:
+        fg = self._theme_palette()["fg"]
         if self.home_auto_toggle_button is not None:
-            self.home_auto_toggle_button.configure(fg="red" if self.auto_running else "blue")
+            self.home_auto_toggle_button.configure(text=home_toggle_text("자동 감지", self.auto_running), fg=fg)
+        if self.home_one_pc_toggle_button is not None:
+            self.home_one_pc_toggle_button.configure(text=home_toggle_text("1PC 모드", self.one_pc_mode_active), fg=fg)
         if self.home_overlay_toggle_button is not None:
-            self.home_overlay_toggle_button.configure(fg="red" if self._overlay_remote_is_on() else "blue")
+            self.home_overlay_toggle_button.configure(text=home_toggle_text("오버레이", self._overlay_remote_is_on()), fg=fg)
 
     def _entry_row(self, parent, label: str, variable: tk.StringVar) -> None:
         row = ttk.Frame(parent)
@@ -1118,11 +1169,11 @@ class MainWindow:
             self.hotkey_global.set(bool(cfg["hotkey"].get("register_global", False)))
             self.hotkey_combo.set(cfg["hotkey"]["combo"])
             self.hotkey_debounce.set(str(cfg["hotkey"]["debounce_ms"]))
-            ocr_provider = str(cfg["ocr"].get("provider", "tesseract"))
-            self.ocr_provider.set("tesseract" if ocr_provider != "tesseract" else ocr_provider)
+            ocr_provider = str(cfg["ocr"].get("provider", "paddleocr_v5"))
+            self.ocr_provider.set(ocr_provider)
             self.ocr_language.set(cfg["ocr"]["language"])
             self.ocr_timeout.set(str(cfg["ocr"]["timeout_ms"]))
-            self.ocr_min_confidence.set(str(cfg["ocr"].get("min_confidence", 0.70)))
+            self.ocr_min_confidence.set(str(cfg["ocr"].get("min_confidence", 0.8)))
             self.ocr_preprocessing_preset.set(str(cfg["ocr"].get("preprocessing_preset", "default-korean-ui")))
             self.db_fixture.set(cfg["data"]["item_fixture"])
             self.price_db_path.set(str(cfg["data"].get("price_db_path", "data/market_cache/warframe_market_prices.json")))
@@ -1153,15 +1204,17 @@ class MainWindow:
             self.obs_enabled.set(bool(obs_cfg.get("enabled", False)))
             self.obs_host.set(str(obs_cfg.get("host", "127.0.0.1")))
             self.obs_port.set(str(obs_cfg.get("port", 4455)))
-            self.obs_timeout.set(str(obs_cfg.get("connect_timeout_ms", 5000)))
+            self.obs_timeout.set(str(obs_cfg.get("connect_timeout_ms", 3000)))
             self.obs_ocr_source.set(str(obs_cfg.get("ocr_source_name", "이미지") or "이미지"))
             encrypted_password = str(obs_cfg.get("password_dpapi", ""))
+            self._obs_password_decrypt_error = ""
             try:
                 decrypted_password = unprotect_secret(encrypted_password) if encrypted_password else ""
                 self.obs_status.set("OBS 비밀번호 저장됨" if decrypted_password else "OBS 비밀번호 없음")
             except Exception as exc:
                 decrypted_password = ""
-                self.obs_status.set(f"OBS 비밀번호 복호화 실패: {exc}")
+                self._obs_password_decrypt_error = str(exc)
+                self.obs_status.set("OBS 비밀번호 복호화 실패: 비밀번호를 다시 입력하고 저장하세요")
             self.obs_password.set(decrypted_password)
             self._loaded_obs_password = decrypted_password
             self.obs_password_visible.set(False)
@@ -1234,16 +1287,26 @@ class MainWindow:
         self.config.set_value("obs_websocket", "browser_sources", [value.get().strip() or f"B{index}" for index, value in enumerate(self.obs_input_sources, start=1)])
         self.config.set_value("obs_websocket", "text_sources", [value.get().strip() or f"T{index}" for index, value in enumerate(self.obs_output_sources, start=1)])
         self.config.set_value("obs_websocket", "text_sources_enabled", [bool(value.get()) for value in self.obs_output_source_enabled])
-        if self.obs_password.get() != self._loaded_obs_password:
-            self.config.set_value("obs_websocket", "password_dpapi", protect_secret(self.obs_password.get()))
-            self._loaded_obs_password = self.obs_password.get()
+        current_obs_password = self.obs_password.get().strip()
+        if current_obs_password != self.obs_password.get():
+            self.obs_password.set(current_obs_password)
+        if self._obs_password_decrypt_error:
+            if current_obs_password:
+                self.config.set_value("obs_websocket", "password_dpapi", protect_secret(current_obs_password))
+                self._loaded_obs_password = current_obs_password
+                self._obs_password_decrypt_error = ""
+                self.obs_status.set("OBS 비밀번호 다시 저장됨")
+        elif current_obs_password != self._loaded_obs_password:
+            self.config.set_value("obs_websocket", "password_dpapi", protect_secret(current_obs_password))
+            self._loaded_obs_password = current_obs_password
         self.gui_dirty = False
         self._sync_hotkey_from_gui()
         self._refresh_profile_title()
         self._refresh_indicators()
 
     def _validate_stage(self, stage: str) -> ValidationResult:
-        if stage in {"capture_test", "detector_test", "auto", "gui_button", "sample", "roi_test", "ocr_test"}:
+        pipeline_stages = {"auto", "gui_button", "hotkey", "sample"}
+        if stage in {"capture_test", "detector_test", "auto", "gui_button", "hotkey", "sample", "roi_test", "ocr_test"}:
             capture = validate_capture_config(
                 {
                     "mode": self.capture_mode.get(),
@@ -1261,25 +1324,25 @@ class MainWindow:
             debounce = validate_positive_int(self.hotkey_debounce.get(), "단축키 중복 방지 ms")
             if not debounce.ok:
                 return debounce
-        if stage in {"detector_test", "auto", "gui_button", "sample", "roi_test", "ocr_test", "db_test", "overlay_test"}:
+        if stage in {"detector_test", "auto", "gui_button", "hotkey", "sample", "roi_test", "ocr_test", "db_test", "overlay_test"}:
             threshold = validate_threshold(self.auto_threshold.get())
             if not threshold.ok:
                 return threshold
-        if stage in {"auto", "gui_button", "sample", "roi_test", "ocr_test"}:
+        if stage in {"auto", "gui_button", "hotkey", "sample", "roi_test", "ocr_test"}:
             detect_interval = validate_positive_int(self.auto_interval.get(), "자동 감지 간격")
             if not detect_interval.ok:
                 return detect_interval
             cooldown = validate_positive_int(self.auto_cooldown.get(), "자동 감지 쿨다운")
             if not cooldown.ok:
                 return cooldown
-        if stage in {"auto", "gui_button", "sample", "ocr_test"}:
+        if stage in {"auto", "gui_button", "hotkey", "sample", "ocr_test"}:
             timeout = validate_positive_int(self.ocr_timeout.get(), "OCR 제한 시간")
             if not timeout.ok:
                 return timeout
             min_confidence = validate_threshold(self.ocr_min_confidence.get())
             if not min_confidence.ok:
                 return ValidationResult.fail([f"OCR 최소 신뢰도: {'; '.join(min_confidence.errors)}"])
-        if stage in {"auto", "gui_button", "sample"}:
+        if stage in pipeline_stages:
             min_ocr_slots = validate_positive_int(self.auto_min_ocr_slots.get(), "자동 출력 최소 OCR 칸")
             if not min_ocr_slots.ok:
                 return min_ocr_slots
@@ -1289,7 +1352,7 @@ class MainWindow:
                 min_ocr_slot_count = 0
             if not 1 <= min_ocr_slot_count <= 4:
                 return ValidationResult.fail(["자동 출력 최소 OCR 칸은 1부터 4 사이여야 함"])
-        if stage in {"roi_test", "auto", "gui_button", "sample"}:
+        if stage in {"roi_test", "auto", "gui_button", "hotkey", "sample"}:
             try:
                 scale = float(self.roi_scale.get())
             except (TypeError, ValueError):
@@ -1304,7 +1367,10 @@ class MainWindow:
                     self._roi_slot_rect_payload()
                 except ValueError:
                     return ValidationResult.fail(["ROI 보상칸 좌표를 입력할 때는 모든 값이 정수여야 함"])
-        if stage in {"db_test", "gui_button", "sample", "ocr_test", "auto"}:
+        if stage in pipeline_stages and bool(self.obs_enabled.get()) and self.obs_ocr_source.get().strip():
+            if len(self._ordered_obs_rects_from_list(self.config.section("obs_websocket").get("browser_source_rects", []))) != 4:
+                return ValidationResult.fail(["OBS B1~B4 좌표가 아직 없습니다. 홈에서 전체 재연결 또는 입력 / 좌표의 인풋 좌표 갱신을 먼저 실행하세요."])
+        if stage in {"db_test", "gui_button", "hotkey", "sample", "ocr_test", "auto"}:
             try:
                 fixture = fixture_path(self.db_fixture.get())
             except ValueError as exc:
@@ -1325,7 +1391,7 @@ class MainWindow:
             threshold = validate_threshold(value)
             if not threshold.ok:
                 return ValidationResult.fail([f"{label}: {'; '.join(threshold.errors)}"])
-        if stage in {"overlay_test", "gui_button", "sample", "auto"}:
+        if stage in {"overlay_test", "gui_button", "hotkey", "sample", "auto"}:
             for label, value in [
                 ("오버레이 W", self.overlay_w.get()),
                 ("오버레이 H", self.overlay_h.get()),
@@ -1343,21 +1409,39 @@ class MainWindow:
                 parsed = validate_positive_int(value, label)
                 if not parsed.ok:
                     return parsed
-        if stage in {"overlay_test", "gui_button", "sample", "auto"} and self.overlay_mode.get() == "disabled":
+        if stage in {"overlay_test", "gui_button", "hotkey", "sample", "auto"} and self.overlay_mode.get() == "disabled":
             return ValidationResult.pass_(["오버레이가 꺼져 있어 결과는 디버그/미리보기에만 남음"])
         return ValidationResult.pass_()
 
     def _save_config(self) -> None:
+        one_pc_save = self.one_pc_mode_active and self.one_pc_mode_snapshot is not None
+        saved = False
         try:
             self._apply_gui_to_runtime()
+            if one_pc_save:
+                self._apply_one_pc_snapshot_to_config()
             check = self.controller.run_stage("config_check")
             if check.get("status") != "PASS":
                 self._stage_log("CONFIG", f"오류: 설정 검증 실패: {_config_check_message(check)}", level="ERROR")
                 return
+            self._show_config_warnings(check)
             self.config.save()
+            saved = True
         except Exception as exc:
             self._stage_log("CONFIG", f"오류: 설정 저장 실패: {exc}", level="ERROR")
             return
+        finally:
+            if one_pc_save:
+                previous_loading = self._loading_config
+                try:
+                    self._loading_config = True
+                    self._set_one_pc_mode_variables()
+                    self._apply_gui_to_runtime()
+                finally:
+                    self._loading_config = previous_loading
+                    if saved:
+                        self.gui_dirty = False
+                        self.config.dirty = False
         self._refresh_profile_title()
         self._stage_log("CONFIG", "설정 저장됨")
 
@@ -1368,10 +1452,21 @@ class MainWindow:
             if check.get("status") != "PASS":
                 self._stage_log("CONFIG", f"오류: 설정 검증 실패: {_config_check_message(check)}", level="ERROR")
                 return
+            self._show_config_warnings(check)
         except Exception as exc:
             self._stage_log("CONFIG", f"오류: 설정값이 올바르지 않음: {exc}")
             return
         self._stage_log("CONFIG", "런타임 설정 적용됨")
+
+    def _show_config_warnings(self, check: dict[str, object]) -> None:
+        warnings = check.get("value_warnings", [])
+        if not isinstance(warnings, list):
+            return
+        for warning in warnings:
+            message = str(warning)
+            self._stage_log("CONFIG", f"경고: {message}", level="WARNING")
+            if "password_dpapi" in message:
+                self.obs_status.set("OBS 비밀번호 복호화 실패: 비밀번호를 다시 입력하고 저장하세요")
 
     def _revert_config(self) -> None:
         self.config = AppConfig.load(self.config.path)
@@ -1604,6 +1699,20 @@ class MainWindow:
         self._stage_log("OBS", "시작 자동 확인: OBS 연결과 B/T 좌표를 갱신함")
         self._test_obs_websocket_async(after_connect="input")
 
+    def _startup_ocr_prewarm(self) -> None:
+        if self.controller.busy or self.ui_busy:
+            self.root.after(500, self._startup_ocr_prewarm)
+            return
+        if self.ocr_provider.get() != "paddleocr_v5":
+            return
+        threading.Thread(target=self._worker_ocr_prewarm, daemon=True).start()
+
+    def _worker_ocr_prewarm(self) -> None:
+        payload = self.controller.warm_ocr_provider()
+        status = payload.get("status", "?")
+        duration = payload.get("duration_ms", "?")
+        self.events.put(("log", ("OCR", f"PaddleOCR prewarm {status}: {duration}ms")))
+
     def _run_stage_async(self, stage: str) -> None:
         try:
             self._apply_gui_to_runtime()
@@ -1639,6 +1748,8 @@ class MainWindow:
         timeout = validate_int_range(self.obs_timeout.get(), "OBS 연결 제한 시간 ms", 500, 30000)
         if not timeout.ok:
             return timeout
+        if self._obs_password_decrypt_error and not self.obs_password.get():
+            return ValidationResult.fail(["저장된 OBS 비밀번호 복호화 실패: OBS 연결 페이지에서 비밀번호를 다시 입력하고 저장하세요"])
         return ValidationResult.pass_()
 
     def _test_obs_websocket_async(self, after_connect: str | None = None) -> bool:
@@ -1653,6 +1764,7 @@ class MainWindow:
             host = self.obs_host.get().strip()
             port = int(self.obs_port.get())
             timeout_ms = int(self.obs_timeout.get())
+            password = self._obs_password_for_connection("OBS")
         except Exception as exc:
             self._stage_log("OBS", f"오류: OBS 설정값이 올바르지 않음: {exc}")
             if after_connect == "setup":
@@ -1663,7 +1775,7 @@ class MainWindow:
         self._set_busy_ui(True)
         threading.Thread(
             target=self._worker_obs_websocket,
-            args=(host, port, self.obs_password.get(), max(500, timeout_ms) / 1000, after_connect),
+            args=(host, port, password, max(500, timeout_ms) / 1000, after_connect),
             daemon=True,
         ).start()
         return True
@@ -1684,6 +1796,7 @@ class MainWindow:
             host = self.obs_host.get().strip()
             port = int(self.obs_port.get())
             timeout_ms = int(self.obs_timeout.get())
+            password = self._obs_password_for_connection("OBS")
         except Exception as exc:
             self._stage_log("OBS", f"오류: OBS 설정값이 올바르지 않음: {exc}")
             return
@@ -1701,7 +1814,7 @@ class MainWindow:
         self._set_busy_ui(True)
         threading.Thread(
             target=self._worker_obs_source_rects,
-            args=(source_kind, names, host, port, self.obs_password.get(), max(500, timeout_ms) / 1000),
+            args=(source_kind, names, host, port, password, max(500, timeout_ms) / 1000),
             daemon=True,
         ).start()
 
@@ -1715,6 +1828,7 @@ class MainWindow:
             host = self.obs_host.get().strip()
             port = int(self.obs_port.get())
             timeout_ms = int(self.obs_timeout.get())
+            password = self._obs_password_for_connection("OBS")
             source_name = self.obs_ocr_source.get().strip() or "이미지"
             output_names = [value.get().strip() or f"T{index}" for index, value in enumerate(self.obs_output_sources, start=1)]
             rects = self._snapshot_ocr_rects()
@@ -1737,7 +1851,7 @@ class MainWindow:
             args=(
                 host,
                 port,
-                self.obs_password.get(),
+                password,
                 max(500, timeout_ms) / 1000,
                 source_name,
                 output_names,
@@ -1793,13 +1907,168 @@ class MainWindow:
     def _overlay_remote_is_on(self) -> bool:
         return bool(self.overlay_window is not None and self.overlay_window.is_visible())
 
+    def _toggle_one_pc_mode(self) -> None:
+        if self.one_pc_mode_active:
+            self._disable_one_pc_mode()
+            return
+        self._enable_one_pc_mode()
+
+    def _capture_one_pc_mode_snapshot(self) -> dict[str, object]:
+        return {
+            "overlay_enabled": bool(self.overlay_enabled.get()),
+            "overlay_mode": self.overlay_mode.get(),
+            "overlay_layout": self.overlay_layout.get(),
+            "overlay_position": self.overlay_position.get(),
+            "overlay_topmost": bool(self.overlay_topmost.get()),
+            "overlay_click_through": bool(self.overlay_click_through.get()),
+            "overlay_x": self.overlay_x.get(),
+            "overlay_y": self.overlay_y.get(),
+            "overlay_w": self.overlay_w.get(),
+            "overlay_h": self.overlay_h.get(),
+            "overlay_opacity": self.overlay_opacity.get(),
+            "overlay_clear_ms": self.overlay_clear_ms.get(),
+            "obs_output_source_enabled": [bool(value.get()) for value in self.obs_output_source_enabled],
+        }
+
+    def _restore_one_pc_mode_snapshot(self, snapshot: dict[str, object]) -> None:
+        self.overlay_enabled.set(bool(snapshot.get("overlay_enabled", True)))
+        self.overlay_mode.set(str(snapshot.get("overlay_mode", "window") or "window"))
+        self.overlay_layout.set(str(snapshot.get("overlay_layout", "horizontal") or "horizontal"))
+        self.overlay_position.set(str(snapshot.get("overlay_position", "custom") or "custom"))
+        self.overlay_topmost.set(bool(snapshot.get("overlay_topmost", True)))
+        self.overlay_click_through.set(bool(snapshot.get("overlay_click_through", False)))
+        self.overlay_x.set(str(snapshot.get("overlay_x", self.overlay_x.get())))
+        self.overlay_y.set(str(snapshot.get("overlay_y", self.overlay_y.get())))
+        self.overlay_w.set(str(snapshot.get("overlay_w", self.overlay_w.get())))
+        self.overlay_h.set(str(snapshot.get("overlay_h", self.overlay_h.get())))
+        self.overlay_opacity.set(str(snapshot.get("overlay_opacity", self.overlay_opacity.get())))
+        self.overlay_clear_ms.set(str(snapshot.get("overlay_clear_ms", self.overlay_clear_ms.get())))
+        enabled_values = snapshot.get("obs_output_source_enabled", [])
+        if isinstance(enabled_values, list):
+            for variable, value in zip(self.obs_output_source_enabled, enabled_values):
+                variable.set(bool(value))
+
+    def _apply_one_pc_snapshot_to_config(self) -> None:
+        snapshot = self.one_pc_mode_snapshot
+        if snapshot is None:
+            return
+        overlay_values = {
+            "enabled": bool(snapshot.get("overlay_enabled", True)),
+            "mode": str(snapshot.get("overlay_mode", "window") or "window"),
+            "layout": str(snapshot.get("overlay_layout", "horizontal") or "horizontal"),
+            "position_preset": str(snapshot.get("overlay_position", "custom") or "custom"),
+            "always_on_top": bool(snapshot.get("overlay_topmost", True)),
+            "click_through": bool(snapshot.get("overlay_click_through", False)),
+            "x": int(snapshot.get("overlay_x", self.overlay_x.get()) or 0),
+            "y": int(snapshot.get("overlay_y", self.overlay_y.get()) or 0),
+            "w": int(snapshot.get("overlay_w", self.overlay_w.get()) or 620),
+            "h": int(snapshot.get("overlay_h", self.overlay_h.get()) or 180),
+            "opacity": float(snapshot.get("overlay_opacity", self.overlay_opacity.get()) or 0.92),
+            "clear_after_ms": int(snapshot.get("overlay_clear_ms", self.overlay_clear_ms.get()) or 0),
+        }
+        for key, value in overlay_values.items():
+            self.config.set_value("overlay", key, value)
+        enabled_values = snapshot.get("obs_output_source_enabled", [])
+        if isinstance(enabled_values, list):
+            self.config.set_value("obs_websocket", "text_sources_enabled", [bool(value) for value in enabled_values])
+
+    def _set_one_pc_mode_variables(self) -> None:
+        width, height = self._overlay_layout_size("vertical")
+        self.overlay_enabled.set(True)
+        self.overlay_mode.set("window")
+        self.overlay_layout.set("vertical")
+        self.overlay_position.set("top-right")
+        self.overlay_topmost.set(True)
+        self.overlay_click_through.set(True)
+        self.overlay_w.set(str(width))
+        self.overlay_h.set(str(height))
+        for variable in self.obs_output_source_enabled:
+            variable.set(False)
+
+    def _enable_one_pc_mode(self) -> None:
+        self.one_pc_mode_snapshot = self._capture_one_pc_mode_snapshot()
+        previous_gui_dirty = self.gui_dirty
+        previous_config_dirty = self.config.dirty
+        previous_loading = self._loading_config
+        try:
+            self._loading_config = True
+            self._set_one_pc_mode_variables()
+            if self.obs_text_clear_after_id is not None:
+                self.root.after_cancel(self.obs_text_clear_after_id)
+                self.obs_text_clear_after_id = None
+            if self.obs_capture_overlay_window is not None:
+                self.obs_capture_overlay_window.clear()
+                self.obs_capture_overlay_window.hide()
+            self._apply_gui_to_runtime()
+        finally:
+            self._loading_config = previous_loading
+            self.gui_dirty = previous_gui_dirty
+            self.config.dirty = previous_config_dirty
+        self._clear_current_obs_text_outputs_for_one_pc_mode()
+        self.one_pc_mode_active = True
+        self._refresh_profile_title()
+        self._refresh_home_toggle_buttons()
+        previous_gui_dirty = self.gui_dirty
+        previous_config_dirty = self.config.dirty
+        self._show_overlay_window_now()
+        self.gui_dirty = previous_gui_dirty
+        self.config.dirty = previous_config_dirty
+        self._refresh_profile_title()
+        self._stage_log("OVERLAY", "1PC 모드 켜짐: T 출력 비활성화, 일반 오버레이 세로/오른쪽 위 고정")
+
+    def _clear_current_obs_text_outputs_for_one_pc_mode(self) -> None:
+        names = [value.get().strip() for value in self.obs_output_sources if value.get().strip()]
+        if not names:
+            return
+        self._clear_obs_text_outputs_async(names)
+
+    def _disable_one_pc_mode(self) -> None:
+        snapshot = self.one_pc_mode_snapshot
+        previous_gui_dirty = self.gui_dirty
+        previous_config_dirty = self.config.dirty
+        previous_loading = self._loading_config
+        try:
+            self._loading_config = True
+            if snapshot is not None:
+                self._restore_one_pc_mode_snapshot(snapshot)
+            self._apply_gui_to_runtime()
+        finally:
+            self._loading_config = previous_loading
+            self.gui_dirty = previous_gui_dirty
+            self.config.dirty = previous_config_dirty
+        self.one_pc_mode_active = False
+        self.one_pc_mode_snapshot = None
+        payload = self._current_overlay_payload()
+        if payload:
+            self._apply_overlay_window(payload)
+        else:
+            self._clear_overlay_window()
+        self._refresh_profile_title()
+        self._refresh_home_toggle_buttons()
+        self._stage_log("OVERLAY", "1PC 모드 꺼짐: 기존 오버레이/T 출력 설정 복원")
+
     def _toggle_overlay_remote(self) -> None:
+        if self.one_pc_mode_active:
+            self._set_one_pc_mode_variables()
+            if self.obs_capture_overlay_window is not None:
+                self.obs_capture_overlay_window.clear()
+                self.obs_capture_overlay_window.hide()
+            self._show_overlay_window_now()
+            self._stage_log("OVERLAY", "1PC 모드에서는 일반 오버레이 창을 유지함")
+            self._refresh_home_toggle_buttons()
+            return
         if self._overlay_remote_is_on():
-            if self.overlay_window is not None:
-                self.overlay_window.hide()
+            self.overlay_enabled.set(False)
+            self.overlay_mode.set("disabled")
             if self.overlay_clear_after_id is not None:
                 self.root.after_cancel(self.overlay_clear_after_id)
                 self.overlay_clear_after_id = None
+            self._clear_overlay_window()
+            try:
+                self._apply_gui_to_runtime()
+            except Exception as exc:
+                self._stage_log("OVERLAY", f"오류: 오버레이 리모컨 상태 저장 실패: {exc}", level="ERROR")
+                return
             self._stage_log("OVERLAY", "오버레이 리모컨 꺼짐")
             self._refresh_home_toggle_buttons()
             return
@@ -1813,10 +2082,28 @@ class MainWindow:
         interval = int(auto_cfg.get("detect_interval_ms", 3000))
         cooldown = int(auto_cfg.get("cooldown_ms", 3000))
         now = int(time.monotonic() * 1000)
+        block_reason = self._auto_output_block_reason(now)
+        if block_reason:
+            if now - self.last_auto_output_block_log_ms >= 2000:
+                self.last_auto_output_block_log_ms = now
+                self._stage_log("DETECT", f"자동 대기: {block_reason}")
+            self.root.after(max(50, interval), self._auto_tick)
+            return
         if not self.controller.busy and not self.auto_detect_busy and now - self.last_auto_trigger_ms >= cooldown:
             self.auto_detect_busy = True
             threading.Thread(target=self._worker_auto_detect, daemon=True).start()
         self.root.after(max(50, interval), self._auto_tick)
+
+    def _auto_output_block_reason(self, now_ms: int | None = None) -> str:
+        now = int(time.monotonic() * 1000) if now_ms is None else now_ms
+        if self.overlay_clear_after_id is not None or self.result_overlay_output_active:
+            return "오버레이 결과 표시 중"
+        if self.obs_text_clear_after_id is not None or self.result_obs_text_output_active:
+            return "OBS T 출력 결과 표시 중"
+        if now < self.result_output_block_until_ms:
+            remaining = max(1, (self.result_output_block_until_ms - now + 999) // 1000)
+            return f"결과 출력 후 안전 대기 {remaining}s"
+        return ""
 
     def _worker_auto_detect(self) -> None:
         try:
@@ -1961,6 +2248,7 @@ class MainWindow:
             host = self.obs_host.get().strip()
             port = int(self.obs_port.get())
             timeout_ms = int(self.obs_timeout.get())
+            password = self._obs_password_for_connection("OCR")
             source_name = self.obs_ocr_source.get().strip() or "이미지"
             rects = self._snapshot_ocr_rects() if run_ocr else []
             ocr_cfg = self._snapshot_ocr_settings()
@@ -1977,7 +2265,7 @@ class MainWindow:
         self._set_busy_ui(True)
         threading.Thread(
             target=self._worker_obs_source_capture,
-            args=(host, port, self.obs_password.get(), max(500, timeout_ms) / 1000, source_name, run_ocr, rects, ocr_cfg),
+            args=(host, port, password, max(500, timeout_ms) / 1000, source_name, run_ocr, rects, ocr_cfg),
             daemon=True,
         ).start()
 
@@ -2014,9 +2302,9 @@ class MainWindow:
             "timeout_ms": int(self.ocr_timeout.get()),
             "min_confidence": float(self.ocr_min_confidence.get()),
             "preprocessing_preset": self.ocr_preprocessing_preset.get(),
-            "obs_name_band_enabled": bool(self.config.section("ocr").get("obs_name_band_enabled", True)),
-            "obs_name_band_top_ratio": float(self.config.section("ocr").get("obs_name_band_top_ratio", 0.58)),
-            "obs_name_band_height_ratio": float(self.config.section("ocr").get("obs_name_band_height_ratio", 0.38)),
+            "obs_name_band_enabled": bool(self.config.section("ocr").get("obs_name_band_enabled", False)),
+            "obs_name_band_top_ratio": float(self.config.section("ocr").get("obs_name_band_top_ratio", 0.46)),
+            "obs_name_band_height_ratio": float(self.config.section("ocr").get("obs_name_band_height_ratio", 0.52)),
         }
 
     def _snapshot_ocr_rects(self) -> list[dict[str, int]]:
@@ -2142,9 +2430,9 @@ class MainWindow:
         validation = validate_rects_in_bounds(slot_rects, frame.width, frame.height)
         if not validation.ok:
             raise RuntimeError("; ".join(validation.errors))
-        timeout_ms = int(ocr_cfg.get("timeout_ms", 2500))
+        timeout_ms = int(ocr_cfg.get("timeout_ms", 1000))
         provider = build_ocr_provider(
-            str(ocr_cfg.get("provider", "tesseract")),
+            str(ocr_cfg.get("provider", "paddleocr_v5")),
             str(ocr_cfg.get("language", "kor+eng")),
             timeout_ms,
             str(ocr_cfg.get("preprocessing_preset", "default-korean-ui")),
@@ -2971,25 +3259,10 @@ class MainWindow:
             return None
 
     def _obs_output_test_text(self, entry: dict[str, object] | None, price: object, raw_text: str) -> str:
-        if not isinstance(entry, dict):
-            label = self._compact_ocr_label(raw_text) or "미인식"
-            return f"0 Du / 0 pl\n{label}"
-        ducats = int(entry.get("ducats", 0) or 0)
-        if str(entry.get("slug", "")) == "forma_blueprint":
-            plat_value: object = 0
-        elif price is not None and hasattr(price, "plat_price_min"):
-            plat_value = getattr(price, "plat_price_min")
-        else:
-            plat_value = entry.get("plat")
-        plat_text = self._format_number(plat_value) if plat_value is not None else "-"
-        name = self._obs_entry_display_name(entry)
-        return f"{ducats} Du / {plat_text} pl\n{name}"
+        return format_item_wiki_reward_text(entry, price, raw_text)
 
     def _obs_entry_display_name(self, entry: dict[str, object]) -> str:
-        slug = str(entry.get("slug", "")).replace("_", " ").strip()
-        if slug:
-            return slug
-        return str(entry.get("name_en") or entry.get("name_kr") or "unknown").strip().lower()
+        return str(entry.get("name_kr") or entry.get("name_en") or entry.get("slug") or "unknown").replace("_", " ").strip()
 
     def _compact_ocr_label(self, raw_text: str) -> str:
         value = " ".join(line.strip() for line in raw_text.splitlines() if line.strip())
@@ -3138,6 +3411,12 @@ class MainWindow:
                 row_vars[key].set(str(rect[key]))
         self.config.set_value("obs_websocket", "browser_source_rects", self._source_rect_config(names, ordered))
         self._apply_gui_to_runtime()
+        try:
+            self.config.save()
+        except Exception as exc:
+            self._stage_log("CONFIG", f"OBS B1~B4 좌표 자동 저장 실패: {exc}", level="ERROR")
+        else:
+            self._stage_log("CONFIG", "OBS B1~B4 좌표 자동 저장됨", level="SUCCESS")
         self.home_input_status.set(f"B1~B4 좌표 적용됨 / 장면: {payload.get('current_program_scene_name', '-')}")
         self._stage_log("OBS", "OBS input B1~B4 좌표를 입력 / 좌표에 적용함", level="SUCCESS")
         if self.obs_auto_setup_pending:
@@ -3158,8 +3437,11 @@ class MainWindow:
         if status in {"updated", "partial"}:
             self.obs_connected = True
             if is_clear:
+                self.result_obs_text_output_active = False
+            if is_clear:
                 message = f"OBS T 출력 지움: {', '.join(updated) if updated else '-'}"
             else:
+                self.result_obs_text_output_active = True
                 message = f"OBS T 출력 갱신: {', '.join(updated) if updated else '-'}"
             if failed:
                 message += f" / 실패 {', '.join(str(name) for name in failed)}"
@@ -3177,6 +3459,7 @@ class MainWindow:
             self.home_output_status.set("OBS T 출력 지움 실패")
             self._stage_log("OBS", f"OBS T 출력 지움 실패: {error}", level="ERROR")
         else:
+            self.result_obs_text_output_active = False
             self.home_output_status.set("OBS T 출력 실패")
             self._stage_log("OBS", f"OBS T 출력 실패: {error}", level="ERROR")
 
@@ -3195,6 +3478,7 @@ class MainWindow:
         recognized = int(payload.get("recognized_count", 0) or 0)
         if status == "PASS":
             self.obs_connected = True
+            self.result_obs_text_output_active = True
             message = f"출력테스트 완료: 인식 {recognized}/4, 갱신 {len(updated)}/4"
             if failed:
                 message += f", 실패 {len(failed)}"
@@ -3207,6 +3491,7 @@ class MainWindow:
             self._refresh_home_dashboard()
             return
         error = str(payload.get("error", "원인 불명"))
+        self.result_obs_text_output_active = False
         message = f"출력테스트 실패: {error}"
         self.home_output_status.set(message)
         self.status_var.set(message)
@@ -3352,47 +3637,82 @@ class MainWindow:
 
     def _show_result(self, result) -> None:
         self.last_result = result
-        for row in self.result_table.get_children():
-            self.result_table.delete(row)
-        result_date = self._result_date()
-        for reward in result.rewards:
-            item_name = reward.matched_name or reward.matched_item_id or reward.normalized_text or reward.raw_ocr
-            self.result_table.insert(
-                "",
-                "end",
-                values=(
-                    reward.slot_index,
-                    result_date,
-                    item_name,
-                    self._format_number(reward.ducats) if reward.ducats is not None else "",
-                    self._format_number(reward.plat_price) if reward.plat_price is not None else "",
-                    "",
-                    "",
-                ),
-            )
+        append_result = self.reward_ledger.append_result(result, trigger=str(getattr(result, "trigger", "")), result_date=self._result_date())
+        if append_result.duplicate:
+            self._stage_log("RESULT", "자동 감지 중복 결과라 보상 DB에는 추가하지 않음")
+        else:
+            self._stage_log("RESULT", f"보상 DB 누적: {append_result.added_count}개 추가")
+        self._refresh_result_table()
         self._refresh_result_details()
         self.overlay_text.delete("1.0", "end")
         self.overlay_text.insert("1.0", result.overlay_payload)
         avoid_rect = self._to_overlay_rect(getattr(result.detector, "reward_panel_rect", None))
-        self._apply_overlay_window(result.overlay_payload, avoid_rect)
+        self._apply_overlay_window(result.overlay_payload, avoid_rect, result_output=True)
         self._update_obs_text_outputs_async(result)
+        self._mark_result_output_block()
         self.status_var.set(f"결과 준비됨: {result.total_ms}ms")
         self._set_busy_ui(False)
         self._refresh_indicators(result)
         self._refresh_log()
 
+    def _mark_result_output_block(self) -> None:
+        overlay_ms = 0
+        try:
+            if self.overlay_enabled.get() and self.overlay_mode.get() in {"window", "console"}:
+                overlay_ms = max(0, int(self.overlay_clear_ms.get() or 0))
+        except (TypeError, ValueError, tk.TclError):
+            overlay_ms = 0
+        obs_ms = 0
+        try:
+            if not self.one_pc_mode_active and self.obs_enabled.get():
+                obs_ms = self._obs_text_clear_after_ms()
+        except tk.TclError:
+            obs_ms = 0
+        delay_ms = max(RESULT_OUTPUT_AUTO_SAFEGUARD_MS, overlay_ms + RESULT_OUTPUT_AUTO_SAFEGUARD_MS, obs_ms + RESULT_OUTPUT_AUTO_SAFEGUARD_MS)
+        self.result_output_block_until_ms = max(self.result_output_block_until_ms, int(time.monotonic() * 1000) + delay_ms)
+        self.last_auto_trigger_ms = int(time.monotonic() * 1000)
+        self._stage_log("DETECT", f"결과 출력 후 자동감지 안전 대기 예약: {delay_ms // 1000}s")
+
     def _result_date(self) -> str:
         return time.strftime("%m_%d_%y")
+
+    def _refresh_result_table(self) -> None:
+        if not hasattr(self, "result_table"):
+            return
+        for row in self.result_table.get_children():
+            self.result_table.delete(row)
+        rows = self.reward_ledger.filtered(
+            received=bool(self.result_filter_received.get()) if hasattr(self, "result_filter_received") else False,
+            sell=bool(self.result_filter_sell.get()) if hasattr(self, "result_filter_sell") else False,
+            use=bool(self.result_filter_use.get()) if hasattr(self, "result_filter_use") else False,
+        )
+        for row in rows:
+            self.result_table.insert(
+                "",
+                "end",
+                iid=row.id,
+                values=(
+                    row.number,
+                    row.received,
+                    row.date,
+                    row.item,
+                    self._format_number(row.ducats) if row.ducats is not None else "",
+                    self._format_number(row.plat) if row.plat is not None else "",
+                    row.sell,
+                    row.use,
+                ),
+            )
+
+    def _clear_result_filters(self) -> None:
+        self.result_filter_received.set(False)
+        self.result_filter_sell.set(False)
+        self.result_filter_use.set(False)
+        self._refresh_result_table()
 
     def _refresh_result_details(self) -> None:
         self.details_text.delete("1.0", "end")
         if self.last_result is None:
             return
-        visible_slots = {
-            int(self.result_table.item(row_id, "values")[0])
-            for row_id in self.result_table.get_children()
-            if self.result_table.item(row_id, "values")
-        }
         self.details_text.insert(
             "1.0",
             "\n".join(
@@ -3401,7 +3721,6 @@ class MainWindow:
                     f"매칭={r.matched_name} | 점수={r.match_score} | 방식={r.match_method} | 경고={r.warning or '-'}"
                 )
                 for r in self.last_result.rewards
-                if int(r.slot_index) in visible_slots
             ),
         )
 
@@ -3420,11 +3739,8 @@ class MainWindow:
             self._stage_log("RESULT", "삭제할 보상 행을 먼저 선택해야 함", level="WARNING")
             return
         for row_id in selection:
-            values = self.result_table.item(row_id, "values")
-            slot_index = self._safe_slot_from_values(values)
-            self.result_table.delete(row_id)
-            if self.last_result is not None and slot_index is not None:
-                self.last_result.rewards = [reward for reward in self.last_result.rewards if int(reward.slot_index) != slot_index]
+            self.reward_ledger.delete(str(row_id))
+        self._refresh_result_table()
         self._refresh_result_details()
         self._stage_log("RESULT", "선택한 보상 행 삭제됨", level="SUCCESS")
 
@@ -3438,7 +3754,7 @@ class MainWindow:
             column_name = columns[int(column_id.lstrip("#")) - 1]
         except (ValueError, IndexError):
             return
-        if column_name not in {"sell", "use"}:
+        if column_name not in {"received", "sell", "use"}:
             return
         self._edit_result_cell(row_id, column_name)
 
@@ -3465,21 +3781,25 @@ class MainWindow:
             if self.result_cell_editor is None:
                 return
             value = editor.get().strip()
-            if not self._validate_result_choice(column_name, value):
-                expected = "1" if column_name == "sell" else "2"
-                self._stage_log("RESULT", f"입력 오류: {self._result_choice_label(column_name)} 칸에는 {expected} 또는 빈 값만 입력 가능", level="ERROR")
+            if not is_result_memo_value_valid(value):
+                self._stage_log("RESULT", f"입력 오류: {self._result_choice_label(column_name)} 칸은 텍스트만 입력 가능", level="ERROR")
                 editor.focus_set()
                 return
             values = list(self.result_table.item(row_id, "values"))
             while len(values) < len(columns):
                 values.append("")
             values[column_index] = value
-            if value:
-                opposite = "use" if column_name == "sell" else "sell"
-                values[columns.index(opposite)] = ""
+            self.reward_ledger.update_notes(
+                str(row_id),
+                received=value if column_name == "received" else None,
+                sell=value if column_name == "sell" else None,
+                use=value if column_name == "use" else None,
+            )
             self.result_table.item(row_id, values=values)
             editor.destroy()
             self.result_cell_editor = None
+            self._refresh_result_table()
+            self._refresh_result_details()
             self._stage_log("RESULT", f"{values[0]}번 {self._result_choice_label(column_name)} 값 입력: {value or '-'}", level="SUCCESS")
 
         def cancel(_event=None) -> None:
@@ -3491,13 +3811,8 @@ class MainWindow:
         editor.bind("<FocusOut>", commit)
         editor.bind("<Escape>", cancel)
 
-    def _validate_result_choice(self, column_name: str, value: str) -> bool:
-        if value == "":
-            return True
-        return (column_name == "sell" and value == "1") or (column_name == "use" and value == "2")
-
     def _result_choice_label(self, column_name: str) -> str:
-        return "판매" if column_name == "sell" else "사용"
+        return {"received": "수령", "sell": "판매", "use": "사용"}.get(column_name, column_name)
 
     def _safe_slot_from_values(self, values: object) -> int | None:
         if not isinstance(values, (list, tuple)) or not values:
@@ -3508,6 +3823,10 @@ class MainWindow:
             return None
 
     def _update_obs_text_outputs_async(self, result) -> None:
+        if self.one_pc_mode_active:
+            self.result_obs_text_output_active = False
+            self._stage_log("OBS", "T 출력 건너뜀: 1PC 모드에서 일반 오버레이만 사용", level="INFO")
+            return
         if not self.obs_enabled.get():
             self._stage_log("OBS", "T 출력 건너뜀: OBS 연결이 꺼져 있음", level="WARNING")
             return
@@ -3517,6 +3836,7 @@ class MainWindow:
             host = self.obs_host.get().strip()
             port = int(self.obs_port.get())
             timeout_ms = int(self.obs_timeout.get())
+            password = self._obs_password_for_connection("OBS")
         except Exception as exc:
             self._stage_log("OBS", f"오류: OBS 출력 설정값이 올바르지 않음: {exc}")
             return
@@ -3524,11 +3844,12 @@ class MainWindow:
         if not text_by_source:
             self._stage_log("OBS", "T 출력 건너뜀: 활성화된 출력 소스가 없음", level="WARNING")
             return
+        self.result_obs_text_output_active = True
         self.status_var.set("OBS T 출력 갱신 중")
         clear_after_ms = self._obs_text_clear_after_ms()
         threading.Thread(
             target=self._worker_obs_text_outputs,
-            args=(host, port, self.obs_password.get(), self._obs_text_update_timeout_seconds(timeout_ms), text_by_source, False, clear_after_ms),
+            args=(host, port, password, self._obs_text_update_timeout_seconds(timeout_ms), text_by_source, False, clear_after_ms),
             daemon=True,
         ).start()
 
@@ -3560,6 +3881,7 @@ class MainWindow:
             host = self.obs_host.get().strip()
             port = int(self.obs_port.get())
             timeout_ms = int(self.obs_timeout.get())
+            password = self._obs_password_for_connection("OBS")
         except Exception as exc:
             self._stage_log("OBS", f"오류: OBS T 지움 설정값이 올바르지 않음: {exc}", level="ERROR")
             return
@@ -3568,12 +3890,13 @@ class MainWindow:
             return
         threading.Thread(
             target=self._worker_obs_text_outputs,
-            args=(host, port, self.obs_password.get(), self._obs_text_update_timeout_seconds(timeout_ms), text_by_source, True, 0),
+            args=(host, port, password, self._obs_text_update_timeout_seconds(timeout_ms), text_by_source, True, 0),
             daemon=True,
         ).start()
 
     def _obs_text_output_payload(self, rewards) -> dict[str, str]:
         rewards_by_slot = {int(reward.slot_index): reward for reward in rewards}
+        slot_widths = self._obs_input_slot_widths()
         text_by_source: dict[str, str] = {}
         seen_sources: set[str] = set()
         for index, source_var in enumerate(self.obs_output_sources, start=1):
@@ -3586,31 +3909,26 @@ class MainWindow:
                 return {}
             seen_sources.add(source_key)
             reward = rewards_by_slot.get(index)
-            text_by_source[source_name] = self._obs_reward_text(reward)
+            text_by_source[source_name] = self._obs_reward_text(reward, slot_widths.get(index))
         return text_by_source
 
-    def _obs_reward_text(self, reward) -> str:
-        if reward is None:
-            return "0 Du / 0 pl"
-        ducats = reward.ducats if reward.ducats is not None else 0
-        plat = reward.plat_price if reward.plat_price is not None else 0
-        label = str(getattr(reward, "matched_item_id", "") or getattr(reward, "matched_name", "") or "").replace("_", " ").strip()
-        flags = self._obs_reward_warning_suffix(reward)
-        if flags:
-            label = f"{label} [{flags}]" if label else f"[{flags}]"
-        value_line = f"{self._format_number(ducats)} Du / {self._format_number(plat)} pl"
-        return f"{value_line}\n{label}" if label else value_line
+    def _obs_reward_text(self, reward, slot_width_px: int | None = None) -> str:
+        return format_obs_reward_text(reward, slot_width_px)
 
-    def _obs_reward_warning_suffix(self, reward) -> str:
-        flag_set = set(getattr(reward, "recommendation_flags", []) or [])
-        markers: list[str] = []
-        if "UNMATCHED" in flag_set:
-            markers.append("MATCH?")
-        if "LOW_CONFIDENCE" in flag_set:
-            markers.append("OCR?")
-        if "STALE_PRICE" in flag_set:
-            markers.append("PRICE?")
-        return " ".join(markers)
+    def _obs_input_slot_widths(self) -> dict[int, int]:
+        rects = self._ordered_obs_rects_from_list(self.config.section("obs_websocket").get("browser_source_rects", []))
+        if len(rects) != 4:
+            try:
+                rects = self._roi_slot_rect_payload()
+            except Exception:
+                rects = []
+        widths: dict[int, int] = {}
+        for index, rect in enumerate(rects, start=1):
+            try:
+                widths[index] = int(rect.get("w", 0))
+            except (AttributeError, TypeError, ValueError):
+                continue
+        return widths
 
     def _format_number(self, value: object) -> str:
         try:
@@ -3674,7 +3992,8 @@ class MainWindow:
     def _show_overlay_window_now(self) -> None:
         try:
             self.overlay_enabled.set(True)
-            self.overlay_mode.set("window")
+            if self.overlay_mode.get() == "disabled":
+                self.overlay_mode.set("window")
             self._apply_gui_to_runtime()
         except Exception as exc:
             self._stage_log("OVERLAY", f"오류: 오버레이 설정값이 올바르지 않음: {exc}")
@@ -3684,6 +4003,9 @@ class MainWindow:
             return
         self.overlay_text.delete("1.0", "end")
         self.overlay_text.insert("1.0", payload)
+        if self.obs_capture_overlay_window is not None:
+            self.obs_capture_overlay_window.clear()
+            self.obs_capture_overlay_window.hide()
         if self.overlay_clear_after_id is not None:
             self.root.after_cancel(self.overlay_clear_after_id)
             self.overlay_clear_after_id = None
@@ -3699,7 +4021,8 @@ class MainWindow:
             self.overlay_window.set_opacity(opacity)
         x, y, w, h = self._resolve_overlay_position(None)
         self.overlay_window.show(payload, x=x, y=y, w=w, h=h, topmost=bool(self.overlay_topmost.get()))
-        self._stage_log("OVERLAY", "오버레이 창을 띄움")
+        mode_label = OVERLAY_MODE_LABELS.get(self.overlay_mode.get(), self.overlay_mode.get())
+        self._stage_log("OVERLAY", f"오버레이 창을 띄움: {mode_label}")
         self._refresh_home_toggle_buttons()
 
     def _toggle_overlay_adjust_window(self) -> None:
@@ -3711,7 +4034,8 @@ class MainWindow:
     def _open_overlay_adjust_window(self) -> None:
         try:
             self.overlay_enabled.set(True)
-            self.overlay_mode.set("window")
+            if self.overlay_mode.get() == "disabled":
+                self.overlay_mode.set("window")
             self.overlay_position.set("custom")
             self._apply_gui_to_runtime()
         except Exception as exc:
@@ -3772,7 +4096,8 @@ class MainWindow:
             self.overlay_adjust_button_text.set("오버레이 위치 직접 조절")
         try:
             self.overlay_enabled.set(True)
-            self.overlay_mode.set("window")
+            if self.overlay_mode.get() == "disabled":
+                self.overlay_mode.set("window")
             self.overlay_position.set("custom")
             self._apply_gui_to_runtime()
             self.config.save()
@@ -3783,11 +4108,77 @@ class MainWindow:
         self._refresh_profile_title()
         self._stage_log("OVERLAY", f"오버레이 위치 저장됨: {self.overlay_x.get()},{self.overlay_y.get()},{self.overlay_w.get()},{self.overlay_h.get()}", level="SUCCESS")
 
+    def _reset_overlay_window_position(self) -> None:
+        monitor_x, monitor_y, monitor_w, monitor_h = self._current_monitor_work_area()
+        try:
+            width = max(120, min(int(self.overlay_w.get() or 620), monitor_w))
+            height = max(80, min(int(self.overlay_h.get() or 180), monitor_h))
+        except (TypeError, ValueError):
+            width, height = self._overlay_layout_size(self.overlay_layout.get() or "horizontal")
+            width = max(120, min(width, monitor_w))
+            height = max(80, min(height, monitor_h))
+        x = monitor_x + max(0, (monitor_w - width) // 2)
+        y = monitor_y + max(0, (monitor_h - height) // 2)
+        self.overlay_enabled.set(True)
+        if self.overlay_mode.get() == "disabled":
+            self.overlay_mode.set("window")
+        self.overlay_position.set("custom")
+        self.overlay_x.set(str(x))
+        self.overlay_y.set(str(y))
+        self.overlay_w.set(str(width))
+        self.overlay_h.set(str(height))
+        try:
+            self._apply_gui_to_runtime()
+            self.config.save()
+        except Exception as exc:
+            self._stage_log("OVERLAY", f"오류: 오버레이 위치 초기화 저장 실패: {exc}", level="ERROR")
+            return
+        self.gui_dirty = False
+        self._refresh_profile_title()
+        self._show_overlay_window_now()
+        self._stage_log("OVERLAY", f"오버레이 창 위치 초기화: {width}x{height}+{x}+{y}")
+
+    def _current_monitor_work_area(self) -> tuple[int, int, int, int]:
+        if os.name == "nt":
+            try:
+                import ctypes
+                from ctypes import wintypes
+
+                class RECT(ctypes.Structure):
+                    _fields_ = [
+                        ("left", wintypes.LONG),
+                        ("top", wintypes.LONG),
+                        ("right", wintypes.LONG),
+                        ("bottom", wintypes.LONG),
+                    ]
+
+                class MONITORINFO(ctypes.Structure):
+                    _fields_ = [
+                        ("cbSize", wintypes.DWORD),
+                        ("rcMonitor", RECT),
+                        ("rcWork", RECT),
+                        ("dwFlags", wintypes.DWORD),
+                    ]
+
+                monitor_default_to_nearest = 2
+                hwnd = self.root.winfo_id()
+                user32 = ctypes.windll.user32  # type: ignore[attr-defined]
+                monitor = user32.MonitorFromWindow(wintypes.HWND(hwnd), monitor_default_to_nearest)
+                info = MONITORINFO()
+                info.cbSize = ctypes.sizeof(MONITORINFO)
+                if monitor and user32.GetMonitorInfoW(monitor, ctypes.byref(info)):
+                    work = info.rcWork
+                    return work.left, work.top, max(1, work.right - work.left), max(1, work.bottom - work.top)
+            except Exception:
+                pass
+        return 0, 0, max(1, self.root.winfo_screenwidth()), max(1, self.root.winfo_screenheight())
+
     def _set_overlay_layout(self, layout: str) -> None:
         layout = "vertical" if layout == "vertical" else "horizontal"
         width, height = self._overlay_layout_size(layout)
         self.overlay_enabled.set(True)
-        self.overlay_mode.set("window")
+        if self.overlay_mode.get() == "disabled":
+            self.overlay_mode.set("window")
         self.overlay_layout.set(layout)
         self.overlay_position.set("custom")
         self.overlay_w.set(str(width))
@@ -3817,12 +4208,19 @@ class MainWindow:
         return 900, 180
 
     def _show_obs_capture_overlay_window_now(self) -> None:
+        if self.one_pc_mode_active:
+            self._stage_log("OVERLAY", "1PC 모드에서는 OBS용 창 대신 일반 오버레이 창을 사용")
+            self._show_overlay_window_now()
+            return
         try:
+            self.overlay_enabled.set(True)
+            if self.overlay_mode.get() == "disabled":
+                self.overlay_mode.set("window")
             self._apply_gui_to_runtime()
         except Exception as exc:
             self._stage_log("OVERLAY", f"오류: 오버레이 설정값이 올바르지 않음: {exc}")
             return
-        payload = self._current_overlay_payload()
+        payload = self._current_overlay_payload(force_mode="window")
         if payload is None:
             return
         self.overlay_text.delete("1.0", "end")
@@ -3833,10 +4231,10 @@ class MainWindow:
         self.obs_capture_overlay_window.show(payload, x=x, y=y, w=w, h=h)
         self._stage_log("OVERLAY", "OBS 창 캡쳐용 오버레이 창을 띄움: OBS prime OBS Overlay Source")
 
-    def _current_overlay_payload(self) -> str | None:
+    def _current_overlay_payload(self, force_mode: str | None = None) -> str | None:
         if self.last_result is not None:
             try:
-                return build_overlay_provider("window", self.config.section("overlay")).render(self.last_result.rewards)
+                return build_overlay_provider(self._selected_overlay_payload_mode(force_mode), self.config.section("overlay")).render(self.last_result.rewards)
             except Exception as exc:
                 self._stage_log("OVERLAY", f"오류: 오버레이 페이로드 생성 실패: {exc}", level="ERROR")
                 return None
@@ -3849,6 +4247,10 @@ class MainWindow:
                 self._stage_log("OVERLAY", f"오류: 오버레이 미리보기 생성 실패: {exc}")
                 return None
         return payload or "OBS prime Overlay\n대기 중"
+
+    def _selected_overlay_payload_mode(self, force_mode: str | None = None) -> str:
+        mode = force_mode or self.overlay_mode.get()
+        return mode if mode in {"console", "window"} else "window"
 
     def _resolve_overlay_position(self, avoid_rect: OverlayRect | None) -> tuple[int, int, int, int]:
         x = int(self.overlay_x.get() or 0)
@@ -3896,21 +4298,39 @@ class MainWindow:
             or second.y + second.h <= first.y
         )
 
-    def _apply_overlay_window(self, payload: str, avoid_rect: OverlayRect | None = None) -> None:
+    def _apply_overlay_window(self, payload: str, avoid_rect: OverlayRect | None = None, result_output: bool = False) -> None:
+        if self.one_pc_mode_active:
+            previous_loading = self._loading_config
+            try:
+                self._loading_config = True
+                self._set_one_pc_mode_variables()
+            finally:
+                self._loading_config = previous_loading
+            avoid_rect = None
         mode = self.overlay_mode.get()
         clear_ms = int(self.overlay_clear_ms.get() or 0)
-        opacity = float(self.overlay_opacity.get() or 0.92)
-        x, y, w, h = self._resolve_overlay_position(avoid_rect)
-        if self.obs_capture_overlay_window is not None and self.obs_capture_overlay_window.is_visible():
-            self.obs_capture_overlay_window.show(payload, x=x, y=y, w=w, h=h)
-        if mode != "window":
-            if self.overlay_window is not None:
-                self.overlay_window.hide()
-            if clear_ms <= 0:
-                return
+        if not self.overlay_enabled.get() or mode not in {"window", "console"}:
             if self.overlay_clear_after_id is not None:
                 self.root.after_cancel(self.overlay_clear_after_id)
-            self.overlay_clear_after_id = self.root.after(clear_ms, self._clear_overlay_payload)
+                self.overlay_clear_after_id = None
+            if result_output:
+                self.result_overlay_output_active = False
+            self._clear_overlay_window()
+            return
+        opacity = float(self.overlay_opacity.get() or 0.92)
+        x, y, w, h = self._resolve_overlay_position(avoid_rect)
+        if self.one_pc_mode_active and self.obs_capture_overlay_window is not None and self.obs_capture_overlay_window.is_visible():
+            self.obs_capture_overlay_window.clear()
+            self.obs_capture_overlay_window.hide()
+        obs_capture_visible = bool(self.obs_capture_overlay_window is not None and self.obs_capture_overlay_window.is_visible())
+        normal_overlay_visible = bool(self.overlay_window is not None and self.overlay_window.is_visible())
+        if obs_capture_visible:
+            self.obs_capture_overlay_window.show(payload, x=x, y=y, w=w, h=h)
+        if obs_capture_visible and not normal_overlay_visible:
+            if clear_ms > 0:
+                if self.overlay_clear_after_id is not None:
+                    self.root.after_cancel(self.overlay_clear_after_id)
+                self.overlay_clear_after_id = self.root.after(clear_ms, self._clear_overlay_payload)
             return
         if self.overlay_clear_after_id is not None:
             self.root.after_cancel(self.overlay_clear_after_id)
@@ -3926,6 +4346,10 @@ class MainWindow:
             self.overlay_window.set_opacity(opacity)
 
         self.overlay_window.show(payload, x=x, y=y, w=w, h=h, topmost=bool(self.overlay_topmost.get()))
+        if result_output:
+            self.result_overlay_output_active = True
+        if self.one_pc_mode_active:
+            self._stage_log("OVERLAY", "1PC 일반 오버레이 출력 갱신")
         if clear_ms > 0:
             self.overlay_clear_after_id = self.root.after(clear_ms, self._clear_overlay_payload)
 
@@ -3956,11 +4380,13 @@ class MainWindow:
 
     def _clear_overlay_payload(self) -> None:
         self.overlay_text.delete("1.0", "end")
+        self.result_overlay_output_active = False
         self._clear_overlay_window()
         self._refresh_home_toggle_buttons()
         self.overlay_clear_after_id = None
 
     def _clear_overlay_window(self) -> None:
+        self.result_overlay_output_active = False
         if self.overlay_window is not None:
             self.overlay_window.clear()
             self.overlay_window.hide()
@@ -4194,9 +4620,22 @@ class MainWindow:
 
     def _clear_obs_password(self) -> None:
         self.obs_password.set("")
-        self._apply_gui_to_runtime()
+        self.config.set_value("obs_websocket", "password_dpapi", "")
+        self._loaded_obs_password = ""
+        self._obs_password_decrypt_error = ""
         self.obs_status.set("OBS 비밀번호 비움")
         self._stage_log("OBS", "OBS WebSocket 비밀번호를 비움")
+
+    def _obs_password_for_connection(self, stage: str) -> str:
+        current_obs_password = self.obs_password.get().strip()
+        if current_obs_password != self.obs_password.get():
+            self.obs_password.set(current_obs_password)
+        if self._obs_password_decrypt_error and not current_obs_password:
+            message = "저장된 OBS 비밀번호 복호화 실패: OBS 연결 페이지에서 비밀번호를 다시 입력하고 저장하세요"
+            self.obs_status.set(message)
+            self._stage_log(stage, message, level="ERROR")
+            raise RuntimeError(message)
+        return current_obs_password
 
     def _save_obs_ocr_source(self) -> None:
         try:

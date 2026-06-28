@@ -1,8 +1,13 @@
 # Runtime Python packages for OBS prime.
-# External programs are still required separately:
-# - Tesseract OCR binary
+# PaddleOCR v5 Korean is the default OCR engine.
+# These versions are the locally verified stable stack on the dev PC.
+# Tesseract remains an optional fallback engine; install its binary separately only if needed.
+# External program still required separately:
 # - OBS Studio with obs-websocket
 
-pillow>=12.0.0
-pytesseract>=0.3.13
-mss>=10.2.0
+pillow==12.2.0
+mss==10.2.0
+paddleocr==3.7.0
+paddlepaddle==3.3.1
+aiohttp==3.9.5
+pytesseract==0.3.13

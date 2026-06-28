@@ -73,24 +73,9 @@ def _number(value: object) -> str:
 
 
 def _horizontal_reward_line(reward: RewardResult) -> str:
-    flags = _compact_flags(reward)
-    suffix = f" [{flags}]" if flags else ""
-    return f"{_reward_name(reward)} {_number(reward.ducats)} ducat / {_number(reward.plat_price)} plat{suffix}"
+    return f"{_reward_name(reward)} {_number(reward.ducats)} ducat / {_number(reward.plat_price)} plat"
 
 
 def _vertical_reward_line(reward: RewardResult) -> str:
-    flags = _compact_flags(reward)
-    suffix = f"\n[{flags}]" if flags else ""
-    return f"{_reward_name(reward)}\n{_number(reward.ducats)} ducat / {_number(reward.plat_price)} plat{suffix}"
+    return f"{_reward_name(reward)}\n{_number(reward.ducats)} ducat / {_number(reward.plat_price)} plat"
 
-
-def _compact_flags(reward: RewardResult) -> str:
-    markers = []
-    flag_set = set(reward.recommendation_flags)
-    if "UNMATCHED" in flag_set:
-        markers.append("MATCH?")
-    if "LOW_CONFIDENCE" in flag_set:
-        markers.append("OCR?")
-    if "STALE_PRICE" in flag_set:
-        markers.append("PRICE?")
-    return " ".join(markers)

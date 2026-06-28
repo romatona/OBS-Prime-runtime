@@ -94,6 +94,8 @@ def run_compilecheck() -> int:
 
 def run_mvp_functional() -> int:
     controller = PipelineController()
+    controller.config.set_value("data", "market_live_enabled", False)
+    controller.warm_ocr_provider()
     result = controller.run_pipeline(trigger="sample")
     high_conf = [r for r in result.rewards if r.match_score >= 0.92]
     errors: list[str] = []
@@ -220,7 +222,7 @@ def run_unit_smoke() -> int:
     from .ocr.providers import OcrProvider
     from .ocr.reward_screen import RewardScreenOcr
     from .overlay.providers import WindowOverlayProvider
-    from .obs.websocket_client import ObsWebSocketClient, WEBSOCKET_ACCEPT_GUID
+    from .obs.websocket_client import ObsWebSocketClient, WEBSOCKET_ACCEPT_GUID, _candidate_hosts, _normalize_host
     from .diagnostics.artifacts import ArtifactWriter
     from .diagnostics.logging import EventLog
     from .paths import resolve_project_path
@@ -268,6 +270,10 @@ def run_unit_smoke() -> int:
         ObsWebSocketClient("127.0.0.1", 4455)._validate_handshake_response(handshake_header, handshake_key)
     except Exception as exc:
         failures.append(f"valid websocket handshake rejected: {exc}")
+    if _normalize_host("ws://127.0.0.1:4455") != "127.0.0.1":
+        failures.append("OBS WebSocket host normalization rejected ws://host:port input")
+    if _candidate_hosts("127.0.0.1")[:2] != ["127.0.0.1", "localhost"]:
+        failures.append("OBS WebSocket localhost fallback candidates were not generated")
     try:
         ObsWebSocketClient("127.0.0.1", 4455)._validate_handshake_response(
             handshake_header.replace(handshake_accept, "invalid"),
@@ -395,7 +401,7 @@ def run_unit_smoke() -> int:
     RecommendationEngine(usable_threshold=0.90).score(low_threshold_rewards)
     if "LOW_CONFIDENCE" not in low_threshold_rewards[0].recommendation_flags:
         failures.append("recommendation engine did not honor injected usable threshold")
-    flagged_overlay = WindowOverlayProvider({"layout": "horizontal"}).render(
+    clean_overlay = WindowOverlayProvider({"layout": "horizontal"}).render(
         [
             RewardResult(
                 1,
@@ -413,8 +419,8 @@ def run_unit_smoke() -> int:
             )
         ]
     )
-    if not all(marker in flagged_overlay for marker in ("MATCH?", "OCR?", "PRICE?")):
-        failures.append("overlay did not expose compact warning markers")
+    if any(marker in clean_overlay for marker in ("MATCH?", "OCR?", "PRICE?")):
+        failures.append("window overlay leaked diagnostic warning markers into broadcast payload")
     event_log = EventLog()
     event_log.add("OBS", "INFO", "saved dpapi:AAAA1111+/=")
     if "dpapi:AAAA" in event_log.tail(1)[0] or "dpapi:REDACTED" not in event_log.tail(1)[0]:
@@ -461,8 +467,8 @@ def run_unit_smoke() -> int:
     if "1번 칸" not in overlay_stage.get("payload", ""):
         failures.append("overlay_test stage did not render four-slot preview payload")
     ocr_check = PipelineController().run_stage("ocr_check")
-    if ocr_check.get("provider") != "tesseract" or ocr_check.get("status") not in {"ready", "unavailable"}:
-        failures.append("ocr_check did not confirm tesseract provider")
+    if ocr_check.get("provider") not in {"tesseract", "paddleocr_v5", "windows_ocr"} or ocr_check.get("status") not in {"ready", "unavailable"}:
+        failures.append("ocr_check did not report a supported OCR provider status")
     class BrokenOcrProvider(OcrProvider):
         def read_slot(self, frame, slot_index, rect):
             raise RuntimeError("intentional OCR failure")

@@ -1,30 +1,30 @@
-﻿{
-    "schema":  "obs_prime.item_wiki_entry.v1",
-    "slug":  "fragor_prime_head",
-    "market_slug":  "fragor_prime_head",
-    "name_en":  "Fragor Prime Head",
-    "name_en_slug":  "fragor_prime_head",
-    "name_kr":  "프레거 프라임 헤드",
-    "aliases":  [
-                    "Fragor Prime Head",
-                    "fragor_prime_head",
-                    "프레거 프라임 헤드"
-                ],
-    "ducats":  15,
-    "ducats_display":  "15 d",
-    "ducats_source":  "warframe_market_v2_items",
-    "rarities":  [
-                     "Uncommon"
-                 ],
-    "plat":  null,
-    "plat_display":  "-",
-    "plat_date":  "",
-    "source":  {
-                   "wfcd_relics":  "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Relics.json",
-                   "warframe_market_items":  "https://api.warframe.market/v2/items",
-                   "price_cache":  "data/market_cache/warframe_market_prices.json"
-               },
-    "updated_at":  "2026-06-26T02:05:14Z",
-    "version":  "26-06-26",
-    "relic_reward_count":  24
+{
+  "schema": "obs_prime.item_wiki_entry.v1",
+  "slug": "fragor_prime_head",
+  "market_slug": "fragor_prime_head",
+  "name_en": "Fragor Prime Head",
+  "name_en_slug": "fragor_prime_head",
+  "name_kr": "프레거 프라임 헤드",
+  "aliases": [
+    "Fragor Prime Head",
+    "fragor_prime_head",
+    "프레거 프라임 헤드"
+  ],
+  "ducats": 15,
+  "ducats_display": "15 d",
+  "ducats_source": "warframe_market_v2_items",
+  "rarities": [
+    "Uncommon"
+  ],
+  "plat": null,
+  "plat_display": "-",
+  "plat_date": "",
+  "source": {
+    "wfcd_relics": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Relics.json",
+    "warframe_market_items": "https://api.warframe.market/v2/items",
+    "price_cache": "E:\\VS code\\OBS prime\\data\\market_cache\\warframe_market_prices.json"
+  },
+  "updated_at": "2026-06-28T15:19:25Z",
+  "version": "26-06-29",
+  "relic_reward_count": 24
 }

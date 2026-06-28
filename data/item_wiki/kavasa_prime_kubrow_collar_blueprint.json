@@ -1,32 +1,32 @@
-﻿{
-    "schema":  "obs_prime.item_wiki_entry.v1",
-    "slug":  "kavasa_prime_kubrow_collar_blueprint",
-    "market_slug":  "kavasa_prime_kubrow_collar_blueprint",
-    "name_en":  "Kavasa Prime Kubrow Collar Blueprint",
-    "name_en_slug":  "kavasa_prime_kubrow_collar_blueprint",
-    "name_kr":  "카바사 프라임 쿠브로 칼라 설계도",
-    "aliases":  [
-                    "Kavasa Prime Kubrow Collar",
-                    "Kavasa Prime Kubrow Collar Blueprint",
-                    "kavasa_prime_kubrow_collar_blueprint",
-                    "카바사 프라임 쿠브로 칼라",
-                    "카바사 프라임 쿠브로 칼라 설계도"
-                ],
-    "ducats":  45,
-    "ducats_display":  "45 d",
-    "ducats_source":  "warframe_market_v2_items",
-    "rarities":  [
-                     "Uncommon"
-                 ],
-    "plat":  null,
-    "plat_display":  "-",
-    "plat_date":  "",
-    "source":  {
-                   "wfcd_relics":  "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Relics.json",
-                   "warframe_market_items":  "https://api.warframe.market/v2/items",
-                   "price_cache":  "data/market_cache/warframe_market_prices.json"
-               },
-    "updated_at":  "2026-06-26T02:05:14Z",
-    "version":  "26-06-26",
-    "relic_reward_count":  20
+{
+  "schema": "obs_prime.item_wiki_entry.v1",
+  "slug": "kavasa_prime_kubrow_collar_blueprint",
+  "market_slug": "kavasa_prime_kubrow_collar_blueprint",
+  "name_en": "Kavasa Prime Kubrow Collar Blueprint",
+  "name_en_slug": "kavasa_prime_kubrow_collar_blueprint",
+  "name_kr": "카바사 프라임 쿠브로 칼라 설계도",
+  "aliases": [
+    "Kavasa Prime Kubrow Collar",
+    "Kavasa Prime Kubrow Collar Blueprint",
+    "kavasa_prime_kubrow_collar_blueprint",
+    "카바사 프라임 쿠브로 칼라",
+    "카바사 프라임 쿠브로 칼라 설계도"
+  ],
+  "ducats": 45,
+  "ducats_display": "45 d",
+  "ducats_source": "warframe_market_v2_items",
+  "rarities": [
+    "Uncommon"
+  ],
+  "plat": null,
+  "plat_display": "-",
+  "plat_date": "",
+  "source": {
+    "wfcd_relics": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Relics.json",
+    "warframe_market_items": "https://api.warframe.market/v2/items",
+    "price_cache": "E:\\VS code\\OBS prime\\data\\market_cache\\warframe_market_prices.json"
+  },
+  "updated_at": "2026-06-28T15:19:25Z",
+  "version": "26-06-29",
+  "relic_reward_count": 20
 }

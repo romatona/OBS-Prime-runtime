@@ -1,7 +1,7 @@
 {
   "schema": "obs_prime.market_wiki_index.v1",
-  "version": "26-06-27",
-  "updated_at": "2026-06-27T03:46:06Z",
+  "version": "26-06-29",
+  "updated_at": "2026-06-28T15:19:32Z",
   "source": {
     "warframe_market_items": "https://api.warframe.market/v2/items"
   },

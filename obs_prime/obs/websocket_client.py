@@ -6,10 +6,12 @@ import json
 import os
 import socket
 import struct
+from collections.abc import Iterable
 from email.message import Message
 from email.parser import Parser
 from dataclasses import dataclass
 from typing import Any
+from urllib.parse import urlparse
 
 WEBSOCKET_ACCEPT_GUID = "258EAFA5-E914-47DA-95CA-C5AB0DC85B11"
 MAX_WEBSOCKET_HANDSHAKE_BYTES = 16 * 1024
@@ -82,7 +84,7 @@ def fetch_obs_source_rects(
             rects[source_name] = _transform_to_rect(transform, scene_item_id)
         return {
             "status": "connected",
-            "host": host,
+            "host": client.host,
             "port": port,
             "current_program_scene_name": scene_name,
             "rects": rects,
@@ -121,7 +123,7 @@ def update_obs_text_sources(
                 failed[source_name] = str(exc)
         return {
             "status": "updated" if not failed else "partial",
-            "host": host,
+            "host": client.host,
             "port": port,
             "updated": updated,
             "failed": failed,
@@ -172,7 +174,7 @@ def capture_obs_source_screenshot(
             raise RuntimeError("OBS source screenshot decoded image가 너무 큼")
         return {
             "status": "captured",
-            "host": host,
+            "host": client.host,
             "port": port,
             "source_name": source_name,
             "image_format": image_format,
@@ -199,7 +201,7 @@ def check_obs_websocket(host: str, port: int, password: str, timeout: float = 5.
         response = scene_list.get("responseData", {})
         return ObsConnectionInfo(
             status="connected",
-            host=host,
+            host=client.host,
             port=port,
             obs_studio_version=client.obs_studio_version,
             obs_websocket_version=client.obs_websocket_version,
@@ -215,7 +217,8 @@ def check_obs_websocket(host: str, port: int, password: str, timeout: float = 5.
 
 class ObsWebSocketClient:
     def __init__(self, host: str, port: int, password: str = "", timeout: float = 5.0) -> None:
-        self.host = host
+        self.host = _normalize_host(host)
+        self.requested_host = self.host
         self.port = port
         self.password = password
         self.timeout = timeout
@@ -225,9 +228,19 @@ class ObsWebSocketClient:
         self.negotiated_rpc_version: int | None = None
 
     def connect(self) -> None:
-        sock = socket.create_connection((self.host, self.port), timeout=self.timeout)
-        sock.settimeout(self.timeout)
-        self.sock = sock
+        errors: list[tuple[str, str]] = []
+        for candidate_host in _candidate_hosts(self.requested_host):
+            self.host = candidate_host
+            try:
+                sock = socket.create_connection((candidate_host, self.port), timeout=self.timeout)
+                sock.settimeout(self.timeout)
+                self.sock = sock
+                break
+            except OSError as exc:
+                errors.append((candidate_host, str(exc)))
+                self.close()
+        else:
+            raise RuntimeError(_format_connection_error(self.requested_host, self.port, errors))
         self._handshake()
         hello = self._receive_json()
         if hello.get("op") != 0:
@@ -403,6 +416,86 @@ class ObsWebSocketClient:
 def _auth_response(password: str, salt: str, challenge: str) -> str:
     secret = base64.b64encode(hashlib.sha256((password + salt).encode("utf-8")).digest()).decode("ascii")
     return base64.b64encode(hashlib.sha256((secret + challenge).encode("utf-8")).digest()).decode("ascii")
+
+
+def _normalize_host(host: str) -> str:
+    value = str(host or "").strip()
+    if not value:
+        return "127.0.0.1"
+    if "://" in value:
+        parsed = urlparse(value)
+        if parsed.hostname:
+            return parsed.hostname
+    if value.startswith("[") and "]" in value:
+        return value[1 : value.index("]")]
+    if value.count(":") == 1:
+        maybe_host, maybe_port = value.rsplit(":", 1)
+        if maybe_host and maybe_port.isdigit():
+            return maybe_host
+    return value
+
+
+def _candidate_hosts(host: str) -> list[str]:
+    normalized = _normalize_host(host)
+    candidates = [normalized]
+    if _is_local_host(normalized):
+        candidates.extend(["127.0.0.1", "localhost"])
+    return _dedupe(candidates)
+
+
+def _is_local_host(host: str) -> bool:
+    value = host.strip().lower()
+    if value in {"localhost", "127.0.0.1", "::1"}:
+        return True
+    try:
+        if socket.gethostbyname(value).startswith("127."):
+            return True
+    except OSError:
+        pass
+    try:
+        local_names = {socket.gethostname().lower(), socket.getfqdn().lower()}
+        if value in local_names:
+            return True
+    except OSError:
+        pass
+    return value in _local_ip_addresses()
+
+
+def _local_ip_addresses() -> set[str]:
+    addresses = {"127.0.0.1", "::1"}
+    try:
+        infos = socket.getaddrinfo(socket.gethostname(), None)
+    except OSError:
+        infos = []
+    for info in infos:
+        if len(info) < 5:
+            continue
+        sockaddr = info[4]
+        if not sockaddr:
+            continue
+        addresses.add(str(sockaddr[0]).lower())
+    return addresses
+
+
+def _dedupe(values: Iterable[str]) -> list[str]:
+    result: list[str] = []
+    seen: set[str] = set()
+    for value in values:
+        key = value.strip().lower()
+        if not key or key in seen:
+            continue
+        seen.add(key)
+        result.append(value.strip())
+    return result
+
+
+def _format_connection_error(host: str, port: int, errors: list[tuple[str, str]]) -> str:
+    attempts = ", ".join(f"{attempt_host}: {error}" for attempt_host, error in errors)
+    detail = f" ({attempts})" if attempts else ""
+    return (
+        f"OBS WebSocket 서버에 연결할 수 없음: {host}:{port}{detail}. "
+        "OBS의 WebSocket 서버 사용/포트 적용 상태를 확인하고, 필요하면 OBS를 재시작하세요."
+    )
 
 
 def _parse_http_headers(header_block: str) -> Message:

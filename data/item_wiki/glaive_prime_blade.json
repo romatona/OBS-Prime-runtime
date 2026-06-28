@@ -1,30 +1,30 @@
-﻿{
-    "schema":  "obs_prime.item_wiki_entry.v1",
-    "slug":  "glaive_prime_blade",
-    "market_slug":  "glaive_prime_blade",
-    "name_en":  "Glaive Prime Blade",
-    "name_en_slug":  "glaive_prime_blade",
-    "name_kr":  "글레이브 프라임 블레이드",
-    "aliases":  [
-                    "Glaive Prime Blade",
-                    "glaive_prime_blade",
-                    "글레이브 프라임 블레이드"
-                ],
-    "ducats":  45,
-    "ducats_display":  "45 d",
-    "ducats_source":  "warframe_market_v2_items",
-    "rarities":  [
-                     "Uncommon"
-                 ],
-    "plat":  16.0,
-    "plat_display":  "16 p",
-    "plat_date":  "06-26-26",
-    "source":  {
-                   "wfcd_relics":  "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Relics.json",
-                   "warframe_market_items":  "https://api.warframe.market/v2/items",
-                   "price_cache":  "data/market_cache/warframe_market_prices.json"
-               },
-    "updated_at":  "2026-06-26T02:05:14Z",
-    "version":  "26-06-26",
-    "relic_reward_count":  12
+{
+  "schema": "obs_prime.item_wiki_entry.v1",
+  "slug": "glaive_prime_blade",
+  "market_slug": "glaive_prime_blade",
+  "name_en": "Glaive Prime Blade",
+  "name_en_slug": "glaive_prime_blade",
+  "name_kr": "글레이브 프라임 블레이드",
+  "aliases": [
+    "Glaive Prime Blade",
+    "glaive_prime_blade",
+    "글레이브 프라임 블레이드"
+  ],
+  "ducats": 45,
+  "ducats_display": "45 d",
+  "ducats_source": "warframe_market_v2_items",
+  "rarities": [
+    "Uncommon"
+  ],
+  "plat": null,
+  "plat_display": "-",
+  "plat_date": "",
+  "source": {
+    "wfcd_relics": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Relics.json",
+    "warframe_market_items": "https://api.warframe.market/v2/items",
+    "price_cache": "E:\\VS code\\OBS prime\\data\\market_cache\\warframe_market_prices.json"
+  },
+  "updated_at": "2026-06-28T15:19:25Z",
+  "version": "26-06-29",
+  "relic_reward_count": 12
 }

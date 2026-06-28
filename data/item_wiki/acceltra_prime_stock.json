@@ -1,31 +1,31 @@
-﻿{
-    "schema":  "obs_prime.item_wiki_entry.v1",
-    "slug":  "acceltra_prime_stock",
-    "market_slug":  "acceltra_prime_stock",
-    "name_en":  "Acceltra Prime Stock",
-    "name_en_slug":  "acceltra_prime_stock",
-    "name_kr":  "액셀트라 프라임 스톡",
-    "aliases":  [
-                    "Acceltra Prime Stock",
-                    "acceltra_prime_stock",
-                    "액셀트라 프라임 스톡"
-                ],
-    "ducats":  65,
-    "ducats_display":  "65 d",
-    "ducats_source":  "warframe_market_v2_items",
-    "rarities":  [
-                     "Rare",
-                     "Uncommon"
-                 ],
-    "plat":  null,
-    "plat_display":  "-",
-    "plat_date":  "",
-    "source":  {
-                   "wfcd_relics":  "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Relics.json",
-                   "warframe_market_items":  "https://api.warframe.market/v2/items",
-                   "price_cache":  "data/market_cache/warframe_market_prices.json"
-               },
-    "updated_at":  "2026-06-26T02:05:14Z",
-    "version":  "26-06-26",
-    "relic_reward_count":  16
+{
+  "schema": "obs_prime.item_wiki_entry.v1",
+  "slug": "acceltra_prime_stock",
+  "market_slug": "acceltra_prime_stock",
+  "name_en": "Acceltra Prime Stock",
+  "name_en_slug": "acceltra_prime_stock",
+  "name_kr": "액셀트라 프라임 스톡",
+  "aliases": [
+    "Acceltra Prime Stock",
+    "acceltra_prime_stock",
+    "액셀트라 프라임 스톡"
+  ],
+  "ducats": 65,
+  "ducats_display": "65 d",
+  "ducats_source": "warframe_market_v2_items",
+  "rarities": [
+    "Rare",
+    "Uncommon"
+  ],
+  "plat": null,
+  "plat_display": "-",
+  "plat_date": "",
+  "source": {
+    "wfcd_relics": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Relics.json",
+    "warframe_market_items": "https://api.warframe.market/v2/items",
+    "price_cache": "E:\\VS code\\OBS prime\\data\\market_cache\\warframe_market_prices.json"
+  },
+  "updated_at": "2026-06-28T15:19:25Z",
+  "version": "26-06-29",
+  "relic_reward_count": 16
 }

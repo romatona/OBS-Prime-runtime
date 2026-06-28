@@ -1,8 +1,10 @@
 from __future__ import annotations
 
 import time
+import ctypes
 from dataclasses import asdict
 from io import BytesIO
+import getpass
 import os
 from typing import Any
 
@@ -24,7 +26,8 @@ from .matcher.item_matcher import ItemMatcher
 from .models import CaptureFrame, DetectorResult, PipelineResult, Rect, RewardResult
 from .obs.websocket_client import capture_obs_source_screenshot
 from .ocr.name_band import apply_name_band
-from .ocr.providers import build_ocr_provider
+from .ocr.paddleocr_runtime import probe_paddleocr_v5
+from .ocr.providers import OcrProvider, build_ocr_provider
 from .ocr.presets import load_ocr_preset
 from .ocr.reward_screen import RewardScreenOcr
 from .ocr.tesseract_runtime import probe_tesseract
@@ -44,6 +47,7 @@ class PipelineController:
         self.log = event_log or EventLog()
         self.busy = False
         self._item_wiki_cache: tuple[str, float, list] | None = None
+        self._ocr_provider_cache: tuple[tuple[str, str, str], OcrProvider] | None = None
 
     def _artifact_writer(self) -> ArtifactWriter:
         diagnostics_cfg = self.config.section("diagnostics")
@@ -51,6 +55,45 @@ class PipelineController:
             str(diagnostics_cfg.get("artifact_dir", "debug") or "debug"),
             enabled=bool(diagnostics_cfg.get("enabled", False)),
         )
+
+    def _ocr_provider(self, ocr_cfg: dict[str, Any], timeout_ms: int) -> OcrProvider:
+        provider_name = str(ocr_cfg.get("provider", "paddleocr_v5"))
+        language = str(ocr_cfg.get("language", "kor+eng"))
+        preprocessing = str(ocr_cfg.get("preprocessing_preset", "default-korean-ui"))
+        key = (provider_name, language, preprocessing)
+        if self._ocr_provider_cache is not None and self._ocr_provider_cache[0] == key:
+            provider = self._ocr_provider_cache[1]
+            if hasattr(provider, "timeout_ms"):
+                provider.timeout_ms = timeout_ms
+            return provider
+        provider = build_ocr_provider(provider_name, language, timeout_ms, preprocessing)
+        self._ocr_provider_cache = (key, provider)
+        return provider
+
+    def warm_ocr_provider(self) -> dict[str, Any]:
+        started = time.perf_counter()
+        ocr_cfg = self.config.section("ocr")
+        timeout_ms = int(ocr_cfg.get("timeout_ms", 1000))
+        provider = self._ocr_provider(ocr_cfg, timeout_ms)
+        try:
+            pipeline = getattr(provider, "_pipeline", None)
+            if callable(pipeline):
+                pipeline()
+            status = "ready"
+            error = ""
+        except Exception as exc:
+            status = "unavailable"
+            error = str(exc)
+        payload = {
+            "stage": "ocr_prewarm",
+            "provider": str(ocr_cfg.get("provider", "paddleocr_v5")),
+            "status": status,
+            "duration_ms": _elapsed_ms(started),
+        }
+        if error:
+            payload["error"] = error
+        self.log.add("OCR", "SUCCESS" if status == "ready" else "ERROR", f"prewarm {status}: {payload['duration_ms']}ms")
+        return payload
 
     def run_cheap_detect(self, sample_path: str | None = None, stage: str = "cheap_detect", force_sample: bool = False) -> dict[str, Any]:
         """Run input-frame + detector only; auto mode uses this before OCR."""
@@ -202,6 +245,7 @@ class PipelineController:
                     "price_max_age_hours",
                     "platform",
                     "price_db_path",
+                    "reward_history_path",
                     "item_wiki_dir",
                     "market_wiki_dir",
                     "market_live_enabled",
@@ -294,14 +338,9 @@ class PipelineController:
             detection = AutoDetector(preset).detect(frame, float(auto_cfg.get("confidence_threshold", preset.threshold)))
             slot_rects = self._resolve_roi_slot_rects(frame, detection.slot_rects)
             ocr_cfg = self.config.section("ocr")
-            timeout_ms = int(ocr_cfg.get("timeout_ms", 2500))
-            min_ocr_confidence = float(ocr_cfg.get("min_confidence", 0.70))
-            provider = build_ocr_provider(
-                str(ocr_cfg.get("provider", "tesseract")),
-                str(ocr_cfg.get("language", "kor+eng")),
-                timeout_ms,
-                str(ocr_cfg.get("preprocessing_preset", "default-korean-ui")),
-            )
+            timeout_ms = int(ocr_cfg.get("timeout_ms", 1000))
+            min_ocr_confidence = float(ocr_cfg.get("min_confidence", 0.8))
+            provider = self._ocr_provider(ocr_cfg, timeout_ms)
             ocr = RewardScreenOcr(provider, timeout_ms).read_rewards(frame, slot_rects)
             if any(slot.raw_text == "" for slot in ocr):
                 self.log.add("OCR", "WARNING", f"partial OCR results (timeout: {timeout_ms}ms)")
@@ -321,10 +360,10 @@ class PipelineController:
             }
         if stage == "ocr_check":
             ocr_cfg = self.config.section("ocr")
-            provider = str(ocr_cfg.get("provider", "tesseract"))
+            provider = str(ocr_cfg.get("provider", "paddleocr_v5"))
             language = str(ocr_cfg.get("language", "kor+eng"))
-            timeout_ms = int(ocr_cfg.get("timeout_ms", 2500))
-            min_ocr_confidence = float(ocr_cfg.get("min_confidence", 0.70))
+            timeout_ms = int(ocr_cfg.get("timeout_ms", 1000))
+            min_ocr_confidence = float(ocr_cfg.get("min_confidence", 0.8))
             preset = load_ocr_preset(str(ocr_cfg.get("preprocessing_preset", "default-korean-ui")))
             if provider == "tesseract":
                 try:
@@ -357,6 +396,42 @@ class PipelineController:
                     "tessdata_prefix": runtime.tessdata_prefix,
                     "tesseract_version": runtime.version,
                     "available_languages": runtime.available_languages,
+                    "preset": preset.preset_id,
+                    "preprocessing": preset.preprocessing_preset,
+                    "min_confidence": min_ocr_confidence,
+                }
+            if provider == "paddleocr_v5":
+                runtime = probe_paddleocr_v5(language)
+                if runtime.status != "ready":
+                    self.log.add("OCR", "ERROR", f"paddleocr_v5 runtime unavailable: {runtime.error}")
+                    return {
+                        "stage": stage,
+                        "provider": provider,
+                        "language": language,
+                        "status": "unavailable",
+                        "error": runtime.error,
+                        "paddleocr_version": runtime.package_version,
+                        "paddlepaddle_version": runtime.paddle_version,
+                        "paddle_language": runtime.language,
+                        "ocr_version": runtime.ocr_version,
+                        "detection_model": runtime.detection_model,
+                        "recognition_model": runtime.recognition_model,
+                        "preset": preset.preset_id,
+                        "preprocessing": preset.preprocessing_preset,
+                        "min_confidence": min_ocr_confidence,
+                    }
+                self.log.add("OCR", "SUCCESS", f"paddleocr_v5 ready for {runtime.language}")
+                return {
+                    "stage": stage,
+                    "provider": provider,
+                    "language": language,
+                    "status": "ready",
+                    "paddleocr_version": runtime.package_version,
+                    "paddlepaddle_version": runtime.paddle_version,
+                    "paddle_language": runtime.language,
+                    "ocr_version": runtime.ocr_version,
+                    "detection_model": runtime.detection_model,
+                    "recognition_model": runtime.recognition_model,
                     "preset": preset.preset_id,
                     "preprocessing": preset.preprocessing_preset,
                     "min_confidence": min_ocr_confidence,
@@ -525,14 +600,9 @@ class PipelineController:
 
             ocr_started = time.perf_counter()
             ocr_cfg = self.config.section("ocr")
-            timeout_ms = int(ocr_cfg.get("timeout_ms", 2500))
-            min_ocr_confidence = float(ocr_cfg.get("min_confidence", 0.70))
-            provider = build_ocr_provider(
-                str(ocr_cfg.get("provider", "tesseract")),
-                str(ocr_cfg.get("language", "kor+eng")),
-                timeout_ms,
-                str(ocr_cfg.get("preprocessing_preset", "default-korean-ui")),
-            )
+            timeout_ms = int(ocr_cfg.get("timeout_ms", 1000))
+            min_ocr_confidence = float(ocr_cfg.get("min_confidence", 0.8))
+            provider = self._ocr_provider(ocr_cfg, timeout_ms)
             ocr = RewardScreenOcr(provider, timeout_ms).read_rewards(frame, slot_rects)
             if any(slot.raw_text == "" for slot in ocr):
                 self.log.add("OCR", "WARNING", f"partial OCR results (timeout: {timeout_ms}ms)")
@@ -750,7 +820,10 @@ class PipelineController:
                 ocr_rects = apply_name_band(obs_rects, self.config.section("ocr"))
                 validation = validate_rects_in_bounds(ocr_rects, frame.width, frame.height)
                 if validation.ok:
-                    self.log.add("ROI", "SUCCESS", "using OBS B1-B4 name-band rects for OCR")
+                    if bool(self.config.section("ocr").get("obs_name_band_enabled", False)):
+                        self.log.add("ROI", "SUCCESS", "using OBS B1-B4 adjusted name-band rects for OCR")
+                    else:
+                        self.log.add("ROI", "SUCCESS", "using OBS B1-B4 source rects directly for OCR")
                     return ocr_rects
                 self.log.add("ROI", "WARNING", f"OBS B1-B4 rects invalid: {'; '.join(validation.errors)}")
             roi_cfg = self.config.section("roi")
@@ -820,7 +893,7 @@ class PipelineController:
             int(obs_cfg.get("port", 4455)),
             password,
             str(obs_cfg.get("ocr_source_name", "")).strip(),
-            max(0.5, int(obs_cfg.get("connect_timeout_ms", 5000)) / 1000),
+            max(0.5, int(obs_cfg.get("connect_timeout_ms", 3000)) / 1000),
             image_format=str(obs_cfg.get("screenshot_format", "jpg") or "jpg"),
             image_compression_quality=int(obs_cfg.get("screenshot_jpeg_quality", 100)),
         )
@@ -905,9 +978,26 @@ def _config_value_warnings(data: dict[str, Any]) -> list[str]:
     if bool(obs_cfg.get("enabled", False)) and password_secret:
         try:
             unprotect_secret(password_secret)
-        except Exception:
-            warnings.append("obs_websocket.password_dpapi cannot be decrypted; re-enter and save OBS password")
+        except Exception as exc:
+            current_user = _current_windows_user()
+            warnings.append(
+                "obs_websocket.password_dpapi cannot be decrypted for "
+                f"current Windows user '{current_user}': {exc}. "
+                "Run OBS prime as the same user that saved the password, or re-enter and save the OBS password."
+            )
     return warnings
+
+
+def _current_windows_user() -> str:
+    if os.name == "nt":
+        try:
+            size = ctypes.c_ulong(256)
+            buffer = ctypes.create_unicode_buffer(size.value)
+            if ctypes.windll.advapi32.GetUserNameW(buffer, ctypes.byref(size)):
+                return buffer.value
+        except Exception:
+            pass
+    return getpass.getuser()
 
 
 def _require_int_range(errors: list[str], value: object, name: str, minimum: int, maximum: int) -> None:

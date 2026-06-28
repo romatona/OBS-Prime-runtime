@@ -1,0 +1,7 @@
+# PaddleOCR v5 Korean provider dependencies.
+# Kept as a focused repair file; requirements.txt already includes this default OCR stack.
+# Verified stable on the dev PC:
+
+paddleocr==3.7.0
+paddlepaddle==3.3.1
+aiohttp==3.9.5

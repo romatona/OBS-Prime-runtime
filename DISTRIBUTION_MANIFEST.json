@@ -1,44 +1,57 @@
 ﻿{
-    "name":  "OBS-Prime-runtime_26_06_27_002",
-    "created_at":  "2026-06-27 16:22:45 +09:00",
-    "source_root":  "sanitized-local-source",
-    "security_review":  {
-                            "critical_findings":  0,
-                            "notes":  [
-                                          "OBS DPAPI password payload removed from distribution config/default.json",
-                                          "Private LAN OBS host replaced with 127.0.0.1",
-                                          "User correction store reset to empty object",
-                                          "Debug captures, logs, samples, tests, config backups, market cache, runtime/tmp, git metadata excluded",
-                                          "item_wiki price_cache source paths rewritten to relative path"
-                                      ]
-                        },
-    "includes":  [
-                     "obs_prime",
-                     "presets",
-                     "runtime/tessdata",
-                     "data/item_wiki",
-                     "data/market_wiki",
-                     "data/fixtures",
-                     "sanitized config/default.json",
-                     "empty data/corrections.json",
-                     "README.md",
-                     "requirements.txt",
-                     "run.bat",
-                     "doctor.md"
-                 ],
-    "excludes":  [
+    "package":  "OBS-Prime-runtime_26_06_29_001",
+    "generated_at":  "2026-06-29T00:58:46+09:00",
+    "included":  {
+                     "obs_prime":  60,
+                     "presets":  3,
+                     "runtime/paddle":  {
+                                            "files":  23,
+                                            "bytes":  37198576
+                                        },
+                     "runtime/tessdata":  {
+                                              "files":  3,
+                                              "bytes":  16353230
+                                          },
+                     "data/fixtures":  1,
+                     "data/item_wiki":  593,
+                     "data/market_wiki":  3835,
+                     "data/corrections.json":  1,
+                     "config/default.json":  1,
+                     "root_files":  [
+                                        "README.md",
+                                        "run.bat",
+                                        "install.bat",
+                                        "requirements.txt",
+                                        "requirements-ocr-paddle.txt"
+                                    ]
+                 },
+    "excluded":  [
                      ".git",
                      ".agents",
                      ".codex",
-                     "tests",
-                     "samples",
-                     "debug",
                      "output",
+                     "tests",
+                     "debug",
+                     "pycache",
+                     "runtime/*.log",
                      "runtime/tmp",
-                     "config/*.bak",
+                     "runtime/paddleocr_tmp",
                      "data/market_cache",
-                     "personal corrections",
-                     "OBS password_dpapi",
-                     "private OBS LAN host"
-                 ]
+                     "data/market_crwl",
+                     "data/reward_results.json",
+                     "data/item_wiki/*.bak",
+                     "data/market_wiki/*.bak",
+                     "config/*.bak",
+                     "doctor.md",
+                     "DESIGN.md",
+                     "requirements-dev.txt",
+                     "OBS password_dpapi"
+                 ],
+    "notes":  [
+                  "OBS password_dpapi is intentionally blank in config/default.json.",
+                  "PaddleOCR v5 Korean is the default OCR engine; Tesseract remains an optional fallback.",
+                  "PaddleOCR model cache is included under runtime/paddle to reduce first-run download work.",
+                  "Run install.bat first on a fresh PC, then run.bat.",
+                  "Ducat DB and Market Wiki update buttons require network access and write permission to the package folder."
+              ]
 }

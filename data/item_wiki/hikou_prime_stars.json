@@ -1,30 +1,30 @@
-﻿{
-    "schema":  "obs_prime.item_wiki_entry.v1",
-    "slug":  "hikou_prime_stars",
-    "market_slug":  "hikou_prime_stars",
-    "name_en":  "Hikou Prime Stars",
-    "name_en_slug":  "hikou_prime_stars",
-    "name_kr":  "히코우 프라임 스타즈",
-    "aliases":  [
-                    "Hikou Prime Stars",
-                    "hikou_prime_stars",
-                    "히코우 프라임 스타즈"
-                ],
-    "ducats":  15,
-    "ducats_display":  "15 d",
-    "ducats_source":  "warframe_market_v2_items",
-    "rarities":  [
-                     "Uncommon"
-                 ],
-    "plat":  null,
-    "plat_display":  "-",
-    "plat_date":  "",
-    "source":  {
-                   "wfcd_relics":  "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Relics.json",
-                   "warframe_market_items":  "https://api.warframe.market/v2/items",
-                   "price_cache":  "data/market_cache/warframe_market_prices.json"
-               },
-    "updated_at":  "2026-06-26T02:05:14Z",
-    "version":  "26-06-26",
-    "relic_reward_count":  16
+{
+  "schema": "obs_prime.item_wiki_entry.v1",
+  "slug": "hikou_prime_stars",
+  "market_slug": "hikou_prime_stars",
+  "name_en": "Hikou Prime Stars",
+  "name_en_slug": "hikou_prime_stars",
+  "name_kr": "히코우 프라임 스타즈",
+  "aliases": [
+    "Hikou Prime Stars",
+    "hikou_prime_stars",
+    "히코우 프라임 스타즈"
+  ],
+  "ducats": 15,
+  "ducats_display": "15 d",
+  "ducats_source": "warframe_market_v2_items",
+  "rarities": [
+    "Uncommon"
+  ],
+  "plat": null,
+  "plat_display": "-",
+  "plat_date": "",
+  "source": {
+    "wfcd_relics": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Relics.json",
+    "warframe_market_items": "https://api.warframe.market/v2/items",
+    "price_cache": "E:\\VS code\\OBS prime\\data\\market_cache\\warframe_market_prices.json"
+  },
+  "updated_at": "2026-06-28T15:19:25Z",
+  "version": "26-06-29",
+  "relic_reward_count": 16
 }

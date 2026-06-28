@@ -1,31 +1,31 @@
-﻿{
-    "schema":  "obs_prime.item_wiki_entry.v1",
-    "slug":  "jahu",
-    "market_slug":  "jahu",
-    "name_en":  "Jahu",
-    "name_en_slug":  "jahu",
-    "name_kr":  "자후",
-    "aliases":  [
-                    "Jahu",
-                    "jahu",
-                    "자후"
-                ],
-    "ducats":  100,
-    "ducats_display":  "100 d",
-    "ducats_source":  "wfcd_relic_rarity_fallback",
-    "rarities":  [
-                     "Rare",
-                     "Uncommon"
-                 ],
-    "plat":  null,
-    "plat_display":  "-",
-    "plat_date":  "",
-    "source":  {
-                   "wfcd_relics":  "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Relics.json",
-                   "warframe_market_items":  "https://api.warframe.market/v2/items",
-                   "price_cache":  "data/market_cache/warframe_market_prices.json"
-               },
-    "updated_at":  "2026-06-26T02:05:14Z",
-    "version":  "26-06-26",
-    "relic_reward_count":  5
+{
+  "schema": "obs_prime.item_wiki_entry.v1",
+  "slug": "jahu",
+  "market_slug": "jahu",
+  "name_en": "Jahu",
+  "name_en_slug": "jahu",
+  "name_kr": "자후",
+  "aliases": [
+    "Jahu",
+    "jahu",
+    "자후"
+  ],
+  "ducats": 100,
+  "ducats_display": "100 d",
+  "ducats_source": "wfcd_relic_rarity_fallback",
+  "rarities": [
+    "Rare",
+    "Uncommon"
+  ],
+  "plat": null,
+  "plat_display": "-",
+  "plat_date": "",
+  "source": {
+    "wfcd_relics": "https://raw.githubusercontent.com/WFCD/warframe-items/master/data/json/Relics.json",
+    "warframe_market_items": "https://api.warframe.market/v2/items",
+    "price_cache": "E:\\VS code\\OBS prime\\data\\market_cache\\warframe_market_prices.json"
+  },
+  "updated_at": "2026-06-28T15:19:25Z",
+  "version": "26-06-29",
+  "relic_reward_count": 5
 }

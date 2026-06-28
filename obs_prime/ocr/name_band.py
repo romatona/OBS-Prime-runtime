@@ -5,13 +5,13 @@ from typing import Any
 from ..models import Rect
 
 
-DEFAULT_TOP_RATIO = 0.58
-DEFAULT_HEIGHT_RATIO = 0.38
+DEFAULT_TOP_RATIO = 0.46
+DEFAULT_HEIGHT_RATIO = 0.52
 DEFAULT_MIN_HEIGHT = 24
 
 
 def name_band_config(ocr_cfg: dict[str, Any]) -> tuple[bool, float, float]:
-    enabled = bool(ocr_cfg.get("obs_name_band_enabled", True))
+    enabled = bool(ocr_cfg.get("obs_name_band_enabled", False))
     try:
         top_ratio = float(ocr_cfg.get("obs_name_band_top_ratio", DEFAULT_TOP_RATIO))
     except (TypeError, ValueError):

@@ -14,6 +14,19 @@ class RewardScreenOcr:
     def read_rewards(self, frame: CaptureFrame, slot_rects: list[Rect]) -> list[OcrSlotResult]:
         if len(slot_rects) != 4:
             raise ValueError("reward OCR expects exactly four slot rects")
+        original_timeout = getattr(self.provider, "timeout_ms", None)
+        if self.timeout_ms and isinstance(original_timeout, int):
+            setattr(self.provider, "timeout_ms", self.timeout_ms)
+        try:
+            batch_results = self.provider.read_slots(frame, slot_rects)
+            if len(batch_results) == len(slot_rects):
+                return batch_results
+        except Exception:
+            pass
+        finally:
+            if isinstance(original_timeout, int):
+                setattr(self.provider, "timeout_ms", original_timeout)
+
         deadline = (time.monotonic() + self.timeout_ms / 1000) if self.timeout_ms and self.timeout_ms > 0 else None
         results: list[OcrSlotResult] = []
         for index, rect in enumerate(slot_rects, start=1):

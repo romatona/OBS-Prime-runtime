@@ -1,7 +1,7 @@
 ﻿{
     "warframe_client_language":  "ko",
     "ui":  {
-               "dark_mode":  true
+               "dark_mode":  false
            },
     "capture":  {
                     "mode":  "screen",
@@ -29,28 +29,28 @@
                                 ],
                 "slot_name_rects":  [
                                         {
-                                            "x":  699,
-                                            "y":  432,
+                                            "x":  706,
+                                            "y":  532,
                                             "w":  280,
-                                            "h":  200
+                                            "h":  100
                                         },
                                         {
                                             "x":  986,
-                                            "y":  415,
+                                            "y":  522,
                                             "w":  298,
-                                            "h":  213
+                                            "h":  107
                                         },
                                         {
-                                            "x":  1289,
-                                            "y":  435,
+                                            "x":  1298,
+                                            "y":  530,
                                             "w":  280,
-                                            "h":  200
+                                            "h":  100
                                         },
                                         {
-                                            "x":  1582,
-                                            "y":  430,
-                                            "w":  280,
-                                            "h":  200
+                                            "x":  1578,
+                                            "y":  525,
+                                            "w":  285,
+                                            "h":  100
                                         }
                                     ]
             },
@@ -60,37 +60,37 @@
                    "debounce_ms":  1500,
                    "action":  "capture_analyze_overlay",
                    "register_global":  true,
-                   "last_registration_error":  ""
+                   "last_registration_error":  "RegisterHotKey 실패: 조합이 이미 사용 중이거나 차단됐을 수 있음"
                },
     "ocr":  {
-                "provider":  "tesseract",
+                "provider":  "paddleocr_v5",
                 "language":  "kor+eng",
-                "timeout_ms":  2500,
-                "min_confidence":  0.7,
+                "timeout_ms":  1000,
+                "min_confidence":  0.8,
                 "preprocessing_preset":  "default-korean-ui",
-                "obs_name_band_enabled":  true,
-                "obs_name_band_top_ratio":  0.58,
-                "obs_name_band_height_ratio":  0.38
+                "obs_name_band_enabled":  false,
+                "obs_name_band_top_ratio":  0.46,
+                "obs_name_band_height_ratio":  0.52
             },
     "overlay":  {
-                    "enabled":  true,
-                    "mode":  "window",
+                    "enabled":  false,
+                    "mode":  "disabled",
                     "layout":  "vertical",
                     "always_on_top":  true,
                     "click_through":  true,
-                    "position_preset":  "custom",
-                    "x":  20,
-                    "y":  80,
-                    "w":  900,
-                    "h":  180,
+                    "position_preset":  "top-right",
+                    "x":  1070,
+                    "y":  219,
+                    "w":  420,
+                    "h":  594,
                     "opacity":  0.92,
                     "clear_after_ms":  6000
                 },
     "obs_websocket":  {
-                          "enabled":  false,
+                          "enabled":  true,
                           "host":  "127.0.0.1",
                           "port":  4455,
-                          "connect_timeout_ms":  5000,
+                          "connect_timeout_ms":  3000,
                           "password_dpapi":  "",
                           "ocr_source_name":  "이미지",
                           "browser_sources":  [
@@ -106,13 +106,40 @@
                                                "T4"
                                            ],
                           "text_sources_enabled":  [
-                                                       true,
-                                                       true,
-                                                       true,
-                                                       true
+                                                       false,
+                                                       false,
+                                                       false,
+                                                       false
                                                    ],
                           "browser_source_rects":  [
-
+                                                       {
+                                                           "source":  "B1",
+                                                           "x":  706,
+                                                           "y":  532,
+                                                           "w":  280,
+                                                           "h":  100
+                                                       },
+                                                       {
+                                                           "source":  "B2",
+                                                           "x":  986,
+                                                           "y":  522,
+                                                           "w":  298,
+                                                           "h":  107
+                                                       },
+                                                       {
+                                                           "source":  "B3",
+                                                           "x":  1298,
+                                                           "y":  530,
+                                                           "w":  280,
+                                                           "h":  100
+                                                       },
+                                                       {
+                                                           "source":  "B4",
+                                                           "x":  1578,
+                                                           "y":  525,
+                                                           "w":  285,
+                                                           "h":  100
+                                                       }
                                                    ],
                           "screenshot_format":  "jpg",
                           "screenshot_jpeg_quality":  100,
@@ -124,6 +151,7 @@
                  "platform":  "pc",
                  "item_db_path":  "",
                  "price_db_path":  "data/market_cache/warframe_market_prices.json",
+                 "reward_history_path":  "data/reward_results.json",
                  "item_wiki_dir":  "data/item_wiki",
                  "market_wiki_dir":  "data/market_wiki",
                  "market_live_enabled":  true,
